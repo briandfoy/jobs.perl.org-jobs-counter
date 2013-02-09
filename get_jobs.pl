@@ -1,5 +1,5 @@
 #!/Users/brian/bin/perls/perl5.14.2
-use v5.10.1;
+use v5.10;
 use utf8;
 use strict;
 use warnings;
@@ -7,7 +7,7 @@ use warnings;
 use File::Spec::Functions;
 use Net::NNTP;
 
-my $nntp = Net::NNTP->new("nntp.perl.org");
+my $nntp = Net::NNTP->new('nntp.perl.org');
 my( $count, $first, $last ) = $nntp->group( 'perl.jobs' );
 say "$count, $first, $last";
 

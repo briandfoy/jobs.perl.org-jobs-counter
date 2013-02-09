@@ -16,8 +16,7 @@ my %Seen;
 my $duplicates;
 my $files;
 
-foreach my $file ( @files )
-	{
+foreach my $file ( @files ) {
 	$files++;
 	my $text = do { local( @ARGV, $/ ) = $file; <> };
 	my $email = Email::Simple->new( $text );
@@ -55,8 +54,7 @@ printf "%4s | %5s |  %4s  %4s  %4s  %4s  %4s  %4s  %4s  %4s  %4s  %4s  %4s  %4s\
 
 say "-" x 90, "\n";
 
-foreach my $year ( sort { $a <=> $b } grep { ! /^_/ } keys %date )
-        {
+foreach my $year ( sort { $a <=> $b } grep { ! /^_/ } keys %date ) {
         my $total = $date{$year}{_count};
         printf "%4d | %5d |  %4d  %4d  %4d  %4d  %4d  %4d  %4d  %4d  %4d  %4d  %4d  %4d\n",
                 $year, $total, map { $_->{_count} // 0 } @{ $date{$year} }{ ( 1 .. 12 ) };
@@ -65,10 +63,8 @@ foreach my $year ( sort { $a <=> $b } grep { ! /^_/ } keys %date )
 
 =pod
 
-foreach my $year ( sort { $a <=> $b } keys %date )
-	{
-	foreach my $month ( sort { $a <=> $b } grep { ! /^_/ } keys %{ $date{$year} } )
-		{
+foreach my $year ( sort { $a <=> $b } keys %date ) {
+	foreach my $month ( sort { $a <=> $b } grep { ! /^_/ } keys %{ $date{$year} } ) {
 		printf "%4d-%02d: %5d\n", $year, $month, $date{$year}{$month}{_count};
 		}
 	}
