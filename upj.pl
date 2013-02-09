@@ -7,9 +7,7 @@ no warnings 'uninitialized';
 
 use Email::Simple;
 
-my $dir = $ARGV[0] || '/Users/brian/Desktop';
-
-my @files = glob( "$dir/perl.jobs/*.txt" );
+my @files = glob( "perl.jobs/*.txt" );
 
 my %date;
 my %Seen;
