@@ -59,6 +59,12 @@ foreach my $year ( sort { $a <=> $b } grep { ! /^_/ } keys %date ) {
         
         }
 
+say "Duplicate postings\n";
+foreach my $posting ( sort { $Seen{$b} <=> $Seen{$a} || $a <=> $b } keys %Seen ) {
+	last if $Seen{$posting} == 1;
+	printf "%3d %s\n", $Seen{$posting}, "http://jobs.perl.org/job/$posting";
+	}
+
 =pod
 
 foreach my $year ( sort { $a <=> $b } keys %date ) {
