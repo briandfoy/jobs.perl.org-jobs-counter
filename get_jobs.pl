@@ -40,7 +40,7 @@ brian d foy C<< <brian.d.foy@gmail.com> >>
 
 =head1 COPYRIGHT
 
-Copyright 2012, brian d foy C<< <brian.d.foy@gmail.com> >>
+Copyright 2012-2013, brian d foy C<< <brian.d.foy@gmail.com> >>
 
 =cut
 
