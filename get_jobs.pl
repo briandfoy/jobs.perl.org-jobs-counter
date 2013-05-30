@@ -27,7 +27,7 @@ foreach my $i ( $first .. $last ) {
 $nntp->quit;
 
 if( $ENV{PERL_JOBS_COMMIT} ) {
-	system "git add .";
+	system "git add perl.jobs";
 	system "git commit -a -m 'Added the latest Perl jobs posts'";
 	system "git push";
 	}          
