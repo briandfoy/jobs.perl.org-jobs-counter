@@ -6,6 +6,9 @@ use warnings;
 
 use File::Spec::Functions;
 use Net::NNTP;
+use IO::Interactive qw(interactive);
+
+select( interactive() );
 
 my $nntp = Net::NNTP->new('nntp.perl.org');
 my( $count, $first, $last ) = $nntp->group( 'perl.jobs' );
