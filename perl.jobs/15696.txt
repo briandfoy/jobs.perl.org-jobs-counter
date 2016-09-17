@@ -1,0 +1,159 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15696
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11112 invoked from network); 16 Sep 2016 10:04:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Sep 2016 10:04:28 -0000
+Received: (qmail 3194 invoked by uid 225); 16 Sep 2016 10:04:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3190 invoked by alias); 16 Sep 2016 10:04:28 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Sep 2016 03:04:25 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7787529A; Fri, 16 Sep 2016 10:04:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 16 Sep 2016 10:04:22 +0000
+Message-ID: <20160916100422.7787529A@web1.develooper.com>
+Subject: Perl Developer (Internal Systems) (onsite), Houston, Texas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20430
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 16, 2016
+
+Job title: Perl Developer (Internal Systems)
+
+Company name: cPanel
+
+Location: Houston, Texas
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel is growing its Internal Systems Development department and looking
+for a software craftsman with advanced knowledge of Perl and working
+knowledge of Linux and FreeBSD operating systems. You'll be tasked with
+developing, implementing, and maintaining cPanel's internal and external
+software products. Sound like this could be you? Read on. 
+
+These are the
+essential duties required of the position
+
+- Refactor, optimize, and
+maintain existing software to perform more efficiently or to work within
+new constraints.
+- Create new software used to support, distribute or
+maintain cPanel products.
+- Perform advanced testing and debugging to
+identify and resolve problems in existing systems.​
+- Participate in code
+reviews and assists other team members with support and analysis of
+external and internal systems.
+- Contribute knowledge from personal
+analysis to company databases.
+- Adhere to the policies and procedures of
+the company.
+- Adhere to coding and development standards and practices
+provided by cPanel.
+- Prepare ad hoc reports for management and company
+executives.
+
+Desired skills:
+Technical skills - advanced technical skills which include: 
+
+- Strong
+knowledge of Perl including: database driven web development, Object
+Oriented 
+- Programming using Perl best practices
+- Good working knowledge
+of web development technologies including Javascript, Ajax, and jQuery
+-
+Good working knowledge of Linux and underlying components and hosting
+related services such as: - Web Servers (Apache, nginx, etc), Mail Servers
+(Exim, Sendmail, etc.), and DNS Servers (BIND, NSD, etc.)
+- Strong working
+knowledge of SQL syntax and usage
+- Familiar with MySQL database
+administration, including database replication
+- Strong working knowledge
+of relational database design
+
+Education/Experience - High School diploma
+or equivalent;
+
+- At least two years of Perl development experience​​​​
+
+​​​​Project Management skills - able to perform all aspects of software
+development life cycle, including requirements, development, quality
+assurance, and documentation
+
+Oral Communication - able to speak clearly
+and effectively to employees and members of management
+
+Written
+Communication - able to communicate effectively in all written work,
+particularly as it pertains to documentation phase of the software
+development life cycle which requires writing support level and user level
+documentation
+
+Time Management - able to use time effectively in an
+unsupervised fashion; able to complete projects in a timely manner
+
+Planning/Organizing skills - able to prioritize work activities, use time
+efficiently and work through large projects in a self-motivated manner
+
+Adaptability - able to adapt to changes in the work environment, manage
+competing demands and able to deal with frequent change, delays or
+unexpected events​​
+
+Computer knowledge - strong knowledge of word
+processing software; strong knowledge of electronic communication systems;
+able to navigate the internet
+
+Problem solving skills - able to identify
+and resolve problems in a timely manner, gather and analyze information
+skillfully; able to apply independent judgment on regular basis in making
+decisions​
+
+Interpersonal skills - able to interact with co-workers and
+customers in professional and effective manner​
+
+Travel - Occasional local
+and/or overnight travel may be required
+
+In return for all the above, we
+offer the following:
+- Competitive Salary
+- Full Health, Vision, and Dental
+coverage
+- Flexible Spending Account
+- Free on-site lunch
+- Paid Vacation
+-
+Tuition Reimbursement
+- Casual Working Environment
+- 401K Matching
+
+Website for more information:
+http://job.listings.cpanel.net/x/detail/a2ldog9w0ykj
+
+Contact information at:
+http://jobs.perl.org/job/20430#contact

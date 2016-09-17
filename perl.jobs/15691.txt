@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15691
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11062 invoked from network); 16 Sep 2016 10:04:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Sep 2016 10:04:12 -0000
+Received: (qmail 3099 invoked by uid 225); 16 Sep 2016 10:04:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3094 invoked by alias); 16 Sep 2016 10:04:11 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Sep 2016 03:04:07 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D00751AA; Fri, 16 Sep 2016 10:04:03 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 16 Sep 2016 10:04:03 +0000
+Message-ID: <20160916100403.D00751AA@web1.develooper.com>
+Subject: Sr. Perl Web Developer (North America, Remote) (telecommute), Baltimore, MD, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20432
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 16, 2016
+
+Job title: Sr. Perl Web Developer (North America, Remote)
+
+Company name: CargoTel Inc.
+
+Location: Baltimore, MD, USA
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+About CargoTel
+
+Founded in 2000, CargoTel is a web and mobile SaaS business
+focused on the automotive logistics industry, primarily in North America.
+Our industry-leading products include solutions for transportation
+management, yard management, driver wireless, yard wireless, and EDI
+systems.  We also offer custom functionality and development to our
+customers. 
+
+Our entire development team works remotely from home offices
+in the US, Canada and Mexico. We are a dynamic and flexible company that
+offers room for plenty of individual creativity and freedom.  We offer a
+competitive salary and full benefits including medical, dental, 401k, and
+flex time.
+
+Job Description, Senior Developer:
+
+We have a robust,
+Perl-based web platform to which we add HTML5 hybrid Android and iOS mobile
+modules. We are seeking a talented full-stack Perl web developer who is
+experienced with modern technologies to assist in developing new
+functionality and supporting existing modules.	The ideal candidate should
+have an expert to extreme level of proficiency with Perl.  This position
+reports directly to our Director of Programming Operations. 
+
+Primary
+Tasks:
+•	Coding individually or in a paired work environment based on
+projects created and spec’d in our project management system
+•      
+Supporting our Perl-based legacy system, with bug fixes and some new
+development
+•	Developing some frontend components
+•	Integrating
+angular-based mobile applications to our backend using JSON RESTful
+services
+•	Creating EDI, file, and web service interfaces with
+trading partners
+
+Desired skills:
+You're Expected To Have:
+•	7+ years of OOperl web development
+experience in a production setting (expert level)
+•	Experience in one
+of more perl frameworks (Mojo, Dancer, etc)
+•	Strong knowledge of
+JSON, REST and Web Services
+•	Experience with revision control using
+Git
+•	Reasonably strong front end UI/UX skills
+•	Ability to
+work productively in a remote and fast-paced team environment
+•      
+Expert troubleshooting skills, especially with a very large codebase
+•     
+ Eagerness to learn and stay ahead of the technology curve
+•      
+Willingness to share knowledge with team members
+
+Nice To Have Some of the
+Following:
+•	Basic dev-ops and system administration (Linux) skills
+•
+      Working knowledge of cloud services such as AWS (RDS, EC2, S3)
+•     
+ Postgres and/or  NoSQL (couchdb)
+•	JavaScript such as Angular,
+Bootstrap, CSS
+•	Native or Hybrid mobile application development
+(HTML5, Phonegap, pouchDB)
+•	Mapping integration and PostGIS
+•      
+Experience in the logistics industry or Business Process Management (BPM)
+systems such as Activiti, JBPM Exposure or experience with Scala and Java
+•
+      Testing Tools such as Selenium
+
+
+Please apply by forwarding your
+resume along with any additional pertinent information.
+
+Contact information at:
+http://jobs.perl.org/job/20432#contact

@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15694
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10910 invoked from network); 16 Sep 2016 10:03:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Sep 2016 10:03:15 -0000
+Received: (qmail 2858 invoked by uid 225); 16 Sep 2016 10:03:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2853 invoked by alias); 16 Sep 2016 10:03:15 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Sep 2016 03:03:13 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 689B21AA; Fri, 16 Sep 2016 10:03:10 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 16 Sep 2016 10:03:10 +0000
+Message-ID: <20160916100310.689B21AA@web1.develooper.com>
+Subject: OOP Engineer in Test (onsite), Redwood City, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20420
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 16, 2016
+
+Job title: OOP Engineer in Test
+
+Company name: VINDICIA
+
+Location: Redwood City, CA
+
+Pay rate: up to $130k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Perl Software Engineer in Test, you Will:
+• Interface with developers
+and product managers to develop robust test scripts and bug reports
+assessing quality
+• Design, implement, review, and maintain automated test
+cases, test tools, automated regression, and data-driven tests
+• Develop,
+modify, and execute software test strategies
+• Perform white box and black
+box testing to ensure the highest level of product quality
+• Participate in
+troubleshooting and triaging of issues with internal teams to drive towards
+root cause identification and resolution
+• Create and manage bug reports,
+ensuring they are clearly communicated to the team and addressed in a
+timely, thorough, and satisfactory manner
+• Participate in product design
+reviews
+
+Desired skills:
+Requirements:
+• Extensive experience with Object Oriented Perl, Linux
+and/or UNIX derivatives
+• BS in Engineering or similar degree or equivalent
+work experience
+• Familiarity with databases – the ideal candidate should
+be able to generate complex database queries
+• 3-to-5 years developing
+automated tests, procedures, and plans
+• Experience automating functional
+UI, SOAP, and RESTful web services
+• Thorough knowledge of software
+development life cycle and QA processes
+• Strong analytical skills
+•
+Excellent interpersonal and communication skills
+
+Additional
+Qualifications:
+• Java, C#, PHP or  .NET experience
+• Payments industry
+experience
+
+Website for more information: http://www.vindicia.com
+
+Contact information at:
+http://jobs.perl.org/job/20420#contact

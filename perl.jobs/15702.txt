@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15702
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10943 invoked from network); 16 Sep 2016 10:03:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Sep 2016 10:03:35 -0000
+Received: (qmail 2943 invoked by uid 225); 16 Sep 2016 10:03:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2939 invoked by alias); 16 Sep 2016 10:03:34 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Sep 2016 03:03:28 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 30B6429A; Fri, 16 Sep 2016 10:03:23 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 16 Sep 2016 10:03:23 +0000
+Message-ID: <20160916100323.30B6429A@web1.develooper.com>
+Subject: Senior Perl Developer, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20422
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 16, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Caspian One
+
+Location: London, UK
+
+Pay rate: £550 - £750
+
+Terms of employment: Independent contractor (project-based)
+
+Description:
+Caspian One require a Senior Perl Developer to join a global Mobile Payment
+Fintech company.
+
+ 
+
+The Role:
+
+Our client is looking for a developer with
+Perl Python and PHP experience to join a new team based in London. The
+company provides its partners with a global compliance framework for all
+relevant regulatory requirements, enabling thousands of businesses in more
+than 100 countries to offer real-time Mobile Money services to their
+customers. In 2015 alone, their Mobile Money and other products processed
+more than 50 million transactions.
+
+They are a vastly growing company with
+plans to expand even further over the following year. It is an exciting
+opportunity to join a company with multimillion dollar companies on its
+client list. The London office is relatively new, the company was founded
+in Singapore and they have other offices in global locations, such as:
+Dubai, Miami and Barcelona.
+
+Duties:
+
+Development of features for the
+company’s flag ship program
+Development of connections for the Mobile Money
+Hub
+Analysis of requirements and software design creation based on
+requirements
+Mentor Junior Members of the Perl Development Team
+Production
+of code to satisfy project requirements
+Production of tests for code
+provided, to be run in a continuous delivery environment
+Participate in
+code review
+Assist with platform troubleshooting if required
+May assist in
+evaluating new technologies/ systems / applications for new products
+Work
+with team members in different countries and timezones
+
+Desired skills:
+BSc in IT related field
+Knowledge in high level languages such as Perl,
+Python, PHP
+Familiar with Perl frameworks such as Dancer or Mojolicious is
+a plus
+Experience with backend web server applications
+Comfortable with
+Unix based systems
+Familiarity with GIT Flow
+Familiarity with agile
+practices (mainly TDD, Unit testing and version control) is a plus
+Dedicated, focused and team player
+
+Website for more information: http://www.caspianone.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/20422#contact
