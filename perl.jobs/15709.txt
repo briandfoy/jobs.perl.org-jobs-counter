@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15709
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10867 invoked from network); 23 Sep 2016 01:23:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Sep 2016 01:23:34 -0000
+Received: (qmail 16945 invoked by uid 225); 23 Sep 2016 01:23:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16941 invoked by alias); 23 Sep 2016 01:23:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Sep 2016 18:23:31 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2A00F11D; Fri, 23 Sep 2016 01:23:27 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 23 Sep 2016 01:23:27 +0000
+Message-ID: <20160923012328.2A00F11D@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Malaysia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20440
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 22, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Binary.com
+
+Location: Malaysia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Binary.com is seeking a driven, proactive, and highly-experienced Senior
+Perl Developer. You will write robust, high-quality, and production-ready
+code that powers our websites and applications. Your work will directly
+influence the core architecture that drives our high-traffic binary options
+trading website.
+
+Your role
+
+Binary.com’s IT team is responsible for the
+design, development, and operation of our high-traffic networks.
+
+As our
+Senior Perl Developer, you will be taking on the challenge of writing
+robust, high-quality, and production-ready code. Your work will greatly
+contribute to the architecture that drives our high-traffic binary options
+trading website.
+
+You will:
+
+●	Develop and maintain world-class web
+applications.
+●	Build, maintain, and optimise the technology that
+powers our servers,	  applications, and databases.
+●	Work closely
+with other teams to come up with effective architecture to support the
+deployment of new products and features.
+●	Troubleshoot and debug
+problems in existing applications, and find new ways to improve their
+speed, functionality, and scalability.
+●	Participate in all aspects
+of the product lifecycle.
+
+Desired skills:
+Your skills and motivations
+
+You should be passionate about what Binary.com
+stands for, and what we do.
+
+You have exceptional programming skills, and
+extensive experience with relational databases.
+
+You love developing
+websites and applications, and you enjoy working with databases, servers,
+and APIs.
+
+You are smart, self-motivated, and proactive. You thrive in a
+dynamic work environment, and approach even the smallest task with an open
+mind.
+
+Most importantly, you seek open and honest communication — even
+under extreme pressure and deadlines.
+
+We are looking for someone who loves
+to:
+
+●	Test and fix things, especially when it involves working with
+data.
+●	Optimise web applications and infrastructure for maximum
+speed and scalability.
+●	Do great work, and inspires people around
+them to do the same.
+●	Work with highly talented people in an
+exciting, multinational environment.
+●	Get things done in a
+no-nonsense manner.
+●	Work without bureaucracy and hierarchy.
+●      
+Have the latest tools and technologies at their disposal.
+●	Learn and
+improve, day in and day out.
+
+You should be technically strong, and
+proficient in the following:
+
+●	Expertise in Perl with experience in
+Python, C, PHP, Go, and Ruby programming languages.
+●	Expertise in
+Linux system administration.
+●	Experience with relational database
+design, and/or open-source RDBMS systems such as MySQL and PostgreSQL.
+●   
+   Familiarity with Perl DBI, Moose, PSGI/Plack, NGINX, JavaScript, Redis,
+and Git.
+●	Ability to produce high-quality, self-documenting code by
+using test-driven development (TDD) techniques.
+●	Passion for Linux
+and other open-source platforms.
+
+Website for more information: https://www.binary.com/en/careers.html
+
+Contact information at:
+http://jobs.perl.org/job/20440#contact

@@ -1,0 +1,218 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15711
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10789 invoked from network); 23 Sep 2016 01:23:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Sep 2016 01:23:08 -0000
+Received: (qmail 16870 invoked by uid 225); 23 Sep 2016 01:23:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16866 invoked by alias); 23 Sep 2016 01:23:07 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Sep 2016 18:23:03 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 4BAAD11D; Fri, 23 Sep 2016 01:22:59 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 23 Sep 2016 01:22:59 +0000
+Message-ID: <20160923012259.4BAAD11D@web1.develooper.com>
+X-Virus-Checked: Checked
+Subject: Full Stack Engineer – Perl, Node.js, Agile (onsite), Havant, Hampshire, PO9 1SA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20442
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 22, 2016
+
+Job title: Full Stack Engineer – Perl, Node.js, Agile
+
+Company name: Jobsite UK Worldwide Limited
+
+Location: Havant, Hampshire, PO9 1SA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+•	We’re looking for an exceptional Full Stack Engineer to help us
+power the growth of our business…
+•	Talent that thrives on solving
+complex problems to be part of something special and knows in today’s
+engineering landscape you have to be polyglot, balancing specialisation
+with a broad knowledge and the ability to evolve! 
+
+We’re looking for an
+exceptional Full Stack Engineer to join our talented Apps development team,
+providing powerful services that allow us to build a beautiful device
+native experience. 
+
+Our Apps team are not only responsible for the core
+brands, but are charged with building innovative solutions that change the
+market. The role will be mainly backend focus with a heavy emphasis on
+Perl, Modern Perl with the opportunity to work with Node.js
+
+You’ll have a
+proven development background with strong backend focus in Modern Perl
+and/or Node.js coupled with some front end skills.
+
+About you:
+
+We care
+most about attitude. Your ability to learn; how you use what you know to
+get the job done; how you improve people around you; these all determine
+the level of success and fun we have!
+
+•	Excellent problem solver
+used to operating in a highly autonomous and collaborative (agile)
+environment. 
+•	Team player who knows when to leave their ego at the
+door, and when to step up and back their opinion to drive a result.
+•      
+Passion for technology and the desire to be on the bleeding edge.
+Innovation is something you see as part of your day job.
+•	Dedication
+to quality code delivering quality products and experience.
+•	Strong
+Web Development skills. (Ideally with experience of Perl and/or Node.js.)
+•
+      Desire to test and automate everything.
+•	Comfortable being
+marque talent charged with causing change to happen. 
+
+The Tech:
+
+The tech
+and tools we use to build. Proven experience with one or more of the
+following in a production environment will be very beneficial. Knowledge of
+the majority is a plus!
+
+•	Perl 
+•	Node.js
+•	Javascript
+(React, SASS, ES6/7)
+•	Solr/Elasticsearch/Lucene
+•	Oracle
+•    
+  Mongo
+•	RabbitMQ
+•	Docker
+•	AWS
+•	Jenkins
+•      
+Git
+•	JIRA
+
+The Reward:
+
+We’ve got a lot to shout about. Just a
+snippet of what we can offer you…
+
+•	The technology landscape is
+yours to influence.
+•	Our culture gives you the place to be trusted
+and excel and constantly encourages innovation.
+•	Community driven
+development culture sharing ideas and responsibility.
+•	Continual
+learning and improvement working with likeminded people within our dynamic
+organisation.
+•	We’re part of the StepStone group, which operates
+some of the strongest online job portals worldwide. You get the opportunity
+to work with many different teams and make waves within a large
+organisation intent on recognising talent.
+•	Choice of MacBook or
+Windows kit.
+
+About us;
+
+Jobsite UK (Worldwide) Limited are one of the UK’s
+leading online recruitment advertising businesses, helping real people find
+real jobs; connecting the best in talent with the best in recruitment. Our
+business includes: Jobsite.co.uk, CityJobs.com and eMedCareers.com. 
+
+We
+employ circa 200 employees spread across our Head Office in Havant and
+another office on Southbank in London.
+
+We’re part of the global job board
+business, the StepStone Group whom employ over 2200 staff across 21
+countries whom in turn are owned by Axel Springer Digital Classifieds, one
+of the worlds most established and successful media groups. We share a
+common purpose to deliver the highest quality products and services to our
+customers.
+
+Great place to work;
+
+We think Jobsite is a pretty special
+place to work. But you don’t need to just take our word for it… In April
+2016 we were named by Great Place to Work® as one of the UK’s best
+workplaces. Ranked 48 in their medium-sized business category, this award
+recognises us as having a high trust, high engagement workplace culture.
+
+Our environment;
+
+We have big ambition and our employees do too.
+
+You’ll
+join a team of passionate and talented colleagues within a fast paced, fun,
+friendly, supportive and collaborative environment.
+
+Our Values;
+
+•      
+Integrity - Being uncompromising and consistent in our commitment to
+integrity;
+•	Results - Driving spectacular results for everyone –
+happy employees, happy customers, happy candidates and happy shareholders;
+•	People - Building a company with teams where talent can thrive and
+flourish.
+
+The package;
+
+•	Attractive basic salaries;
+•      
+Exceptional & uncapped commission schemes for our sales roles;
+•	37.5
+hours per week, Monday to Friday;
+•	25 days holiday, rising by 1 day
+per year of service up to 30 days;
+•	Group Pension Scheme;
+•      
+Life Cover;
+•	Childcare Voucher Scheme;
+•	Travel Insurance;
+•  
+    Gym Discount;
+•	Free tickets to Portsmouth Football club home
+matches;
+•	Eye Tests & contributions towards new glasses.
+•      
+Onsite subsidised canteen (Havant)
+
+After passing probation;
+
+•	Cycle
+to Work Scheme;
+•	Birthday Day; our employees receive their birthday
+day off;
+•	Amazon voucher birthday gift;
+•	Private Medical
+Insurance (Healthcare)
+
+Website for more information: http://www.jobsite.co.uk/work-for-us/
+
+Contact information at:
+http://jobs.perl.org/job/20442#contact
