@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15712
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18935 invoked from network); 26 Sep 2016 23:55:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Sep 2016 23:55:39 -0000
+Received: (qmail 29329 invoked by uid 225); 26 Sep 2016 23:55:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29325 invoked by alias); 26 Sep 2016 23:55:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 26 Sep 2016 16:55:31 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id EEE8D1AE; Mon, 26 Sep 2016 23:55:25 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Sep 2016 23:55:25 +0000
+Message-ID: <20160926235525.EEE8D1AE@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Portland, Oregon, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20444
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 26, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Hazel SEO
+
+Location: Portland, Oregon, United States
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Hazelseo.com is looking for a passionate, self-starter, who also happens to
+be an extremely-talented Perl Developer. Your tasks will include developing
+high-quality, production-ready code that powers our in-house proprietary
+SEO-related applications. The ideal candidate resides in the Portland,
+Oregon area, or is willing to relocate. Your work will directly influence
+our automated content scheduling and keyword analysis applications that
+drives our proven success model for ranking local client’s websites.
+
+Desired skills:
+-Experienced with Perl and preferable other scripting language such as
+Bash, Python, or Ruby
+
+-An in-depth knowledge of open source web
+application services such as Apache
+
+-Experience developing systems in
+rapidly changing technologies
+
+-Strong knowledge of SEO terminology and
+familiarity with tools such as Majestic and Moz
+
+-Experience in building
+advanced statistical models
+
+-Experience in mathematical analysis
+
+Website for more information: http://hazelseo.com/portland/jobs/
+
+Contact information at:
+http://jobs.perl.org/job/20444#contact

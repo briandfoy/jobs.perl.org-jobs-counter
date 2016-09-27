@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15713
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18954 invoked from network); 26 Sep 2016 23:55:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Sep 2016 23:55:40 -0000
+Received: (qmail 29337 invoked by uid 225); 26 Sep 2016 23:55:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29332 invoked by alias); 26 Sep 2016 23:55:40 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 26 Sep 2016 16:55:34 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 26EF1523; Mon, 26 Sep 2016 23:55:31 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Sep 2016 23:55:31 +0000
+Message-ID: <20160926235531.26EF1523@web1.develooper.com>
+Subject: Perl Developer (with MySQL, HTML5, CSS, Linux skills) (onsite), Johannesburg, South Africa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 26, 2016
+
+Job title:
+Perl Developer (with MySQL, HTML5, CSS, Linux skills)
+
+Company name: Redi Internet
+
+Location: Johannesburg, South Africa
+
+Pay rate: ZAR Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Writing & maintaining online applications written in perl, using html5
+front-ends, with MySQl databases, plus Javascript, JQuery, CSS, basic
+graphic work (front-end). Knowledge of PHP and various frameworks a bonus.
+Good organisational skills and be able to work under pressure and meet
+deadlines.
+
+Desired skills:
+Very good Perl, not necessarily high level.
+very good MySQl / SQL
+knowledge.
+very proficient in front end / back end and integration between
+the two.
+Good client facing skills
+Strong problem solving skills and an
+analytical way of thinking outside the box to sole day-to-day problems.
+Neat, Presentable individual to grow with the company.
+
+Website for more information: http://www.redi.co.za
+
+Contact information at:
+http://jobs.perl.org/job/20446#contact
