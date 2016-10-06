@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15715
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21361 invoked from network); 2 Oct 2016 07:30:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Oct 2016 07:30:42 -0000
+Received: (qmail 23290 invoked by uid 225); 2 Oct 2016 07:30:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23286 invoked by alias); 2 Oct 2016 07:30:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 02 Oct 2016 00:30:38 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0A36C655; Sun,  2 Oct 2016 07:30:34 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 2 Oct 2016 07:30:34 +0000
+Message-ID: <20161002073035.0A36C655@web1.develooper.com>
+Subject: Full Stack Web Developers - Perl (onsite), Raleigh/Durham, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20448
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2016
+
+Job title: Full Stack Web Developers - Perl
+
+Company name: Apex Systems, Inc.
+
+Location: Raleigh/Durham, NC
+
+Pay rate: 30-45
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Developer
+Description of Role:
+·	  Assist in developing new tools and
+automation for the Client's organization. This includes web applications,
+mobile applications, and back scripting automation solutions.
+·	 
+Assist in updating existing tools, and automation & enhancing existing
+business processes as it relates to new and existing tooling within the
+Client's organization
+						     
+			
+Mandatory Skill Set:				  
+						       
+·	 
+HTML5/Webkit – Advanced
+·	  JavaScript – Advanced
+·	  CSS –
+Advanced
+·	  Perl/Python/PHP – Advanced
+·	 
+JQUERY/MooTools/Javascript framework libraries – Intermediate
+·	 
+AJAX/JSON/XML client/server communications – Advanced
+·	  NodeJS
+Server – Understanding
+·	  Cross Browser integration – Intermediate
+·
+	GIT source code management – intermediate
+·	 
+MySQL/Oracle/SQL, other database – Advanced   
+·	  BS or better in
+Computer Science or equivalent degree or nano degree in web development
+·  
+      Experience building client/server Web based applications. 
+Candidate
+must be interested in and have some experience developing cutting edge
+implementations of HTML5/Webkit sites that remain backward compatible and
+are fully cross browser compatible. 
+Recommended soft skills:	
+•    
+  
+o	Positive attitude
+o	Documentation skills and practice
+o   
+   Ability to understand technical and usability requirements and translate
+them to “state of the art” finished interface. 
+o	 Independent self
+starter that requires little supervision beyond initial scope expectation
+and transfer of requirements.
+o	 Planning and organizational skills
+o
+      Attention to detail
+o	Have worked in an Agile development
+environment.
+o	Ability to summarize progress and articulate issues to
+the project team
+Ability to take ownership of specific tasks and follow the
+project teams direction through to completion with minimal supervision
+
+Desired skills:
+Perl back-end
+
+Html, CSS, Javascript, Jquery, on the front end!
+
+Website for more information: http://www.Apexsystemsinc.com
+
+Contact information at:
+http://jobs.perl.org/job/20448#contact

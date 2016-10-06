@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15714
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20813 invoked from network); 2 Oct 2016 07:29:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Oct 2016 07:29:29 -0000
+Received: (qmail 23192 invoked by uid 225); 2 Oct 2016 07:29:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23187 invoked by alias); 2 Oct 2016 07:29:27 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 02 Oct 2016 00:29:25 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5FF9D51B; Sun,  2 Oct 2016 07:29:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 2 Oct 2016 07:29:22 +0000
+Message-ID: <20161002072922.5FF9D51B@web1.develooper.com>
+Subject: Senior Full Stack Web Applications Developer (part onsite), Gaithersburg, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20456
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 30, 2016
+
+Job title: Senior Full Stack Web Applications Developer
+
+Company name: Intellor Group
+
+Location: Gaithersburg, MD
+
+Pay rate: commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Intellor Group, an AT&T Solutions provider, is a premier provider of
+teleconferencing, webinar/webcast, and multimedia solutions for corporate
+communications. We serve Fortune 1000 companies as well as key federal and
+state agencies. We are a small, but growing company that prides ourselves
+on an open and fun environment. We really like to enjoy ourselves with
+plenty of snacks, and occasional cupcake competitions. Since we like to
+have fun, a good sense of humor is appreciated. Our office is located in
+Gaithersburg, MD, however we would consider a remote/telecommuting
+arrangement with the right candidate who can train at our office initially.
+ We would also consider an independent contractor.
+
+We are seeking an
+experienced web applications developer to develop quality software.
+
+As a
+web applications developer you will participate in the expansion of our
+Event Management System (EMS) web application that is written in
+Object-Oriented Perl, with the expectation that we will be adopting new
+technologies / languages over time. The responsibilities include
+maintaining existing systems, development of new features and
+functionality, doing design and code reviews and ensuring high quality of
+code.
+
+Desired skills:
+Required Skills:
+
+Multiple programming languages (Experience with Perl is
+our preference).
+Willingness to work with Perl and any other languages we
+select for future development
+Full stack experience
+Linux, Apache, MySQL
+JavaScript, HTML, CSS, AJAX
+OOD/OOP, Design Patterns, MVC
+Exceptional
+problem solving and independent thinking capabilities
+Candidate needs to be
+a self-starter, enthusiastic and quick learner.
+Excellent communication
+skills (both written and verbal)
+
+
+Desired Skills:
+
+Amazon Web Services or
+other Cloud based services
+Experience with Web application frameworks
+Required education:
+Bachelors Degree in Computer Science or related, or
+equivalent education and experience
+Minimum Five years related work
+experience
+
+Website for more information: http://www.intellor.com/work-with-us/
+
+Contact information at:
+http://jobs.perl.org/job/20456#contact

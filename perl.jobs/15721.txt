@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15721
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21345 invoked from network); 2 Oct 2016 07:30:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Oct 2016 07:30:39 -0000
+Received: (qmail 23282 invoked by uid 225); 2 Oct 2016 07:30:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23278 invoked by alias); 2 Oct 2016 07:30:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 02 Oct 2016 00:30:31 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 052E451B; Sun,  2 Oct 2016 07:30:25 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 2 Oct 2016 07:30:25 +0000
+Message-ID: <20161002073026.052E451B@web1.develooper.com>
+Subject: Software Development Manager (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20450
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2016
+
+Job title: Software Development Manager
+
+Company name: MAP Staffing Solutions Group
+
+Location: New York, NY
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Be a strategic leader in cutting edge Healthcare technology!
+
+Large
+healthcare company is seeking a technology manager to lead a team of
+software developers. This person will oversee the team’s development
+process, including architectural and code review, source control, testing,
+documentation, and effort estimation. This person will also lead the people
+on their team, ensuring a high degree of productivity and team spirit, as
+well as helping each team member grow personally and professionally.
+
+Ensure the team delivers agreed-upon software changes on time with high
+standards for quality.
+
+Manage and develop the talent on their team,
+including recruitment, engagement, and well-being, all with the goal of
+building and maintaining a high-performing team.
+
+Track, measure, and
+continually improve individual team member productivity
+
+Ensure that
+standards for software quality are developed, maintained and followed.
+Develop processes that encourage efficiency and high quality work.
+
+Help
+ensure that the team’s size and capabilities match the overall needs of the
+business.
+
+Ensure team collaborates effectively with all other
+stakeholders, including business partners, other development teams, and
+technology leaders.
+
+Develop roadmaps and plans to help with budget
+creation and team organization
+
+Ensure team members follow all processes
+required as part of the overall software development lifecycle
+
+Manage the
+architectural and related documentation for each technology or application
+owned by the team, ensuring that the documentation is current and adequate.
+
+Develop and execute quality and satisfaction action plans as necessary.
+
+Desired skills:
+This is for a large Perl application.
+
+Role Essentials
+
+Bachelor’s Degree
+in Computer Science, Information Technology or a related field
+Extensive
+experience managing productive and well-regarded software development teams
+Knowledge of the complete software development lifecycle
+Role Desirables
+
+Master’s Degree in Business Administration or a related field
+Prior
+experience in the health solutions industry
+Experience with resource
+management and managing direct reports (matrixedor direct reports)
+Experience with open-source development
+Experience with agile development
+processes
+
+
+Reporting Relationships
+
+You will have 8-15 direct reports, and
+you will report to a Technology Director. This area is under the leadership
+of the SVP & Chief Information Officer.
+
+Contact information at:
+http://jobs.perl.org/job/20450#contact
