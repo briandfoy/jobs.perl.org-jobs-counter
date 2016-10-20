@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15723
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13987 invoked from network); 19 Oct 2016 09:55:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 09:55:24 -0000
+Received: (qmail 6001 invoked by uid 225); 19 Oct 2016 09:55:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5997 invoked by alias); 19 Oct 2016 09:55:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 02:55:20 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C8983655; Wed, 19 Oct 2016 09:55:16 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 09:55:16 +0000
+Message-ID: <20161019095516.C8983655@web1.develooper.com>
+Subject: HP017 Software Engineer (part onsite), Greenbelt, MD, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20458
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2016
+
+Job title: HP017 Software Engineer
+
+Company name: ADNET
+
+Location: Greenbelt, MD, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Programmer for the Solar Data Analysis Center at NASA"s Goddard Space
+Flight Center.
+
+The primary task is the Virtual Solar Observatory, a search
+engine for solar physics data.	The VSO is primarily in Perl, with a lot of
+SQL and a few bash scripts.  There are also some things that we interact in
+Java & C, and clients in IDL, python & java.
+
+Work would be on-site
+initially for knowledge transfer, but as the other three programmers aren't
+local, we do most of our communication through instant messaging, so if you
+can show reliability, then teleworking can be arranged (assuming no changes
+in NASA policies).
+
+Desired skills:
+*Must* be a US Citizen or permanent resident.  (and submit to a US
+government background check)
+Must have 3+ years of Perl experience
+(preferably OO and not just 'I did some perl4 a decade ago')
+Must have SQL
+experience (preferably mysql and/or postgres)
+Must have POSIX experience
+(preferably MacOS X or Linux)
+Should have a BS in Computer Science (but
+years of experience may be better for this)
+
+Desired Experience:
+
+Perl
+modules DBI, CGI and SOAP::Lite
+programming languages plpgsql, IDL, python,
+bash, javascript, java, C
+knowledge of scientific data (especially the FITS
+file format).
+
+And it helps if you're interested in science.
+
+Website for more information: http://sesda3.com/careers/hp017-software-engineer/
+
+Contact information at:
+http://jobs.perl.org/job/20458#contact

@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15725
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13476 invoked from network); 19 Oct 2016 09:54:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 09:54:34 -0000
+Received: (qmail 5920 invoked by uid 225); 19 Oct 2016 09:54:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5916 invoked by alias); 19 Oct 2016 09:54:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 02:54:27 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 760E4700; Wed, 19 Oct 2016 09:54:20 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 09:54:20 +0000
+Message-ID: <20161019095420.760E4700@web1.develooper.com>
+Subject: Junior Perl Developer (telecommute), Miami, FL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 19, 2016
+
+Job title: Junior Perl Developer
+
+Company name: Metapress
+
+Location: Miami, FL, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are currently expanding our publishing platform, and have an opportunity
+available for passionate Junior Perl Developers! If you are self-motivated,
+interested in remote work, and have over two years of Perl experience,
+please consider submitting your resume for further consideration.
+
+Desired skills:
+Implementation and Experience with:
+Moose 
+DBIx::Class
+Plack 
+Javascript
+(Jquery) 
+Solr
+OO Perl 
+Apache / Nginx 
+SQL (MySQL) 
+Linux 
+Version control
+
+Website for more information: https://metapress.com/
+
+Contact information at:
+http://jobs.perl.org/job/20386#contact
