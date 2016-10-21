@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15738
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26067 invoked from network); 19 Oct 2016 22:05:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 22:05:49 -0000
+Received: (qmail 27096 invoked by uid 225); 19 Oct 2016 22:05:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27091 invoked by alias); 19 Oct 2016 22:05:49 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 15:05:43 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id ECDEE856; Wed, 19 Oct 2016 22:05:38 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 22:05:38 +0000
+Message-ID: <20161019220538.ECDEE856@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Peoria, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20468
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2016
+
+Job title: Senior Perl Developer
+
+Company name: TEKsystems
+
+Location: Peoria, IL
+
+Pay rate: $45-$55/hour
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Client is looking for 2-3 Senior level Perl developers. Our client is a
+Digital Marketing Company, and will require candidates to be on-site for 14
+week project.  
+Client is an organization that owns an application that
+helps companies create, manage & distribute e-commerce and marketing
+content. This is a web base application for digital asset management and
+distribution. They are getting ready to release upgrade at the end of Q1. 
+• Due to this release client is pulling all of their internal developers on
+to this project to hit the release date. These internal developers are
+currently working on maintaining and enhancing their internal applications.
+• Looking for candidates to come in and "backfill" these spots. 
+• Example
+of an internal application: their internal communication platform. 
+•
+Typical Day: sitting with computer and maintaining and enhancing code. A
+lot of this work will be individual. 
+• This role consist of Perl
+Development. 
+• Most of development will be on their internal applications.
+100% of development will be on maintenance and enhancements of existing
+systems. 
+• Developers will not be interacting directly with clients. 
+•
+Methodology: Waterfall is mostly used in their environment but they are
+moving towards Agile.
+
+Desired skills:
+Top Three Skills: 
+ 1. 6-8 + years of hands-on development experience in
+Perl. Perl version (5.8 or 5.10) depends on which application they are
+working on. 
+2. 6-8 + years of Linux experience (specifically with command
+line operations, debugging and reviving files.) 
+3. 6-8 + years of
+experience reading and understanding JSON, XML and other data file forms
+from libraries.
+4. 6-8 + years of Oracle experience (the ability to write
+and optimize complex quires and create/maintain relational data models.)
+
+Contact information at:
+http://jobs.perl.org/job/20468#contact

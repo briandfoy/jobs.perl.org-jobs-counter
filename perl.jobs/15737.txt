@@ -1,0 +1,61 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15737
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26130 invoked from network); 19 Oct 2016 22:06:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 22:06:23 -0000
+Received: (qmail 27290 invoked by uid 225); 19 Oct 2016 22:06:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27286 invoked by alias); 19 Oct 2016 22:06:23 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 15:06:16 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7CB1F856; Wed, 19 Oct 2016 22:06:13 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 22:06:13 +0000
+Message-ID: <20161019220613.7CB1F856@web1.develooper.com>
+Subject: Perl developer (onsite), Darwin NT, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20406
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 14, 2016
+
+Job title: Perl developer
+
+Company name: Binary Options Australia
+
+Location: Darwin NT, Australia
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+We are looking for developers with min 5 years experience with the
+following qualifications: PERL
+
+Desired skills:
+Fluent in English
+Motivated and Dynamic
+Team-oriented and should pay
+attention to details.
+
+Website for more information: http://binaryoptionsaustralia.com
+
+Contact information at:
+http://jobs.perl.org/job/20406#contact

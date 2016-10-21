@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15741
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26187 invoked from network); 19 Oct 2016 22:06:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 22:06:38 -0000
+Received: (qmail 27376 invoked by uid 225); 19 Oct 2016 22:06:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27372 invoked by alias); 19 Oct 2016 22:06:38 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 15:06:37 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 96EA8882; Wed, 19 Oct 2016 22:06:33 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 22:06:33 +0000
+Message-ID: <20161019220633.96EA8882@web1.develooper.com>
+Subject: Perl / full stack web developer (onsite), Dallas, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20476
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2016
+
+Job title: Perl / full stack web developer
+
+Location: Dallas, TX
+
+Pay rate: $18-$25 / hr
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Electricity Management Services is looking for a junior level Perl / full
+stack web developer to join our in-house team. This is a full time
+position.
+
+Leveraged Technologies:
+•	Catalyst Perl MVC Web Framework
+•	MySQL Database
+•	DBIx::Class Perl ORM
+•	HTML5
+•      
+CSS 3
+•	Bootstrap HTML/CSS/JS Framework
+•	jQuery Javascript
+Library
+•	Perl Scripting
+•	Amazon EC2
+
+Requirements
+•      
+Advanced Perl web developer
+•	Proficient with MySQL, HTML, CSS, and
+Javascript
+•	Experience working collaboratively using version control
+
+Electricity Management Services is a residential electricity management
+service provider. We began business two years ago as a bootstrapped startup
+and have grown into a cash flow positive company with over 3,000 clients.
+
+The technological backbone of our company is a homegrown system which we
+use as a platform to track customers, finances, and customer service
+issues.
+
+We are growing fast and need to add a full time developer to
+continue to grow our system.
+
+$18-$25/hr based on skills and experience
+with chance for profit sharing
+
+If you live in the DFW area and you think
+you have what it takes to be considered please email your resume.
+
+Contact information at:
+http://jobs.perl.org/job/20476#contact

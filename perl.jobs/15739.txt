@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15739
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26167 invoked from network); 19 Oct 2016 22:06:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2016 22:06:36 -0000
+Received: (qmail 27358 invoked by uid 225); 19 Oct 2016 22:06:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27354 invoked by alias); 19 Oct 2016 22:06:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2016 15:06:32 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7D0DA856; Wed, 19 Oct 2016 22:06:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Oct 2016 22:06:26 +0000
+Message-ID: <20161019220626.7D0DA856@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Peoria, IL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20474
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2016
+
+Job title: Senior Perl Developer
+
+Company name: TEKsystems
+
+Location: Peoria, IL, United States
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+• This company is an organization that owns a self-named application that
+helps companies create, manage & distribute e-commerce and marketing
+content. This company is a web base application for digital asset
+management and distribution. They are getting ready to release their 2.0
+application at the end of Q1. 
+• Due to this release this company is
+pulling all of their internal developers on to this project to hit the
+release date. These internal developers are currently working on
+maintaining and enhancing their internal applications.
+• This company is
+looking for candidates to come in and "backfill" these spots. 
+• Example of
+an internal application: their internal communication platform. 
+• Typical
+Day: sitting with computer and maintaining and enhancing code. A lot of
+this work will be individual. 
+
+• This role consist of Perl Development. 
+•
+Most of development will be on their internal applications. Some will be on
+their 2.0 application. Release date of March 2017. 
+• 100% of development
+will be on maintenance and enhancements of existing systems. 
+• Developers
+will not be interacting directly with clients. 
+• Methodology: Waterfall is
+mostly used in their environment but they are moving towards Agile.
+
+Desired skills: Perl, JSON, XML, Scripting, HTML
+
+Contact information at:
+http://jobs.perl.org/job/20474#contact
