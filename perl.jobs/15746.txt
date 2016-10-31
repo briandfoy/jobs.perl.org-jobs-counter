@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15746
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3838 invoked from network); 29 Oct 2016 21:19:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Oct 2016 21:19:39 -0000
+Received: (qmail 14379 invoked by uid 225); 29 Oct 2016 21:19:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14375 invoked by alias); 29 Oct 2016 21:19:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Oct 2016 14:19:37 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E7E9B39F; Sat, 29 Oct 2016 21:19:33 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Oct 2016 21:19:33 +0000
+Message-ID: <20161029211933.E7E9B39F@web1.develooper.com>
+Subject: Sr. Perl Developer (onsite), Peoria, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20486
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2016
+
+Job title: Sr. Perl Developer
+
+Company name: TEKsystems
+
+Location: Peoria, IL
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Top Three Skills:	 
+1. 6-8 + years of hands-on development experience
+in Perl. Perl version (5.8 or 5.10) depends on which application they are
+working on. 
+2. 6-8 + years of Linux experience (specifically with command
+line operations, debugging and reviving files.) 
+3. 6-8 + years of
+experience reading and understanding JSON, XML and other data file forms
+from libraries.
+4. 6-8 + years of Oracle experience (the ability to write
+and optimize complex quires and create/maintain relational data models.)
+
+Job Description:		
+The client is an organization that owns an
+application called the client that helps companies create, manage &
+distribute e-commerce and marketing content. The client is a web base
+application for digital asset management and distribution. They are getting
+ready to release a new web application at the end of Q1. 
+• Example of an
+internal application: their internal communication platform. 
+• Typical
+Day: sitting with computer and maintaining and enhancing code. A lot of
+this work will be individual. 
+• This role consist of Perl Development. 
+•
+Most of development will be on their internal applications. Some will be on
+their new web application. Release date of March 2017. 
+• 100% of
+development will be on maintenance and enhancements of existing systems. 
+•
+Developers will not be interacting directly with clients. 
+• Methodology:
+Waterfall is mostly used in their environment but they are moving towards
+Agile. 
+Additional Information: 	
+• Required Skill: Bachelor's
+degree in Computer Science with six or more years of industry programming
+experience. Excellent verbal and written communication skills; strong
+problem solving skills; must be a good team player and able to work
+independently. Must be a self-starter able to work with all levels of
+employees.
+
+		
+Who is the Internal/External Customer:	      
+ 
+• Internal customers will have better organized information and
+communication channels. 
+• External customers will experience smoother ran
+applications and be able to customize their application to their business
+needs. 
+• Internal customers are the different business users of the
+application (sales team, customer services team, production teams and etc.)
+
+• External customers are their clients/ retailers they do business with.
+They have over 500 clients total. 
+		
+Non-Technical Skills:  
+	
+• 100% CLEAR written and verbal communication is a must.  
+•
+Organizational skills. 
+• Ability to work in teams but also figure out
+problems on your own. 
+		
+		
+Technical
+Environment: Perl, Django, Python, SharePoint, MS Project, Liquid Planner,
+Python or Ruby, UNIX OS, UNIX shell, Oracle RDBMS programming, SQL, Apache
+Web server, HTML, JavaScript, XML, Waterfall, Agile.
+
+Desired skills:
+In addition to the required qualifications, three or more years in the
+following skills will be useful in comprehension and completion of daily
+tasks: UNIX OS, UNIX shell, revision control, Oracle RDBMS programming,
+SQL, web servers, HTML, JavaScript, XML and other current web technologies.
+The more flexible applicant will have experience in one of the common
+languages in the LAMP stack. 
+
+Work Environment:		
+•
+Candidates will need to be in Peoria, IL onsite 100% of the time. 
+• 40
+hour work week. 
+• Business casual (nice jeans/dress shoes are allowed). 
+•
+It is a collaborative work environment but people are expected to figure
+out answers on their own. Dress for your day. 
+• Team Size: about 25 in IT
+that sit in Peoria, IL full-time.
+
+Contact information at:
+http://jobs.perl.org/job/20486#contact

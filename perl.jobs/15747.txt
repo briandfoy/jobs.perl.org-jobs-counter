@@ -1,0 +1,161 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15747
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4149 invoked from network); 29 Oct 2016 21:20:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Oct 2016 21:20:08 -0000
+Received: (qmail 14417 invoked by uid 225); 29 Oct 2016 21:20:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14409 invoked by alias); 29 Oct 2016 21:20:07 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Oct 2016 14:20:03 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 87B50813; Sat, 29 Oct 2016 21:20:00 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Oct 2016 21:20:00 +0000
+Message-ID: <20161029212000.87B50813@web1.develooper.com>
+Subject: Front End Software Engineer (telecommute), Waltham, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20484
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2016
+
+Job title: Front End Software Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a talented, experienced, and
+highly motivated Front End Software Engineer to help us develop and improve
+our products and websites. Founded in 2002, MaxMind is an industry-leading
+provider of IP intelligence and online fraud detection tools. MaxMind is
+privately held and based in Waltham, Massachusetts.
+
+E-commerce fraud
+detection is a constantly changing field, and our work is never done.
+Fraudsters are always looking for new ways to evade detection, which means
+we're always looking for new ways to detect them. Our fraud detection
+service, minFraud, builds on top of our widely used GeoIP products, which
+associate geographical and other data with individual IP addresses. We
+screen more than a billion online transactions each year and provide IP
+intelligence data to thousands of companies worldwide.
+
+The Position
+As a
+front end software engineer, you will be responsible developing websites
+and applications. This includes creating new web applications to help our
+clients better detect fraud while also working to improve our existing
+applications and websites. You will work closely with other front end
+engineers, back end devs, and our product team to convert designs to usable
+markup and with our platform development team to produce complex,
+interactive, database-driven web applications.
+
+The salary range for this
+position starts at $110k/year and is negotiable depending on experience.
+
+We invite candidates from Massachusetts, Minnesota, Montana, North
+Carolina, Oregon, and Canada. Relocation to any of the above mentioned
+locations is welcome.
+
+Our Development Practices
+Our front end code uses
+Less, Sass, BEM, Bootstrap, Jade, Gulp, Knockout, and AngularJS; our JS
+unit tests are written using Jasmine. Our backend code is largely written
+in Perl and Go using PostgreSQL and Linux.  We maintain high standards for
+our development practices. All new code is expected to include automated
+tests run by TeamCity, and all work goes through internal code review on
+GitHub Enterprise.
+
+Working at MaxMind
+As an employee of MaxMind, you'll
+enjoy the flexibility and autonomy that come with being a member of a small
+technical team. Our engineering team is mostly remote, and communicates
+frequently via Slack and Google Hangouts. You have the option of working
+from our Waltham, MA office.
+
+We're a casual, friendly, results-focused
+company of about 35 employees. We want you to get things done, but it's
+also important to have a life outside the office.
+
+In addition to
+competitive compensation, we offer excellent medical, dental, vision, life,
+and short and long term disability insurance, a Safe Harbor 401(k) with
+employer contribution, FSA/DCA, and transit reimbursement. Inquire about
+benefits for Canadian employees.
+
+Our office is located near downtown
+Waltham, MA, outside of Boston, a five minute walk from the nearest
+commuter rail line and several express bus lines.
+
+Desired skills:
+Job Requirements
+The successful applicant will be able to demonstrate
+strong experience and knowledge in each of the following areas. We’ll give
+you a homework assignment that will give you an opportunity to show us your
+skills.
+
+
+- Strong knowledge of JavaScript, including at least one
+framework such as - AngularJS (preferred), Ember, or Backbone.
+- Experience
+writing unit and integration tests for front end JavaScript code,
+preferably with Jasmine.
+- Strong knowledge of modern CSS, and you have an
+opinion on what maintainable and scalable CSS means.
+- Experience with CSS
+frameworks like Bootstrap as well as CSS preprocessors such as Less or
+Sass.
+- Experience with responsive web design.
+- Experience with revision
+control, preferably Git.
+- Experience optimizing client-side performance.
+-
+Excellent written and spoken communication skills.
+- The ability to work
+with a geographically dispersed team.
+- Capable with the command line
+
+
+It’s also a big plus if you have any of the following:
+
+
+- Experience with
+CMS tools such as WordPress or Drupal.
+-Working knowledge of graphic design
+tools such as Sketch, Photoshop, and Illustrator.
+- Backend development
+experience, especially with the implementation of RESTful APIs.
+- User
+interface and experience design skills.
+- Experience using Google Analytics
+to track custom events.
+- Experience with data visualization.
+- Experience
+with l10n/i18n
+- Open source contributions.
+
+Website for more information: https://www.maxmind.com/en/home
+
+Contact information at:
+http://jobs.perl.org/job/20484#contact

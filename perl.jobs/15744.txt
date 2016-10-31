@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15744
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4373 invoked from network); 29 Oct 2016 21:21:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Oct 2016 21:21:02 -0000
+Received: (qmail 14469 invoked by uid 225); 29 Oct 2016 21:21:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14465 invoked by alias); 29 Oct 2016 21:21:02 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Oct 2016 14:20:56 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2F63A39F; Sat, 29 Oct 2016 21:20:53 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Oct 2016 21:20:53 +0000
+Message-ID: <20161029212053.2F63A39F@web1.develooper.com>
+Subject: Perl Developer (onsite), 158 Jan Smuts Ave, Johannesburg, 2196, South Africa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20480
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2016
+
+Job title: Perl Developer
+
+Company name: Striata UK Ltd
+
+Location:
+158 Jan Smuts Ave, Johannesburg, 2196, South Africa
+
+Pay rate: ZAR 300K - ZAR 400K p.a.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Description: Developer 
+Employed by: Striata UK Ltd
+Reports to: Head of
+Operations
+
+The Developer is required to work in collaboration with the UK
+team on projects and tasks assigned to them. Projects and tasks will
+include designing, developing and maintaining Datasource’s, reports,
+automation, web reporting and web services. 
+
+The employee is employed in
+the capacity of Developer.  This includes, but is not limited to, the
+following duties:
+
+General duties: 
+•	Creates and maintains code that
+meets design specifications, follows standards, is easy to maintain and is
+reasonably free from defects; 
+•	Provides maintenance, improvement
+and production support for existing applications; 
+•	Participates in
+design sessions to understand the business requirement and solution to be
+delivered; 
+•	Assists the Business analyst with creating project
+plans and estimating task durations; 
+•	Communicates with other
+Developers, the Integration Manager and Business Analysts on product
+issues; 
+•	Works with Testing team to ensure that the project is
+accurately tested; 
+•	Effective database development 
+•      
+Effective product development 
+•	Effective custom development 
+•     
+ Effective trouble shooting 
+
+Database Development 
+•	Working with
+all aspects of database design, development and maintenance. 
+•      
+Writing and execution of scripts on databases. 
+
+Product Development 
+•    
+  Designing and maintaining both new and existing applications. 
+•      
+Preparing technical documentation of products and source code, both
+internally and externally. 
+
+Custom Development 
+•	Development of
+custom software for specific client projects. 
+•	Integration of
+custom-developed software into the Striata Application Platform. 
+•      
+Assistance with specifying of custom requirements, including estimates for
+costing purposes. 
+•	Preparation of technical and handover
+documentation as required by the customer on developed modules. 
+
+Web
+Services 
+•	Familiar with web service protocols (SOAP, WSDL, etc.) 
+•
+      Familiar with web service frameworks (Java, PHP, Perl, C++) 
+
+Other 
+•	The Developer will be responsible for any other functions that
+management may require from time to time
+
+Desired skills:
+Requirements: 
+•	Web 
+•	HTML (Essential, MUST HAVE)
+•	CSS
+
+•	JavaScript 
+•	PHP (Nice to have) 
+•	ASP 
+•	MySQL
+
+•	Perl (Essential, MUST HAVE) 
+•	Linux (Additional)
+
+Website for more information: https://www.striata.com/
+
+Contact information at:
+http://jobs.perl.org/job/20480#contact
