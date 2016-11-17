@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15753
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13755 invoked from network); 16 Nov 2016 01:11:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:11:33 -0000
+Received: (qmail 18779 invoked by uid 225); 16 Nov 2016 01:11:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18775 invoked by alias); 16 Nov 2016 01:11:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:11:26 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id CE8647E4; Wed, 16 Nov 2016 01:11:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:11:22 +0000
+Message-ID: <20161116011122.CE8647E4@web1.develooper.com>
+Subject: Perl Developer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20508
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 14, 2016
+
+Job title: Perl Developer
+
+Company name: eBay
+
+Location: Amsterdam, Netherlands
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looking for a job in Amsterdam at the number one classifieds website in
+Belgium? 2dehands.be (part of eBay Classifieds Group) is looking for an
+experienced perl engineer. Our back-end stack is Linux, Apache, mod_perl,
+Varnish, Perl 5, Catalyst, Moose(X), Template Toolkit, Mysql(Pecona),
+Memcached and Kafka. At 2dehands.be we believe in continuously developing
+our people and our way of working and that is a team effort. If you express
+yourself in Perl and you believe in those technologies we want you in our
+team.
+
+Job Requirements:
+
+2dehands.be was created in 2001 as one of the
+first classifieds sites in Belgium. With around 470.000 unique visitors per
+day 2dehands.be is very popular and the number of visitors keeps growing.
+Every day we get 60.000 new listings on average in categories like Clothes,
+Collectables, Cars and Household goods. Because we are the biggest
+classifieds site that connects the most demand with the largest supply, we
+are the fastest way to buy or sell. It is cheaper and more environmentally
+friendly than buying new and a great way to make some money and to give
+your things a second life.
+
+2dehands.be is looking for an experienced perl
+engineer. As a member of the agile team you will have direct impact on the
+technology and user experience of the third biggest site in Belgium. If you
+can combine a drive for having the right impact with technological
+excellence to delight our 6.4 million unique visitors per month you can
+help us become the undisputed leader in classifieds.
+
+As part of the
+development team you will be working in a dynamic, energetic environment.
+It is essential that you like to work in a dynamic atmosphere. We focus on
+results, code quality and maintainability. Background checks are part of
+the hiring process.
+
+Desired skills:
+Job Requirements
+
+Perl programmer. Experience with Moose, Catalyst, and
+mod_perl are a plus
+Experience with MySQL, Apache, Selenium WebDriver
+Team
+player
+Strong communication and interpersonal skills
+Strong customer focus
+Strong English communication skills - verbal and written
+Dutch and/or
+French are a plus
+Attention to detail and accuracy
+Adaptability and
+flexibility
+Experience
+
+At least 3 years testing experience
+At least 3
+years of working experience in OO programming in Perl.
+Experience with
+working in an Agile environment
+Experienced Linux user
+Working environment
+
+Contact information at:
+http://jobs.perl.org/job/20508#contact

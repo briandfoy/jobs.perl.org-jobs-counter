@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15751
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13183 invoked from network); 16 Nov 2016 01:09:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:09:38 -0000
+Received: (qmail 18674 invoked by uid 225); 16 Nov 2016 01:09:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18670 invoked by alias); 16 Nov 2016 01:09:38 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,PLING_QUERY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:09:35 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id B3B787E4; Wed, 16 Nov 2016 01:09:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:09:32 +0000
+Message-ID: <20161116010932.B3B787E4@web1.develooper.com>
+Subject: Perl developer with 5+ years experience? We are looking for you! (part onsite), Barcelona, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20500
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2016
+
+Job title:
+Perl developer with 5+ years experience? We are looking for you!
+
+Company name: InvestManiacs
+
+Location: Barcelona, Spain
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+To whom it may concern,
+
+We are looking for a Perl Software Developer. It
+is possible to work remotely with flexible hours. We care what is
+accomplished, not how many hours you was available to spend in front of
+your monitor.
+Required skills: 5-6 years of professional experience with
+Perl and MySQL. JavaScript is a plus. Flexibility with Linux ( we hope it
+is your most favourite OS ). Knowledge about Web/application architecture.
+Previous experience with LAMP is a benefit.
+Other skills: 
+- Logical
+thinking
+- Curiosity
+- Ability to work with the team and without it
+-
+Complete projects on schedule
+- Good English level - effective verbal
+communication/writing.
+
+Desired skills: Perl, Mysql, Javascript, Linux
+
+Website for more information: http://www.investmaniacs.com
+
+Contact information at:
+http://jobs.perl.org/job/20500#contact

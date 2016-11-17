@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15752
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15442 invoked from network); 16 Nov 2016 01:12:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:12:33 -0000
+Received: (qmail 18802 invoked by uid 225); 16 Nov 2016 01:12:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18798 invoked by alias); 16 Nov 2016 01:12:32 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:12:23 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6D9857E4; Wed, 16 Nov 2016 01:12:17 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:12:17 +0000
+Message-ID: <20161116011217.6D9857E4@web1.develooper.com>
+Subject: Full Stack Developer (Perl) (onsite), Oakland, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20510
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 15, 2016
+
+Job title: Full Stack Developer (Perl)
+
+Company name: Savicom
+
+Location: Oakland, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+What you’ll do:
+•	Maintain mature SAAS platform, including
+specifying, estimating, scheduling, implementing, and testing application
+system changes and enhancements
+•	Manage code and code releases
+•    
+  Monitor application service performance
+•	Work with marketing to
+develop new features and products
+•	Work collaboratively with client
+services and sales to generate client-specific marketing solutions
+•      
+Re-factor existing code
+
+Desired skills:
+•	Perl, C, Java, HTML, CSS, Javascript, jQuery, PHP, HTTP/HTTPS,
+SMTP, DNS, TCP/IP 
+•	Familiarity with MYSQL, C#, XML a plus
+•      
+High degree of creativity, self-motivation, and drive
+•	Possesses a
+high desire to automate tasks – if it has to be done twice, it gets
+automated
+•	Eagerness to work in a team environment that will be
+rapidly changing
+•	Willingness to do whatever it takes to get the job
+done
+•	Professional oral and written communication skills, ability to
+think critically about platform design and database structures with respect
+to scaling
+
+Website for more information: http://www.savicom.com/careers.aspx
+
+Contact information at:
+http://jobs.perl.org/job/20510#contact

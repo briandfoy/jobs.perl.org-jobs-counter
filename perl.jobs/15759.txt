@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15759
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13097 invoked from network); 16 Nov 2016 01:08:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:08:15 -0000
+Received: (qmail 18609 invoked by uid 225); 16 Nov 2016 01:08:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18605 invoked by alias); 16 Nov 2016 01:08:15 -0000
+X-Spam-Status: No, hits=-1.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_05,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:08:12 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 033B6387; Wed, 16 Nov 2016 01:08:08 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:08:08 +0000
+Message-ID: <20161116010809.033B6387@web1.develooper.com>
+Subject: Perl - Connection Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2016
+
+Job title: Perl - Connection Developer
+
+Company name: Caspian One
+
+Location: London
+
+Pay rate: Up to £45,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Caspian One require a Connection Developer for a global Mobile Payment
+company.
+
+The Role:
+Our client is looking for a Connection Developer with
+experience in Ruby, PHP or Python to join a new team based in London. The
+role will be using Perl primarily at the early stages. The company provides
+its partners with a global compliance framework for all relevant regulatory
+requirements, enabling thousands of businesses in more than 100 countries
+to offer real-time Mobile Money services to their customers. In 2015 alone,
+their Mobile Money and other products processed more than 50 million
+transactions.
+They are a vastly growing company with plans to expand even
+further over the following year. It is an exciting opportunity to join a
+company with a number of multimillion dollar companies on its client list.
+The London office is relatively new, the company was founded in Singapore
+and they have other offices in global locations, such as: Dubai, Miami and
+Barcelona.
+
+Duties:
+•Development of connections for the Platform
+•Development of features for the Platform
+•Analysis of requirements and
+software design creation based on requirements
+•Production of code to
+satisfy project requirements
+•Production of tests for code provided, to be
+run in a continuous delivery environment
+•Participate in code review
+•Assist with platform troubleshooting if required
+•May assist in evaluating
+new technologies/ systems / applications for new products
+•Work with team
+members in different countries and timezones
+
+From Investment Banking,
+Capital Markets, Asset Management, Wealth Management, Hedge Funds and
+start-ups to custodians and vendors to the industry, Caspian One
+specialises in technology recruitment right across financial services
+
+Desired skills:
+Requirements:
+•BSc in IT related field
+•Knowledge in high-level languages
+such as Perl, Python, PHP
+•Familiar with Perl frameworks such as Dancer or
+Mojolicious is a plus
+•Experience with backend web server applications
+•Comfortable with Unix based systems
+•English fluency (read/write/speak)
+•Familiarity with GIT Flow
+•Familiarity with agile practices (mainly TDD,
+Unit testing and version control) is a plus
+•Dedicated, focused and team
+player
+
+Website for more information: http://fintech.caspianone.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20494#contact

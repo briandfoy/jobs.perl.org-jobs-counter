@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15757
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13734 invoked from network); 16 Nov 2016 01:10:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:10:53 -0000
+Received: (qmail 18759 invoked by uid 225); 16 Nov 2016 01:10:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18755 invoked by alias); 16 Nov 2016 01:10:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:10:50 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0F1727E4; Wed, 16 Nov 2016 01:10:47 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:10:46 +0000
+Message-ID: <20161116011047.0F1727E4@web1.develooper.com>
+Subject: Freelancer for Tasks on new Bloonix Monitoring WebGUI (telecommute), Berlin, Germany, you can work remotely worldwide
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20506
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2016
+
+Job title:
+Freelancer for Tasks on new Bloonix Monitoring WebGUI
+
+Company name: Blunix GmbH
+
+Location: Berlin, Germany, you can work remotely worldwide
+
+Pay rate: Please send us your hourly rate
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for some small extensions on the new Bloonix Monitoring
+System, which can be found at https://github.com/bloonix. We would need a
+couple of new feelds in https://github.com/bloonix/bloonix-webgui as well
+as new Plugins https://github.com/bloonix/bloonix-plugins-basic
+
+For
+working with the Tool you might need an introduction to the Bloonix
+Monitoring System, which we can provide. However we don't know much about
+the codebase itself, so you'd have to work into that. The code sadly isnt
+documented to much, and lots of the doc on how to use the tool is in
+german. We can help you setup an instance for development in vagrant or
+whatever you may prefer.
+
+We would like to have all additions to be
+commited as PRs to github, so the additions are to be open source.
+
+Desired skills:
+Well you should know about Perl - the Core Components are written in Perl.
+You will have to add some minor new functionality to the API and then in
+the Webgui. The Webgui seems mostly js. Also we need additional custom
+Plugins https://github.com/bloonix/bloonix-plugins-basic/ and would be
+happy to find a Programmer that could code monioring Plugins for us every
+now and then on a long term basis.
+
+Website for more information: https://github.com/bloonix
+
+Contact information at:
+http://jobs.perl.org/job/20506#contact

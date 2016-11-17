@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15754
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13142 invoked from network); 16 Nov 2016 01:09:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:09:16 -0000
+Received: (qmail 18653 invoked by uid 225); 16 Nov 2016 01:09:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18649 invoked by alias); 16 Nov 2016 01:09:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:09:10 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A4061387; Wed, 16 Nov 2016 01:09:07 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:09:07 +0000
+Message-ID: <20161116010907.A4061387@web1.develooper.com>
+Subject: Perl Developer (onsite), Redruth, Cornwall, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20496
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2016
+
+Job title: Perl Developer
+
+Company name: Headforwards
+
+Location: Redruth, Cornwall, UK
+
+Pay rate: £30,000 - £50,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Headforwards are an exciting outsource software development company  and
+they are looking for an experienced Perl Developer to join their team.
+This
+position will be based in Cornwall, South West England, which is famous for
+its beaches, rugged coastline and spectacular cuisine.
+
+The successful
+candidate will be joining an organisation that has a well established
+company culture that revolves around valuing  people and being an effective
+team.
+Take a look at the Headforwards Team Adventures Page for an idea of
+what they get up to.
+
+We are looking for another Perl Developer to join an
+already established team working on projects for one of the largest
+companies in the world.
+
+You should have commercial Perl software
+development experience including database development (PostgreSQL, MySQL or
+other SQL)
+
+C or C++ programmers should also apply but this is a Perl
+position.
+This team works in an agile way with a focus on user requirements
+and design solution whilst developing and testing multi-tier implementation
+to address said requirements.
+
+Your work will include enhancing a mature,
+existing codebase as well as working on new projects using webservices,
+AJAX and system integration.
+
+Desired skills:
+Perl
+SQL (any flavour)
+Agile frameworks (Scrum, Kanban, XP)
+Agile practises
+(TDD, CI)
+Team worker
+Passionate about good software
+Professional
+
+Other
+skills:
+OO Perl
+JavaScript (JQuery, JSON, AJAX)
+Catalyst or other MVC
+framework
+CPAN User / Contributor
+PostgreSQL
+Git
+
+Website for more information: https://www.headforwards.com/perl-developer-job/
+
+Contact information at:
+http://jobs.perl.org/job/20496#contact

@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15755
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13199 invoked from network); 16 Nov 2016 01:09:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2016 01:09:58 -0000
+Received: (qmail 18691 invoked by uid 225); 16 Nov 2016 01:09:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18687 invoked by alias); 16 Nov 2016 01:09:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2016 17:09:55 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 1974F7E4; Wed, 16 Nov 2016 01:09:52 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Nov 2016 01:09:52 +0000
+Message-ID: <20161116010952.1974F7E4@web1.develooper.com>
+Subject: Perl Programmer (onsite), San Ramon, CA (East Bay)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20502
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2016
+
+Job title: Perl Programmer
+
+Company name: PRA Health Sciences
+
+Location: San Ramon, CA (East Bay)
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Software Engineer (Perl Programmer)
+
+Do you want to watch clinical
+technology change, or do you want to be the one to shape it?
+Because we’re
+hoping you’re here for the latter.
+ 
+
+Who are we?
+
+We are 12,000+ employees
+strong, operating in more than 85 countries.  We are committed to saving
+lives and we are constantly striving to be the best at what we do.  Our
+impact is real and we see it every single day.	We help get life-saving
+drugs into the hands of those who need them most.
+ 
+
+Who are you?
+
+You are
+a forward thinker.  You are an innovator that refuses to settle.  The idea
+of using your coding skills to build applications that will be used towards
+improving the lives of others excites you.  You want to push the boundaries
+and change not just what it means to be a Software Engineer; you want to
+change the future.  You want to learn from the best, grow your knowledge
+and your skill set, and you want to build your career.	You want to use the
+latest technology and tools in the industry to push the momentum of an
+already growing company forward.  You want to find a balance that still
+lets you be, well, you.  Most of all, you want to do it in a place where
+you’re more than an employee number…a place you love working.
+ 
+Still here?
+ Good.	If this is you, we’d really like to meet you.  Let’s build things.
+
+
+What will you be doing?
+
+Working in a global team environment to build and
+optimize complex, custom software applications.  We’re taking a fresh
+approach at ways that technology and analytics can empower those working in
+the clinical life-cycle and shape the future of clinical development.
+
+
+What do you need to have?
+
+At least 2 years of experience with
+object-oriented Perl; working as a professional developer in a
+collaborative team environment.
+Demonstrated experience working with
+object-oriented design and development.
+Experience building multi-tiered
+web applications.
+Extensive experience with LAMP/ Linux environment and
+tools.
+Experience developing database-driven applications.
+Excellent verbal
+and written communication skills.
+BS in Computer Science or equivalent or
+working towards a BS degree.
+
+
+
+To qualify, applicants must be legally
+authorized to work in the United States, and should not require, now or in
+the future, sponsorship for employment visa status.
+
+PRA is an EEO/AA
+employer and is committed to providing opportunities to minorities, women,
+veterans, and individuals with disabilities.
+
+Desired skills:
+Object-oriented Perl
+Experience with web applications
+
+Website for more information:
+https://uscareers-prahs.icims.com/jobs/35801/software-engineer-%28java-lamp
+%29/job
+
+Contact information at:
+http://jobs.perl.org/job/20502#contact
