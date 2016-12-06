@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15767
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3102 invoked from network); 3 Dec 2016 20:32:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:32:37 -0000
+Received: (qmail 14371 invoked by uid 225); 3 Dec 2016 20:32:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14366 invoked by alias); 3 Dec 2016 20:32:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:32:33 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id B4A2D7E4; Sat,  3 Dec 2016 20:32:30 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:32:30 +0000
+Message-ID: <20161203203230.B4A2D7E4@web1.develooper.com>
+Subject: Perl Consultant/Jr. Perl Developer/Intern (part onsite), Bangalore, India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20536
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  1, 2016
+
+Job title: Perl Consultant/Jr. Perl Developer/Intern
+
+Company name: BrainToSoul Consulting
+
+Location: Bangalore, India
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+BrainToSoul Consulting - Boutique services in niche technology solutions
+and automation. BrainToSoul offer our customers to solve short-term or
+long-term needs and consulting engineers with specific domain expertise.
+Our services focus on application oriented internet programming to cover
+the needs of even the most demanding customers, ranging from small
+businesses to corporate organisations. 
+Most organizations are now getting
+forced to go with the available talent and knowledge what the industry
+provides as part of natural technology revolution. However, there are so
+many organizations and people who 'at-heart' wanting to get niche and
+reliable services in their areas of interest. When trend drives them to
+stretch for investments, availability of extraordinary people and solutions
+in niche technologies can benefit many of these organizations to maximize
+ROI. Our offerings rightly address those requirements
+
+Desired skills:
+* A good Perl developer 
+* Web Automation and Command Line Automation 
+*
+Optimization and maintenance of existing applications 
+* Modern Perl -
+DBIx::Class, Moose, Catalyst or any other MVC web-framework 
+*
+jQuery/Javascript/Ajax/CSS3/HTML5
+
+MySQL, PostgreSQL, Oracle
+
+Website for more information: http://www.braintosoul.com
+
+Contact information at:
+http://jobs.perl.org/job/20536#contact

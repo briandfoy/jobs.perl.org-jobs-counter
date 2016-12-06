@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15760
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2926 invoked from network); 3 Dec 2016 20:31:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:31:21 -0000
+Received: (qmail 14246 invoked by uid 225); 3 Dec 2016 20:31:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14242 invoked by alias); 3 Dec 2016 20:31:20 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:31:18 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 60E8D378; Sat,  3 Dec 2016 20:31:13 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:31:13 +0000
+Message-ID: <20161203203113.60E8D378@web1.develooper.com>
+Subject: Convert Apache2::FileManager From mod_perl To FastCGI (telecommute), Austin, Texas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20518
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2016
+
+Job title:
+Convert Apache2::FileManager From mod_perl To FastCGI
+
+Company name: Auto-Parallel Technologies
+
+Location: Austin, Texas
+
+Pay rate: US $75 Fixed Rate (negotiable)
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am the new owner of the Apache2::FileManager (A2::FM) distribution on
+CPAN:
+https://metacpan.org/pod/Apache2::FileManager
+
+I need A2::FM to
+integrate seamlessly with a Catalyst application called ShinyCMS:
+https://github.com/wbraswell/myshinytemplate.com
+
+Catalyst apps are
+supposed to work with both mod_perl and FastCGI, but unfortunately ShinyCMS
+seems to be triggering a difficult-to-repair segfault when run using
+mod_perl:
+https://rt.cpan.org/Public/Bug/Display.html?id=118899
+
+Currently,
+A2::FM only works with mod_perl, which means the only 2 solutions we can
+pursue are either fixing the segfault (not this job), or converting A2::FM
+from mod_perl to FastCGI (this job).
+
+We need to retain mod_perl
+capabilities for backward compatibility, so really this job is to ADD the
+ability for A2::FM to run under FastCGI while KEEPING the ability for
+A2::FM to run under mod_perl as it does now.
+
+ShinyCMS also comes with a
+PSGI test server for use when Apache and FastCGI are not installed or
+configured.  We need A2::FM to work with the PSGI Plack test server as
+well, which is launched via the following command and temporarily binds to
+localhost port 3000 for testing and debugging purposes:
+https://github.com/wbraswell/myshinytemplate.com/blob/master/script/shinycm
+s_server.pl
+
+I have created an installer script which makes it much easier
+to install all the necessary software components for a full ShinyCMS
+installation, although it requires some advance knowledge and guidance the
+first time you run it:
+https://github.com/wbraswell/lampuniversity.org/blob/master/bin/LAMP_instal
+ler.sh
+
+This job will be considered 100% complete and payment will be
+rendered when the following 4 goals are met:
+
+1.  A2::FM can run
+stand-alone under mod_perl (already achieved, keep existing functionality)
+
+2.  A2::FM can run stand-alone under FastCGI (new functionality)
+
+3. 
+A2::FM can run integrated with Catalyst app ShinyCMS under FastCGI (new
+functionality)
+
+4.  A2::FM can run integrated with Catalyst app ShinyCMS
+under PSGI Plack (new functionality)
+
+Desired skills:
+Perl
+mod_perl
+FastCGI
+Apache2
+Catalyst
+ShinyCMS
+
+Contact information at:
+http://jobs.perl.org/job/20518#contact

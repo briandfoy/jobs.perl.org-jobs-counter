@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15776
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2961 invoked from network); 3 Dec 2016 20:31:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:31:34 -0000
+Received: (qmail 14262 invoked by uid 225); 3 Dec 2016 20:31:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14258 invoked by alias); 3 Dec 2016 20:31:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:31:30 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C21B8378; Sat,  3 Dec 2016 20:31:27 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:31:27 +0000
+Message-ID: <20161203203127.C21B8378@web1.develooper.com>
+Subject: Perl Developer (onsite), Cluj Napoca, Transylvania
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20522
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 28, 2016
+
+Job title: Perl Developer
+
+Company name: Evozon Systems
+
+Location: Cluj Napoca, Transylvania
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking experienced Perl developers to join our team. There are
+various projects and you will be matched according to your skills.
+
+The
+main responsibilities will be:
+
+- Taking part in all the steps of the
+development process of software products (analysis, design, coding, test
+and maintenance);
+- Following a function from specification through design
+and implementation to launching;
+- Developing custom applications and
+modifying existing applications to meet changing business requirements.
+
+What we offer:
+
+- Excellent benefits package including private health-care;
+- Work on exciting and varied projects;
+- Work with cutting edge
+technologies;
+- Flexible schedule;
+- Sport benefits;
+- Significant growth
+opportunities;
+- Lots of professional challenges in a friendly and informal
+environment
+- Happy Fridays
+
+Desired skills:
+The successful candidate for this position is a Perl developer with good
+programming background. We consider an advantage any of the following:
+
+-
+Web application development skills;
+- Database and working with ORMs
+experience (DBIx::Class, DBI);
+- Source code management;
+- Experience in
+working with Catalyst, Dancer2 or Mojolicious;
+- Experience working with
+templating systems (Mason, Template::Toolkit);
+- Experience with Moose /
+Moo;
+- Excellent communication skills;
+- Proficiency in English (both
+spoken and written).
+
+If necessary, training will be provided to bring you
+to the desired level in any of the aforementioned areas.
+
+Website for more information:
+https://www.evozon.com/careers/job-opportunities/perl-developer
+
+Contact information at:
+http://jobs.perl.org/job/20522#contact

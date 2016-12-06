@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15775
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2996 invoked from network); 3 Dec 2016 20:31:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:31:54 -0000
+Received: (qmail 14303 invoked by uid 225); 3 Dec 2016 20:31:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14299 invoked by alias); 3 Dec 2016 20:31:54 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:31:50 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 99F03378; Sat,  3 Dec 2016 20:31:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:31:43 +0000
+Message-ID: <20161203203143.99F03378@web1.develooper.com>
+Subject: Perl Developer, Sydney NSW, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20524
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2016
+
+Job title: Perl Developer
+
+Company name: Data 3
+
+Location: Sydney NSW, Australia
+
+Pay rate: $600 p/day
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Description:
+Our client, an industry leader here in Australia, is currently on the hunt
+for a talented Perl Programmer to join a growing and successful team in
+charge of developing and maintaining Perl dashboards/ Reports that allow
+them to make sense of data and insights centred around a market-leading
+service.
+
+This role is part of a high-profile new product offering from our
+client and is an excellent opportunity to get involved in a very exciting
+project based in Sydney.
+
+The successful candidate will have:
+
+Strong Perl
+programming experience
+Strong ETL experience
+Previous experience working in
+a Linux environment
+Understanding/Previous experience with Hadoop/Kibana
+If
+you are interested in applying or finding out more about this exciting
+opportunity, please 'Apply Now' for a confidential discussion.
+
+Desired skills:
+Perl Development
+Previous experience with dashboards/analytics is desirable
+
+Website for more information:
+https://www.seek.com.au/Job/32259639?_ga=1.11706484.1723759619.1468207473
+
+Contact information at:
+http://jobs.perl.org/job/20524#contact

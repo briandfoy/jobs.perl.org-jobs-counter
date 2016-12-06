@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15763
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2857 invoked from network); 3 Dec 2016 20:30:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:30:56 -0000
+Received: (qmail 14181 invoked by uid 225); 3 Dec 2016 20:30:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14177 invoked by alias); 3 Dec 2016 20:30:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:30:48 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C73197E4; Sat,  3 Dec 2016 20:30:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:30:43 +0000
+Message-ID: <20161203203043.C73197E4@web1.develooper.com>
+Subject: Softwareentwickler Workflow (onsite), Teltow bei Berlin (Germany)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20516
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2016
+
+Job title: Softwareentwickler Workflow
+
+Company name:
+telent GmbH - ein Unternehmen der euromicron Gruppe
+
+Location: Teltow bei Berlin (Germany)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Die telent GmbH ist ein herstellerunabhängiger Anbieter von Lösungen rund
+um Netze und Systeme für die betriebliche und sicherheitsrelevante
+Kommunikation. Das Unternehmen unterstützt seine Kunden bei Konzeption,
+Planung, Installation, Integration, Betrieb und Wartung sowie
+flächendeckenden Services.
+
+Verstärken Sie unser Team am Standort Backnang
+oder Teltow als engagierter
+
+Softwareentwickler Workflow (m/w)
+
+Ihre
+Aufgaben bei uns
+Als Mitglied unseres Teams sind Sie für den Aufbau eines
+internen Workflow-Tools, dessen Integration in die bestehende IT-Landschaft
+und die Sicherstellung des Betriebes zuständig. Zu diesen Aufgaben zählen
+die Analyse eines .net-basierten Standardsystems einschließ­lich der
+Konfiguration, Modellierung und Schnittstellenprogrammierung. Sie setzen
+fachliche Anforderungen technisch um und führen die erforderlichen Updates
+durch. Aktiv unter­stützen Sie bei der Fehlerbehebung und der
+Qualitätssicherung der Anwendung. Darüber hinaus gestalten Sie die
+telent-Applikationslandschaft, deren Abbildung in Web-Oberflächen mit Perl
+und JavaScript mit.
+
+Desired skills:
+Das zeichnet Sie aus
+
+    Erfolgreich abgeschlossenes Studium der
+Fachrichtung IT, alternativ eine erfolgreich abgeschlossene Ausbildung
+eines IT-Berufes mit mehrjähriger Berufserfahrung
+    Berufserfahrung in
+der Softwareentwicklung von BPM- oder Workflow-Systemen
+    Beherrschung
+einer Skriptsprache, idealerweise VB-Script
+    Kenntnisse im
+Windows-Server Umfeld, Linux-Systemen, SQL-Datenbanken und Erfahrung mit
+Web-Technologien mit JavaScript, Perl, HTML/CSS
+    Teamfähigkeit, eine
+klare, offene Kommunikation sowie eine zuverlässige und lösungsorientierte
+Arbeitsweise
+
+Nehmen Sie die Herausforderung an?
+Als aufstrebendes
+Unternehmen in der Telekommunikations­branche bieten wir Ihnen die
+Möglichkeit, nach einer gezielten Einarbeitung Ihre individuellen Stärken
+voll einbringen zu können und gleichzeitig Ihre persönliche
+Weiterentwicklung voranzutreiben.
+
+Website for more information: http://www.telent.de
+
+Contact information at:
+http://jobs.perl.org/job/20516#contact

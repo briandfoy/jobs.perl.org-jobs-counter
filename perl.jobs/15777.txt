@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15777
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3012 invoked from network); 3 Dec 2016 20:31:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:31:57 -0000
+Received: (qmail 14310 invoked by uid 225); 3 Dec 2016 20:31:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14306 invoked by alias); 3 Dec 2016 20:31:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:31:54 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id DE21B7E4; Sat,  3 Dec 2016 20:31:51 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:31:51 +0000
+Message-ID: <20161203203151.DE21B7E4@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Charlotte, North Carolina
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20526
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Empowered Benefits - A Subsidiary of Aflac, Inc
+
+Location: Charlotte, North Carolina
+
+Pay rate: $48 - $60 per hour (based on experience)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Senior Perl Developer, you will play a key role in growing Empowered
+Benefits- SaaS-employee benefit technology platform.  We are a 17-year-old
+software development company, which is a wholly owned subsidiary of Aflac,
+Inc - The largest supplemental insurance provide in the world.	Millions of
+employees use our technology each day and we are the technology engine
+powering the Aflac private marketplace, named Everwell.  
+
+The Senior Perl
+Developer is responsible for the design, development, testing, and
+maintenance of an application that will import/export data files of
+different formats into and out of a SaaS application. This position is
+coding intensive, and will require the ability to coordinate well with a
+team as well as show personal initiative, help set best
+practices/standards, help lead other team members, and take ownership of
+individual components of the development.
+
+Desired skills:
+Responsibilities: 
+
+-Design, develop, test, and maintenance of our EDI
+programs for our SaaS application
+-Respond to and troubleshoot issues
+affecting EDI programs
+-Monitoring EDI performance and related
+infrastructure systems
+-Set high-level architectural standards and lead
+other team members in implementing those standards
+-Set best practices for
+the software development process: coding standards, testing, change
+management, release planning and deployment Skills and Experience
+
+Skills:
+
+-Perl, Object Oriented Perl desired
+-Strong SQL skills
+-Version Control
+Systems: git and subversion preferred
+-Experience writing unit and
+regression tests desired
+-Detail oriented
+-Ability to work independently
+-Strong verbal and written communication skills
+-Pluses: Linux experience, 
+REST like API's, Web frameworks, NoSQL
+
+Education/Experience:
+
+-BS in
+Computer Science, Engineering or related technical discipline
+-PERL 5+
+years
+-Vast Testing experience: Unit and end -to-end 
+-Experience with
+Common Modules:  Moose, Mouse and Moo for OO Perl Framework
+
+Website for more information: https://online.empoweredbenefits.com
+
+Contact information at:
+http://jobs.perl.org/job/20526#contact

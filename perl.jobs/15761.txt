@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15761
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2889 invoked from network); 3 Dec 2016 20:30:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Dec 2016 20:30:59 -0000
+Received: (qmail 14197 invoked by uid 225); 3 Dec 2016 20:30:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14192 invoked by alias); 3 Dec 2016 20:30:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Dec 2016 12:30:53 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 89AA4882; Sat,  3 Dec 2016 20:30:50 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Dec 2016 20:30:50 +0000
+Message-ID: <20161203203050.89AA4882@web1.develooper.com>
+Subject: Perl programmer (onsite), New Delhi, India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20462
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2016
+
+Job title: Perl programmer
+
+Company name: OpenLX Technologies Pvt. Ltd.
+
+Location: New Delhi, India
+
+Pay rate: INR 3,00,000 to 6,00,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl developer with proven capabilities.
+
+Team Player with
+positive-passionate attitude to create "out-of-the-box" software;
+
+Fresher
+with proven capabilities, who can be productive from day-1, are welcome;
+
+Not a job hopper.
+
+
+
+What we offer ?
+
+1) A platform to learn new
+technologies;
+
+2) Flexible with times;
+
+3) Salary - No Bar for right
+candidates;
+
+4) ESOPs options
+
+
+Test & interview can be held on 8th & 9th
+Oct 2016
+
+Desired skills:
+1+ year of Experience on Linux/Unix platform with :
+
+Perl : CGI, Fast-CGI,
+Regular Expression, File Handling;
+
+Knowledge of DBI and other popular CPAN
+Modules;
+
+Most of the work will be with integrations of applications, that
+is, scripting and coding;
+
+Mostly development work in Perl including
+maintenance;
+
+Mysql and Linux knowledge is mandatory;
+
+Good communication
+will add points;
+
+Web technologies : HTML, HTML5, XML, REST, JS, JQuerry,
+CSS, Bootstrap;
+Keen interest in emerging technologies;
+
+Love for writing
+and maintaining clean code;
+
+Comfortable with Version control/Source code
+management tools - GIT preferable;
+
+Additional (Optional) : PHP
+
+Website for more information: http://www.OpenLx.com
+
+Contact information at:
+http://jobs.perl.org/job/20462#contact
