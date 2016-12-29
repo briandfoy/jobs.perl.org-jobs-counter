@@ -1,0 +1,63 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15788
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4100 invoked from network); 26 Dec 2016 09:35:21 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 26 Dec 2016 09:35:21 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 89FDB11E024
+	for <perlmail-jobs@onion.perl.org>; Mon, 26 Dec 2016 01:35:21 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 7D5EB11DBC7
+	for <jobs@perl.org>; Mon, 26 Dec 2016 01:35:21 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 3828A8C9; Mon, 26 Dec 2016 09:35:21 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Dec 2016 09:35:21 +0000
+Message-ID: <20161226093521.3828A8C9@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.26.93016
+Subject: Perl Developer - Experienced (onsite), Tampa Bay, Florida
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20548
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 26, 2016
+
+Job title: Perl Developer - Experienced
+
+Company name: Binary Options Radar
+
+Location: Tampa Bay, Florida
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+Our team are looking for developer with min 5 years experience with the
+following qualifications: PERL, SQL
+
+Desired skills:
+• Strong Perl skills
+• Strong SQL skills
+• Basic understanding financial
+statements
+• Version Control Systems: git and subversion preferred
+•
+Ability to work independently
+• Pluses: Linux-Debian experience, REST like
+API's, Web frameworks,
+
+Website for more information: http://www.binaryoptionsradar.com/
+
+Contact information at:
+http://jobs.perl.org/job/20548#contact

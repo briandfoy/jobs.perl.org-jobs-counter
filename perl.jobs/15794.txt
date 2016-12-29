@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15794
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4348 invoked from network); 26 Dec 2016 09:36:58 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 26 Dec 2016 09:36:58 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D265911D9D3
+	for <perlmail-jobs@onion.perl.org>; Mon, 26 Dec 2016 01:36:58 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 862DE11D9B4
+	for <jobs@perl.org>; Mon, 26 Dec 2016 01:36:58 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 793327CE; Mon, 26 Dec 2016 09:36:58 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Dec 2016 09:36:58 +0000
+Message-ID: <20161226093658.793327CE@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.26.93016
+Subject: Senior Perl Developer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20492
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 26, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Textkernel
+
+Location: Amsterdam, Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently looking for an experienced Perl developer to join
+Textkernel’s Research & Development team. You will contribute to our
+machine learning framework and improve the models that power two of our
+main products: Extract! (CV parsing) and Jobfeed (job ad parsing).
+
+
+Products you’ll be working on
+
+Through our Extract! product we process
+millions of CVs and jobs every month – both as a SaaS solution and as an
+on-premise installation. It covers 17 languages and is engineered to deal
+with the diversity of candidate profiles and job ads. Jobfeed, our big data
+labor market tool, enables our clients from the HR and recruitment world to
+generate leads and develop their business.
+
+
+Your responsibilities
+
+You
+will drive the effort of improving our machine learning framework. On a
+daily basis you will work closely with our R&D engineers to develop new
+features, integrate new machine learning packages and improve our
+evaluation and testing tools. You will also collaborate with our DevOps
+team to improve the deployment and scalability of our parsing services.
+Being an Agile advocate you’ll take an active part in our code reviews,
+collaborate on design and implementation and work towards continuous
+integration and deployment. This is also a great opportunity to learn about
+complex machine learning and natural language processing systems.
+
+Desired skills:
+* You have extensive knowledge of modern Perl, its module ecosystem and OOP
+* You can develop and maintain production level applications on both Linux
+and Windows
+* You have developed modern API endpoints
+* You have an
+interest in web development (e.g. Mojolicious, AngularJS ) and NoSQL
+database (e.g. MongoDB)
+* Good knowledge of algorithms and datastructures
+
+Website for more information:
+http://textkernel.careers/career/senior-perl-developer/
+
+Contact information at:
+http://jobs.perl.org/job/20492#contact

@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15791
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4331 invoked from network); 26 Dec 2016 09:36:54 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 26 Dec 2016 09:36:54 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1A74911D9D3
+	for <perlmail-jobs@onion.perl.org>; Mon, 26 Dec 2016 01:36:53 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id EC3DA11D9B4
+	for <jobs@perl.org>; Mon, 26 Dec 2016 01:36:52 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id AC7507CE; Mon, 26 Dec 2016 09:36:52 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Dec 2016 09:36:52 +0000
+Message-ID: <20161226093652.AC7507CE@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.26.93016
+Subject: Perl Developer (Application devloper) (onsite), Denver, CO
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20566
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 26, 2016
+
+Job title: Perl Developer (Application devloper)
+
+Company name: Artech INformation Systems
+
+Location: Denver, CO
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Must Have Skills
+1)Object Oriented Perl
+    - NOT scripting
+    - Must have
+done application development using Perl
+2) C++
+3) Linux Administrations
+   
+- Candidates must know how to deploy their own applications
+    - Know the
+effects of what they’re developing has on the network
+
+It is required all
+candidates have GitHub Accounts. The team will download Candidate's GitHub
+projects. If the projects don’t download and run successfully, candidates
+will be disqualified.
+
+Contact information at:
+http://jobs.perl.org/job/20566#contact

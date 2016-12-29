@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15780
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4098 invoked from network); 26 Dec 2016 09:35:21 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 26 Dec 2016 09:35:21 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5A26E11E023
+	for <perlmail-jobs@onion.perl.org>; Mon, 26 Dec 2016 01:35:21 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 3C40B11DBC7
+	for <jobs@perl.org>; Mon, 26 Dec 2016 01:35:21 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F3BB17CE; Mon, 26 Dec 2016 09:35:15 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 26 Dec 2016 09:35:15 +0000
+Message-ID: <20161226093515.F3BB17CE@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.26.93016
+Subject: Perl agile software developer wanted (telecommute), Belgium
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 26, 2016
+
+Job title: Perl agile software developer wanted
+
+Company name: Heather Riverso
+
+Location: Belgium
+
+Pay rate: project-based
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need a dedicated perl indipendant freelancer developer on project-based
+salary who will be abel to customise existing perl softwares, develop new
+perl scrips, plugins.
+You will be working with a license server and my own
+software repository software in order to develop and upgrade the software
+projects you'll be working with. and maintain of web perl system softwares.
+
+This is a long term freelancer job vacancy as I have many perl projects to
+develop for a long time.
+
+Desired skills:
+Knowledge of Perl, Version Control Systems: git, svn, with SysAdmin Skils
+as I need mostly to develop and customise webmin hosting control perl
+panel.
+Ability to work independently.
+Please have verifiable Perl software
+development experience (cpan and other repositories you have worked on.
+
+You need strong experience with frameworks such as cgi, mod perl, Dancer,
+Catalyst and Mojolicious along with great object oriented Perl and moose
+are necessary. 
+You will have to be abel to embed perl code from an
+existing software and embed this code to another existing software to
+extend it.
+
+Pluses: REST like API's, NoSQL, ORM emplementations.
+
+Website for more information: http://www.host-space.org
+
+Contact information at:
+http://jobs.perl.org/job/20546#contact
