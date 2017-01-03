@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15796
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9370 invoked from network); 31 Dec 2016 22:09:29 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 31 Dec 2016 22:09:29 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 26A9A11DBB5
+	for <perlmail-jobs@onion.perl.org>; Sat, 31 Dec 2016 14:09:29 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A48CE11DA77
+	for <perlmail-jobs@onion.perl.org>; Sat, 31 Dec 2016 14:09:23 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 9BA2711D9F3
+	for <jobs@perl.org>; Sat, 31 Dec 2016 14:09:15 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 972F07D5; Sat, 31 Dec 2016 22:09:15 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 31 Dec 2016 22:09:15 +0000
+Message-ID: <20161231220915.972F07D5@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.31.215718
+Subject: Senior Perl Developer with 7+ Years Experience Wanted, Barcelona, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20576
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 31, 2016
+
+Job title:
+Senior Perl Developer with 7+ Years Experience Wanted
+
+Company name: InvestManiacs
+
+Location: Barcelona, Spain
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Description:
+We are lookings for a Senior Perl Developer with 7+ years of experience.
+He/she will be responsible for the design, development, testing and
+maintenance of CRM/ERP modules and independent web-based apps.
+
+Responsibilities:
+
+-Design, development and maintenance of various CRM/ERP
+modules
+-Monitoring the performance of the modules and the system in
+general
+-Implementation of high-level architectural standards and tips
+-Control of coding standards, testing, modification management
+
+Desired skills:
+Skills:
+
+-Perl ( OO Perl )
+-Experienced in SQL
+-Version Control Systems:
+subversion/git
+-Unit and regression tests implementation
+-Logical thinking
+-Ability to work independently and as a member of a team
+-Strong
+communication skills
+-Desired skills: advanced Linux user, Web frameworks,
+NoSQL, OO PHP professional experience
+
+Website for more information: http://www.investmaniacs.com
+
+Contact information at:
+http://jobs.perl.org/job/20576#contact

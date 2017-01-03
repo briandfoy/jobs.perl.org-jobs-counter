@@ -1,0 +1,62 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15798
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9328 invoked from network); 31 Dec 2016 22:09:25 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 31 Dec 2016 22:09:25 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 06EEC11D9F3
+	for <perlmail-jobs@onion.perl.org>; Sat, 31 Dec 2016 14:09:25 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A31CD11E059
+	for <perlmail-jobs@onion.perl.org>; Sat, 31 Dec 2016 14:09:22 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 3F46711D9F3
+	for <jobs@perl.org>; Sat, 31 Dec 2016 14:09:11 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 401567CE; Sat, 31 Dec 2016 22:09:11 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 31 Dec 2016 22:09:11 +0000
+Message-ID: <20161231220911.401567CE@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2016.12.31.215418
+Subject: Expert Perl Developer (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20572
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 31, 2016
+
+Job title: Expert Perl Developer
+
+Location: United States
+
+Pay rate: $75.00
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We have existing Perl backend API and perl modules.  We need some
+additional perl api scripts written to enable/support backend
+functionality/calls for a chatbot we are writing. This project will start
+immediately!
+
+Desired skills: Perl, MySQL
+
+Contact information at:
+http://jobs.perl.org/job/20572#contact
