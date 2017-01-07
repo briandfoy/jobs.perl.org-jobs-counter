@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15800
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1121 invoked from network); 6 Jan 2017 22:55:31 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 6 Jan 2017 22:55:31 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id ABF4011EAF8
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Jan 2017 14:55:31 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8BCB111EAFE
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Jan 2017 14:55:29 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 7A73E11EAF8
+	for <jobs@perl.org>; Fri,  6 Jan 2017 14:55:19 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9EA7C38B; Fri,  6 Jan 2017 22:55:11 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 6 Jan 2017 22:55:11 +0000
+Message-ID: <20170106225511.9EA7C38B@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.6.224816
+Subject: Full Stack Developer/ Web Developer for itembase (onsite), Berlin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20582
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  6, 2017
+
+Job title: Full Stack Developer/ Web Developer for itembase
+
+Company name: itembase GmbH
+
+Location: Berlin
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Full Stack Developer (f/m) with a passion for end-user centric applications
+and products
+
+itembase is seeking a talented and experienced Full Stack
+(Web) Developer (f/m) for its Berlin office to build the next major release
+of our digital online inventory for everyone and everything. 
+
+About
+itembase.com
+itembase is automatically keeping track of your receipts,
+purchases, shipments, anything you buy online so you don’t have to.
+Hundreds of thousands of users are eagerly anticipating the next major
+release. 
+The next level itembase.com will reach is to equip the users’
+inventories with useful purchase and after-purchase services. We will
+concentrate on a unique after-purchase experience served to over 150
+million users worldwide, getting services from over 250 eCommerce apps in a
+network of over 500.000 merchants in early 2017.
+
+
+About the job
+Design the
+technical and software architecture to assure efficient growth for the next
+digital online inventory for everyone and everything.
+Implement, measure
+and scale the next digital online inventory for everyone and everything.
+Define, track and communicate metrics to guarantee a reliable growth
+Work
+closely with our product manager to establish a converting UI/UX
+Work
+closely with the infrastructure  and the dataconnect team to scale your
+international user-base into the millions
+Collaborate with our C-Level
+
+   
+    
+Your Key Qualifications
+5+ years client- and server-side development
+experience demonstrating best practices like OOP, unit testing, agile
+development.
+Experience with either Java 8 or PHP 7
+Strong focus on
+backend; ideally design, implement, launch and maintain large-scale
+services.
+Proven experience in working on a commercial end-user
+application.
+
+Additional qualifications
+You have built RESTful APIs and use
+them on a daily basis.
+You use modern frontend technologies.
+Your passion
+is building end-user centric applications.
+You have strong communication
+skills.
+You manage priorities and expectations, set timelines and deliver
+accordingly.
+
+What we offer:
+Competitive package 
+Excellent future career
+prospects
+Free development of your personal and professional competencies
+Open-minded, friendly, international colleagues
+Light-filled open space
+office in Berlin Kreuzberg
+Start-up spirit in a cutting-edge environment
+A
+lot of room for creativity, ideas, and improvements
+
+If you are a flexible,
+open-minded and dedicated individual, itembase offers interesting
+opportunities not only in an exciting and challenging industry, but also an
+enjoyable and open working atmosphere. If you have the drive and commitment
+to work in the dynamic and demanding itembase environment, please submit
+your online application (including your CV with your possible starting date
+and salary expectations).
+
+Contact information at:
+http://jobs.perl.org/job/20582#contact

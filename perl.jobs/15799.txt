@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15799
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25368 invoked from network); 6 Jan 2017 22:20:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 6 Jan 2017 22:20:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EDBD711DBB3
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Jan 2017 14:20:50 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D921D11D87D
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Jan 2017 14:20:45 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id B80A211D877
+	for <jobs@perl.org>; Fri,  6 Jan 2017 14:20:41 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2219138B; Fri,  6 Jan 2017 22:20:41 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 6 Jan 2017 22:20:41 +0000
+Message-ID: <20170106222041.2219138B@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.6.221217
+Subject: Software Engineer (onsite), Sutton, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20586
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  6, 2017
+
+Job title: Software Engineer
+
+Company name: The Institute of Cancer Research
+
+Location: Sutton, London, UK
+
+Pay rate: £43,438
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Please see link for full job spec, closing date 2017-01-22.
+
+Large existing
+perl code base so perl experience will be looked upon favourably.
+
+Generous
+holiday allowance / pension and some working from home.
+
+https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTYyNDYyNyZ2dF90
+ZW1wbGF0ZT0xMTk4Jm93bmVyPTUwNTAxMzAmb3duZXJ0eXBlPWZhaXImYnJhbmRfaWQ9MCZwb3N
+0aW5nX2NvZGU9NDI0JnJlcXNpZz0xNDgzNDUzNjM5LWIwMTZhYmU2NDkwMTE3MTg5YWRhNGVjMG
+UyMWRmOWE1NmFlNDgxNWE=
+
+Desired skills: Perl, PHP, Databases (Oracle, PostgreSQL, MariaDB)
+
+Website for more information:
+https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTYyNDYyNyZ2dF90
+ZW1wbGF0ZT0xMTk4Jm93bmVyPTUwNTAxMzAmb3duZXJ0eXBlPWZhaXImYnJhbmRfaWQ9MCZwb3N
+0aW5nX2NvZGU9NDI0JnJlcXNpZz0xNDgzNDUzNjM5LWIwMTZhYmU2NDkwMTE3MTg5YWRhNGVjMG
+UyMWRmOWE1NmFlNDgxNWE=
+
+Contact information at:
+http://jobs.perl.org/job/20586#contact
