@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15802
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21635 invoked from network); 14 Jan 2017 00:16:49 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:16:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B587511D3FD
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:16:48 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-1.3 required=8.0 tests=ALL_TRUSTED,BAYES_00,
+	SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS autolearn=no version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id BF66811DA0D
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:16:43 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 8977111D3FD
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:16:43 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7D45C384; Sat, 14 Jan 2017 00:16:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:16:43 +0000
+Message-ID: <20170114001643.7D45C384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Sprechen Sie Deutsch und Perl fließend? Möchten Sie in London leben? (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19972
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 12, 2017
+
+Job title:
+Sprechen Sie Deutsch und Perl fließend? Möchten Sie in London leben?
+
+Company name: Perl Careers
+
+Location: London, United Kingdom
+
+Pay rate: Excellent
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you speak German, Perl, and passable English?
+
+My London-based client is
+interested in native (or near-native) German speakers who are interested in
+relocating to London (to join an English-speaking team). While the majority
+of projects are undertaken in English, the client has projects where some
+German would be helpful.
+
+The company has a strong Perl team and a focus on
+"Modern" Perl, as well as a real commitment to open-source.
+
+Desired skills:
+The ideal candidate has:
+
+  * Experience with DBIx::Class and either
+Postgres or MySQL
+
+  * Template Toolkit
+
+  * Experience with at least one
+of the modern web frameworks: Dancer, Mojolicious, Catalyst
+
+  * Exposure
+to Moose would be ideal
+
+No degree or educational requirements.
+
+Website for more information:
+https://opensource.careers/jobs/sprechen-sie-deutsch-und-perl-fliesend-moch
+ten-sie-in-london-leben/
+
+Contact information at:
+http://jobs.perl.org/job/19972#contact

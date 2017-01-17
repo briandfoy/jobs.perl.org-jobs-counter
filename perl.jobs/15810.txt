@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15810
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21674 invoked from network); 14 Jan 2017 00:17:20 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:17:20 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id A3AE211D337
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:20 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-1.3 required=8.0 tests=ALL_TRUSTED,BAYES_00,
+	SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS autolearn=no version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 224AE11DA0D
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:19 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id D751811D337
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:17:12 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C9EC3384; Sat, 14 Jan 2017 00:17:12 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:17:12 +0000
+Message-ID: <20170114001712.C9EC3384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Do some good in the world – junior Perl developer for a charity and giving-focussed team (onsite), Kent, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20592
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 12, 2017
+
+Job title:
+Do some good in the world – junior Perl developer for a charity and
+giving-focussed team
+
+Company name: Perl Careers
+
+Location: Kent, United Kingdom
+
+Pay rate: Excellent
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Want to do something good for once? Join the Kickstarter of the charity
+world, supporting activists and causes around the world. Based in Sevenoaks
+in Kent, you’ll be working in Perl to support a range of their charity and
+giving-focussed projects.
+
+They’re looking for a junior Perl developer,
+ideally with two years of web development experience in Perl or PHP. You
+should have a passing familiarity with front-end development, and be
+comfortable with web technologies in general — but they’ll train you up in
+no time.
+
+Desired skills:
+Experience with building web apps in Perl or PHP
+
+Some front-end
+development skills would be useful
+
+Existing right to work in the UK or EU
+required
+
+Website for more information:
+https://opensource.careers/jobs/do-some-good-in-the-world-junior-perl-devel
+oper-for-a-charity-and-giving-focussed-team-in-kent-uk/
+
+Contact information at:
+http://jobs.perl.org/job/20592#contact

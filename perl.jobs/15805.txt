@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15805
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21658 invoked from network); 14 Jan 2017 00:17:13 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:17:13 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6B7DE11D3FD
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:13 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0DF2111DE6C
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:10 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 7E15C11D337
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:17:03 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 714A4384; Sat, 14 Jan 2017 00:17:03 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:17:03 +0000
+Message-ID: <20170114001703.714A4384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Live in sunny Oxford, walk to work along the canal, squeaky clean codebase (onsite), Oxford, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20594
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 12, 2017
+
+Job title:
+Live in sunny Oxford, walk to work along the canal, squeaky clean codebase
+
+Company name: Perl Careers
+
+Location: Oxford, UK
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Friendly and Perl-committed company based in Oxford who build a very
+popular software product. They use Catalyst + Starman, DBIx::Class, and are
+heavily bought in to Moose. Despite having been running for many years,
+almost none of the code is older than 3 years after a successful ground-up
+rewrite. FreeBSD users. It’s a small team, with a start-up feel, so day to
+day work can include anything and everything from database schema design
+and optimisation, high-throughput scaling work, to UI/UX design, to almost
+anything else!
+
+Desired skills: Modern Perl is a must
+
+Website for more information:
+https://opensource.careers/jobs/live-in-sunny-oxford-walk-to-work-along-the
+-canal-squeaky-clean-codebase/
+
+Contact information at:
+http://jobs.perl.org/job/20594#contact

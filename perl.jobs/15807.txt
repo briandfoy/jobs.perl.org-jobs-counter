@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15807
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21535 invoked from network); 14 Jan 2017 00:15:36 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:15:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CA44811D3FD
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:15:35 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E109D11DA0D
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:15:33 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id B74A411D3FD
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:15:33 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A5B74384; Sat, 14 Jan 2017 00:15:33 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:15:33 +0000
+Message-ID: <20170114001533.A5B74384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Perl Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20598
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2017
+
+Job title: Perl Developer
+
+Location: London
+
+Pay rate: £425 Per Day
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be responsible to research, specify, develop, test, maintain &
+support high performance internal and product related systems and its
+associated brands in the language of Perl.
+
+Desired skills:
+Responsibilities: - 
+•	Contributing to our company by being a key
+part of our team
+•	Creating new products and developing our existing
+products
+•	Adding to our comprehensive backend system to help us
+manage our business
+•	Helping us come up with new ideas and products
+•	Automating server management and monitoring
+Experience: - 
+•      
+Commercial Perl development experience.
+•	Billing system and platform
+migration experience.
+•	Back end legacy CGI Perl systems experience.
+•	Experience in actively using CGI, Catalyst, MySQL, DBIx, Navsion.
+•
+      Quality focused. TDD and CI.
+•	Good communication and team
+collaborations skills.
+•	Familiar with Perl web frameworks (i.e.,
+Catalyst,.) 
+•	Have an understanding of ‘Modern Perl’
+
+Contact information at:
+http://jobs.perl.org/job/20598#contact

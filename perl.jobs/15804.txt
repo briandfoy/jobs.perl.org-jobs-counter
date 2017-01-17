@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15804
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21703 invoked from network); 14 Jan 2017 00:17:52 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:17:52 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 13A0C11DE6C
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:52 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7C76F11DA0D
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:17:47 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 4C2A811D3FC
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:17:47 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 3FD17384; Sat, 14 Jan 2017 00:17:47 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:17:47 +0000
+Message-ID: <20170114001747.3FD17384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Perl programmer Regex featured (telecommute), San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20394
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 11, 2017
+
+Job title: Perl programmer Regex featured
+
+Company name: Lucrosol.com
+
+Location: San Francisco
+
+Pay rate: Dollars
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Development of a program generally described as a file syntax checker has
+been started. While limited core code has been created and a first pass at
+the UI was preformed, an alpha followed by beta needs to occur.
+We are
+asking for interested parties to review the current concept, core code, and
+UI then provide their estimate and schedule for an Alpha release.
+A copy of
+our UI is available for your review as is our core core - upon request.
+We
+would like to complete our alpha ASAP.
+Thanks in advance.
+
+Desired skills: Regex, fluent clear concise English
+
+Website for more information: http://lucrosol.com
+
+Contact information at:
+http://jobs.perl.org/job/20394#contact

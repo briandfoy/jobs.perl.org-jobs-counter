@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15803
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21781 invoked from network); 14 Jan 2017 00:19:05 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Jan 2017 00:19:05 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7F3B811E011
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:19:02 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=8.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C987C11DE6C
+	for <perlmail-jobs@onion.perl.org>; Fri, 13 Jan 2017 16:18:57 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 9759E11DA0D
+	for <jobs@perl.org>; Fri, 13 Jan 2017 16:18:57 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8A381384; Sat, 14 Jan 2017 00:18:57 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Jan 2017 00:18:57 +0000
+Message-ID: <20170114001857.8A381384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.1.14.617
+Subject: Backend developer (part onsite), Melbourne, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20588
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2017
+
+Job title: Backend developer
+
+Company name: FastMail
+
+Location: Melbourne, Australia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We strive to build clean, well-tested, reusable code -- to have our backend
+code look as good, and work as well, as our interface. With a swiftly
+growing customer (and code) base, we are looking to add new team mates to
+help make sure we are reaching our own standards.
+
+Together with our other
+engineers, you'll work on FastMail and its associated systems. You'll
+quickly take ownership of features, and see your code ship to production.
+
+We are a close-knit team, but do most projects individually. We are always
+ready to jump in with an extra set of eyes, a lengthy explanation of why
+things work the current way or just to grab a coffee, but you should feel
+comfortable making desisions solo.
+
+Our backend infrastructure is widely
+varied, in both subject matter and style -- expect plenty of refactoring
+and converting in-place code to reusable methods. We are also looking ahead
+to adding more integrations with other services, our own new products, and
+improving existing features!
+
+Desired skills:
+You may be a fit for this role if you:
+
+* Have strong Perl skills. This is
+the main language that implements almost all of our FastMail-specific
+server-side logic. It's possible that you'll use other languages, but
+you'll need to be (or quickly become) up to speed in modern Perl.
+
+* Score
+"lines of code deleted" as high or higher than "lines written". Hearing
+"refactor" sparks joy in your heart. The first time you saw NYTProf, you
+thought of three pieces of code you were dying to run it on.
+
+* Enjoy
+developing, then working to, a specification document. Our user interface
+uses a well-defined API to communicate with our servers, and you will need
+need to be able to program to the specified API. We believe implementing to
+a spec ends up with high-quality, maintainable code, and hope you do, too.
+
+* Feel comfortable asking questions: we encourage dialogue with other team
+members over ambiguous, dubious, or otherwise suspect specifications,
+quirky code that doesn't make sense, or just the whys behind a task!
+
+* Are
+comfortable picking up new tools, evaluating existing solutions, or just
+building your own. We think long term, and want to ensure we control our
+future. We like to fully understand the code we run, whether it's something
+we wrote ourselves or an open-source component we contribute to.
+
+Website for more information:
+https://www.fastmail.com/about/jobs/2017-01-backend.html
+
+Contact information at:
+http://jobs.perl.org/job/20588#contact
