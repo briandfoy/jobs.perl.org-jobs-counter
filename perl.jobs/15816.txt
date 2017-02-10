@@ -1,0 +1,163 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15816
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4636 invoked from network); 10 Feb 2017 01:04:09 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:04:09 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id DCFDC11D885
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:04:09 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B4E7111D888
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:04:00 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1B25B11D885
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:03:57 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8B0D8384; Fri, 10 Feb 2017 01:03:57 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:03:57 +0000
+Message-ID: <20170210010357.8B0D8384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Experienced Perl Web Developer (telecommute), Vancouver, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20644
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  7, 2017
+
+Job title: Experienced Perl Web Developer
+
+Company name: RealtyNinja
+
+Location: Vancouver, Canada
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+RealtyNinja is a SaaS system that provides awesome websites for busy
+Canadian real estate agents. We are amongst the top such providers in the
+country and our focus is to provide realtors with everything they need to
+create beautiful, lead-generating sites that are easy to use and require
+very little technical knowledge on their part.
+
+We are a 100% remote team
+of ninjas spread out across the globe. We use a mix of Basecamp, Slack,
+Zoom and Helpscout to communicate and work hard so that we can focus on
+living life to the fullest.
+
+*  We're looking to fill a full-time remote
+Perl developer position .
+*  You must have years of experience as a modern
+Perl web developer and be familiar with Catalyst, DBIx::Class, Moose and
+other such modern Perl technologies.
+*  We also have a lot of Javascript in
+our app, so it's important to have experience with vanilla JS as well as
+jQuery and other such related technologies.
+*  Because we build websites,
+in-depth knowledge of CSS and HTML is required.
+*  Because we are a 100%
+remote team, you need to be self-driven and able to work on your own, as
+well as in a team.
+*  You don't have to be a native English speaker but you
+must be comfortable communicating daily with the team in both spoken and
+written english, as this is the language we run our business in.
+*  A paid
+coding test project will be required to ensure you have the skills
+necessary for us to hire you full time.
+
+You’ll be a critical member of a
+small engineering team working on every aspect of our application, from our
+backend listing systems, to our front-end editor based CMS and various
+internal tools, to keep our business running smoothly. This isn’t an
+average position where you might be restricted to one small piece of the
+company’s technology, but one where you’ll have influence over our entire
+stack.
+
+The position involves the following responsibilities:
+
+* 
+Contribute to our front and backend systems built with Perl (Catalyst Web
+Framework), Javascript (jQuery) and MySQL.
+*  Help improve code quality
+through writing unit tests, automation, bug fixing and performing code
+reviews.
+*  Participate in brainstorming sessions and have the chance to
+contribute innovative and original ideas to our technology and product as a
+whole.
+*  Work with the product and design team to understand end-user
+requirements and use cases, then translate that into pragmatic and
+effective technical solutions.
+*  Dive into difficult problems and
+successfully deliver results.
+
+On top of solid Perl, Javascript and Web
+experience, the following points would be a bonus for us:
+
+*  Vagrant
+experience.
+*  SysAdmin experience with Linux environments.
+*  Git
+experience.
+*  Experience using Basecamp or other such project management
+systems.
+*  Open Source project work.
+*  Bootstrap experience.
+
+Some notes
+about us:
+
+*  We are currently a team of 9 and consider everyone to be
+family.
+*  We value hard work and pay well for it
+*  We believe that you
+should work to live and not live to work.
+*  We offer an unlimited vacation
+policy based on respect and trust.
+*  Other than ensuring a reasonable
+amount of timezone overlap (PST) you have the freedom to make your own
+schedule.
+
+How to apply:
+
+*  Write a brief personal intro or record a short
+video (bonus points!) on why you want to work with us and share any
+relevant CV, github, portfolio, sample projects. Also state your monthly
+salary expectations for a full-time role (a range is fine). Send the above
+to casimir@realtyninja.com with the keyword "Shokunin" in the subject.
+* 
+Once we review this, we will get you to fill out a questionnaire to provide
+us with the info we need to move to the next steps which include a video
+interview and a fully paid test project.
+
+Desired skills:
+* Perl
+* Modern Perl Technologies (Catalyst, Moose, DBIx::Class, etc)
+*
+Javascript (jQuery)
+* MySQL
+* nginx
+* Unit testing
+* git
+* Nunchaku skills
+
+Website for more information: http://www.realtyninja.com
+
+Contact information at:
+http://jobs.perl.org/job/20644#contact

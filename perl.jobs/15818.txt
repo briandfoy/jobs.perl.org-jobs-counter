@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15818
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4516 invoked from network); 10 Feb 2017 01:03:02 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:03:02 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 24F9611D338
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:02 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4EAFC11D33A
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:02:56 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1151811D338
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:02:55 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 237BC384; Fri, 10 Feb 2017 01:02:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:02:55 +0000
+Message-ID: <20170210010255.237BC384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Perl Developer (onsite), Kings Lynn, Norfolk, England
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20636
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2017
+
+Job title: Perl Developer
+
+Company name: Adrian Flux Insurance Services
+
+Location: Kings Lynn, Norfolk, England
+
+Pay rate: up to £30,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an additional perl developer to join our team of 7
+staff. The team looks after the programming requirements of a 1,000 seat
+call centre. 
+We have a wide remit in regards to programming, spanning
+intranet programs, to many standalone programs.
+Adrian Flux Insurance is an
+expending company and the list of new programming requirements is ever
+growing.
+This is a full time position, 5 day a week, 9.00-5.30 position and
+will require the applicant to work in our office.
+
+Desired skills:
+The bulk of the programming is done in perl, but a knowledge of Javascript
+and JQuery would be an advantage. Also SQL knowledge could be helpful.
+
+Contact information at:
+http://jobs.perl.org/job/20636#contact

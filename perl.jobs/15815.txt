@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15815
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4439 invoked from network); 10 Feb 2017 01:02:10 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:02:10 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EB68A11D412
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:02:09 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 3F30411D86F
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:02:05 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 172DF11D9EC
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:01:54 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6A29F384; Fri, 10 Feb 2017 01:01:54 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:01:54 +0000
+Message-ID: <20170210010154.6A29F384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Perl Programmer (telecommute), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 10, 2017
+
+Job title: Perl Programmer
+
+Company name: Goldstar Learning, Inc.
+
+Location: Chicago, IL
+
+Pay rate: Based On Experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Our rapidly growing Chicago based Education Software Company is looking for
+a Perl developer to join our group. We provide K-12 educators with web
+based programs that assist them in raising student achievement by providing
+real-time access to student achievement data used to shape their
+instruction. 
+
+We are looking for someone with a talent for tracking down
+problems, finding timely and effective solutions, and navigating their way
+through a legacy code base. This person needs to be organized,
+self-motivated, an effective team player, and experienced in handling
+time-critical production application issues.
+
+Although working onsite is
+preferred, it is not a requirement as our priority is to have the most
+qualified talent join our team.  Off-site candidates must be available
+during normal business hours CST (UTC-6).
+
+Desired skills:
+The following skills are required: 
+
+* Perl, SQL, CSS, HTML,
+JavaScript/jQuery 
+* Full Stack Development both Front and Backend 
+*
+Revision Tracking Systems (Git) 
+* Catalyst, DBIx::Class 
+* Customer
+Focused with strong solution-oriented approach 
+
+Huge plus if you are a
+full stack developer with sys admin and PostgreSQL experience.
+
+The
+following education is required: 
+• BS or comparable experience
+
+Contact information at:
+http://jobs.perl.org/job/19546#contact
