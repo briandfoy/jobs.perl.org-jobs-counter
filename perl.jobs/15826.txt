@@ -1,0 +1,173 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15826
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4606 invoked from network); 10 Feb 2017 01:03:57 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:03:57 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id A6E2D11D86F
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:56 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1B74311D338
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:53 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 7B97F11D877
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:03:48 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 470D9384; Fri, 10 Feb 2017 01:03:48 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:03:48 +0000
+Message-ID: <20170210010348.470D9384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Senior Software Engineer Telecommute Opportunity (telecommute), Waltham, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20642
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2017
+
+Job title: Senior Software Engineer Telecommute Opportunity
+
+Company name: MaxMind
+
+Location: Waltham, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a talented and experienced Senior
+Software Engineer to join our team. We help protect thousands of companies
+worldwide from fraud, screening over a billion online transactions each
+year, and we provide IP intelligence data to thousands more. This work
+requires us to tackle formidable challenges and we want your help!
+
+
+THE
+POSITION OVERVIEW
+
+As a Senior Software Engineer, you will contribute to
+development projects both big and small, including but not limited to:
+
+-
+Evolving, updating, and maintaining our extensive suite of client APIs and
+our tools for working with MaxMind databases
+- Adding features to existing
+products, refactoring legacy code, fixing bugs, or developing entirely new
+services 
+- Being proficient and having experience in multiple languages,
+and suggesting good technical design decisions 
+- Writing tests and
+documentation, developing highly performant and optimized code, and
+communicating well with non-developers
+
+The right candidate will have
+experience in both dynamic and static programming languages to help us
+develop and improve our products, and will be willing to bring new ideas to
+the table.
+
+
+OUR DEVELOPMENT PRACTICES
+
+Our backend code is largely written
+in Perl and Go using PostgreSQL and Linux, and we provide client APIs and
+database tools for .NET (C#), C, Java, Perl, PHP, and Python.  The person
+in this role will also be responsible for a critical and highly performant
+solution written in C. We maintain high standards for our development
+practices including continuous integration, using TeamCity to run our full
+test suite for all changes. All work goes through internal code review on
+GitHub Enterprise.
+
+We use free software as much as possible, and we
+release code back to the community when we can do so. We're trying to
+improve the way we do development, and we want you to participate in that
+process.
+
+Our development team is largely comprised of telecommuters, so
+communication centers around Google Hangouts, group chat, and agile
+planning tools. We invite candidates to apply from any US state except NJ,
+NY, TX, and WA (for regulatory reasons) and from anywhere in Canada.
+Candidates open to relocating will be considered. Full-time telecommuting
+is permitted.
+
+
+WORKING AT MAXMIND
+
+MaxMind is a casual, friendly,
+results-focused company of nearly 40 employees, about half of whom are in
+technical positions. We maintain a set of core, overlapping hours, but
+we’re flexible with specific start and end times and are understanding
+about appointments and life events.
+
+Compensation includes a competitive
+salary and participation in a company performance-based bonus plan.
+Software engineers get a $2k professional development budget and five days
+for professional development annually.
+
+In addition to medical, dental, and
+vision coverage, we offer several other benefits in the US, including a
+401k with employer contribution, FSA, and transit reimbursement. Please
+inquire about benefits in Canada.
+
+Our office is located near downtown
+Waltham, MA, outside of Boston, a five minute walk from the nearest
+commuter rail line and several express bus lines.
+
+Desired skills:
+Minimum Qualifications:
+- Experience with dynamic languages, especially
+Perl.  We use Perl but we're happy to hear from JavaScript, PHP, Python,
+and Ruby developers as well. (A programming exercise will be given to all
+applicants.)
+
+- Experience with static languages such as C#, Java, C, or Go
+ 
+
+- An interest in picking up new languages
+
+- Experience developing for
+deployment on a Linux or BSD platform
+
+- Experience writing tests and
+documentation
+
+- Experience doing code reviews
+
+- Excellent written and
+spoken communication skills
+
+- The ability to work with a geographically
+dispersed team
+
+
+HIGHLY DESIRED: 
+- Web development, especially RESTful web
+services
+
+- Experience with building and improving code for high
+performance
+
+- Experience with manual memory management
+
+- FS/OSS
+contributions. Tell us about them!
+
+Website for more information: https://www.maxmind.com/en/home
+
+Contact information at:
+http://jobs.perl.org/job/20642#contact

@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15823
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4638 invoked from network); 10 Feb 2017 01:04:12 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:04:12 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id ADD1811D338
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:04:12 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CF1AC11D86F
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:04:09 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 994F311D338
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:04:04 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6634D384; Fri, 10 Feb 2017 01:04:04 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:04:04 +0000
+Message-ID: <20170210010404.6634D384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: LAMP Developer (telecommute), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20364
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  7, 2017
+
+Job title: LAMP Developer
+
+Company name: Clickmagick
+
+Location: Austin, TX
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+1,000s of paying customers rely on ClickMagick to track, manage and
+optimize all of their online advertising.
+
+We are looking to add a fourth
+technical member to our team. Everybody telecommutes and it is a relaxed
+environment.
+
+We offer a competitive starting salary, equity, the freedom
+to work when and where you want, no corporate BS or politics, and a great
+team on a mission. 
+
+Starting salary negotiable depending on skills and
+experience.
+
+Our stack is Perl + CentOS + Apache + Nginx + MySQL + jquery +
+Angular V1 + vagrant + docker + Git. You don't need to know all of them,
+but the more you know, the better. You must have Perl experience. We have
+many tens of thousands of lines of Perl code for you to feast upon.
+
+The
+main services we use are  Github + Trello + Travis CI + Slack + CloudFront.
+Experience with some of these is a big plus.
+
+Desired skills:
+We are looking for somebody that is very comfortable with Perl and willing
+to use the lateness hotness in new code while maintaining legacy code. We
+have older code using mod_perl on Apache and newer code using Plack+nginx
+and OpenResty with some Lua. Familiarity with nginx or Plack is a big plus.
+
+Being a CPAN author is also a big plus.
+
+Knowing multiple languages, even
+ones we don't use, is a huge plus.
+
+Basic jQuery/front-end JS skills
+required, strong jQuery skills is a big plus, as well as HTML5/CSS and
+knowing how the DOM works. If you know about Angular or Docker, that is a
+plus, but not required.
+
+We use vagrant for local testing and experience
+with that is a plus.
+
+MySQL
+CentOS experience is a plus, not required as
+long as you are very comfortable on the command-line.
+
+Website for more information: https://www.clickmagick.com
+
+Contact information at:
+http://jobs.perl.org/job/20364#contact

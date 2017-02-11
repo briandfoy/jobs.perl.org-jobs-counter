@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15819
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4558 invoked from network); 10 Feb 2017 01:03:27 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:03:27 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 4E07211D908
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:27 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-1.3 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS autolearn=no version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4E27611D86F
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:22 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 9625611D338
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:03:20 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 84993384; Fri, 10 Feb 2017 01:03:20 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:03:20 +0000
+Message-ID: <20170210010320.84993384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Free lunch for a Perl developer in the world’s most liveable city (onsite), Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2017
+
+Job title:
+Free lunch for a Perl developer in the world’s most liveable city
+
+Company name: Perl Careers
+
+Location: Vienna, Austria
+
+Pay rate: from €40k/y depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Very well-known and established e-commerce brand in beautiful Vienna,
+Austria looking for Perl developers, or experienced developers willing to
+learn Perl.
+
+The technical stack is a mix of Modern Perl and more
+traditional technologies — some parts of the product are written using
+Dancer, some mod_perl2. Postgres forms the major backend database, with
+some help from Elastic Search for search-engine components. In addition,
+you’ll be working with some very well-known Perl folk in a team committed
+to technical excellence.
+
+Quite apart from free lunch and snacks, Western
+European holidays and pension scheme, the company’s located in beautiful
+Vienna. “Vienna continues its reign in the top spot for overall quality of
+living” for 9 years running; the world’s best coffee, pretzels, and one of
+the world’s least annoying airports (source: personal experience) for when
+it’s time to get out of the city.
+
+German isn’t required, but would be a
+bonus, but an existing right to work in the EU is.
+
+Website for more information:
+https://opensource.careers/jobs/free-lunch-for-a-perl-or-pythonrubyphp-if-y
+oure-happy-to-learn-perl-developer-in-the-worlds-most-liveable-city-vienna/
+
+Contact information at:
+http://jobs.perl.org/job/20640#contact

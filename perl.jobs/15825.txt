@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15825
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4577 invoked from network); 10 Feb 2017 01:03:37 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Feb 2017 01:03:37 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CA14C11D33A
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:36 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D996F11D870
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Feb 2017 17:03:31 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 84FB411D338
+	for <jobs@perl.org>; Thu,  9 Feb 2017 17:03:31 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 264A5384; Fri, 10 Feb 2017 01:03:31 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2017 01:03:31 +0000
+Message-ID: <20170210010331.264A5384@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.10.5416
+Subject: Junior Perl Developer (onsite), Fleet, Hampshire
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17599
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2017
+
+Job title: Junior Perl Developer
+
+Company name: CV-Library
+
+Location: Fleet, Hampshire
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CV-Library is one of the UK's largest online job sites and attracts over 3
+million unique job seekers every month. With a client list crammed full of
+the biggest brand names in recruitment and also a healthy mix of corporate
+clients who regularly use our services, we are rapidly evolving into one of
+the biggest and most dynamic online media organisations in the UK, and the
+exciting news is we're growing beyond all expectations.
+
+We now have the
+opportunity for a passionate Junior Perl Developer to join our small,
+agile, development team to help with the continuing expansion of the UKs
+fastest growing job boards. If you have an understanding and enthusiasm for
+Perl you will be recognised for this rare job opportunity. 
+
+You will have
+access to:
+
+Quiet working conditions
+High quality dual monitors
+High spec
+PC
+Laid back dress code
+
+We are continuously improving our processes; we
+are using pair programming, code review (with Gerrit) and continuous
+integration (with Jenkins running our Test::Class unit tests) to increase
+our code quality. We have daily standups, and weekly demos and
+retrospectives. 
+
+We strive to find the best candidates for our roles and
+provide top quality training and career progression. 
+
+We are based at the
+Waterfront Business Park, Fleet, just a 2 minute walk away from the
+mainline station with direct links to London Waterloo, Basingstoke,
+Winchester and Southampton.
+
+Website for more information: http://www.cv-library.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/17599#contact
