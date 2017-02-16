@@ -17,7 +17,13 @@ say "$count, $first, $last";
 my $dir = 'perl.jobs';
 mkdir $dir, 0755 unless -d $dir;
 
+my %skips = map { $_, undef } qw(
+	2079
+	3338
+	);
+
 foreach my $i ( $first .. $last ) {
+	next if exists $skips{$i};
 	my $file = catfile( $dir, "$i.txt" );
 	next if -s $file;
 	open my $fh, '>', $file;
@@ -30,10 +36,11 @@ foreach my $i ( $first .. $last ) {
 $nntp->quit;
 
 if( $ENV{PERL_JOBS_COMMIT} ) {
-	system "git add perl.jobs";
-	system "git commit -a -m 'Added the latest Perl jobs posts'";
-	system "git push";
-	}          
+	system "git add --quiet perl.jobs";
+	system "git commit --quiet -a -m 'Added the latest Perl jobs posts'";
+	system "git push --quiet";
+	}
+
 =head1 NAME
 
 =head1 SYNOPSIS
