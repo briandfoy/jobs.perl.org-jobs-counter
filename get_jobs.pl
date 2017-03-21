@@ -36,9 +36,9 @@ foreach my $i ( $first .. $last ) {
 $nntp->quit;
 
 if( $ENV{PERL_JOBS_COMMIT} ) {
-	system "git add --quiet perl.jobs";
-	system "git commit --quiet -a -m 'Added the latest Perl jobs posts'";
-	system "git push --quiet";
+	system "git add perl.jobs 2>&1";
+	system "git commit -a -m 'Added the latest Perl jobs posts'  2>&1";
+	system "git push  2>&1";
 	}
 
 =head1 NAME
