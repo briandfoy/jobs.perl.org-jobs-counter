@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15851
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3379 invoked from network); 9 Mar 2017 03:29:58 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 03:29:58 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CB15C11F0D0
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:29:57 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C33EB11F0F2
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:29:55 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id B619611F0D0
+	for <jobs@perl.org>; Wed,  8 Mar 2017 19:29:55 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A69422F9; Thu,  9 Mar 2017 03:29:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 03:29:55 +0000
+Message-ID: <20170309032955.A69422F9@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.31817
+Subject: Perl developer (onsite), Darwin NT, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20406
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2017
+
+Job title: Perl developer
+
+Company name: Binary Options Australia
+
+Location: Darwin NT, Australia
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+We are looking for developers with min 5 years experience with the
+following qualifications: PERL.
+
+Desired skills:
+Fluent in English
+Motivated and Dynamic
+Team-oriented and should pay
+attention to details.
+
+Website for more information: http://binaryoptionsaustralia.com
+
+Contact information at:
+http://jobs.perl.org/job/20406#contact

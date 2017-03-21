@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15852
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3976 invoked from network); 9 Mar 2017 03:30:41 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 03:30:41 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id ACD6911F0F8
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:41 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C77CD11F10A
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:29 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 959E211F0CF
+	for <jobs@perl.org>; Wed,  8 Mar 2017 19:30:28 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F08EC92A; Thu,  9 Mar 2017 03:30:23 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 03:30:23 +0000
+Message-ID: <20170309033023.F08EC92A@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.31817
+Subject: Software Developer (part onsite), Burlington, NC, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20686
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  9, 2017
+
+Job title: Software Developer
+
+Company name: National Agents Alliance
+
+Location: Burlington, NC, United States
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+This position is for a Software Developer who will develop and enhance our
+externally-facing websites and well as our various internally-facing web
+applications. Qualified candidates will have software development lifecycle
+experience in application design, development, testing, integration and
+client support.
+
+Experience and Background
+
+The target candidate will have:
+
+• 3-5 years proficiency in PHP on professional projects
+• Experience with
+RESTful service development and API design
+• Experience with MVC design
+patterns, preferably with the Laravel or CodeIgniter frameworks
+•
+Experience with SQL. Must be proficient enough to understand and provide
+database interaction knowledge and troubleshooting techniques
+• Ability to
+work in a team environment and/or directly with clients
+
+It would be
+preferred if the candidate has experience with:
+
+• MongoDB
+• Agile or other
+extreme programming methodologies
+• xUnit frameworks
+• Apache and/or Nginx
+• SVN, Hg, or Git versioning technologies
+• Shell Scripting (Bash,
+PowerShell, Perl, etc.)
+• Mobile app development
+• Developing with Node.js
+• OData REST ISO Standard
+• JavaScript frameworks such as ReactJS & Native,
+Express, Restify
+
+Company benefits include competitive compensation,
+medical/dental/vision/disability insurance options, company sponsored
+training, paid time off (PTO), company holidays, on-site gym,
+telecommute/remote work options and more.
+
+Location:  Burlington, NC (Local
+to Triangle, Triad, Raleigh, Durham, Chapel Hill, Hillsborough, Research
+Triangle Park, RTP, Cary, Apex, Greensboro, High Point, Winston-Salem,
+Danville)
+
+Desired skills:
+PHP, MVC, Laravel, CodeIgniter, LAMP, Javascript, SQL, Node.js, ReactJS,
+MongoDB, MySQL, Bash, Powershell, Perl, Agile, Scrum
+
+(related
+object-oriented experience in Java, C#, .Net, etc. is applicable)
+
+Website for more information:
+https://www.naaleads.com/corporate-jobs/software-developer
+
+Contact information at:
+http://jobs.perl.org/job/20686#contact

@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15845
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30690 invoked from network); 3 Mar 2017 07:35:30 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Mar 2017 07:35:30 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E8F5511F72E
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:29 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 53B3C11F70E
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:22 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 3BB7111F6E7
+	for <jobs@perl.org>; Thu,  2 Mar 2017 23:35:21 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 11225364; Fri,  3 Mar 2017 07:35:05 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Mar 2017 07:35:05 +0000
+Message-ID: <20170303073506.11225364@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.3.73017
+Subject: Junior Perl Developer (telecommute), Miami, FL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2017
+
+Job title: Junior Perl Developer
+
+Company name: Metapress
+
+Location: Miami, FL, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are currently expanding our publishing platform, and have an opportunity
+available for passionate Junior Perl Developers! If you are self-motivated,
+interested in remote work, and have over two years of Perl experience,
+please consider submitting your resume for further consideration.
+
+Desired skills:
+Implementation and Experience with:
+Moose 
+DBIx::Class
+Plack 
+Javascript
+(Jquery) 
+Solr
+OO Perl 
+Apache / Nginx 
+SQL (MySQL) 
+Linux 
+Version control
+
+Website for more information: https://metapress.com/
+
+Contact information at:
+http://jobs.perl.org/job/20386#contact

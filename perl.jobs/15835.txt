@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15835
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31631 invoked from network); 19 Feb 2017 22:29:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Feb 2017 22:29:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 685DE11EB6B
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:04 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 39C9D11EB5E
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:00 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 0EE8A11EB28
+	for <jobs@perl.org>; Sun, 19 Feb 2017 14:28:58 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 111557C8; Sun, 19 Feb 2017 22:28:57 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2017 22:28:57 +0000
+Message-ID: <20170219222858.111557C8@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.19.221816
+Subject: Perl Developer (onsite), Cheshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18208
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2017
+
+Job title: Perl Developer
+
+Company name: Eligo Recruitment
+
+Internal ID: DEVMAN-1
+
+Location: Cheshire, UK
+
+Pay rate: £40,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A completely Agile Perl house based in Cheshire are looking a senior Perl
+developer to take on a senior role. As they are advocates of Modern Perl
+strong experience with Perl frameworks such as Catalyst , Dancer or
+Mojolicious along with great object-oriented Perl and moose will give you a
+real advantage while growing with the Perl development team. 
+
+Alongside
+this you will be expected to help the Front-End team also, so it is vital
+for you to have great experience with JavaScript, HTML and CSS as this will
+be a large part of the role and you will need to help mentor some of the
+Junior developers. 
+
+If you love working with Perl and enjoy JavaScript and
+want to work with a progressive team then this is certainty the role for
+you.
+
+Website for more information: http://www.eligo.co.uk/jobseeker/it_technical
+
+Contact information at:
+http://jobs.perl.org/job/18208#contact

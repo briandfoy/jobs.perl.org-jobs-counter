@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15864
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23446 invoked from network); 17 Mar 2017 03:33:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 Mar 2017 03:33:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F0DD411EEEE
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Mar 2017 20:33:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C9A1A11EEFA
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Mar 2017 20:33:28 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 913E811EEEE
+	for <jobs@perl.org>; Thu, 16 Mar 2017 20:33:28 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6D321378; Fri, 17 Mar 2017 03:33:28 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 17 Mar 2017 03:33:28 +0000
+Message-ID: <20170317033328.6D321378@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.17.32118
+Subject: ETL Developer (telecommute), Pittsburgh, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 15, 2017
+
+Job title: ETL Developer
+
+Company name: Grant Street Group, Inc.
+
+Location: Pittsburgh, PA
+
+Pay rate: Market
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Grant Street Group is looking for data conversion / ETL developers with
+strong programming and database skills. If the following describes you, we
+want to hear from you!
+
+You enjoy writing great code. At Grant Street, you
+will write data conversion code to migrate clients to our TaxSys software.
+You’ll use Perl and SQL on a Linux / MySQL platform and our proprietary
+parallel-computing ETL framework. You’re a strong programmer who either
+knows Perl or wants to learn it.
+
+You love debugging data. 90% of data
+conversion is about fixing problems with the last 10% of the data. You’ll
+combine technical skills with domain knowledge to track down elusive errors
+in the clients’ data.
+
+You love working in a team. On each conversion
+you’ll be paired with a data specialist who will give you specs, validate
+the converted data, and gather feedback from clients. You’ll be part of an
+agile team of 4-6 people, all dedicated to giving the client a trouble-free
+go-live.
+This position is open to telecommuters. There is minimal travel:
+2-4 weeks per year for on-site meetings in Pittsburgh. If you live (or want
+to) in Pittsburgh, you can work in our beautiful headquarters atop the
+Heinz building.
+
+Our extraordinary company culture is the foundation of our
+unmatched customer service — just ask our clients! We reward teamwork,
+professional excellence, and individual responsibility. Using the best
+collaboration tools available, we offer a technology-rich work environment
+that makes it possible for us to support on-site and telecommuting
+positions tailored to the needs of our employees. If you are passionate
+about your work, you have entrepreneurial spirit and you want to be on a
+team of exceptional professionals, then maybe Grant Street is for you!
+
+Desired skills:
+Experience writing production-quality code (Perl experience preferred).
+
+Thorough knowledge of relational databases and SQL (MySQL experience
+preferred).
+
+Experience with ETL tools is a plus.
+
+Website for more information: https://www.grantstreet.com/
+
+Contact information at:
+http://jobs.perl.org/job/20706#contact

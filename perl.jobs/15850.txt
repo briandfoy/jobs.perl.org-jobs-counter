@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15850
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30786 invoked from network); 3 Mar 2017 07:35:42 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Mar 2017 07:35:42 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0EC4211F718
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:42 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4B92711F730
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:38 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 5ED1A11F729
+	for <jobs@perl.org>; Thu,  2 Mar 2017 23:35:37 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5446B364; Fri,  3 Mar 2017 07:35:37 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Mar 2017 07:35:37 +0000
+Message-ID: <20170303073537.5446B364@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.3.73017
+Subject: Perl Developer (onsite), South West London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20670
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 22, 2017
+
+Job title: Perl Developer
+
+Company name: Ascent Sourcing
+
+Location: South West London
+
+Pay rate: Excellent
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My client is seeking an experienced Perl web developer to take a lead role
+in the development of next-generation on-line recruitment products using
+the latest and best technologies and processes available.
+
+This is an
+excellent opportunity for a talented Perl developer with solid experience
+of developing modern Perl and Javascript web applications, wanting to use
+the latest technologies in an environment where you can have maximum
+impact.
+
+Responsibilities:
+
+    Develop user stories into proposed
+developments
+    Present and discuss proposals with team and stakeholders,
+improve proposals and identify iterative delivery cycles
+    Deliver
+working software both as an individual full stack developer and working as
+part of a development team
+    Participate in other team activities
+including sprint plans, code review, design sessions
+
+Key skills &
+experience  
+
+    Must have solid experience of developing Perl, SQL and
+Javascript web applications on Linux as a member of a development team.
+   
+Experience of any of the following technologies would be an advantage:
+MySQL, Linux (Debian), Catalyst framework, DBIx, Moose, Angular, J-Query,
+test-driven development, GIT.
+    Able to work in the UK without any
+restrictions. Security Clearance may be required for this role.
+   
+Educated to degree level (ideally a technical degree)
+
+Benefits:
+
+25 days
+holiday (positive increase from the 21 days)
+Access to our pension scheme
+Access to our bikes to work scheme
+Discounted gym membership
+Access to
+Perkbox benefits
+Eligibility to our annual bonus scheme
+
+Contact information at:
+http://jobs.perl.org/job/20670#contact

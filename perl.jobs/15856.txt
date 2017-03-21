@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15856
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13900 invoked from network); 9 Mar 2017 11:05:36 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 11:05:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C612611E023
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Mar 2017 03:05:36 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5E16C11D40C
+	for <perlmail-jobs@onion.perl.org>; Thu,  9 Mar 2017 03:05:34 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id D724C11E020
+	for <jobs@perl.org>; Thu,  9 Mar 2017 03:05:33 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5D11E857; Thu,  9 Mar 2017 11:05:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 11:05:26 +0000
+Message-ID: <20170309110526.5D11E857@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.105716
+Subject: Senior Perl Developer (onsite), Philadelphia, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20698
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  9, 2017
+
+Job title: Senior Perl Developer
+
+Company name: Pobox
+
+Location: Philadelphia, PA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+First off: know that you can see the way better-looking and more-link-rich
+version of this posting at https://www.pobox.com/jobs
+
+But here's the deal:
+
+We're looking for a Perl developer to join the FastMail team in our
+Philadelphia office. Come work on the original social media platform -
+email - at a place that strives to put the customer's needs first.
+
+Together with our other engineers, you'll work on Pobox, Listbox, our
+about-to-launch new service, Topicbox, and their associated systems.
+(FastMail is our parent company, but not the code base you'll primarily be
+working on.)
+
+This is a senior developer role. Expect to plan, make design
+decisions, and offer feedback and code review as a group - but be
+comfortable implementing solo. Everyone handles a mix of small tasks and
+larger projects - you will push code to production in your first week.
+
+We
+have been simplifying and consolidating code for years, but our production
+code base spans 15 years - and you'll be working on it! Expect plenty of
+refactoring and converting in-place code to reusable methods. Plan on a
+50/50 mix of new development and improving old code.
+
+You may be a fit for
+this role if you:
+
+* Have strong Perl skills. This is the main language
+that implements almost all of our server-side logic. A good programmer's
+abilities span languages, but you'll need to be (or quickly become) up to
+speed in modern Perl.
+
+* Score "lines of code deleted" as high or higher
+than "lines written". Hearing "refactor" sparks joy in your heart. The
+first time you saw NYTProf, you thought of three pieces of code you were
+dying to run it on.
+
+* Have always enjoyed untangling a ball of yarn, or
+look at code and think "I know there's a better way" - and want to dive in
+and do it.
+
+* Seek balance between struggle and flow. There's value to
+figuring things out, but we also don't want you to waste your own time. You
+can identify when you're stuck, and feel comfortable asking team mates for
+another set of eyes.
+
+Desired skills:
+Problems you might work on early on:
+
+* improving code deployment across
+staging and production
+* replacing our internal job queueing system
+*
+moving older code (on perl 5.8) to the new environment (perl 5.24! yay!)
+*
+finishing an overhaul of our email signing system (DKIM)
+* making a first
+pass at new, unoptimized server code to shave off the first 90% of its
+runtime
+
+Here's an unordered list of some of the things you'd be working
+with. We hope you're skilled in some of them; no one (except our staff)
+could already know them all.
+
+JMAP
+Postfix
+DBIx::Class
+Plack
+PostgreSQL
+MySQL
+Git
+Moonpig
+Moose
+Rx Schema
+SQLite
+Australians
+Cyrus
+Joyent Triton
+(Solaris[h])
+Crazy in-house ORM from 1999
+Chef
+
+Website for more information: https://www.pobox.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/20698#contact

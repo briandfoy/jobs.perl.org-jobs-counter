@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15855
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3938 invoked from network); 9 Mar 2017 03:30:40 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 03:30:40 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 40E1411F0CF
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:40 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id DD01F11F112
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:29 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 98CA411F0E6
+	for <jobs@perl.org>; Wed,  8 Mar 2017 19:30:28 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E30982F9; Thu,  9 Mar 2017 03:30:05 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 03:30:05 +0000
+Message-ID: <20170309033005.E30982F9@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.32115
+Subject: Permanent Perl web developer role near Wimbledon, UK. (onsite), Wimbledon, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20680
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2017
+
+Job title:
+Permanent Perl web developer role near Wimbledon, UK.
+
+Company name: Ascent Global Finance
+
+Location: Wimbledon, London, UK
+
+Pay rate: £75000.00
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My client is seeking an experienced Perl web developer to take a lead role
+in the development of next-generation on-line recruitment products using
+the latest and best technologies and processes available. 
+
+This is an
+excellent opportunity for a talented Perl developer with solid experience
+of developing modern Perl and Javascript web applications, wanting to use
+the latest technologies in an environment where you can have maximum
+impact. 
+
+Responsibilities: 
+
+Develop user stories into proposed
+developments 
+Present and discuss proposals with team and stakeholders,
+improve proposals and identify iterative delivery cycles 
+Deliver working
+software both as an individual full stack developer and working as part of
+a development team 
+Participate in other team activities including sprint
+plans, code review, design sessions 
+
+Benefits: 
+
+25 days holiday (positive
+increase from the 21 days) 
+Access to our pension scheme 
+Access to our
+bikes to work scheme 
+Discounted gym membership 
+Access to Perkbox benefits
+
+Eligibility to our annual bonus scheme
+
+Desired skills:
+•	Must have solid experience of developing Perl, SQL and Javascript
+web applications on Linux as a member of a development team.
+•      
+Experience of any of the following technologies would be an advantage:
+MySQL, Linux (Debian), Catalyst framework, DBIx, Moose, Angular, J-Query,
+test-driven development, GIT.
+•	Able to work in the UK without any
+restrictions. Security Clearance may be required for this role.
+•      
+Educated to degree level (ideally a technical degree)
+
+Contact information at:
+http://jobs.perl.org/job/20680#contact

@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15838
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32631 invoked from network); 19 Feb 2017 22:29:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Feb 2017 22:29:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3C2A611EB70
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:32 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2A0B211EB5E
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:27 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 0179E11EB28
+	for <jobs@perl.org>; Sun, 19 Feb 2017 14:29:27 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E1F597C8; Sun, 19 Feb 2017 22:29:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2017 22:29:26 +0000
+Message-ID: <20170219222926.E1F597C8@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.19.222416
+Subject: Senior Perl Web Developer (telecommute), Cincinnati, OH, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20662
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2017
+
+Job title: Senior Perl Web Developer
+
+Company name: IntelliTree Solutions
+
+Location: Cincinnati, OH, USA
+
+Pay rate: 100k to 150k USD, DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+IntelliTree Solutions is a small consultancy specializing in
+database-driven web apps and solutions. We develop, extend and maintain
+various kinds of systems and applications for our clients on a medium to
+long-term basis. Some projects last only 6 months, while others are ongoing
+for 10+ years. Our clients range from manufacturing to service to
+financial. We've developed a reputation for coming up with creative and
+innovative solutions to tough problems and delivering results for our
+clients. 
+
+We're a strong open-source shop and our team members frequently
+contribute to CPAN and speak at YAPC. This is very important to us and we
+don't normally take projects from clients who are unwilling to open-source
+code (excluding of course their proprietary business methods, which are
+generally only a small portion of the work).
+
+We're looking for a motivated
+and experienced developer to join our team on a full-time basis. 
+
+This
+position is for a senior-level developer with exceptional design and
+programming skills with at least 10 years of relevant experience. Potential
+candidates should be creative, detail-oriented, have strong communication
+skills, be well organized, and be self-starters. We need someone who can
+take ownership and exercise leadership, work directly with the client,
+overcome challenges and push projects successfully across the finish line.
+
+Desired skills:
+We're primarily a Perl shop, and so strong proficiency in modern Perl is
+expected. Our primary stack usually consists of Moo/Moose, DBIx::Class,
+Catalyst, Plack and ExtJS. Experience with any/all of those tools is a big
+plus, but since technology is a moving target that is ever evolving, strong
+foundations and conceptual understandings are much more important. It's
+less about what you already know than what you are able to pick up. Every
+new application/endeavor is its own, new R&D project and always involves
+learning some new technology and coming up with new and innovative
+solutions to problems. Our philosophy is that every project should break
+new ground and move the art forward in some manner. At the same time, it is
+critical that innovation be balanced with stability, and that all
+production implementations meet high standards for dependability and
+reliability.
+
+While we don't require direct experience with any specific
+library/tool, we do expect experience and strong proficiency in developing
+*something* in key areas (for example, we don't expect you to know Postgres
+specifically, but we do expect you to know some RDBMS). Here are a few of
+the areas of focus that are most important to us:
+
+Relational databases
+Object-oriented design
+MVC
+REST APIs
+Test-driven
+development/continuous-integration
+Back-end development
+Front-end
+development
+JavaScript/Ajax/CSS/HTML 
+User-interface design
+Optimization/performance tuning/scalability
+Refactoring/legacy-code
+Filesystems
+Linux
+Web servers
+DNS, TCP/IP, HTTP 
+Deployment (Docker, VMs,
+etc)
+
+We are very interested in hearing - in detail - about the projects,
+implementations and creative solutions that you've come up with in the
+past, as well as any code you can share. Being an open-source developer
+with projects on GitHub and CPAN is a huge plus.
+
+Contact information at:
+http://jobs.perl.org/job/20662#contact

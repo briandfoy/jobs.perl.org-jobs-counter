@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15849
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30830 invoked from network); 3 Mar 2017 07:36:00 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Mar 2017 07:36:00 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1B2B611F749
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:36:00 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8BDB311F6A2
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:56 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 099EA11F6A4
+	for <jobs@perl.org>; Thu,  2 Mar 2017 23:35:56 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id ED483364; Fri,  3 Mar 2017 07:35:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Mar 2017 07:35:55 +0000
+Message-ID: <20170303073555.ED483364@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.3.73017
+Subject: Perl Web Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20674
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 24, 2017
+
+Job title: Perl Web Developer
+
+Company name: WCN
+
+Location: London
+
+Pay rate: Competitive £
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Who are WCN?
+
+From our offices in London and New York WCN operate in the
+innovative and exciting HR Technology market. Around the world businesses
+are investing in technology to improve how they attract and hire talent,
+and our ambition is to continue to be one of the leading technology
+providers, helping our customers hire the best talent possible. We are
+proud to list some of the world’s most innovative recruiters like JP
+Morgan, Morgan Stanley and Marks & Spencer among our customers.
+
+What's it
+like to work here?
+
+We have a terrific culture where people work hard in a
+friendly environment, and you are encouraged to excel and grow your career.
+We foster a creative and inventive environment with a truly exciting
+product to work with.
+
+It’s an exciting time to join our growing business,
+so we’d love you to take a look at what we have on offer and come and join
+a company that still has an entrepreneurial spirit at its core!
+
+
+What will
+you be doing?
+
+WCN is seeking an experienced Perl web developer to take a
+lead role in the development of next-generation on-line recruitment
+products using the latest and best technologies and processes available.
+
+This is an excellent opportunity for a talented Perl developer with solid
+experience of developing modern Perl and Javascript web applications,
+wanting to use the latest technologies in an environment where you can have
+maximum impact.
+
+Responsibilities:
+
+- Develop user stories into proposed
+developments
+- Present and discuss proposals with team and stakeholders,
+improve proposals and identify iterative delivery cycles
+- Deliver working
+software both as an individual full stack developer and working as part of
+a development team
+- Participate in other team activities including sprint
+plans, code review, design sessions
+
+Desired skills:
+- Must have solid experience of developing Perl, SQL and Javascript web
+applications on Linux as a member of a development team.
+- Experience of
+any of the following technologies would be an advantage: MySQL, Linux
+(Debian), Catalyst framework, DBIx, Moose, Angular, J-Query, test-driven
+development, GIT.
+- Able to work in the UK without any restrictions. 
+-
+Security Clearance may be required for this role.
+- Educated to degree
+level (ideally a technical degree)
+
+Website for more information: https://www.wcn.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20674#contact

@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15847
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30769 invoked from network); 3 Mar 2017 07:35:40 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Mar 2017 07:35:40 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8A42B11F728
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:40 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 166C411F718
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:35 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id D872311F73C
+	for <jobs@perl.org>; Thu,  2 Mar 2017 23:35:33 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id EB22E364; Fri,  3 Mar 2017 07:35:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Mar 2017 07:35:32 +0000
+Message-ID: <20170303073532.EB22E364@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.3.73017
+Subject: Senior OO Perl  Engineer (onsite), Boston, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20668
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2017
+
+Job title: Senior OO Perl  Engineer
+
+Company name: New Age Software Services
+
+Location: Boston, MA
+
+Pay rate: 130-140K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our direct client is looking for a Senior Perl Object Oriented Software
+Engineer You'll be integral in researching and designing new software and
+systems with a keen eye on sound architectural principles, scalability,
+flexibility and maintainability. It's critically important to us that you
+be able to work as a Perl thought leader, interacting with other engineers
+and business folks effectively and professionally. We'd like to find
+someone who has published to CPAN, is comfortable teaching already-senior
+Perl engineers’ new tricks, and can work collaboratively in a team
+environment alongside very bright people with strong opinions.
+
+
+Location
+onsite Boston, MA (Downtown crossing)					   
+
+Direct Hire Role 
+
+US citizens and Green Card Holders and those authorized
+to work in the US are encouraged to apply. We are unable to sponsor H1B
+candidates at this time
+
+This is a friendly, collaborative, and
+progress-oriented environment where your work will have significant impact
+to the way we conduct our business and build out our technology stack.
+We're one of the largest web commerce companies in the world and serve some
+of the most well-known brands.
+
+They need someone who dreams in Perl. We
+need you to have application design experience using Moose and modern Perl
+web frameworks like Mojolicious or Dancer. We need someone with strong
+software architecture wisdom, especially around model design, test
+frameworks, and full-stack Perl web services. We're looking for someone
+sufficiently senior enough to work on projects solo as needed without the
+need for oversight and yet who will follow our strict style guide and best
+practices in all cases. Viable candidates will have a track-record of
+self-motivation, high attention to detail, and ability to work very
+independently.
+
+This job might be for you if you have:
+•10+ years Perl
+applications design and development
+•Experience with proven successful
+track records in building and maintaining sites with high volume, high
+transaction, high throughput that also focuses on scalability, and
+extensibility along with back end applications
+•Experience in Linux system
+administration and networking
+•Must be a highly motivated self-starter who
+can take business ideas, build upon them, and create well-articulated plans
+to design, implement, test and support these applications
+•MVC application
+design in a Mojolicious or Dancer-like framework
+•Effective and
+professional communications and collaboration soft-skills
+•Passion,
+excitement, and a positive can do attitude
+•REST web services with a full
+Perl stack including API design
+•nginx + Plack and/or Apache + mod_perl
+application development preferred
+•Classic RDBMS and NoSQL experience
+•Autonomous ETL services development
+•Vagrant + VirtualBox or similar VM
+system for development
+•Demonstrated experience in leveraging configuration
+management tools
+•Docker or similar container technology
+•JavaScript,
+jQuery, CSS, webpack, SASS, and Git
+•Familiarity or hands-on experience
+with EDI a plus
+•Familiarity or hands-on experience with Java a plus
+
+Website for more information: http://www.newagesoftware.com
+
+Contact information at:
+http://jobs.perl.org/job/20668#contact

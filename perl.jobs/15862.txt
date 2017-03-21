@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15862
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22143 invoked from network); 15 Mar 2017 02:50:36 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 15 Mar 2017 02:50:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 824E911ECC4
+	for <perlmail-jobs@onion.perl.org>; Tue, 14 Mar 2017 19:50:36 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E44FE11EC4E
+	for <perlmail-jobs@onion.perl.org>; Tue, 14 Mar 2017 19:50:32 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id DFA2511ECDB
+	for <jobs@perl.org>; Tue, 14 Mar 2017 19:50:25 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8ADF95AA; Wed, 15 Mar 2017 02:50:25 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 15 Mar 2017 02:50:25 +0000
+Message-ID: <20170315025025.8ADF95AA@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.15.23916
+Subject: Escape London - Mid-to-Senior Perl Developers in the Midlands (visa sponsorship possible) (onsite), West Midlands, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2017
+
+Job title:
+Escape London - Mid-to-Senior Perl Developers in the Midlands (visa
+sponsorship possible)
+
+Company name: Perl Careers
+
+Location: West Midlands, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Varied role solving real business problems for clients, working with open
+source software all day - in one of the few places in the UK a house is
+still affordable.
+
+Client has been a long-term supporter of Perl
+development, and the technical team is headed up by a very well-known
+figure in the community. Development stack is a hybrid of a strong Modern
+Perl stack and more legacy code.
+
+Ideally the team is looking for more
+menders: developers who love refactoring, or editing code to enhance
+clarity. Bug fixes genuinely excite them and they get a little giddy about
+testing.
+
+Team is hiring a couple of developers, and while they have their
+seniority preferences, would love to talk to anyone talented who’s avoiding
+moving to (or indeed, looking to escape) London…
+
+Also: the company is in a
+position to sponsor workers without an existing right to work in the UK;
+assuming they are already in, or able to easily get themselves to, the UK
+for interview.
+
+Desired skills: Modern Perl is a must
+
+Website for more information:
+https://perl.careers/jobs/escape-london---mid-to-senior-perl-developers-in-
+the-midlands/
+
+Contact information at:
+http://jobs.perl.org/job/20700#contact

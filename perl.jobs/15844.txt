@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15844
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30748 invoked from network); 3 Mar 2017 07:35:34 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Mar 2017 07:35:34 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 009A411F738
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:34 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B96F811F718
+	for <perlmail-jobs@onion.perl.org>; Thu,  2 Mar 2017 23:35:24 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id AD93E11F717
+	for <jobs@perl.org>; Thu,  2 Mar 2017 23:35:24 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A2A31364; Fri,  3 Mar 2017 07:35:24 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Mar 2017 07:35:24 +0000
+Message-ID: <20170303073524.A2A31364@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.3.73017
+Subject: Perl Developer London UK (part onsite), London, England
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20666
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 21, 2017
+
+Job title: Perl Developer London UK
+
+Company name: VisiTalk
+
+Location: London, England
+
+Pay rate: £30 per hour
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: some
+
+Description:
+We are looking for a talented Perl developed who can help a team of SQL
+developers manage a database of customer contact information. We need help
+with the development of a new searchable database user interface.
+
+Desired skills:
+Bachelor’s degree in a computer science or engineering field and 3+ years
+of relevant experience 
+Strong knowledge of Perl
+Decent knowledge of SQL 
+Good knowledge, experience or have developed integrations with third party
+software 
+Good understanding of OOD, Design Patterns, APIs and plugin
+architecture
+
+Website for more information: http://www.visitalk.com/
+
+Contact information at:
+http://jobs.perl.org/job/20666#contact

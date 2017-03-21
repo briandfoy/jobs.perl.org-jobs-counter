@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15853
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13143 invoked from network); 9 Mar 2017 06:41:25 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 06:41:25 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2327811F3E7
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 22:41:25 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C8A9511F439
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 22:41:22 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id A9D0411F3E7
+	for <jobs@perl.org>; Wed,  8 Mar 2017 22:41:22 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 57A422F9; Thu,  9 Mar 2017 06:41:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 06:41:22 +0000
+Message-ID: <20170309064122.57A422F9@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.63316
+Subject: Junior Perl Developer (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17861
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2017
+
+Job title: Junior Perl Developer
+
+Company name: Open Select Recruitment ( www.osrecruit.com )
+
+Internal ID: Perl Jnr
+
+Location: London, United Kingdom
+
+Pay rate: up to £35,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A global provider of financial news, data and decision assistance tools are
+seeking a web support developer. They work closely with global banking
+clients to acquire, activate and support new investment and trading
+clients. They are rapidly expanding and now provides premium tools and
+services for the largest global blue chip financial clients and key
+financial brands as well as some of the largest media outlets.
+
+The Web
+Support Developer provides the technical expertise, assistance, and project
+coordination necessary to modify and repair technical issues and resolve
+technical problems for their clients
+
+Desired skills:
+* Good Knowledge of perl
+* Perform fast and accurate customer support and
+technical issue resolution on Client sites (Functional and Design)
+*
+Recommend changes in software to improve user functionality and eliminate
+problems
+* Backend support related with Shell/CGI scripting and MySQL
+*
+Monitor available issues and prioritise them accordingly using internal
+case management system
+* Perform software installations and upgrades
+* Ease
+of dealing with customers and suppliers
+* High capacity of analysis
+*
+Commercial experience in Linux/Unix/Apache CGI environment
+
+* Desirable
+skills of java
+* Desirable previous experience in similar position
+
+Website for more information: http://www.osrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/17861#contact

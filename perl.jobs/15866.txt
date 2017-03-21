@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15866
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24047 invoked from network); 17 Mar 2017 03:35:32 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 Mar 2017 03:35:32 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 12BF111D40C
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Mar 2017 20:35:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2773811D86F
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Mar 2017 20:35:29 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 421B511EF2E
+	for <jobs@perl.org>; Thu, 16 Mar 2017 20:35:18 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 83E57378; Fri, 17 Mar 2017 03:35:17 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 17 Mar 2017 03:35:17 +0000
+Message-ID: <20170317033517.83E57378@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.17.32118
+Subject: Software Developer (telecommute), Pittsburgh, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20708
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 15, 2017
+
+Job title: Software Developer
+
+Company name: Grant Street Group, Inc.
+
+Location: Pittsburgh, PA
+
+Pay rate: Market
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+As a software company with a dedication to Perl as our primary language,
+Grant Street Group is looking for developers who want to start a
+conversation about future opportunities.
+
+We are a growth-oriented
+privately held software development company that supports a variety of
+clients in specialized financial transactions. Our hosted Software as a
+Service (SaaS) applications support tax collection, electronic payments,
+bond auctions and more.
+
+And we always look for talented Perl developers or
+those with strong programming experience who want to learn Perl.
+
+Candidates must demonstrate their ability by having their code tested and
+reviewed, participate in a session with our Chief Technology Officer, and
+travel to our headquarters for the chance to speak in person with other
+developers.
+
+Why consider Grant Street Group as part of your future?
+
+Our
+extraordinary company culture is the foundation of our unmatched customer
+service — just ask our clients! We reward teamwork, professional
+excellence, and individual responsibility. Using the best collaboration
+tools available, we offer a technology-rich work environment that makes it
+possible for us to support on-site and telecommuting positions tailored to
+the needs of our employees. If you are passionate about your work, you have
+entrepreneurial spirit and you want to be on a team of exceptional
+professionals, then maybe Grant Street is for you!
+
+If this sounds like
+something you would enjoy, then let’s start a dialogue about your long term
+goals and ours. Begin by submitting your resume through this link and let’s
+start getting to know each other!
+
+Desired skills:
+Demonstrate the ability to write great code.
+
+Have a track record of
+systems success.
+
+Collaborate within in a team environment.
+
+Know how agile
+software development works.
+
+Can work on site or telecommute.
+
+Website for more information: https://www.grantstreet.com/
+
+Contact information at:
+http://jobs.perl.org/job/20708#contact

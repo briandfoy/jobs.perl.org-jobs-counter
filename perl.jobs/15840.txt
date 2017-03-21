@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15840
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31324 invoked from network); 19 Feb 2017 22:28:37 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Feb 2017 22:28:37 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 44F8811DE68
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:28:37 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A4AFE11DBC7
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:28:33 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id DFA9311EB28
+	for <jobs@perl.org>; Sun, 19 Feb 2017 14:28:26 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9C9497C8; Sun, 19 Feb 2017 22:28:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2017 22:28:26 +0000
+Message-ID: <20170219222826.9C9497C8@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.19.221816
+Subject: Perl Developer - Experienced (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18618
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2017
+
+Job title: Perl Developer - Experienced
+
+Company name: Eligo Recruitment
+
+Internal ID: RDEX1
+
+Location: London, UK
+
+Pay rate: £45,000 + Bonus !!!
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer, Perl, Javascript, Senior Perl Developer - London to £45,000
+
+
+Perl Developer specialising in web/front-end  applications is required
+for this multi functional platform software company. Due to extensive
+growth a forward thinking Perl Developer is essential to help lead and grow
+this  dynamic team.
+
+The Perl Developer will work closely with the senior
+management staff experienced developers within an agile team, You will
+playing a key role in this technology-driven company. The company offer a
+relaxed working environment, flexible work arrangements including potential
+of part telecommute. You will need to contribute ideas and input into
+development lifecycle. As a talented Perl developer with solid experience
+of developing Perl and web/Front-End applications, and you want to use the
+latest technologies including Node.JS and Angular.JS in an environment
+where you can have a vital impact, then get in touch today!
+
+Perl Web
+Developer / Perl programmer Personal Specification:
+- Educated to degree
+level (ideally a technical degree)
+- Must have solid experience of
+developing Perl and web applications within a Linux environment.
+-
+Experience of any of the following technologies would be an advantage
+though not essential: MySQL, Catalyst framework, DBIx, JQuery, test-driven
+development, Selenium, GIT.
+- Entitled to work in the UK
+In return the
+Perl Developer will receive:
+- Benefits including the option of flexi
+hours
+
+If this sounds like a role for you, please apply now.
+
+Desired skills:
+Perl
+Catalyst , Dancer or Mojolicous
+JavaScript
+Moose
+
+Angular.JS
+Node.Js
+
+Website for more information: http://www.eligo.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/18618#contact

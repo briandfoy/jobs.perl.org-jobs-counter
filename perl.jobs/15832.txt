@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15832
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14994 invoked from network); 19 Feb 2017 21:20:48 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Feb 2017 21:20:48 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 30F9111F9FE
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 13:20:47 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4307011F9F7
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 13:20:42 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 81ED911D9BC
+	for <jobs@perl.org>; Sun, 19 Feb 2017 13:20:31 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5B030655; Sun, 19 Feb 2017 21:20:13 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2017 21:20:13 +0000
+Message-ID: <20170219212013.5B030655@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.19.210616
+Subject: Junior Perl Developer (onsite), Kent, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20498
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2017
+
+Job title: Junior Perl Developer
+
+Company name: Eligo
+
+Location: Kent, UK
+
+Pay rate: £35,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Wanted 
+
+A hungry junior developer with an appetite for all things Perl.  
+
+If you’re passionate about learning new languages and technologies, then
+this junior Perl Developer role is ideal for you. Working for a growing
+payment technology business you will be integral in supporting the ongoing
+and rapid development of its platform. 
+
+A role to get your teeth into 
+•  
+    You’ll be hands on, prototyping, maintaining and refactoring product
+features.
+•	You’ll be applying your coding skills to developing,
+testing and debugging Perl backend code, SQL queries, frontend HTML &
+JavaScript. 
+•	You will be providing internal support for
+system-related questions and issues whilst making sure to develop and
+maintain all technical documentation.
+
+You don’t have to chase down your
+rewards, as Junior Perl Developer you will be offered
+•	A competitive
+salary of £25,000 – £35,000.
+•	The chance to thrive in a great
+working environment, working alongside friendly designers, copywriters,
+product managers, marketers and developers.
+•	You’ll also get the
+opportunity to work at the companies’ satellite offices in other countries
+and attend their annual coding event in Sweden. 
+
+Have you got what it
+takes to master all things Perl
+•	You’ll ideally have 1+ years’
+experience of Perl-based web development and 2+ years of frontend web
+development.
+•	Great knowledge of modern Perl MVC web frameworks;
+Mojolicious, Catalyst and Dancer. 
+•	Hands on experience with
+testing, continuous integration, SVN and Git. 
+
+To take the next step in
+your Perl career, apply to become Junior Perl Developer now!
+
+Website for more information: http://eligo.co.uk/it-recruitment/
+
+Contact information at:
+http://jobs.perl.org/job/20498#contact

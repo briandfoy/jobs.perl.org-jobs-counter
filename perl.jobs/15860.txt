@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15860
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21603 invoked from network); 15 Mar 2017 02:48:16 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 15 Mar 2017 02:48:16 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1673E11D8AC
+	for <perlmail-jobs@onion.perl.org>; Tue, 14 Mar 2017 19:48:16 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E43F911ECC2
+	for <perlmail-jobs@onion.perl.org>; Tue, 14 Mar 2017 19:48:11 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id DD6BD11D8AC
+	for <jobs@perl.org>; Tue, 14 Mar 2017 19:48:09 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 25C475AA; Wed, 15 Mar 2017 02:48:09 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 15 Mar 2017 02:48:09 +0000
+Message-ID: <20170315024809.25C475AA@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.15.23916
+Subject: Perl Software Developer (part onsite), Tallinn, Estonia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 13, 2017
+
+Job title: Perl Software Developer
+
+Company name: 7BinaryOptions.com
+
+Location: Tallinn, Estonia
+
+Pay rate: EUR
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Would you like to use your Perl developing skills to help new binary option
+traders globally? Do you have excellent web development as well as backend
+skills that you would like to use to the fullest with a passionate and fast
+growing company?
+
+We are seeking a Perl Software Developer to our team in
+Tallinn, Estonia. You could work first as an hourly employee with flexible
+hours, mainly from Tallinn, but often location independently as well.
+
+You
+would report directly to the Senior Developer and strong experience with
+frameworks such as Dancer, Catalyst and Mojolicious along with great object
+oriented Perl and moose are necessary.
+
+Our company principles are hard
+work ethic, passion, loyalty as well as playfulness. We are still a small
+team but growing fast, so this is a good opportunity to be part of a small
+but dynamic family.
+
+Desired skills:
+- Technical skills: Minimum 3-4 years of Linux, Perl, MySQL and JavaScript,
+as well as database and web/application architecture
+- Independent problem
+solving mentality, critical thinking, a logical approach to analyzing
+problems
+- High level of productivity and good in organizing work
+- Ability
+to work with other people effectively
+- Complete projects on schedule with
+limited post deployment issues
+- Effective oral communication and writing
+skills
+- Ability to focus on the customer experience
+
+Website for more information: http://www.7binaryoptions.com
+
+Contact information at:
+http://jobs.perl.org/job/19790#contact

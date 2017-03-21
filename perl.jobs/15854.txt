@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15854
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3922 invoked from network); 9 Mar 2017 03:30:39 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 9 Mar 2017 03:30:39 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6047111F10E
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:39 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CFEA411F10F
+	for <perlmail-jobs@onion.perl.org>; Wed,  8 Mar 2017 19:30:29 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 9DAFA11F100
+	for <jobs@perl.org>; Wed,  8 Mar 2017 19:30:28 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 033508C6; Thu,  9 Mar 2017 03:30:12 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Mar 2017 03:30:12 +0000
+Message-ID: <20170309033013.033508C6@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.9.31817
+Subject: Experienced Perl Software Developer (part onsite), Barcelona, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20682
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  9, 2017
+
+Job title: Experienced Perl Software Developer
+
+Company name: InvestManiacs
+
+Location: Barcelona, Spain
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+To whom it may concern, 
+
+We are looking for a Perl Software Developer. It
+is possible to work remotely with flexible hours. We care what is
+accomplished, not how many hours you was available to spend in front of
+your monitor. 
+Required skills: 5-6 years of professional experience with
+Perl and MySQL. JavaScript is a plus. Flexibility with Linux ( we hope it
+is your most favourite OS ). Knowledge about Web/application architecture.
+Previous experience with LAMP is a benefit. 
+Other skills: 
+- Logical
+thinking 
+- Curiosity 
+- Ability to work with the team and without it 
+-
+Complete projects on schedule 
+- Good English level - effective verbal
+communication/writing.
+
+Desired skills: Perl, Mysql, Javascript, Linux
+
+Website for more information: http://www.investmaniacs.com
+
+Contact information at:
+http://jobs.perl.org/job/20682#contact

@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15839
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32647 invoked from network); 19 Feb 2017 22:29:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Feb 2017 22:29:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6615A11EB28
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:38 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 3FEAA11EB71
+	for <perlmail-jobs@onion.perl.org>; Sun, 19 Feb 2017 14:29:33 -0800 (PST)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 80D6111EB77
+	for <jobs@perl.org>; Sun, 19 Feb 2017 14:29:32 -0800 (PST)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6BED97C8; Sun, 19 Feb 2017 22:29:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2017 22:29:32 +0000
+Message-ID: <20170219222932.6BED97C8@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.2.19.221816
+Subject: Perl Developer to Odessa office (onsite), Odessa, Ukraine
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20664
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2017
+
+Job title: Perl Developer to Odessa office
+
+Company name: Electric Cloud
+
+Location: Odessa, Ukraine
+
+Pay rate: 3500
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Electric Cloud delivers enterprise software that accelerates software
+delivery. Our products revolutionize ’software production’: the back-end of
+software development, including builds, testing, packaging, and deployment.
+We are looking for an energetic and talented Perl Developer to join the
+team building the Continuous Delivery and DevOps solutions to automate and
+accelerate end-to-end software build, test and deployment processes.This is
+your opportunity to help developers at top-notch technology companies
+around the world make rapid and agile development a reality. This
+team-oriented environment enables you to work with other motivated,
+intelligent, and enthusiastic engineers to develop innovative solutions to
+challenging problems, deliver world-class products and achieve high level
+of customer satisfaction. We are proud of list of our customers which you
+could find here — electric-cloud.com/customers
+
+Desired skills:
+Basic Qualifications:
+Bachelor’s degree in a computer science or
+engineering field and 3+ years of relevant experience
+Good knowledge and
+willing to learn Perl, Groovy, Java or GWT languages
+Good knowledge,
+experience or have developed integrations with third party software
+Good
+understanding of OOD, Design Patterns, APIs and plugin architecture
+
+MUST
+HAVE:
+1) experience Perl.
+2) knolege  java/groovy/gwt
+
+NICE TO HAVE:
+Extensive project experience in one of the languages — Perl, Groovy, Java
+or GWT
+Experience with enterprise application development
+Have directly
+worked with remote teams in US
+
+Website for more information: https://ua.linkedin.com/in/belonozhko
+
+Contact information at:
+http://jobs.perl.org/job/20664#contact
