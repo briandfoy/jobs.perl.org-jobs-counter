@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15868
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7083 invoked from network); 24 Mar 2017 21:35:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 24 Mar 2017 21:35:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 150FF11D8AF
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:35:28 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A867511DDC2
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:35:25 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 94E6211D8AF
+	for <jobs@perl.org>; Fri, 24 Mar 2017 14:35:25 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 12FB8122; Fri, 24 Mar 2017 21:35:12 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 24 Mar 2017 21:35:12 +0000
+Message-ID: <20170324213513.12FB8122@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.24.213016
+Subject: Perl Developer (onsite), Warsaw, Poland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20714
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 20, 2017
+
+Job title: Perl Developer
+
+Company name: Centrum Monitorowania Rynku Sp. z o.o.
+
+Location: Warsaw, Poland
+
+Pay rate: 8000-10000 PLN
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced software developer to join our team that
+is responsible for maintenaince and development of stack of our reporting
+tools in the area of FMCG market research.
+
+Desired skills:
+- Strong Software Development skills
+- Experience with Perl
+- Strong
+understanding of database design principles and SQL programming
+-
+Proficiency in typical text-oriented terminal based Unix/Linux environment
+(ssh, bash, vim/emacs/etc)
+- Experience with PostgreSQL, OO, DBI, Moose,
+Mojolicious, JavaScript, Angular, git will be considered a plus
+- Excellent
+command of the spoken/written Polish language
+
+Contact information at:
+http://jobs.perl.org/job/20714#contact

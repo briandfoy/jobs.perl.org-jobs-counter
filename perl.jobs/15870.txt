@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15870
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5484 invoked from network); 24 Mar 2017 21:28:45 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 24 Mar 2017 21:28:45 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1C97511EBED
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:28:45 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C7E5C11EBEE
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:28:42 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 8C67311D8AF
+	for <jobs@perl.org>; Fri, 24 Mar 2017 14:28:40 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9346F122; Fri, 24 Mar 2017 21:28:40 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 24 Mar 2017 21:28:40 +0000
+Message-ID: <20170324212840.9346F122@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.24.212116
+Subject: Perl Developer (onsite), Paris, France
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 23, 2017
+
+Job title: Perl Developer
+
+Company name: CACIIS SAS
+
+Location: Paris, France
+
+Pay rate: 50 k€
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CACIIS is a small company, specialized in developping middlewares &
+frontends for mainly operators. 
+
+We are seeking several perl developers
+for one of our customers in Paris, France.
+
+Desired skills:
+Required skills are :
+•    Class::DBI, DBIx::Class, Dancer
+•   
+Template::Toolkit 
+•    Bootstrap/Prototype/JQuery 
+•    MySQL 
+•   
+WebServices SOAP , REST, JSON
+•    SNMP, Telnet 
+•    Interfaces WEB
+
+Contact information at:
+http://jobs.perl.org/job/20718#contact

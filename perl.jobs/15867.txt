@@ -1,0 +1,187 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15867
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6613 invoked from network); 24 Mar 2017 21:34:45 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 24 Mar 2017 21:34:45 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7AD3A11D3FE
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:34:45 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	T_FILL_THIS_FORM_SHORT autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 943AC11DDC2
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:34:42 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 5832511D3FE
+	for <jobs@perl.org>; Fri, 24 Mar 2017 14:34:32 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id CE080122; Fri, 24 Mar 2017 21:34:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 24 Mar 2017 21:34:32 +0000
+Message-ID: <20170324213432.CE080122@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.24.213016
+Subject: Perl Developer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2017
+
+Job title: Perl Developer
+
+Company name: craigslist
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+craigslist seeks perl web developers to: 
+* imagine, design, implement,
+test, and roll out new features 
+* ship code daily, and see it loved (or
+hated) by millions 
+* draw from and contribute to various open source
+projects 
+* enjoy a tech-driven, laid-back, fun-loving workplace 
+
+Required
+skills:
+* 5+ years programming experience
+* proven ability to design,
+develop, and maintain web systems
+* deep understanding of web development
+concepts
+* expert level knowledge in a programming language
+* solid
+troubleshooting and problem solving skills
+* familiarity with Linux/UNIX
+
+Experience with any of the following is beneficial, but not required:
+*
+large scale, big traffic, high performance websites
+* security, web site
+vulnerabilities, phishing attacks
+* machine learning
+* user interface
+design
+* event driven programming
+* internationalization, encoding systems,
+Unicode
+* anti-fraud / spam / scam systems
+* accounts receivable & billing
+systems
+* QA / automated testing
+* queuing / job scheduling systems
+*
+networking protocols
+* build systems
+* project management
+
+The ideal
+candidate:
+* self-motivated and highly productive
+* a data-driven problem
+solver
+* passionate about helping (and delighting) end users
+* loves
+learning and teaching others
+* passion for automation
+* makes teammates
+better
+* resourceful and adaptable
+* communicates effectively
+* empathetic
+and self-aware
+* loves craigslist
+
+A sampling of the technologies we work
+with includes: 
+* Perl, Linux, Apache, MySQL 
+* python, node.js, C/C++ 
+*
+Javascript, jquery, AJAX 
+* redis, mongoDB, SQLite 
+* HTML, CSS, JSON, XML 
+
+craigslist offers: 
+* an unusually philanthropic company mission and
+philosophy 
+* a small team (~50) of fun-loving, smart, interesting,
+idealistic people 
+* non-garden-variety tech challenges at
+billions-of-page-views-per-day 
+* a tech nirvana, free from VCs, MBAs,
+sales, marketing, biz dev, or pivoting 
+* big company stability and
+benefits -- w/o the dysfunction and despair 
+* competitive market rates for
+you -- free classifieds for humanity 
+
+craigslist benefits include: 
+* 100%
+paid (including eligible dependents) health and dental insurance 
+*
+craigslist-provided health reimbursement account ($3K-$7K) 
+* 3-to-1 match
+on employee charitable donations (up to 10% of salary) 
+* 401(k) matching
+program (up to 6% of salary), with immediate vesting 
+* 4 weeks paid time
+off; 10 paid holidays 
+* commuting stipend (up to $245/month) 
+* wellness
+stipend (up to $150/month); weekly in-office yoga 
+* mobile phone and
+at-home internet stipend (up to $250/month) 
+* bike-friendly culture,
+in-office bicycle parking 
+* healthy (vegan, vegetarian, omnivore)
+breakfast, lunch, and snacks daily 
+* SF HQ - 25' ceilings, all natural
+light, adjustable height desks, CoffeeBot 9000 
+
+Please note: This position
+is based in craigslist's San Francisco office. Relocation expenses will be
+provided. Candidates must be authorized to work in the United States
+without sponsorship.
+
+To apply, please send your plain text resume, a cover
+email which includes a summary of your technical strengths and interests,
+and Perl Developer in the subject line to
+tdkhv-5992271423@job.craigslist.org. No attachments, please. 
+
+craigslist
+is an equal opportunity employer. craigslist policy prohibits
+discrimination based on age, genetic information, marital/domestic partner
+status, medical condition (including cancer, genetic characteristics, or
+AIDS/HIV status), mental or physical disability, national origin and
+ancestry (including language use and holding a driver's license granted
+under Vehicle Code section 12081.9), race and color, creed, religion, sex
+(including pregnancy, perceived pregnancy, childbirth, breastfeeding, and
+related medical conditions), gender, gender identity/expression, sexual
+orientation, weight, height, military/veteran status, or any other
+characteristic protected by federal, state, or local laws.
+
+Website for more information:
+http://www.craigslist.org/about/craigslist_is_hiring
+
+Contact information at:
+http://jobs.perl.org/job/19048#contact

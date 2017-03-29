@@ -1,0 +1,168 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15869
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7107 invoked from network); 24 Mar 2017 21:36:07 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 24 Mar 2017 21:36:07 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5898611D339
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:36:07 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 374E911D8AF
+	for <perlmail-jobs@onion.perl.org>; Fri, 24 Mar 2017 14:36:02 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id C25DB11D339
+	for <jobs@perl.org>; Fri, 24 Mar 2017 14:36:01 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 40762122; Fri, 24 Mar 2017 21:36:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 24 Mar 2017 21:36:01 +0000
+Message-ID: <20170324213601.40762122@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.3.24.213016
+Subject: Full Stack Developer / Sys Admin - The Register - London UK OR Remote (part onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20712
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 20, 2017
+
+Job title:
+Full Stack Developer / Sys Admin - The Register - London UK OR Remote
+
+Company name: The Register
+
+Location: London, United Kingdom
+
+Pay rate:
+GBP£ 30K - 50K Depending on experience and location
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Situation Publishing, owner of The Register, is looking for a full-stack
+software developer/sysadmin to work on server side Perl code and
+Debian-based servers.
+
+You'll work in our London office, or from your own
+home office anywhere in the world, doing a combination of software
+development and on-going maintenance and tasks such as log reporting,
+server monitoring, applying software updates and system tuning to ensure
+the availability and quality of our online presence, as well as planning,
+making design and architectural decisions, and a mix of new development and
+improvement of backend and client-side code.
+
+Required skills:
+
+Excellent
+English and communication skills
+Legal right to work in the UK – if you
+choose to work from our London office
+Experience writing Perl, or excellent
+skills in a similar language and be happy to bend them to working with Perl
+Experience writing (valid) HTML, Javascript and CSS
+Debian/Ubuntu
+experience, and comfort with the shell
+Good knowledge of Apache and NGINX
+Experience working with both MySQL and Postgres
+Comfort using software
+revision control (e.g. Git)
+Comfort using SQL (“raw” and through
+abstractions like DBIx::Class)
+Debian package management, and day-to-day
+system administration
+
+Desired skills:
+
+Familiarity and experience with
+server virtualisation (LXC, VirtualBox, etc)
+Testing and monitoring
+Mail
+servers (e.g. Exim)
+Cloud services (e.g. AWS, Scaleway, DO, etc)
+
+Broadly
+put, we favour open source: we use Debian/Ubuntu, Perl, Apache, NGINX,
+Exim, Redis, MySQL & Postgres in our stack. We rely heavily on Git for
+process and revision control. We sometimes write our own tools. Our
+business is on the web and spans the entire world.
+
+Our tech team is small,
+focused and has a good degree of autonomy, so you need to be able to
+produce great work and be comfortable communicating with the wider business
+via email, phone, instant messaging and online tools such as Skype, Trello,
+Wikis and Google Docs.
+
+We are looking for a full-stack software
+developer/sysadmin to help take off the tech team’s load of system
+administration and general backend development, while also being
+comfortable making client-side changes where required.
+
+We offer a
+competitive yearly contract rate based on your experience. If you choose to
+work from our London office as an employee instead, we offer company
+pension contribution and 25 days annual holiday.
+
+To apply, please send
+your CV to jobs@sitpub.com and include your salary/yearly contract rate
+expectations plus a brief answer to any one of the following:
+
+- Which
+non-default deb package do you always like to install on a fresh system,
+and why?
+- What non-core CPAN module could you not live without, and why?
+-
+When configuring Apache, which non-core mod_* do you like to be installed,
+and why?
+
+Desired skills:
+Required skills:
+
+Excellent English and communication skills
+Legal right to
+work in the UK – if you choose to work from our London office
+Experience
+writing Perl, or excellent skills in a similar language and be happy to
+bend them to working with Perl
+Experience writing (valid) HTML, Javascript
+and CSS
+Debian/Ubuntu experience, and comfort with the shell
+Good knowledge
+of Apache and NGINX
+Experience working with both MySQL and Postgres
+Comfort
+using software revision control (e.g. Git)
+Comfort using SQL (“raw” and
+through abstractions like DBIx::Class)
+Debian package management, and
+day-to-day system administration
+
+Desired skills:
+
+Familiarity and
+experience with server virtualisation (LXC, VirtualBox, etc)
+Testing and
+monitoring
+Mail servers (e.g. Exim)
+Cloud services (e.g. AWS, Scaleway, DO,
+etc)
+
+Website for more information: https://www.theregister.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/20712#contact
