@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15872
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11381 invoked from network); 7 Apr 2017 18:09:40 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Apr 2017 18:09:40 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7EFCC11D9DA
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:09:40 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A89FC11DA4D
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:09:38 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 954A711D9DA
+	for <jobs@perl.org>; Fri,  7 Apr 2017 11:09:38 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 888651C4; Fri,  7 Apr 2017 18:09:38 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 7 Apr 2017 18:09:38 +0000
+Message-ID: <20170407180938.888651C4@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.7.175716
+Subject: Perl / Python Programmer (part onsite), Fort Myers, FL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20716
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2017
+
+Job title: Perl / Python Programmer
+
+Company name: Nittany Web Works
+
+Location: Fort Myers, FL, United States
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Will create new code for solutions/improvements, as well as
+maintain/support some existing code. Data import/export enthusiast with
+talent for writing efficient scripts.
+
+Desired skills:
+Expert Python and/or Perl Programmer
+Expert in MySQL Databases
+Expert in
+working with text data - flat files and xml
+Basic Knowledge/Use of HTML &
+CSS
+Competent at Linux System Administration
+Competent at Apache/HTTPD
+Server
+Prefer Basic Knowledge of Memcache
+Prefer Basic Knowledge of
+ElasticSearch
+
+Website for more information:
+http://www.nittanyweb.com/work_for_nittany_web_works.htm#prog
+
+Contact information at:
+http://jobs.perl.org/job/20716#contact

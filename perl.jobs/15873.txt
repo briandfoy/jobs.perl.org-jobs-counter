@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15873
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14483 invoked from network); 7 Apr 2017 18:15:48 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Apr 2017 18:15:48 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5AEE811D883
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:15:38 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 6BCD911DFE1
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:15:34 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id F0A1D11D883
+	for <jobs@perl.org>; Fri,  7 Apr 2017 11:15:32 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 36B6C1D6; Fri,  7 Apr 2017 18:15:02 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 7 Apr 2017 18:15:02 +0000
+Message-ID: <20170407181502.36B6C1D6@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.7.180616
+Subject: Largest Perl team in London with beautiful Docklands offices (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20724
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2017
+
+Job title:
+Largest Perl team in London with beautiful Docklands offices
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK
+
+Pay rate: Strong
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Large, dynamic Perl team in Canary Wharf looking for mid-level and senior
+developers. Run by a Perl-loving CTO in beautiful offices with a great view
+over Canary Wharf, the company manages one legacy Perl codebase and a whole
+bunch of very new, very shiny, and very modern codebases that power the
+market-leading solution in their particular area. Free breakfast, too, for
+some values of breakfast.
+
+The company has a number of big-data and data
+analysis projects, and have bet heavily on AWS, for everything from
+autoscaling to Redshift. They use a variety of Modern Perl technologies
+across their projects, with codebases using Mojo, Dancer, DBIx::Class, and
+regularly send developers to YAPC.
+
+The company has maintained its small
+company feel, despite being bought a few years ago by a much larger
+company, and the office is super-friendly and supportive.
+
+Desired skills:
+Exposure to AWS helpful but not required. Most projects will require at
+least some degree of HTML/Javascript/CSS. Modern Perl a huge plus
+
+Website for more information:
+https://perl.careers/jobs/largest-perl-team-in-london-with-beautiful-dockla
+nds-offices/
+
+Contact information at:
+http://jobs.perl.org/job/20724#contact

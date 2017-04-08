@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15877
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13986 invoked from network); 7 Apr 2017 18:14:57 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Apr 2017 18:14:57 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C0A9A11D883
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:14:57 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A016311DA4D
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:14:55 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 8E57A11D883
+	for <jobs@perl.org>; Fri,  7 Apr 2017 11:14:55 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 52C701D6; Fri,  7 Apr 2017 18:14:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 7 Apr 2017 18:14:55 +0000
+Message-ID: <20170407181455.52C701D6@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.7.180616
+Subject: The only (UK) Perl job with a swimming pool -- Financial Services (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20720
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2017
+
+Job title:
+The only (UK) Perl job with a swimming pool -- Financial Services
+
+Company name: Perl Careers
+
+Location: London, United Kingdom
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The best thing – in my opinion, anyway – about working for a development
+team led by an active member of the London Perl community, is that you know
+management love Perl, support using the best available Perl tooling, and
+will create a technical environment where Perl developers will be happy.
+You will be happy here!
+
+Client is a financial services company based in
+the City of London, and is the only Perl employer in the world (apart from
+Evozon) to have a swimming pool onsite. Notably friendly and welcoming
+environment, with modern codebase.
+
+Desired skills:
+- Have Modern Perl experience;
+- An existing right to work in the UK;
+-
+Want to work with a group of friendly, nice people;
+- Think going for a
+swim after a hard day of Perl hacking sounds ideal (optional)
+
+Website for more information:
+https://perl.careers/jobs/the-only-perl-job-with-a-swimming-pool-very-excit
+ing-financial-services-company-city-of-london/
+
+Contact information at:
+http://jobs.perl.org/job/20720#contact

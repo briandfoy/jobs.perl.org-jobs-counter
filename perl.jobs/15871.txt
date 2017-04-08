@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15871
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11300 invoked from network); 7 Apr 2017 18:09:23 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Apr 2017 18:09:23 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8A64211DA4D
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:09:23 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2C4AE11DDE9
+	for <perlmail-jobs@onion.perl.org>; Fri,  7 Apr 2017 11:09:21 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id C8B4611DA4D
+	for <jobs@perl.org>; Fri,  7 Apr 2017 11:09:20 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id BCDD41C4; Fri,  7 Apr 2017 18:09:20 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 7 Apr 2017 18:09:20 +0000
+Message-ID: <20170407180920.BCDD41C4@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.7.180017
+Subject: Perl Developer (Internal Systems) (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20638
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2017
+
+Job title: Perl Developer (Internal Systems)
+
+Company name: cPanel
+
+Location: Houston, TX
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel is growing its Internal Systems Development department and looking
+for a software craftsman with advanced knowledge of Perl and working
+knowledge of Linux.  You'll be tasked with developing, implementing, and
+maintaining cPanel's internal and external software products.  Sound like
+this could be you?  Read on. 
+
+These are the essential duties required of
+the position
+
+● Refactor, optimize, and maintain existing software to
+perform more efficiently or to work within new constraints.
+
+● Create new
+software used to support, distribute or maintain cPanel products.
+
+●
+Perform advanced testing and debugging to identify and resolve problems in
+existing systems.​
+    
+● Participate in code reviews and assists other
+team members with support and analysis of external and internal systems.
+
+●
+Contribute knowledge from personal analysis to company databases.
+
+● Adhere
+to the policies and procedures of the company.
+
+● Adhere to coding and
+development standards and practices provided by cPanel.
+
+● Prepare ad hoc
+reports for management and company executives.
+
+Desired skills:
+● Strong knowledge of Perl including:  database driven web development,
+Object Oriented Programming using Perl best practices
+
+● Good working
+knowledge of web development technologies including JavaScript, Ajax, and
+jQuery
+
+● Good working knowledge of Linux and underlying components and
+hosting related services such as:  Web Servers (Apache, nginx, etc), Mail
+Servers (Exim, Sendmail, etc.), and DNS Servers (BIND, NSD, etc.)
+
+● Strong
+working knowledge of SQL syntax and usage
+Familiar with MySQL database
+administration, including database replication
+
+● Strong working  knowledge
+of relational database design
+
+Website for more information:
+http://job.listings.cpanel.net/x/apply/a2ldog9w0ykj
+
+Contact information at:
+http://jobs.perl.org/job/20638#contact
