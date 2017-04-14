@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15891
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13201 invoked from network); 14 Apr 2017 03:46:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:46:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2432E11D339
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:46:51 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 900F511D8A0
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:46:49 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 7FDC211D339
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:46:49 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 38D631CC; Fri, 14 Apr 2017 03:46:49 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:46:49 +0000
+Message-ID: <20170414034649.38D631CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.33616
+Subject: Junior Software Developer (onsite), Duluth, GA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20748
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 11, 2017
+
+Job title: Junior Software Developer
+
+Company name: Equinox Open Library Initiative
+
+Location: Duluth, GA
+
+Pay rate: $62,000 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Assist in the development of new features and fixes for software in use by
+Equinox's clients
+Assist in the creation of end-user documentation
+Active
+involvement within the larger Open Source communities surrounding the
+various software projects Equinox supports, including Koha, Evergreen, and
+FulfILLment
+
+Desired skills:
+Strong customer service focus
+Experience with Perl
+Experience with web
+front-end development, including modern JavaScript and CSS
+Experience with
+SQL, particularly with PostgreSQL, preferred but not required
+Ability to
+work well with minimum direction
+Ability to collaborate closely with
+internal and external stakeholders on mission-critical projects
+Ability to
+communicate effectively both orally and in writing
+Familiarity with
+libraries and library operations preferred but not required
+Some experience
+with Linux system administration is a plus
+
+Website for more information: https://www.equinoxinitiative.org/jobs
+
+Contact information at:
+http://jobs.perl.org/job/20748#contact

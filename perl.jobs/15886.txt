@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15886
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13274 invoked from network); 14 Apr 2017 03:47:54 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:47:54 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1682B11D339
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:54 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B45DC11D360
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:51 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id CA8DF11D339
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:47:34 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9D2A81CC; Fri, 14 Apr 2017 03:47:34 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:47:34 +0000
+Message-ID: <20170414034734.9D2A81CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.33616
+Subject: System Architect (onsite), Breda, The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20730
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2017
+
+Job title: System Architect
+
+Company name: Online Talent Manager
+
+Location: Breda, The Netherlands
+
+Pay rate: 3500 euro
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OTM is a personality test developer. The system maintains and develops
+psychometric instruments, tests candidates, generates reports, and has an
+API (SOAP). After 15 years, I want to try something new, but the system
+lives on and someone needs to take over and grow it farther. Lot's of
+opportunity to move bits of this to another language (if you want to) and
+you will be the whole IT department. Personality testing is a deep subject,
+you will have a lot of opportunity to learn new things.
+Act fast, if I
+cannot find a good candidate, this whole thing gets handed over to a
+development bureau and they'll just rewrite everything in PHP and screw it
+up.
+
+Desired skills:
+Template::Toolkit > HTML > wkhtmltopdf > PDF reports
+SOAP (maintenance)
+(the current API)
+REST interface building (the new API)
+SVG (graphic
+representations of results and making programs to manipulate those images)
+Statistical Analysis (analysis of results)
+Plack (the testing machine is a
+standalone Plack server)
+The rest of it is Perl and web development. If you
+are good with Javascript, that would probably help you in cleaning up and
+improving the user interface.
+
+Website for more information: https://www.onlinetalentmanager.com
+
+Contact information at:
+http://jobs.perl.org/job/20730#contact

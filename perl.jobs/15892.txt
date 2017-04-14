@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15892
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13322 invoked from network); 14 Apr 2017 03:48:00 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:48:00 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 64EA911D360
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:48:00 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B511F11D339
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:56 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 2AAAD11DBD4
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:47:51 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0A3031CC; Fri, 14 Apr 2017 03:47:50 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:47:50 +0000
+Message-ID: <20170414034751.0A3031CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.31216
+Subject: Hate your commute? Perl Developer and Sysadmin? Work from home (ideally in the UK) (telecommute), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20726
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2017
+
+Job title:
+Hate your commute? Perl Developer and Sysadmin? Work from home (ideally in
+the UK)
+
+Company name: Perl Careers
+
+Location: London, United Kingdom
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Well-known media client looking for full-stack Perl person with some
+sysadmin skills considered a distinct advantage. Small and focused team
+looking for another competent problem solver who’s as happy with
+DBIx::Class as they are with Apache, and doesn’t get flustered by jQuery.
+
+While they’d love it if you worked in their UK offices, the team is also
+setup to be remote. If your commute is getting you down, and you have
+better things to do than sacrifice two hours of your precious
+CPAN-committing time to the dark altar of Southern Trains, or indeed you
+just hate the idea of living close enough to daily commute into London, you
+should be all ears...
+
+Desired skills:
+This role is for you if:
+
+- You know the difference between apt-get update
+and apt-get upgrade
+- You have opinions on when you might want to use
+Apache over NGINX
+- Neither '\dt' nor 'show tables;' scares you
+- You know
+what the difference between calling ->search() on a resultset in scalar and
+array context is
+- You can handle CSS and Javascript
+
+Website for more information:
+https://perl.careers/jobs/hate-your-commute-perl-developer-and-sysadmin-wor
+k-from-home/
+
+Contact information at:
+http://jobs.perl.org/job/20726#contact

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15884
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13258 invoked from network); 14 Apr 2017 03:47:46 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:47:46 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 76C4611D8A0
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:46 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2524511DA1F
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:43 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1136F11D8A0
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:47:43 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 02F791CC; Fri, 14 Apr 2017 03:47:42 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:47:42 +0000
+Message-ID: <20170414034743.02F791CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.32417
+Subject: Senior Perl Developer (telecommute), Barcelona, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20728
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2017
+
+Job title: Senior Perl Developer
+
+Company name: InvestManiacs
+
+Location: Barcelona, Spain
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+To whom it may concern,
+
+We are looking for a Senior Perl Developer. It is
+possible to work remotely, the main KPI - accomplished tasks, not the time
+spent on implementation.
+Required skills: 6+ years of professional
+experience with Perl/MySQL. JavaScript is a plus. Flexibility with Linux (
+we hope it is your most favourite OS ). 
+Knowledge about Web/application
+architecture. Experience with LAMP is a benefit.
+Other skills:
+- Logical
+thinking
+- Curiosity
+- Ability to work with the team and without it
+-
+Complete projects on schedule
+- Good English level - effective verbal
+communication/writing.
+
+Desired skills: Perl, Mysql, Javascript, Linux
+
+Website for more information: http://www.investmaniacs.com
+
+Contact information at:
+http://jobs.perl.org/job/20728#contact

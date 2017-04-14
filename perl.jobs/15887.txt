@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15887
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13161 invoked from network); 14 Apr 2017 03:46:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:46:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D8DE811D8A0
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:46:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-0.7 required=6.0 tests=ALL_TRUSTED,BAYES_00,THIS_AD
+	autolearn=no version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4D80611D339
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:46:31 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 4446811D8A0
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:46:31 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2C1801CC; Fri, 14 Apr 2017 03:46:31 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:46:31 +0000
+Message-ID: <20170414034631.2C1801CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.33616
+Subject: Perl Maven (telecommute), California
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20744
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  8, 2017
+
+Job title: Perl Maven
+
+Location: California
+
+Pay rate: Open
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Looking for a backup PERL programmer to learn a complex system, help with
+its development and eventually take over when I leave, whether that is by
+someone's choice or homicide or too much rap music.
+
+Person must have
+exponential moons of experience; be quite adept at creating logical
+scripts; be willing to learn a rather intense and large system; know how to
+follow directions; not be a thorn or a prick as it were; comprehend
+mechanisms and procedures beyond mortal, politically correct, self-aware
+living organisms; not be a species parasite or viral infection; be willing
+to learn how scripts run, what does what, what flow takes one to what level
+of consciousness and be able to retroactively answer any question asked
+before it is contemplated. Or something relatively close thereto.
+
+Did I
+mention PERL?!?! We're talking expert level here. Json, Rest API, Ajax,
+jQuery, LWP, net:FTP, Excel creation and a mighty small amount of Php are
+necessary knowledge sets. Awareness of Windows and Unix environments for
+PERL execution. Best if close to if not completely at expert level in
+running both systems. Kudos and brownie points to those who shine at server
+tasks.
+
+I am not looking to go further into insanity in this search so save
+the time if you can't justify the reality of your qualifications.
+Absolutely NO beginners, wannabees, intern spores or speedo wearing nerds
+seeking redemption from life's travails: suck it up buttercup. And the
+anticipated exit of myself to turn this over to a trained and ready for
+prime-time player is not anticipated soon. Later, but not soon. Define soon
+as you will.
+
+To apply, respond to this ad using the nifty email feature
+giving who, what, when, why, how and what for; as well as a pitch that
+tells me about yourself , your experience and that you know what you're
+talking about.
+
+Perl is very much alive and Monks tend to look down at
+lowly bottom feeding Php'ers. But not here. Well. OK. Honestly. This is
+going to be a running ad until the right person is found. Once applied DO
+NOT follow up. You'll be contacted IF you meet the requirements and are
+being added to any short list. It only matters where you live if you live
+outside of the United States. U.S. residents ONLY! All others will be
+discarded.
+
+Thank you for reading and have a peachy day.
+
+Desired skills:
+PERL
+Json
+Rest API
+Ajax
+jQuery
+LWP
+net:FTP
+Excel creation
+Php
+
+Contact information at:
+http://jobs.perl.org/job/20744#contact

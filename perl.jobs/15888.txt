@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15888
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13223 invoked from network); 14 Apr 2017 03:47:08 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 14 Apr 2017 03:47:08 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5023B11D339
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:08 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 63AB211D8A0
+	for <perlmail-jobs@onion.perl.org>; Thu, 13 Apr 2017 20:47:02 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 2904D11D360
+	for <jobs@perl.org>; Thu, 13 Apr 2017 20:47:02 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F04801CC; Fri, 14 Apr 2017 03:47:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Apr 2017 03:47:01 +0000
+Message-ID: <20170414034701.F04801CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.14.33616
+Subject: Software Engineer (onsite), San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20750
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 11, 2017
+
+Job title: Software Engineer
+
+Company name: Capital One
+
+Location: San Francisco
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Description
+
+As a Capital One Software Engineer, you'll work on
+everything from customer-facing web and mobile applications using
+cutting-edge open source frameworks, to highly-available RESTful services,
+to back-end Java based systems using the hottest techniques in Big Data.
+You'll bring solid experience in emerging and traditional technologies such
+as: Modern Perl, node.js, Java, AngularJS, React, Python, Selenium, REST,
+JSON, XML, Ruby, HTML / HTML5, CSS, NoSQL databases, relational databases,
+Hadoop, Chef, Maven, iOS, Android, and AWS/Cloud Infrastructure to name a
+few. 
+
+You will:
+
+Work with product owners to understand desired
+application capabilities and testing scenarios - Continuously improve
+software engineering practices
+Work within and across Agile teams to
+design, develop, test, implement, and support technical solutions across a
+full-stack of development tools and technologies
+Lead the craftsmanship,
+availability, resilience, and scalability of your solutions
+Bring a passion
+to stay on top of tech trends, experiment with and learn new technologies,
+participate in internal & external technology communities, and mentor other
+members of the
+engineering community
+
+Encourage innovation, implementation
+of cutting-edge technologies, inclusion, outside-of-the-box thinking,
+teamwork, self-organization, and diversity
+
+Desired skills:
+Basic Qualifications:
+
+At least 1 year experience programming with Perl
+Bachelors Degree or military experience
+At least 2 years experience in
+software development
+At least 1 years of MySQL or Postgres database
+experience
+
+Preferred Qualifications:
+
+Masters Degree
+3+ years experience
+in software development. 
+Strength in Perl and proficiency with the Linux
+shell is desirable.
+3+ years experience in Agile practices
+At this time,
+Capital One will not sponsor a new applicant for employment authorization
+for this position.
+
+Website for more information:
+https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/San-Francisco-CA/S
+oftware-Engineer_R23698
+
+Contact information at:
+http://jobs.perl.org/job/20750#contact
