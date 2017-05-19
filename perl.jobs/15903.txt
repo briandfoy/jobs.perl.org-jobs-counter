@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15903
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29932 invoked from network); 17 May 2017 21:31:42 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:31:42 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2468D11DFE2
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:42 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id BD18611F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:39 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id A863E11DFE2
+	for <jobs@perl.org>; Wed, 17 May 2017 14:31:39 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7C72B1CC; Wed, 17 May 2017 21:31:39 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:31:39 +0000
+Message-ID: <20170517213139.7C72B1CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.23.31816
+Subject: Perl Developer - 6 Month Contract, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20786
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2017
+
+Job title: Perl Developer - 6 Month Contract
+
+Company name: Eligo
+
+Location: London
+
+Pay rate: £325 to £425
+
+Description:
+You're a Perl Developer. Your skills lie in working for market leaders,
+helping them with projects across web and mobile. You develop APIs for
+breakfast, utilising your expertise with Perl on a day-to-day basis. You're
+a wizard when it comes to getting things up and running in no time at all.
+
+Bring your knowledge on board as you join up with one of the UK's market
+leaders in their sector- and that's not just recruiter talk, they regularly
+top brand recognition surveys. They need a Perl developer just like
+yourself to come on board, developing new features and additions on their
+main platform, used by millions across the country.
+
+This environment will
+put your Perl knowledge to work on every aspect of the platform- from the
+APIs and data processing, through to search optimisation and various
+algorithms. Trust me, you'll have so much to do, you'll enjoy every minute
+of it!
+
+The details:
+
+Join a market leading brand on an initial 6 month
+contract, developing in Perl as you work on their main platform, utilised
+by millions every month
+They're looking for strong experience with Perl,
+MySQL, Linux and web services, ideally coupled with front end tech and
+knowledge of mobile development
+Want to hear more? 
+
+Apply now, and we can
+talk about the next step in your career!
+
+Website for more information: http://eligo.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20786#contact

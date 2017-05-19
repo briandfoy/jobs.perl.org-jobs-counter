@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15902
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31639 invoked from network); 17 May 2017 21:42:32 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:42:32 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B889F11F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:42:31 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00,
+	LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A16F311DBCF
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:42:29 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 6407811F113
+	for <jobs@perl.org>; Wed, 17 May 2017 14:42:01 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 4794A1CC; Wed, 17 May 2017 21:42:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:42:01 +0000
+Message-ID: <20170517214201.4794A1CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.23.31816
+Subject: Perl Programmer (onsite), Cary, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20768
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 24, 2017
+
+Job title: Perl Programmer
+
+Company name: Insight Global
+
+Location: Cary, NC
+
+Pay rate: $120,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The engineering team is responsible for maintaining and updating a Perl API
+and management portal which provisions instances of Tomcat, JBoss and
+WebLogic. Users manage those instances using the management portal which
+allows them to start, stop and upgrade their environments, amongst other
+things. The platform is deployed on Linux infrastructure. The team is now
+branching out into management and automation with Ansible.
+
+Desired skills:
+Must Haves:
+	Skilled programming in Perl.
+	Knowledge of
+automation with Ansible.
+	Knowledge of Linux configuration and
+management.
+	Basic web programming with HTML and CSS.
+      
+Experience with GIT
+
+
+Plusses: 
+•	MySQL / MariaDB
+•	RHEL RHCSA
+or RHCE
+•	TCP / IP
+•	Python
+•	Mojolicious
+•	Java or
+any Java Platform language e.g., Jython, Groovy, Clojure, etc.
+
+Website for more information: https://www.linkedin.com/in/kyle-waters-020a3b87/
+
+Contact information at:
+http://jobs.perl.org/job/20768#contact

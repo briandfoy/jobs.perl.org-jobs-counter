@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15911
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23427 invoked from network); 17 May 2017 21:04:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:04:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0645E11D89B
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:04:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4BA5011DBBE
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:04:26 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 65B9311D87D
+	for <jobs@perl.org>; Wed, 17 May 2017 14:04:21 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 173781F3; Wed, 17 May 2017 21:04:21 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:04:21 +0000
+Message-ID: <20170517210421.173781F3@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.205116
+Subject: Perl Developer (onsite), Boston, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20740
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title: Perl Developer
+
+Company name: inviCRO
+
+Location: Boston, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Perl Developer will extend our web-based study management and storage
+application (iPACS). The iPACS is a platform used by researchers worldwide
+to provide tools for managing, data mining and reporting on large amounts
+of medical imaging data. A flexible solution developed for both in-house
+and external applications, the iPACS is currently installed at more than
+half of the top 25 pharmaceutical companies.
+
+Responsibilities: 
+
+•Develop
+test, and maintain the iPACS Data Model (DBIx)
+
+•Implement the iPACS
+Business Logic Layer (Perl Moose, Catalyst)
+
+•Serve as development Project
+Lead for customer driven development 
+projects
+
+•Assess, improve, and
+maintain iPACS environment (including server, network, and hosting
+environment)
+
+•Develop unit tests using the Test::More testing framework
+
+Desired skills:
+•Bachelor’s degree in Computer Science or related discipline; relevant
+experience may substitute for the degree requirement on a year for year
+basis
+
+•3+ years of work experience in complex systems design, application
+support, and network security
+
+•Demonstrated experience with Modern Perl,
+Catalyst MVC Framework, DBIx::Class, and Template::Toolkit.
+
+•Expert
+knowledge of HTML, CSS, and JavaScript (OO JS, DOM manipulation, AJAX,
+JSON)
+
+•Strong background in Web 2.0 technologies and frameworks (HTML5,
+CSS3, Bootstrap, jQuery, REST)
+
+•Understanding user interface best
+practices and standards
+
+•Familiarity with development and debugging tools
+
+•Solid object oriented skills
+
+•Preferred knowledge of computer system
+hardware and software validation in GCP environments
+
+Website for more information:
+https://www.invicro.com/about-us/careers/#op-95835-full-stack-web-developer
+
+Contact information at:
+http://jobs.perl.org/job/20740#contact

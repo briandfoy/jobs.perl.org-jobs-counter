@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15906
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23375 invoked from network); 17 May 2017 21:03:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:03:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EE65611DA1D
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:03:50 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9424111D87C
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:03:47 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id E7EB111DBBE
+	for <jobs@perl.org>; Wed, 17 May 2017 14:03:42 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 78B551F3; Wed, 17 May 2017 21:03:42 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:03:42 +0000
+Message-ID: <20170517210342.78B551F3@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.205116
+Subject: Perl Developer Gdansk Poland (telecommute), Gdasnk, Poland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20734
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title: Perl Developer Gdansk Poland
+
+Company name: Kalkuluj.pl Sp. z o. o.
+
+Location: Gdasnk, Poland
+
+Pay rate: 20 PLN
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Looking for part-time Perl developer to help with web development
+
+Desired skills:
+Must have experience with Perl, Linux, MySQL and Javascript. 
+A knowlage of
+working with very large web databases.
+
+Website for more information: https://kalkuluj.pl/
+
+Contact information at:
+http://jobs.perl.org/job/20734#contact

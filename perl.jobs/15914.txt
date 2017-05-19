@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15914
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 311 invoked from network); 17 May 2017 21:43:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:43:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id BCEAE11D89E
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:43:51 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2A3CB11DBBE
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:43:49 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id B1F5911D89E
+	for <jobs@perl.org>; Wed, 17 May 2017 14:43:48 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E08CC16D; Wed, 17 May 2017 21:43:47 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:43:47 +0000
+Message-ID: <20170517214347.E08CC16D@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213617
+Subject: Software Engineer (telecommute), Santa Monica, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20312
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title: Software Engineer
+
+Company name: ZipRecruiter
+
+Location: Santa Monica, CA
+
+Pay rate: Salaried
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+ZipRecruiter is looking to expand our engineering team. We are a successful
+startup (~7 years old, ~650 employees) and we're still growing rapidly. 
+
+We help employers and recruiters distribute their jobs online and screen
+their applicants. We also provide a job search engine and job alert email
+for job seekers and other job boards. We have a large number of paying
+customers and job seekers using our services. You will have the opportunity
+to lead significant projects. We pay market competitive salaries and offer
+generous cash bonuses and equity. We are more laid back than the average
+startup and more fun than the average BigCo. 
+
+We're looking for strong
+generalist engineers who are happy to learn new technologies, and are
+willing to think like product/business people who personally implement
+software. 
+
+Technologies we use: 
+
+Perl, Python, MySQL, Amazon Web
+Services, Elasticsearch, Ubuntu 
+
+
+We prefer candidates to be based with us
+in Santa Monica, CA, but we're open to remote as well.
+
+Desired skills:
+Solid software design skills! 
+
+Perl programming in a Linux/Unix
+environment!
+
+SQL!
+
+AWS!
+ 
+Elasticsearch!
+ 
+Testing Automation!
+
+Website for more information:
+https://www.ziprecruiter.com/jobs/ziprecruiter-03f90393/full-stack-software
+-engineer-perl-e6adb5dd?same_org_id=1&widgetlink=1
+
+Contact information at:
+http://jobs.perl.org/job/20312#contact

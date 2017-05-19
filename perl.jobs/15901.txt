@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15901
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30046 invoked from network); 17 May 2017 21:32:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:32:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F0CFD11DBCF
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:32:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D750611F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:32:30 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 9101B11DBCF
+	for <jobs@perl.org>; Wed, 17 May 2017 14:32:30 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F41D41CC; Wed, 17 May 2017 21:32:29 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:32:29 +0000
+Message-ID: <20170517213229.F41D41CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.212417
+Subject: Perl Developer who wants to learn Scala and NodeJS - West London (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20794
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 14, 2017
+
+Job title:
+Perl Developer who wants to learn Scala and NodeJS - West London
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK
+
+Pay rate: Very Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Love Perl but want to skill-up on another stack at your employer’s expense?
+Client is a major and dynamics UK company with a large (and pretty Modern)
+Perl codebase who have started extended their technical stack to include
+Scala and NodeJS.
+
+Looking to replace a much-loved colleague who’s off to
+The Land Down Under after a good innings, you’ll be filling big shoes in a
+cross-functional team who take Agile and Scrum seriously.
+
+You’ll be able
+to leverage your already very strong Perl skills extending and building new
+services in Perl, Scala, and NodeJS as appropriate. You’ll be expected to
+bring a good head for service design and software architecture to bear
+across all platforms, while getting up to speed with the alternative
+software stacks.
+
+Website for more information:
+https://perl.careers/jobs/perl-developer-who-wants-to-learn-scala-and-nodej
+s---west-london/
+
+Contact information at:
+http://jobs.perl.org/job/20794#contact

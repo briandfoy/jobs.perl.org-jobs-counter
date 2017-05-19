@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15913
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29906 invoked from network); 17 May 2017 21:31:23 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:31:23 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 35F2C11DBCF
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:23 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 965A511DFE2
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:21 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 8867611DBCF
+	for <jobs@perl.org>; Wed, 17 May 2017 14:31:21 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 349C31CC; Wed, 17 May 2017 21:31:21 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:31:21 +0000
+Message-ID: <20170517213121.349C31CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.23.31816
+Subject: System administrator and Perl Scripter (telecommute), Dubai
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20782
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2017
+
+Job title: System administrator and Perl Scripter
+
+Company name: AMEEX
+
+Location: Dubai
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+- Research, development, scripting
+- Responsible for administration of UNIX
+based systems
+- Performing special projects and initiatives as assigned.
+-
+Preparing technical deployment plans and system utilization reports
+-
+Supporting our customers
+- Include some work off hours
+- Some int'l trips
+from time to time
+
+Desired skills:
+- UNIX, Linux
+- Apache and usual Internet Servers
+- A lot of Perl and
+Shell. A little bit of C
+- AWS Amazon
+- SS7 (Netfors, Telestax, Ulticom)
+-
+SMPP (SendXMS)
+- TCP/IP and VPN (Cisco, Juniper)
+
+Contact information at:
+http://jobs.perl.org/job/20782#contact

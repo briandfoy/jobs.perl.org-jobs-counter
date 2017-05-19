@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15894
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31032 invoked from network); 17 May 2017 21:39:59 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:39:59 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 552A211F113
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:39:59 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0750311F107
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:39:57 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 84D2211F101
+	for <jobs@perl.org>; Wed, 17 May 2017 14:39:56 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 532CC29C; Wed, 17 May 2017 21:39:56 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:39:56 +0000
+Message-ID: <20170517213956.532CC29C@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213617
+Subject: Senior Perl Developer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2017
+
+Job title: Senior Perl Developer
+
+Company name: All Around The World
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Want a remote Perl job working for a great company with colleagues from all
+around the world? We are looking for four developers, with at least one
+having strong front-end skills. 
+
+We do set a high bar on who we employ, so
+if joining a bunch of Perl hackers who love the language sounds like fun,
+send us your CV and we'll send you our programming test. In return, because
+we value your time, Ovid will evaluate the test and will send you feedback
+on how you did and areas for improvement, if any. 
+
+Most of our clients are
+in Europe and we require developers to be able to provide at least four
+hours of overlap with them.
+
+Desired skills:
+Perl. Strong Perl. You love the language. This is the only solid
+requirement. 
+
+Front-end skills (HTML, CSS, JS, not design) are often very
+useful. 
+
+Good communication skills. 
+
+Understanding databases is
+important.
+
+Website for more information: https://allaroundtheworld.fr/
+
+Contact information at:
+http://jobs.perl.org/job/20798#contact

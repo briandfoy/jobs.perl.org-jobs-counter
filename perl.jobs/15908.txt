@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15908
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29876 invoked from network); 17 May 2017 21:31:07 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:31:07 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5A4BF11F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:07 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7330311DFD7
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:05 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1793F11F10D
+	for <jobs@perl.org>; Wed, 17 May 2017 14:30:30 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id EC05F1CC; Wed, 17 May 2017 21:30:29 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:30:29 +0000
+Message-ID: <20170517213029.EC05F1CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.23.31816
+Subject: Do you speak French, Perl, and passable English? Bilingual Perl developer needed in London (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20778
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 30, 2017
+
+Job title:
+Do you speak French, Perl, and passable English? Bilingual Perl developer
+needed in London
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, United Kingdom
+
+Pay rate: pas mal
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My London-based client is interested in native (or near-native) French
+speakers who are interested in relocating to London (to join an
+English-speaking team). While the majority of projects are undertaken in
+English, the client works with a number of European clients where ability
+to read and process French technical documentation would be helpful.
+
+The
+company has a strong Perl team and a focus on “Modern” Perl, as well as a
+real commitment to open-source.
+
+Desired skills:
+The ideal candidate has:
+
+    Experience with DBIx::Class and either
+Postgres or MySQL
+    Template Toolkit
+    Experience with at least one of
+the modern web frameworks: Dancer, Mojolicious, Catalyst
+    Exposure to
+Moose would be ideal
+
+No degree or educational requirements, just strong
+Perl experience.
+
+Website for more information:
+http://perl.careers/jobs/do-you-speak-french-perl-and-passable-english-bili
+ngual-perl-developer-needed-in-london/
+
+Contact information at:
+http://jobs.perl.org/job/20778#contact

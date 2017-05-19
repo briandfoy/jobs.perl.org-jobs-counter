@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15893
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1051 invoked from network); 17 May 2017 21:47:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:47:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C83BC11F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:47:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9DB9911F0FA
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:47:02 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 5497E11F0E6
+	for <jobs@perl.org>; Wed, 17 May 2017 14:47:01 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D6D352AB; Wed, 17 May 2017 21:47:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:47:01 +0000
+Message-ID: <20170517214701.D6D352AB@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213916
+Subject: PERL Developer (onsite), Madrid, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20756
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title: PERL Developer
+
+Company name: Buenos Y Baratos
+
+Location: Madrid, Spain
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+We are looking for a junior developer with 1 year of experience with the
+following qualifications: PERL
+
+Any other skills are welcomed and they will
+be considered an advantage.
+
+Desired skills:
+Fluent in English
+Witty and Creative
+
+Website for more information: http://buenosybaratos.es
+
+Contact information at:
+http://jobs.perl.org/job/20756#contact

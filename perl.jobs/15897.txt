@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15897
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1025 invoked from network); 17 May 2017 21:46:24 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:46:24 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5C91A11DFEC
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:46:24 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5956A11F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:46:21 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1DB7011DFEC
+	for <jobs@perl.org>; Wed, 17 May 2017 14:46:21 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F347B2AB; Wed, 17 May 2017 21:46:20 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:46:20 +0000
+Message-ID: <20170517214620.F347B2AB@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213916
+Subject: Sr. SW Engineers Perl - building new teams (Prague or Brno, CZ) (onsite), Prague or Brno, Czech Republic)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20758
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title:
+Sr. SW Engineers Perl - building new teams (Prague or Brno, CZ)
+
+Company name: GoodData
+
+Location: Prague or Brno, Czech Republic)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Even better times are coming to GoodData - after closing several
+outstanding deals we are currently building new unique teams and are
+looking for several skilled Perl Developers not afraid of big challenges.
+ 
+Who are we looking for?
+
+Are you a passionate engineer with professional
+knowledge of Perl willing try and learn new technologies? Would you like to
+know what it’s like to code back-end able to upload fifteen terabytes of
+data into our data marts a day, and serve analytics over hundreds of TBs in
+parallel for millions of users? And the best of all, in real-time. If the
+answer is yes, GoodData is the right place for you.
+We are looking for a
+new colleague with the ability to come up with new ideas, and never easily
+give up to pursue others. Being a team player is a must.
+
+
+What an
+outstanding you will be doing at GoodData?
+
+We are not only seeking an
+experienced professional familiar with Perl development, above that, you’ll
+be a contributor to architecture and design of distributed software in a
+private cloud of tens of thousand gigabytes RAM and thousands of CPUs.
+Working with the latest technologies unique in the BI market such as the
+MAQL, which is a powerful BI analytics language invented in GoodData. You
+will be a part of the team responsible for development of the heart of the
+GoodData platform such as our analytics engine and our data marts.
+You’ll
+be working with top experts in the real-time analytics distribution
+platform field and professionals in a variety of technologies and other
+programming languages such as Java, Erlang, Scala, Python, Ruby and
+JavaScript.
+
+Extra goodies:
+- informal working environment and fun company
+culture
+- annual bonuses
+- stock options
+- flexible working hours
+- your
+choice of MacBook or Lenovo laptop
+- 25 days of vacation + 6 sick days
+-
+generous referral bonus program
+- lunch vouchers
+- employee mobile tariff
+-
+relax zones, gym, sports program 'GoodLife'
+- regular company pub evenings
+and social events
+- fridges full of free refreshments, and more
+
+Desired skills:
+Your skills:
+- Professional Perl knowledge and desire to learn other
+programming languages
+- 5+ years of experience with software development
+-
+Strong knowledge of Linux environment
+- Knowledge of SQL, experience with
+PostgreSQL, MySQL or Vertica
+- Experience with development and operation of
+large distributed systems
+- Fast learner capable of independent work
+-
+Desire to do things the right way & never give up
+- Working proficiency in
+English
+
+At GoodData, you won’t just grow your career. You’ll be a part of
+a movement that is changing how people live, work and make decisions.
+
+Website for more information:
+https://www.gooddata.com/company/careers-list?p=job%2Fo75v2fwt
+
+Contact information at:
+http://jobs.perl.org/job/20758#contact

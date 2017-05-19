@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15898
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31578 invoked from network); 17 May 2017 21:41:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:41:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7BF0511F121
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:41:51 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2742911F113
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:41:49 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 6736A11F0FA
+	for <jobs@perl.org>; Wed, 17 May 2017 14:41:48 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id DA4341CC; Wed, 17 May 2017 21:41:47 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:41:47 +0000
+Message-ID: <20170517214147.DA4341CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213617
+Subject: Systems Librarian (onsite), Saratoga Springs, NY, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20770
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2017
+
+Job title: Systems Librarian
+
+Company name: Skidmore College
+
+Location: Saratoga Springs, NY, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Skidmore College seeks a creative, user-oriented Systems Librarian to
+oversee library tools and systems that support collection maintenance and
+use, as well as related library and resource sharing services. The Systems
+Librarian will take a leadership role in implementing, maintaining,
+supporting, and enhancing a wide range of technologies and systems, and, in
+collaboration with key library staff and other campus partners, will
+investigate methods and best practices for assessing collections, patron
+experience, and library effectiveness. The College is particularly
+interested in candidates from underrepresented backgrounds and candidates
+who have had experience working with students from underserved populations.
+
+Based in the Lucy Scribner Library and reporting to the College Librarian,
+the Systems Librarian holds a 12-month contract and, as a non-tenured
+faculty member, participates in shared governance at the college.
+
+Scribner
+Library is looking for someone who is able to develop and administer a
+comprehensive technology plan that guides the library’s adoption of next
+generation library systems. Projects on the horizon include transitioning
+to a new integrated library system, enhancing or replacing our digital
+collections platform, improving our library website, and improving or
+replacing our discovery services.
+
+Scope of Duties
+	Administer,
+maintain, and optimize library systems related to both in-house and
+consortial activities including, but not limited to, the integrated library
+system, discovery layer, electronic resource management tool, digital
+collections platform, interlibrary loan applications, institutional
+repository, and other resource sharing tools and platforms
+	Ensure
+accessibility to and stability of the library’s online information
+resources and digital collections. Provide technical expertise for problem
+resolution  
+	Oversee the functioning and maintenance of the library
+website, and provide leadership for future upgrades 
+	Participate in
+analysis and assessment in order to determine patron satisfaction with
+library collections, services, and consortial arrangements
+      
+Collaborate with consortial partners on both an ongoing and as-needed basis
+(e.g., ConnectNY, New York 6, Eastern Academic Scholars’ Trust)
+      
+Perform regular periodic data analysis and migration between library
+systems. Assist and guide others to create and use effective reports for
+analysis
+	Develop, maintain, and document programs and scripts that
+extend system functionality and automate routine tasks
+	Collaborate
+closely with IT and library staff to ensure seamless service to users
+    
+  Participate in reference and instruction/departmental liaison activities
+in line with the successful candidate’s strengths, interests, and
+institutional needs
+	Demonstrate professional engagement and
+scholarship required for advancement through library faculty ranks
+
+Desired skills:
+Required Qualifications
+ALA-accredited MLS/MLIS, or equivalent education
+and experience. Advanced knowledge of emerging technologies and their
+impact on academic libraries. Demonstrated proficiency in at least one
+programming language, preferably Perl, experience with SQL, and experience
+working in a command line environment. Working knowledge of an integrated
+library system and discovery service. Practical familiarity with cataloging
+and metadata structures and relevant tools for data manipulation. Excellent
+analytical, organizational, and project management skills. Adeptness at
+problem-solving, and disposition to share technical knowledge with others.
+Ability to work as part of a team, as well as independently and flexibly in
+a changing environment. Highly effective communication and interpersonal
+skills
+
+
+Desired Qualifications
+Two years’ experience supporting an
+integrated library system, platforms, and software in an academic library
+setting. Familiarity with Voyager, Ebsco Discovery, WorldShare Management
+Services, WorldCat, ILLiad, Ares, EZProxy, CONTENTdm, BePress Digital
+Commons, authority control (Library Technologies, Inc.), Joomla. Experience
+transitioning major library systems.
+
+Website for more information:
+https://careers.skidmore.edu/applicants/Central?quickFind=58025
+
+Contact information at:
+http://jobs.perl.org/job/20770#contact

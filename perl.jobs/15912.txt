@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15912
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29924 invoked from network); 17 May 2017 21:31:32 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:31:32 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id ABDF011DBCF
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:29 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 950F411DFE2
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:31:27 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 85B2911DBCF
+	for <jobs@perl.org>; Wed, 17 May 2017 14:31:27 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6FF731CC; Wed, 17 May 2017 21:31:27 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:31:27 +0000
+Message-ID: <20170517213127.6FF731CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.4.23.31816
+Subject: Perl Developer (onsite), New Brunswick, NJ
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20784
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2017
+
+Job title: Perl Developer
+
+Company name: Mitchell Martin
+
+Location: New Brunswick, NJ
+
+Pay rate: Market
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our client, an American international banking and financial services
+holding company, is seeking a Perl Developer.
+
+Within this role you will be
+gaining Financial Services experience working with the Wholesale Platform
+Management Group. You will gain experience in Capital Markets. 
+
+Location:
+North Brunswick, NJ
+Position Type: Contract – W2 Only!
+
+Desired skills:
+Requirements: 
+•	Strong programming experience in Perl (5+ years)
+•  
+    Programming experience in JavaScript, JQuery , CSS
+•	Experience
+working in an enterprise environment
+•	Deep knowledge of relational
+databases
+•	Strong experience with Unix/Linux 
+•	Excellent
+communication skills
+
+Contact information at:
+http://jobs.perl.org/job/20784#contact

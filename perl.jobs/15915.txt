@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15915
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1147 invoked from network); 17 May 2017 21:48:29 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:48:29 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7F15B11DFEC
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:48:29 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 284B111F0E6
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:48:27 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 17C7B11DFEC
+	for <jobs@perl.org>; Wed, 17 May 2017 14:48:26 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9083D2AB; Wed, 17 May 2017 21:48:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:48:26 +0000
+Message-ID: <20170517214826.9083D2AB@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213916
+Subject: Perl Developer (onsite), Havant, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20736
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title: Perl Developer
+
+Company name: Jobsite
+
+Location: Havant, United Kingdom
+
+Pay rate:
+Competitive Salary plus 29 days holiday & Group Pension Scheme
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We’re looking for an exceptional Full Stack Engineer to join our talented
+product development teams.
+
+We thrive on solving complex problems with a
+polyglot, approach. In today’s engineering landscape balancing
+specialisation with a broad knowledge and the ability to evolve is a must.
+If you’re the kind of talent that can do this, then we’re looking for you!
+
+We care most about attitude. Your ability to learn; how you use what you
+know to get the job done; how you improve people around you; these all
+determine the level of success and fun we have! 
+
+Excellent problem solver
+who can operate in a highly autonomous and collaborative (agile)
+environment.
+Team player who knows when to leave their ego at the door and
+let others take the limelight.
+Passion for technology and the desire to be
+on the bleeding edge. Innovation is something you see as part of your day
+job.
+Dedication to quality code delivering quality products and experience.
+Strong Web Development skills. (Ideally with experience of Perl and/or
+Node.js.)
+Desire to test and automate everything.
+
+Desired skills:
+The tech and tools we use to build. Proven experience with one or more of
+the following in a production environment is a must. Knowledge of the
+majority is a plus!
+
+Node.js
+Perl
+Javascript (React, SASS, ES6/7)
+Solr/Elasticsearch/Lucene
+Oracle
+SQL Server
+Mongo
+RabbitMQ
+Docker
+AWS
+Jenkins
+Git
+JIRA
+…whatever we need
+
+The Reward:
+
+We’ve got a lot to shout
+about. Just a snippet of what we can offer you…
+
+The technology landscape
+is yours to influence.
+Our culture gives you the place to be trusted and
+excel and constantly encourages innovation.
+Community driven development
+culture sharing ideas and responsibility.
+Continual learning and
+improvement working with likeminded people within our dynamic organisation.
+We’re part of the StepStone Group, which operates some of the strongest
+online job portals worldwide. You will get the opportunity to work with
+many different teams and make waves within a large organisation intent on
+recognising talent.
+Choice of MacBook or Windows kit.
+Generous benefits.
+
+Website for more information: http://www.jobsite.co.uk/work-for-us/
+
+Contact information at:
+http://jobs.perl.org/job/20736#contact

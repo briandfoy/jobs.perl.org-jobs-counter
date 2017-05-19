@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15909
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29995 invoked from network); 17 May 2017 21:32:20 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:32:20 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0810711F0FF
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:32:20 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1FEBE11F0F9
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:32:18 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 79FDA11F0FA
+	for <jobs@perl.org>; Wed, 17 May 2017 14:32:13 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 392361CC; Wed, 17 May 2017 21:32:13 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:32:13 +0000
+Message-ID: <20170517213213.392361CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.212417
+Subject: Distraction-free Workplace - Escape Standups and Scrum - Perl Developer West London (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 14, 2017
+
+Job title:
+Distraction-free Workplace - Escape Standups and Scrum - Perl Developer
+West London
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK
+
+Pay rate: Strong
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Personally, I love Agile and Scrum so much I wrote a set of blog articles
+detailing why I love them so much. But it’s not everyone’s cup of tea. Some
+ people yearn for being given a two-week task, going away, and getting it
+done well by themselves, or in consultation with highly technical and
+well-read colleagues.
+
+Client is a small development team where everyone is
+expected to pull their own weight. No daily standups, no planning poker,
+just you and your work, aided by some of the most experienced technical
+colleagues in London. You’ll be encouraged to make sensible use of Modern
+Perl tooling and grow your personal experience of best development
+practices under excellent technical leadership.
+
+Work environment is very
+professional, very corporate, but technical excellence and doing things the
+right way are looked upon very favourably. This would be the great role for
+a journeyman (or journeywoman, but I don’t think that’s a real word) Perl
+Developer who’s made a big individual contribution in their current role,
+but wants to get started on their masterpiece.
+
+One of a small number of
+companies where I advise clients to interview all candidates with a spell
+at this company on their CV, because I know they’ll be well-versed in best
+practices, and getting stuff done.
+
+Based in leafy South West London, on
+the London Overground, and open to anyone with an existing right to work in
+the UK/EU.
+
+Website for more information:
+https://perl.careers/jobs/distraction-free-workplace---escape-standups-and-
+scrum---west-london/
+
+Contact information at:
+http://jobs.perl.org/job/20790#contact

@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15895
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31004 invoked from network); 17 May 2017 21:39:46 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:39:46 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CAF4811F101
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:39:46 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2B7F011F107
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:39:44 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id AB37F11F101
+	for <jobs@perl.org>; Wed, 17 May 2017 14:39:43 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 41D1029C; Wed, 17 May 2017 21:39:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:39:43 +0000
+Message-ID: <20170517213943.41D1029C@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.212716
+Subject: Junior to Mid level Programmer (onsite), Sydney Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20796
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2017
+
+Job title: Junior to Mid level Programmer
+
+Company name: Pent Net
+
+Location: Sydney Australia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Attractive salary based on experience
+Exciting position with great
+opportunities
+Market Leader - In global collaborative software
+Excellent
+environment and location (Green Square, Alexandria NSW)
+
+We are looking for
+a Junior to mid level Developer to start on a fulltime basis at our Sydney
+office (near Green Square, Alexandria).
+
+Our company Pent Net has been in
+business over 15 years, specialising in web based collaboration s/w and PDF
+manipulation tools. We provide software to many customers including Reserve
+Bank of Australia, Blackmores, Visy as well as many well known printers and
+agencies. See more information about us at www.pent.net
+
+Desired skills:
+Ideal skill set:
+- Beginner to Intermediate Perl
+- Apache webserver
+knowledge
+- Some experience in application design and development
+-
+Excellent written and verbal communication skills
+- Ability to work in a
+team and autonomously
+
+Desirable:
+- fluent in java script
+- SQL database
+knowledge
+- Bachelor's degree in a technical field (information systems,
+computer science, etc)
+- 2 years programming experience in Perl,
+Javascript, Python or similar language
+
+The successful candidate will play
+a key role in shaping the future of our company, and a very rewarding and
+fulfilling long term career is on offer. 
+
+Do not miss this opportunity!
+
+Website for more information: http://www.pent.net
+
+Contact information at:
+http://jobs.perl.org/job/20796#contact

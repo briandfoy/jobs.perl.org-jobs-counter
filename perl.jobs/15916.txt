@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15916
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 301 invoked from network); 17 May 2017 21:43:34 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 17 May 2017 21:43:34 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6BEF511DBBE
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:43:34 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CB38111D89E
+	for <perlmail-jobs@onion.perl.org>; Wed, 17 May 2017 14:43:31 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1765B11DBBE
+	for <jobs@perl.org>; Wed, 17 May 2017 14:43:26 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 90EB816D; Wed, 17 May 2017 21:43:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 May 2017 21:43:26 +0000
+Message-ID: <20170517214326.90EB816D@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.17.213617
+Subject: Senior and/or intermediate software engineers with perl (onsite), Prague, Czech republic
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20764
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2017
+
+Job title:
+Senior and/or intermediate software engineers with perl
+
+Company name: GoodData
+
+Location: Prague, Czech republic
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Not limited to Prague (the capital), there are also vacancies in Brno.
+
+You
+will be involved in development of various aspects of GoodData platform,
+ranging from RESTful API, data processing, performance tuning at various
+levels, fixing bugs (yes, we do them, too), to enhancing testing
+infrastructure. And much, much more.
+
+You will be working in multinational
+team spanning 3 continents.
+
+Complete jobs description in HR lingo
+(including list of benefits) are over at 
+https://www.gooddata.com/company/careers-list?p=job/o75v2fwt&nl=1 and
+https://www.gooddata.com/company/careers-list?p=job/ovN93fwe&nl=1
+
+Unfortunately, we are not providing relocation assistance. European
+citizenship or valid working visa is a must.
+
+Desired skills:
+Easy to get along personality. Is this actually a skill? Not sure, but
+still highly desirable :-)
+
+Computational thinking. Perl would be a huge
+advantage, yet experience with other dynamic languages counts.
+
+General
+understanding of how relational databases work combined with experience
+with any such database is what we need. Hands on experience with
+MySQL/MariaDB, PostgreSQL and/or Vertica is huge plus.
+
+Craftsmanship.
+Sure, hacks are inevitable sometimes, but we value good design and
+easy-to-maintain code more.
+
+Linux should be your friend.
+
+Website for more information: https://www.gooddata.com/company/careers-list
+
+Contact information at:
+http://jobs.perl.org/job/20764#contact
