@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15925
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8996 invoked from network); 22 May 2017 14:31:54 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 22 May 2017 14:31:54 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 827DE11EBED
+	for <perlmail-jobs@onion.perl.org>; Mon, 22 May 2017 07:31:54 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 48ED311EBA3
+	for <perlmail-jobs@onion.perl.org>; Mon, 22 May 2017 07:31:51 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id 1CA2011EBDA
+	for <jobs@perl.org>; Mon, 22 May 2017 07:31:50 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id BBBA61CC; Mon, 22 May 2017 14:31:50 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 22 May 2017 14:31:50 +0000
+Message-ID: <20170522143150.BBBA61CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.22.142116
+Subject: Junior Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20554
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2017
+
+Job title: Junior Developer
+
+Company name: CV-Library
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CV-Library is one of the UK's largest online job sites, with over 10
+million candidates and 3.8 million unique visitors every month. With a
+client list crammed full of the biggest brand names in recruitment and also
+a healthy mix of well-known corporate clients, we are rapidly evolving into
+one of the biggest and most dynamic online media organisations in the UK.
+The exciting news is we're still growing beyond all expectations.
+
+We now
+have the opportunity for a passionate Junior Developer to join our small,
+agile, development team to help with the continuing expansion of the UKs
+fastest growing job boards.
+
+If you have an understanding and enthusiasm
+for Perl you will be recognised for this rare job opportunity.
+
+This role
+will be working within the Development Team maintaining and improving our
+various web properties.
+
+We are continuously improving our processes; we
+are using pair programming, code review (with Gerrit) and continuous
+integration (with Jenkins running our Test::Class unit tests) to increase
+our code quality. We have daily standups, and weekly demos and
+retrospectives.
+
+You will have access to:
+
+* Quiet working conditions
+*
+High quality dual monitors
+* High spec PC
+* Laid back dress code
+
+We strive
+to find the best candidates for our roles and provide top quality training
+and career progression.
+
+Desired skills:
+Experience with any of the following would be advantageous:
+
+* Moose, or OO
+generally
+* MVC web frameworks
+* HTML::FormHandler
+* Template Toolkit
+*
+Plack
+* mod_perl
+* Revision control with Subversion and/or Git
+
+Website for more information: https://www.cv-library.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20554#contact

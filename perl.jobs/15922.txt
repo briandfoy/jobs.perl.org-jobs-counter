@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15922
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8918 invoked from network); 22 May 2017 14:31:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 22 May 2017 14:31:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B1B7F11EBEF
+	for <perlmail-jobs@onion.perl.org>; Mon, 22 May 2017 07:31:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.9 required=6.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 10B9311EB92
+	for <perlmail-jobs@onion.perl.org>; Mon, 22 May 2017 07:31:27 -0700 (PDT)
+Received: from web1.develooper.com (web1.develooper.com [207.171.7.220])
+	by xx1.develooper.com (Postfix) with ESMTP id AFEC911D3FD
+	for <jobs@perl.org>; Mon, 22 May 2017 07:31:26 -0700 (PDT)
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 47C2F1CC; Mon, 22 May 2017 14:31:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 22 May 2017 14:31:26 +0000
+Message-ID: <20170522143126.47C2F1CC@web1.develooper.com>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.22.142116
+Subject: Backend Membership Site Analytics (telecommute), Atlanta, GA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20648
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2017
+
+Job title: Backend Membership Site Analytics
+
+Company name: Yoga Burn
+
+Location: Atlanta, GA, United States
+
+Pay rate:
+$5,000 per project + ongoing for updates (negotiable)
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We need a Perl programmer to write a script that will analyze our website
+membership analytics. More details will be provided upon request.
+
+Desired skills:
+2 years job experience in Perl programming 
+Extensive knowledge of MySQL
+database management 
+Willing to work with project manager with minimal Perl
+programming experience.
+
+Website for more information: http://www.yogaburnreviews.com/
+
+Contact information at:
+http://jobs.perl.org/job/20648#contact
