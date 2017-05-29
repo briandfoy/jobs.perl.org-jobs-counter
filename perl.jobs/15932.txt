@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15932
+Return-Path: <msprvs1=17321ObILmQ4f=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13603 invoked from network); 28 May 2017 11:23:36 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 28 May 2017 11:23:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D50F511EF24
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 May 2017 04:23:34 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 77F1D11D9BC
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 May 2017 04:23:32 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id B46DC11D338
+	for <jobs@perl.org>; Sun, 28 May 2017 04:23:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1495970610; i=@perl.org;
+	bh=BEDIGVSX4PBTHbv3/e7vDupu5tgjN/LE+3sOLyfejVk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ic1HY19/vw8if0KFEQQ90heOkNYA46CkzeVS9ZcFDHx//S1/73K4oUseNTN3d4n8c
+	 crWCdXOT/WaIB27Be35F+kRNHKmQbLwxloFjw3Dss1zLWa+Fif1JOoXk9kT9Z+xmAX
+	 PeMPnIJTcBsGNGe4J1wDqOZMnpjuj+mzkAMXr6Rg=
+X-MSFBL: hryKjE7vomj0aiTWenjh4DML/hHm9cXZMNOc9V5FFBg=|eyJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInNlbmRpbmdfaXAiOiIzNC4
+	yMDkuODAuMjkiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJiIjoiaXBfMzQuMjA5LjgwLjI
+	5IiwicmNwdF9tZXRhIjp7IH0sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHB
+	lcmwub3JnIiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJnIjoiMDAwMDA6cGxhY2V
+	ob2xkZXIiLCJ0cmFuc21pc3Npb25faWQiOiIxMjU0NzA4MDEyMzQ1MDQxNSIsIm1
+	lc3NhZ2VfaWQiOiIwMDAwMzJiMzJhNTkwNTA2MjE4YiIsInRlbXBsYXRlX2lkIjo
+	ic210cF8xMjU0NzA4MDEyMzQ1MDQxNSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsImlwX3Bvb2wiOiJkZWZhdWx0IiwicmNwdF90YWd
+	zIjpbIF0sInIiOiJqb2JzQHBlcmwub3JnIn0=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62246] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.59944 r(Core:4.2.32.4)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 12/B8-01541-233BA295; Sun, 28 May 2017 11:23:30 +0000
+Received: from [10.2.4.23] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dEwID-0000lW-Kh
+	for jobs@perl.org; Sun, 28 May 2017 11:23:29 +0000
+Date: Sun, 28 May 2017 11:23:29 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dEwID-0000lW-Kh@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.28.111516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1100_1199 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Versatile Perl Programmer (part onsite), Fort Myers, FL, United
+ States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20716
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2017
+
+Job title: Versatile Perl Programmer
+
+Company name: Nittany Web Works
+
+Location: Fort Myers, FL, United States
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Will create new code for solutions/improvements, as well as
+maintain/support some existing code. Data import/export enthusiast with
+talent for writing efficient scripts.
+
+Desired skills:
+Expert Python and/or Perl Programmer
+Expert in MySQL Databases
+Expert in
+working with text data - flat files and xml
+Basic Knowledge/Use of HTML &
+CSS
+Competent at Linux System Administration
+Competent at Apache/HTTPD
+Server
+Prefer Basic Knowledge of Memcache
+Prefer Basic Knowledge of
+ElasticSearch
+
+Website for more information:
+http://www.nittanyweb.com/work_for_nittany_web_works.htm#prog
+
+Contact information at:
+http://jobs.perl.org/job/20716#contact

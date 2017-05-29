@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15933
+Return-Path: <msprvs1=17321ObILmQ4f=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15844 invoked from network); 28 May 2017 11:24:01 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 28 May 2017 11:24:01 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id AEC5011D338
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 May 2017 04:24:00 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 457BD11D9BC
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 May 2017 04:23:57 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id CE9B411D338
+	for <jobs@perl.org>; Sun, 28 May 2017 04:23:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1495970634; i=@perl.org;
+	bh=1zBq636z1iDA2gHxK1qcEny4lujunbgCKS/kQYiSOQw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=aTp6dflHvMwJ3O4zmn2h5xo+9ddZ5lY7hvSBNpuejGpDmGCDx7XXCJp1OXF7uJet2
+	 hC/3vTJ+qA/vbfgyqqWDOu+jfMgWjgWABP4OoWSRVvGwuyiUBx/DUt9Vc2bPeyGMnQ
+	 I1PG5GEt52TWQCiSxNDQNI6yXKamIdbtlUd1HFUM=
+X-MSFBL: B1MJPVhraAfmyz3Cyo/G4wccaIqakclcVrbhSk2J49o=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwidGVtcGxhdGVfdmVyc2l
+	vbiI6IjAiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsIml
+	wX3Bvb2wiOiJkZWZhdWx0Iiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInR
+	yYW5zbWlzc2lvbl9pZCI6IjEyNTQ3MDQ2MjMzNzM1NDY5IiwidGVtcGxhdGVfaWQ
+	iOiJzbXRwXzEyNTQ3MDQ2MjMzNzM1NDY5IiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	0ZW5hbnRfaWQiOiJzcGMiLCJyY3B0X3RhZ3MiOlsgXSwiaXBfcG9vbF9yYXciOiJ
+	kZWZhdWx0IiwicmNwdF9tZXRhIjp7IH0sInRyYW5zYWN0aW9uYWwiOiIxIiwiYiI
+	6ImlwXzM0LjIwOS44MC4yOSIsIm1lc3NhZ2VfaWQiOiIwMDAwNGFiMzJhNTkwMTA
+	zNjkzZiIsInN1YmFjY291bnRfaWQiOiIxIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60213] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.59944 r(Core:4.2.32.4)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 96/F3-00769-A43BA295; Sun, 28 May 2017 11:23:54 +0000
+Received: from [10.2.4.23] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dEwIb-0000le-Uu
+	for jobs@perl.org; Sun, 28 May 2017 11:23:54 +0000
+Date: Sun, 28 May 2017 11:23:53 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dEwIb-0000le-Uu@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.5.28.111516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Two Things that Make Perl Developers Happy - Mid-to-Senior Perl
+ Developer in London (onsite), London Bridge, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20806=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: May 28, 2017=
+=0D=0A=0D=0AJob title:=0D=0ATwo Things that Make Perl Developers Happy - Mi=
+d-to-Senior Perl Developer=0D=0Ain London=0D=0A=0D=0ACompany name: Perl Job=
+s by Perl Careers=0D=0A=0D=0ALocation: London Bridge, London, UK=0D=0A=0D=
+=0ATerms of employment: Salaried employee=0D=0A=0D=0AHours: Full time=0D=0A=
+=0D=0AOnsite: yes=0D=0A=0D=0ADescription:=0D=0ANot everyone=E2=80=99s like =
+me. Perhaps nobody=E2=80=99s like me. But when it comes to=0D=0Aenjoying pr=
+ogramming jobs, and particularly when it comes to enjoying Perl=0D=0Aprogra=
+mming jobs, there are two things that are needed to make me happy=0D=0Athat=
+ I suspect resonate with most other career developers.=0D=0A=0D=0AThe first=
+ of=0D=0Athose is working with a codebase that doesn=E2=80=99t fight me bac=
+k. Nietzsche=0D=0Afamously wrote:=0D=0A=0D=0A"He who fights with monsters s=
+hould look to it that he=0D=0Ahimself does not become a monster. And if you=
+ gaze long into an abyss, the=0D=0Aabyss also gazes into you."=0D=0A=0D=0AE=
+arlier in my career I had a real sense of=0D=0Amachismo about working with =
+poor quality codebases. The amount of=0D=0Alow-hanging fruit that is pickab=
+le when you write the first tentative test=0D=0Acases around a 42,000 line =
+CGI script, scaffolding around globals, turning=0D=0Astrictures and warning=
+s on for blocks that you can pull out of the main=0D=0Abody and so on can g=
+ive you an exceptional feeling of progress.=0D=0A=0D=0ABut as=0D=0Amuch fun=
+ as it can be to work around and nurse back-to-health antiquated=0D=0Atooli=
+ng, eventually it grinds, and you start wondering if letting the=0D=0Apatie=
+nt die would be the kindest thing for everyone involved. You find=0D=0Ayour=
+self not delivering your best work, because why cast Perl before swine=3F=
+=0D=0AHand-crafting releases instead of using dzil, non-automated release=
+=0D=0Aprocesses, and the fear that your changes will blow up parts of the c=
+ode=0D=0Athat aren=E2=80=99t properly tested is exhausting.=0D=0A=0D=0AOne =
+day you decide you don=E2=80=99t=0D=0Awant to be working the life-support s=
+hift, and you=E2=80=99d rather be working with=0D=0Aa Modern, clean, and sa=
+ne Perl codebase, using best-practice tooling. And=0D=0Ayou realize it=E2=
+=80=99ll make you happy.=0D=0A=0D=0AThe second thing that makes me happy is=
+=0D=0Aworking on products that are expanding, and that are growing. To be u=
+sing=0D=0Amy programming skills to work towards building something excellen=
+t, rather=0D=0Athan working to keep the ship floating.=0D=0A=0D=0AWhen you=
+=E2=80=99re working to deliver=0D=0Anew, exciting features to customers, as=
+ part of a well-thought-through plan=0D=0Ato grow the company and team you=
+=E2=80=99re a part of, work is exciting. You know=0D=0Ayou=E2=80=99re build=
+ing things that will improve some small (or large) corner of=0D=0Athe world=
+, and that you work has some actual meaning, beyond generating the=0D=0Alat=
+est batch of TPS reports.=0D=0A=0D=0AAnd so it gives me great pleasure to h=
+ave a=0D=0Arole on the books that fits both criteria:=0D=0A=0D=0A* The code=
+base is Modern, sane,=0D=0Aand clean, and overseen by technical management =
+that absolutely insist on=0D=0Akeeping it that way;=0D=0A=0D=0A* The compan=
+y and development team are growing, and=0D=0Athe new technical products you=
+=E2=80=99ll be working on are an absolutely vital=0D=0A(and consumer-facing=
+) part of that.=0D=0A=0D=0AIf it=E2=80=99s time to move on from your=0D=0Ac=
+urrent role, and you=E2=80=99d relish the opportunity to be consistently ha=
+ppy at=0D=0Awork =E2=80=93 and indeed to allow the work you do day to day t=
+o contribute of your=0D=0Aenjoyment of that work, this is the role for you.=
+=0D=0A=0D=0APS: a simple commute is=0D=0Aalso a huge win, and the client is=
+ near to a major transport hub in Central=0D=0ALondon.=0D=0A=0D=0ADesired s=
+kills:=0D=0APerl=0D=0A=0D=0AA desire to do things the right way=0D=0A=0D=0A=
+Experience with Modern Perl is a=0D=0Amassive advantage=0D=0A=0D=0AWebsite =
+for more information:=0D=0Ahttps://perl.careers/jobs/two-things-that-make-d=
+evelopers-happy---mid-to-se=0D=0Anior-perl-developer-in-london/=0D=0A=0D=0A=
+Contact information at:=0D=0Ahttp://jobs.perl.org/job/20806#contact=0D=0A
