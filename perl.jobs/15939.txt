@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15939
+Return-Path: <msprvs1=17325hJAsf80T=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30270 invoked from network); 1 Jun 2017 09:59:30 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 1 Jun 2017 09:59:30 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id A6E6712030C
+	for <perlmail-jobs@onion.perl.org>; Thu,  1 Jun 2017 02:59:25 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id BE74D120320
+	for <perlmail-jobs@onion.perl.org>; Thu,  1 Jun 2017 02:59:16 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 54F991202D1
+	for <jobs@perl.org>; Thu,  1 Jun 2017 02:59:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1496311152; i=@perl.org;
+	bh=GK0a1qyqFsKP8McbSc/RZ0d1yMQS6HyNMD8lpqV1BqM=;
+	h=Date:To:From:Subject:Reply-To;
+	b=Rg3YPKJKpB1Cnap1/Oxci5xl5nc8jp28S+ST3Cxw4DiOk+TpyiJPcssCtObjle+hP
+	 oFSUhjXfr4VxxVHI5SglC/NmkzrzO/ZoC98NP5kVX01RY2HpNNd8CgmJzXDKHmK5Ns
+	 l/F2K4uEHg0nkGC2j+ZCJWifOFqSV9PxMD/rvPfk=
+X-MSFBL: DMi3AoWBS6DbwDIQr+9yGCd5UinlO2XFJtTlec8inJ0=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRlbmFudF9pZCI6InNwYyIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ
+	0cmFuc21pc3Npb25faWQiOiIxMjU1MDc5NTgwMjcxOTY2MSIsInNlbmRpbmdfaXA
+	iOiIzNC4yMDkuODAuMjkiLCJyY3B0X3RhZ3MiOlsgXSwiaXBfcG9vbF9yYXciOiJ
+	kZWZhdWx0Iiwic3ViYWNjb3VudF9pZCI6IjEiLCJmcmllbmRseV9mcm9tIjoiam9
+	icy1hZG1pbkBwZXJsLm9yZyIsInRlbXBsYXRlX2lkIjoic210cF8xMjU1MDc5NTg
+	wMjcxOTY2MSIsInJjcHRfbWV0YSI6eyB9LCJjdXN0b21lcl9pZCI6IjE3NTMwIiw
+	idHJhbnNhY3Rpb25hbCI6IjEiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsIm1lc3N
+	hZ2VfaWQiOiIwMDAwNzBlNTJmNTkwNTYzMzhkMSIsImlwX3Bvb2wiOiJkZWZhdWx
+	0IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:55768] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.59995 r(Core:4.2.32.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 83/1D-25349-075EF295; Thu, 01 Jun 2017 09:59:12 +0000
+Received: from [10.2.3.75] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dGMsq-00007g-A6
+	for jobs@perl.org; Thu, 01 Jun 2017 09:59:12 +0000
+Date: Thu, 1 Jun 2017 09:59:12 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dGMsq-00007g-A6@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.1.94817
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_6000_6999 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_BADTHINGS 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_6 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Full Stack Developer (onsite), Arlington, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20814=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June  1, 2017=
+=0D=0A=0D=0AJob title: Full Stack Developer=0D=0A=0D=0ACompany name: Inspir=
+e=0D=0A=0D=0ALocation: Arlington, VA=0D=0A=0D=0APay rate: USD=0D=0A=0D=0ATe=
+rms of employment: Salaried employee=0D=0A=0D=0AHours: Full time=0D=0A=0D=
+=0AOnsite: yes=0D=0A=0D=0ADescription:=0D=0AWHAT YOU=E2=80=99LL BE DOING=0D=
+=0AInspire, the largest social network for patients and=0D=0Acaregivers, is=
+ hiring Full Stack Developers to join our collaborative,=0D=0Acurious, forw=
+ard-looking team. The products we develop help people in very=0D=0Atangible=
+ ways, so if you are looking to join a group of creative=0D=0Aindividuals d=
+eveloping a product that makes a real difference in people's=0D=0Alives, th=
+en this is the role for you!=0D=0A=0D=0AInspire's technology stack is=0D=0A=
+primarily Linux, MySQL, Apache2+mod_perl and Template::Toolkit, along with=
+=0D=0Alots of other fiddly bits you'd expect to see in a web development sh=
+op. =0D=0AWe use a wide variety of technologies, and are constantly looking=
+ to=0D=0Aimprove our systems and our members' experience. Applicants will h=
+ave the=0D=0Aopportunity to enhance and modernize our approach.=0D=0A=0D=0A=
+Extending and=0D=0Amaintaining complex systems involving multiple component=
+s.=0D=0ABuilding RESTful=0D=0AAPI services and clients.=0D=0AWorking in a v=
+ery supportive and collaborative=0D=0Ateam environment that values your ide=
+as, opinions, curiosity, and=0D=0Acreativity=0D=0AHelping to improve our co=
+de quality through unit tests,=0D=0Aautomation, and performing code reviews=
+=0D=0AParticipating in brainstorming=0D=0Asessions and contributing ideas w=
+hich enhance our technology, algorithms=0D=0Aand products=0D=0AEvaluating n=
+ew technologies and helping to modernize our=0D=0Atechnical infrastructure=
+=0D=0AFull stack development=0D=0ADeveloping new features=0D=0A=0D=0ADesire=
+d skills:=0D=0AWHAT WE NEED=0D=0AWe are a multi-language shop that strives =
+to use the right=0D=0Atools for the job at hand. We are currently using Go,=
+ NodeJS, Elixir,=0D=0APython, Perl, and more in some capacity. As we contin=
+ue to modernize and=0D=0Ascale our architecture we will consider the deploy=
+ment of additional=0D=0Atechnologies to ensure we are using the right tools=
+ and best practices=0D=0Aavailable.  We are not looking for a jack-of-all-t=
+rades to work in every=0D=0Alanguage under the sun, but we=E2=80=99re also =
+not looking to only work in a single=0D=0Astack.=0D=0A=0D=0AWe=E2=80=99re l=
+ooking for someone who has an interest in system=0D=0Aarchitecture, but a p=
+assion for getting things done.  Our new team member=0D=0Awill be experienc=
+ed with most of the items listed below but will also enjoy=0D=0Alearning ne=
+w things and working with a talented group of co-workers to=0D=0Abuild some=
+thing truly meaningful. =0D=0A=0D=0AMinimum six years of experience=0D=0Ade=
+veloping software=0D=0AUnderstanding of multiple AWS services=0D=0AYou find=
+=0D=0Asatisfaction in a job well done and want to solve head-scratching=0D=
+=0Achallenges=0D=0ASolid software design knowledge =E2=80=93 you should kno=
+w how to create=0D=0Asoftware that=E2=80=99s testable, extensible, reusable=
+ and meets desired=0D=0Aarchitectural objectives=0D=0AProficiency in SQL, i=
+n particular=0D=0AMySQL/Maria/Aurora=0D=0AFamiliarity with NoSQL stores (Co=
+uchDB/DynamoDB/MongoDB)=0D=0ASolid Linux experience (eg: Ubuntu, Arch, RHEL=
+, CentOS) with a focus on web=0D=0A(Apache/Nginx)=0D=0AUnderstanding of pro=
+tocols/technologies like Docker, Lambda,=0D=0AHTTPS, SQL, HTML, YAML, JSON.=
+=0D=0A=0D=0A=E2=80=94 Begin SEO Keyword Buzzwords =E2=80=94 =0D=0A=E2=80=A8=
+AJAX,=0D=0AAutomated testing, AWS, CSS, DOM, Elixir, GA, Git, GitHub, Go (l=
+anguage),=0D=0AGoogle Analytics, HTML5, Javascript, JQuery, JSON, Linux, Mi=
+thril, Mobile,=0D=0AMoose, MySQL, Perl, PHP, Plack, PostgreSQL, Python, QA/=
+Test, Responsive,=0D=0ASCSS, Selenium, Vue, XSS =E2=80=A8=0D=0A=E2=80=94 En=
+d SEO Keyword Buzzwords =E2=80=94=0D=0A=0D=0AWHAT WE OFFER=0D=0ACompetitive=
+ salary and benefits=0D=0AStock options=0D=0AHealth insurance, including=0D=
+=0Adental and vision=0D=0A401(k) retirement plan with matching=0D=0AA corpo=
+rate mission=0D=0Athat benefits society=0D=0ATalented, creative co-workers=
+=0D=0AFlexible work schedule=0D=0A=0D=0AABOUT INSPIRE=0D=0AInspire was foun=
+ded in 2005 out of our interest in health,=0D=0Aour personal experiences wi=
+th difficult health issues, and the vision that=0D=0Awe could use the Inter=
+net to improve patients' and caregivers=E2=80=99 ability to=0D=0Afind suppo=
+rt. We believe patient centricity is the future of healthcare.=0D=0AInspire=
+=E2=80=99s mission is to bring people together and to accelerate medical=0D=
+=0Aresearch. We have developed focused member groups and partnered with ove=
+r=0D=0A100 non-profit patient advocacy organizations, including the Ovarian=
+ Cancer=0D=0ANational Alliance, National Osteoporosis Foundation, Arthritis=
+ Foundation,=0D=0ANational Psoriasis Foundation, and Genetic Alliance, to p=
+rovide online=0D=0Apatient communities in a safe, privacy-protected environ=
+ment.  Members are=0D=0Aresources for each other sharing health information=
+ and support without=0D=0Aregard to location, background, or status.  Toget=
+her they reduce the=0D=0Afeelings of isolation experienced by those with ch=
+ronic conditions, cancer,=0D=0Arare diseases.=09We all believe that =E2=80=
+=9CTogether we=E2=80=99re better.=E2=80=9D=0D=0A=0D=0AFrom=0D=0Amarketers, =
+designers, to software engineers and healthcare product experts,=0D=0Awe ar=
+e a diverse community with the goal of changing the patient and=0D=0Acaregi=
+ver experience through community.=0D=0A=0D=0AWebsite for more information: =
+http://www.inspire.com=0D=0A=0D=0AContact information at:=0D=0Ahttp://jobs.=
+perl.org/job/20814#contact=0D=0A

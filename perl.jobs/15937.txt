@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15937
+Return-Path: <msprvs1=17325hJAsf80T=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30288 invoked from network); 1 Jun 2017 09:59:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 1 Jun 2017 09:59:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 12F3C1202D1
+	for <perlmail-jobs@onion.perl.org>; Thu,  1 Jun 2017 02:59:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 24049120320
+	for <perlmail-jobs@onion.perl.org>; Thu,  1 Jun 2017 02:59:31 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id AE6B61202D1
+	for <jobs@perl.org>; Thu,  1 Jun 2017 02:59:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1496311163; i=@perl.org;
+	bh=CuE1UA+aJ9GtlZS5mOam4kGVdConvGKj+5aHB2rqmxQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=jwMO6Ch9KZCnhIuWxfM6E2a9bsttkl500L0aqxtIp4J4I5sk76V+5sWFHXQygjhUw
+	 YP4k2XN460AemeY3VQmyVn6wFenubMJc7+GXqlNOwHB/dsshup+3XcHulgMyWqeW3u
+	 /L+VUI2BPwIZRJgLbO8kxue+8OZrebk+tscWcD+g=
+X-MSFBL: k3fjagRBac4JrPWLqVnVQiZE3cBquUlKwzYUYTWpjsY=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJjdXN0b21lcl9
+	pZCI6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJ0cmFuc21pc3Npb25faWQ
+	iOiIxMjU0NzA0NjI1MjIwMjg0NCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJpcF9
+	wb29sX3JhdyI6ImRlZmF1bHQiLCJyIjoiam9ic0BwZXJsLm9yZyIsImZyaWVuZGx
+	5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwidHJhbnNhY3Rpb25hbCI6IjE
+	iLCJyY3B0X21ldGEiOnsgfSwicmNwdF90YWdzIjpbIF0sImciOiIwMDAwMDpwbGF
+	jZWhvbGRlciIsInRlbmFudF9pZCI6InNwYyIsInRlbXBsYXRlX2lkIjoic210cF8
+	xMjU0NzA0NjI1MjIwMjg0NCIsImlwX3Bvb2wiOiJkZWZhdWx0IiwibWVzc2FnZV9
+	pZCI6IjAwMDA3YmU1MmY1OTAxMDM5NzNlIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50328] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.59944 r(Core:4.2.32.4)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 79/E3-00769-B75EF295; Thu, 01 Jun 2017 09:59:23 +0000
+Received: from [10.2.2.49] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dGMt0-00007k-L9
+	for jobs@perl.org; Thu, 01 Jun 2017 09:59:22 +0000
+Date: Thu, 1 Jun 2017 09:59:21 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dGMt0-00007k-L9@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.1.94817
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Developer (onsite), Queens, NY, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20816=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June  1, 2017=
+=0D=0A=0D=0AJob title: Software Developer=0D=0A=0D=0ACompany name: Harris A=
+llied=0D=0A=0D=0ALocation: Queens, NY, United States=0D=0A=0D=0APay rate: 9=
+0K=0D=0A=0D=0ATerms of employment: Salaried employee=0D=0A=0D=0AHours: Full=
+ time=0D=0A=0D=0AOnsite: yes=0D=0A=0D=0ADescription:=0D=0ASoftware Engineer=
+=0D=0A=0D=0ADo you love working with data and coming up with=0D=0Acreative =
+solutions=3F Join a well-established company that specializes in=0D=0Acompl=
+ex data conversion projects; taking data, in any form or format and=0D=0Aco=
+nverting and customizing the data into formats like HTML, XML and SGM. =0D=
+=0A=0D=0AUsing your text processing skills in Python and/or Perl and regula=
+r=0D=0Aexpressions for matching text patterns, you=E2=80=99ll take basic re=
+quirements and=0D=0Aanalyze and develop specifications for each client=E2=
+=80=99s unique needs; working=0D=0Aclosely on every touch point throughout =
+the product lifecycle.=0D=0A=0D=0AThe=0D=0ASoftware Engineer should have th=
+e following experience:=0D=0A=0D=0A=E2=80=A2=09Text=0D=0Aprocessing for Pyt=
+hon and Regular Expressions with Perl experience being=0D=0Ahighly desirabl=
+e. =0D=0A=E2=80=A2=09Data schemas, and XML Technologies (DTD) and=0D=0AXSLT=
+ (Extensible Stylesheet Language Transformations). =0D=0A=E2=80=A2=09Transf=
+orm=0D=0Aunstructured text into structured markup (XML & XHTML).=0D=0A=E2=
+=80=A2=09Work with=0D=0AHTML pages and correcting any inconsistencies=0D=0A=
+=0D=0ARequired/desired skills:=0D=0A=0D=0A=E2=80=A2 =0D=0A     Java, VBA an=
+d XQuery.=0D=0A=E2=80=A2=09Ability to quickly solve problems.=0D=0A=E2=80=
+=A2    =0D=0A  Like working in an agile and collaborative environment. =0D=
+=0A=0D=0AIn this role=0D=0Ayour ability to communicate well across teams, i=
+s imperative.=0D=0A=0D=0AWe look=0D=0Aforward to talking to you about this =
+opportunity.=0D=0A =0D=0AHarris Allied is a=0D=0AManhattan-based, premier p=
+rovider of Technology Recruiting and Consulting=0D=0AServices. With an aver=
+age of over 20 years of experience, our exceptional=0D=0Arecruiting team ha=
+s relationships with premier clients throughout the tech=0D=0Aand financial=
+ services sectors. Our unique understanding of our clients and=0D=0Athe tec=
+hnical recruiting process ensures that job seekers are prepared for=0D=0Asu=
+ccessful interviews and that hiring managers achieve exceptional results.=
+=0D=0A=0D=0ADesired skills:=0D=0APython, Java, VBA and XQuery.=0D=0AAbility=
+ to quickly solve problems.=0D=0ALike=0D=0Aworking in an agile and collabor=
+ative environment.=0D=0A=0D=0AWebsite for more information: http://www.harr=
+isallied.com/=0D=0A=0D=0AContact information at:=0D=0Ahttp://jobs.perl.org/=
+job/20816#contact=0D=0A
