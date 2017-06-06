@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15940
+Return-Path: <msprvs1=17329_GnXrLhb=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28655 invoked from network); 5 Jun 2017 20:27:45 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Jun 2017 20:27:45 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 31FDB11EF3A
+	for <perlmail-jobs@onion.perl.org>; Mon,  5 Jun 2017 13:27:45 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 72B4211DD82
+	for <perlmail-jobs@onion.perl.org>; Mon,  5 Jun 2017 13:27:42 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id C99FF11DA70
+	for <jobs@perl.org>; Mon,  5 Jun 2017 13:27:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1496694460; i=@perl.org;
+	bh=O75ij72WplCJd+rH2nhv+A4tclqko9jTFYpTrjZhxuU=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ovB4qzwdGtlm7sqD4XyLlbTWVLeXWzvaP0jzAaPmsCeAef1SsiaV1rvkZGGYkhEPW
+	 ON+Tyjct2oTKKYlQzsoHkPFiMMrYDit6+yQXaLPua2nN//yP1a2ii6C5NzV84rfW6Q
+	 5o33kJaI2ryypFTdZA3zdZvN4gH/qtNrrf0jA0ZI=
+X-MSFBL: jq3Yf6yG6Oxe4zwD/yQ4Pyg5HVo2qqgdGMsmKIJpslM=|eyJ0cmFuc21pc3Npb25
+	faWQiOiIxMjU1NTE3NDc5MDg2OTA2NiIsImlwX3Bvb2wiOiJkZWZhdWx0IiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyIsInRlbXBsYXRlX2lkIjoic210cF8xMjU1NTE3NDc5MDg2OTA2NiIsIml
+	wX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJyY3B
+	0X3RhZ3MiOlsgXSwicmNwdF9tZXRhIjp7IH0sInNlbmRpbmdfaXAiOiIzNC4yMDk
+	uODAuMjkiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJjdXN0b21lcl9pZCI6IjE
+	3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDBiY2JlMzU1OWI4NTIyMzU0IiwiZnJpZW5
+	kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ0cmFuc2FjdGlvbmFsIjo
+	iMSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53287] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.59995 r(Core:4.2.32.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 32/45-21176-CBEB5395; Mon, 05 Jun 2017 20:27:40 +0000
+Received: from [10.2.3.75] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dHybD-0000Ls-Pu
+	for jobs@perl.org; Mon, 05 Jun 2017 20:27:40 +0000
+Date: Mon, 5 Jun 2017 20:27:39 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dHybD-0000Ls-Pu@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.5.201817
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_1099 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Engineer (onsite), Raleigh, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20822
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2017
+
+Job title: Senior Perl Engineer
+
+Company name: TEKSystems
+
+Location: Raleigh, NC
+
+Pay rate: 120,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TEKSystems is currently partnering with a local SaaS in Raleigh, NC that is
+seeking a Senior Perl Engineer.  This individual will be responsible for
+leading a team of engineers to help with the companies flagship product.
+
+This person will be the "go-to" engineer for software best practices, code
+reviews, etc.
+
+Desired skills:
+*Object-Oriented Perl, preferably working within a Software company 
+*Leadership skills- the ability to mentor others and complete code reviews 
+*Exposure to NodeJS, AngularJS, or any modern JavaScript language would be
+preferred
+*Any database experience with MySQL or MongoDB
+
+Contact information at:
+http://jobs.perl.org/job/20822#contact
