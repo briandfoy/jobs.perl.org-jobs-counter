@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15945
+Return-Path: <msprvs1=173431WD7rQ00=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6068 invoked from network); 19 Jun 2017 22:16:41 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Jun 2017 22:16:41 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0CBD111EB78
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:41 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 15BD111EB35
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:39 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 697CC11EB78
+	for <jobs@perl.org>; Mon, 19 Jun 2017 15:16:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1497910597; i=@perl.org;
+	bh=LLSMooL5Cz0l9DCBDeoLtL4uy63VUkJMPUURFGMxqkI=;
+	h=Date:To:From:Subject:Reply-To;
+	b=XIZUQRZ8qiAfRU6wAIUn0pjziQgPAYI1JEhhdvWgAxp6yjJDSUeBoRSg4TUI76mdK
+	 uroYltmMzziux3o68HWy3EhlHLdlcZrjatEDXGRp18jZ6JQVyT20/9cWXV0vy/7pig
+	 yrnOtIHJa6p1LnBRQXPRHgdfyWZaobKJiVpbntlE=
+X-MSFBL: isHws/F0GS2E9pc7PNm4NoXEgqTSQB8QeVzXCh/hxQc=|eyJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJiIjoiaXBfMzQuMjA5LjgwLjI5Iiwic2VuZGluZ19pcCI6IjM
+	0LjIwOS44MC4yOSIsInRlbmFudF9pZCI6InNwYyIsImZyaWVuZGx5X2Zyb20iOiJ
+	qb2JzLWFkbWluQHBlcmwub3JnIiwiciI6ImpvYnNAcGVybC5vcmciLCJyY3B0X21
+	ldGEiOnsgfSwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInRyYW5zbWlzc2lvbl9pZCI
+	6IjEyNTYxNzQ2NjEyOTE1NDYwIiwicmNwdF90YWdzIjpbIF0sIm1lc3NhZ2VfaWQ
+	iOiIwMDAwNDU0ZDQ4NTk4ZjdmZWZjMCIsInRlbXBsYXRlX2lkIjoic210cF8xMjU
+	2MTc0NjYxMjkxNTQ2MCIsInN1YmFjY291bnRfaWQiOiIxIiwiZyI6IjAwMDAwOnB
+	sYWNlaG9sZGVyIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJpcF9wb29sIjoiZGVmYXV
+	sdCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62688] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60118 r(Core:4.2.32.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id FE/0C-32655-54D48495; Mon, 19 Jun 2017 22:16:37 +0000
+Received: from [10.2.0.67] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dN4yJ-000150-Vh
+	for jobs@perl.org; Mon, 19 Jun 2017 22:16:36 +0000
+Date: Mon, 19 Jun 2017 22:16:35 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dN4yJ-000150-Vh@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.19.221216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl and PHP Programmer (Mid-Level) (Remote) (telecommute),
+ Massachusetts
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20828=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June 19, 2017=
+=0D=0A=0D=0AJob title: Perl and PHP Programmer (Mid-Level) (Remote)=0D=0A=
+=0D=0ACompany name: Stellarware=0D=0A=0D=0ALocation: Massachusetts=0D=0A=0D=
+=0ATerms of employment: Salaried employee=0D=0A=0D=0AHours: Full time=0D=0A=
+=0D=0AOnsite: no=0D=0A=0D=0ADescription:=0D=0AStellarware Corporation was f=
+ounded in 1997 as a unique web design firm=0D=0Athat focuses on improving b=
+usiness and government communications by=0D=0Aemploying the technological a=
+dvantages of the Internet. Today, Stellarware=0D=0Ais much more than just a=
+nother web design firm. Stellarware has become a=0D=0Apremier, web-based so=
+lutions company that serves government and private=0D=0Asector organization=
+s by building web systems that modernize business=0D=0Aprocesses and commun=
+ications.=0D=0A=0D=0AWe are currently seeking mid-level Perl/PHP=0D=0Aprogr=
+ammers to join our development team!=0D=0A=0D=0AGeneral Requirements/Duties=
+:=0D=0A=E2=80=A2  =0D=0A    Consult with stakeholders to identify requireme=
+nts and ensure adequate=0D=0Ainput and feedback on business processes, clos=
+ing the divide between=0D=0Abusiness requirements and application developme=
+nt.=0D=0A=E2=80=A2=09Able to work in=0D=0Aa fairly unstructured environment=
+ with a high degree of independence, while=0D=0Aroutinely hitting demanding=
+ deadlines, without requiring constant follow-up=0D=0Aand prodding to secur=
+e closure.=0D=0A=E2=80=A2=09Able to re-order project priorities=0D=0Aon sho=
+rt-notice and adapt to changing objectives.=0D=0A=E2=80=A2=09Exhibit strong=
+=0D=0Atechnology, analytical, written and verbal communications, time manag=
+ement,=0D=0Aproblem solving and interpersonal skills.=0D=0A=0D=0ADesired sk=
+ills:=0D=0ARequired Skills and Experience:=0D=0A=E2=80=A2=09Expert knowledg=
+e of Perl, PHP,=0D=0AMySQL (and SQL in general), Apache.=0D=0A=E2=80=A2=09I=
+n Depth knowledge of HTML,=0D=0AJavaScript, DHTML, and CSS.=0D=0A=E2=80=A2=
+=09Working knowledge of XMLHTTPRequest=0D=0A(AJAX), JavaScript Frameworks l=
+ike Dojo, jQuery, ExtJS, etc.=0D=0A=E2=80=A2=09Must=0D=0Ahave several years=
+ experience in "LAMP" web applications development.=0D=0A=E2=80=A2    =0D=
+=0A  Must have several years experience in building and maintaining relatio=
+nal=0D=0Adatabases and small-scale business applications.=0D=0A=E2=80=A2=09=
+Must be very=0D=0Acomfortable working at a UNIX command line.=0D=0A=0D=0ADe=
+sired Skills:=0D=0A=E2=80=A2=09XML=0D=0Aand related technologies (e.g. XML,=
+ DTD, XML Schema, XSLT, Xpath).=0D=0A=E2=80=A2      =0D=0AWeb services (e.g=
+. SOAP, WSDL, XML-RPC).=0D=0A=E2=80=A2=09Expertise in relational=0D=0Adata=
+base design and development.=0D=0A=E2=80=A2=09Working knowledge of Apache=
+=0D=0Aconfiguration, PHP configuration and Security.=0D=0A=E2=80=A2=09Profi=
+ciency in=0D=0Adeveloping technical specifications, functional requirements=
+ and general=0D=0Acode documentation.=0D=0A=E2=80=A2=09Comfortable with Agi=
+le software development=0D=0Amethodology.=0D=0A=E2=80=A2=09Familiar with Ve=
+rsion Control Systems like Subversion=0D=0Aor CVS.=0D=0A=E2=80=A2=09Experie=
+nce with OOP.=0D=0A=E2=80=A2=09Knowledge of UNIX and shell=0D=0Ascripting.=
+=0D=0A=E2=80=A2=09Knowledge of Oracle 8,9,10, and/or PostgreSQL.=0D=0A=E2=
+=80=A2      =0D=0ASome System Administration skills.=0D=0A=0D=0AWebsite for=
+ more information: http://www.stellarware.com/=0D=0A=0D=0AContact informati=
+on at:=0D=0Ahttp://jobs.perl.org/job/20828#contact=0D=0A

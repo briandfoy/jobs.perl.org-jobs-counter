@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15949
+Return-Path: <msprvs1=173431WD7rQ00=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6109 invoked from network); 19 Jun 2017 22:17:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Jun 2017 22:17:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D72B011EB87
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:17:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5E0DA11EB78
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:57 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id D2D6C11EB4E
+	for <jobs@perl.org>; Mon, 19 Jun 2017 15:16:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1497910615; i=@perl.org;
+	bh=+ozihxC1veVb58QOCXjsoV6wP0KTT7Hg6J7PB2TR7IA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=dtl8lTiONBvaZhTqDW8xfXdQ4WuXlYuzNxedJW5Bb4jAJIJ5KimzYmVR2FZPcwwli
+	 /QcFzVIXUyiYOZ3DYu3Cjc2nCOkpjnqUQnRIK+t1VWyBt/gruMX8fqIWGIuTvn26Xu
+	 I6Ods9xZFmVn2ZPmH2z1s9H9tQ6t4gDyfdo2YEM0=
+X-MSFBL: W1Iftvnj81Rf9g0YuOr8WagPHTdFomZW+lZmm85q7ZI=|eyJyY3B0X3RhZ3MiOls
+	gXSwidHJhbnNtaXNzaW9uX2lkIjoiMTI1NjE3NDMyNTc1NDQ4NDgiLCJzdWJhY2N
+	vdW50X2lkIjoiMSIsInRlbmFudF9pZCI6InNwYyIsInRlbXBsYXRlX2lkIjoic21
+	0cF8xMjU2MTc0MzI1NzU0NDg0OCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ0ZW1
+	wbGF0ZV92ZXJzaW9uIjoiMCIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHB
+	lcmwub3JnIiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsImciOiIwMDAwMDp
+	wbGFjZWhvbGRlciIsInIiOiJqb2JzQHBlcmwub3JnIiwiaXBfcG9vbCI6ImRlZmF
+	1bHQiLCJyY3B0X21ldGEiOnsgfSwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3N
+	hZ2VfaWQiOiIwMDAwNTc0ZDQ4NTk2NGNlOWVkNiIsImlwX3Bvb2xfcmF3IjoiZGV
+	mYXVsdCIsInRyYW5zYWN0aW9uYWwiOiIxIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61727] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60118 r(Core:4.2.32.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E9/6D-52836-75D48495; Mon, 19 Jun 2017 22:16:55 +0000
+Received: from [10.2.0.67] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dN4yd-000158-Ac
+	for jobs@perl.org; Mon, 19 Jun 2017 22:16:55 +0000
+Date: Mon, 19 Jun 2017 22:16:55 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dN4yd-000158-Ac@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.19.221216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Lights, Camera ... Perl! - Mid-Level Perl / Ops for the movies
+ (London UK) (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20838=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June 19, 2017=
+=0D=0A=0D=0AJob title:=0D=0ALights, Camera ... Perl! - Mid-Level Perl / Ops=
+ for the movies (London UK)=0D=0A=0D=0ACompany name: Perl Jobs by Perl Care=
+ers=0D=0A=0D=0ALocation: London, UK=0D=0A=0D=0ATerms of employment: Salarie=
+d employee=0D=0A=0D=0AHours: Full time=0D=0A=0D=0AOnsite: yes=0D=0A=0D=0ADe=
+scription:=0D=0AThere=E2=80=99s Bad CGI, and there=E2=80=99s Good CGI. Bad =
+CGI involves your web-server=0D=0Astanding up new perl processes for incomi=
+ng requests, where Good CGI makes=0D=0Athe films you watch magical (think: =
+Jar Jar Binks). This job =E2=80=93 unusually=0D=0Afor Perl =E2=80=93 involv=
+es Good CGI.=0D=0A=0D=0AClient is a world-famous digital effects=0D=0Acompa=
+ny. Where the digital magic is done in more traditional CGI software,=0D=0A=
+the glue that holds everything together is Perl. Server management, moving=
+=0D=0Adigital assets to be in the right place at the right time, prodding t=
+he=0D=0Agiant compute farm =E2=80=93 Perl is a central part.=0D=0A=0D=0AThe=
+re=E2=80=99s a big backlog of=0D=0Ainteresting and rewarding tasks that wil=
+l help the company run ever more=0D=0Asmoothly. For each you=E2=80=99ll nee=
+d to decide whether to bring your considerable=0D=0APerl skills to bear, or=
+ whether extending the company=E2=80=99s nascent SaltStack=0D=0Aand Sensu i=
+nstalls is the right move =E2=80=93 existing experience would be a nice=0D=
+=0Ato have, but by no means essential.=0D=0A=0D=0AFundamentally, you=E2=80=
+=99ll come across=0D=0Ainteresting problems that you won=E2=80=99t find els=
+ewhere, and that=E2=80=99ll stretch you=0D=0Amore than building yet another=
+ MVC webapp; the company has tens of=0D=0Apetabytes of onsite storage, seve=
+ral thousand compute nodes, and runs Linux=0D=0Aon everything they can.=0D=
+=0A=0D=0ARole would be well suited to either Perl=0D=0Adevelopers who fancy=
+ something a bit different involving automation and=0D=0Alarge-scale deploy=
+ments, or a sysadmin with strong Perl.=0D=0A=0D=0ADesired skills:=0D=0APerl=
+=0D=0A=0D=0AOps Experience would be useful=0D=0A=0D=0AWebsite for more info=
+rmation: https://perl.careers/jobs/lights-cameras-perl/=0D=0A=0D=0AContact =
+information at:=0D=0Ahttp://jobs.perl.org/job/20838#contact=0D=0A

@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15943
+Return-Path: <msprvs1=173431WD7rQ00=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19455 invoked from network); 19 Jun 2017 20:58:34 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Jun 2017 20:58:34 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EF75B121652
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 13:58:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id AD5B611D9CB
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 13:58:31 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id AAC0C11EB10
+	for <jobs@perl.org>; Mon, 19 Jun 2017 13:58:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1497905909; i=@perl.org;
+	bh=P4ZveDY9VY7+5+QrNoWsy/DZU5oxkTeVzWZjTEDFw+I=;
+	h=Date:To:From:Subject:Reply-To;
+	b=f5WDdeIQRRLNjwD2rQLSfoPiduqEryYeDrcF3K+sSen6gyWQ0PBMIVME6AC1cjfYd
+	 6EyXXPALOVSXQ4Ckb10qn3r06Pq8asAcO0ermCvvAB8wVjrzzZacKxwszBMgxmJsnR
+	 CZMH3rW2HpaSmf7yRP9xSJr9+B8kj9CIVGUiL1Eo=
+X-MSFBL: Qrlpunl5+0lL0EL6J+IYAeKAD3Y6Y3X/6S6DIFXJP+4=|eyJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRyYW5zYWN0aW9uYWwiOiI
+	xIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInIiOiJqb2JzQHBlcmwub3JnIiwidGV
+	uYW50X2lkIjoic3BjIiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInRyYW5zbWl
+	zc2lvbl9pZCI6IjEyNTYxNzQ2NjEyNTM0OTI2IiwicmNwdF9tZXRhIjp7IH0sIml
+	wX3Bvb2wiOiJkZWZhdWx0IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNTYxNzQ2NjE
+	yNTM0OTI2IiwicmNwdF90YWdzIjpbIF0sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWF
+	kbWluQHBlcmwub3JnIiwibWVzc2FnZV9pZCI6IjAwMDBmNTNhNDg1OThmN2ZjOGR
+	hIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53399] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60118 r(Core:4.2.32.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 8C/AD-32655-5FA38495; Mon, 19 Jun 2017 20:58:29 +0000
+Received: from [10.2.3.85] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dN3kj-00014K-46
+	for jobs@perl.org; Mon, 19 Jun 2017 20:58:29 +0000
+Date: Mon, 19 Jun 2017 20:58:28 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dN3kj-00014K-46@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.19.204816
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MAL_TELEKOM_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Site Reliability Engineer (onsite), Amsterdam, the Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20830=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June 19, 2017=
+=0D=0A=0D=0AJob title: Site Reliability Engineer=0D=0A=0D=0ACompany name: B=
+ooking.com=0D=0A=0D=0ALocation: Amsterdam, the Netherlands=0D=0A=0D=0ATerms=
+ of employment: Salaried employee=0D=0A=0D=0AHours: Full time=0D=0A=0D=0AOn=
+site: yes=0D=0A=0D=0ADescription:=0D=0ABooking.com is looking for a Site Re=
+liability Engineer to join our Core=0D=0AInfrastructure team at our Amsterd=
+am headquarters. As a member of one of=0D=0Athe 30 infrastructure teams, yo=
+u will be given the freedom to make=0D=0Ameaningful and measurable improvem=
+ents impacting millions of people. You=0D=0Awill be working in one of the b=
+iggest e-commerce companies in the world,=0D=0Adeploying code on 25,000+ se=
+rvers across multiple data centers around the=0D=0Aworld!=0D=0A=0D=0A**B.re=
+sponsible**=0D=0A- Design, develop and implement software that=0D=0Aimprove=
+s the stability, scalability, availability and latency of the=0D=0ABooking.=
+com products;=0D=0A- Take ownership of one or more services and have the=0D=
+=0Afreedom to do what is best for our business and customers;=0D=0A- Solve =
+problems=0D=0Aoccurring with our highly available production systems and bu=
+ild solutions=0D=0Aand automation to prevent them from happening again;=0D=
+=0A- Build effective=0D=0Amonitoring to monitor the health of your system, =
+and jump in to handle=0D=0Aoutages;=0D=0A- Build and run capacity tests to =
+manage the growth of your=0D=0Asystems;=0D=0A- Plan for reliability by desi=
+gning systems to work across our=0D=0Amultinational data centers;=0D=0A- De=
+velop tools to assist the product=0D=0Adevelopment teams with successfully =
+deploying 1000s of change sets every=0D=0Aday;=0D=0A- Share the on-call rot=
+ation and be an escalation contact for=0D=0Aincidents:=0D=0A- Contribute to=
+ Booking.com=E2=80=99s growth through interviewing,=0D=0Aonboarding, or oth=
+er recruitment efforts.=0D=0A=0D=0ADesired skills:=0D=0A**B.skilled**=0D=0A=
+- Mastery in at least one programming language, Perl and Java=0D=0Aare a pl=
+us;=0D=0A- Experience with building, operating and maintaining complex=0D=
+=0Aand scalable systems;=0D=0A- Solid understanding of Software Engineering=
+ and=0D=0AComputer Science principles;=0D=0A- Solid foundation in Linux adm=
+inistration and=0D=0Atroubleshooting;=0D=0A- Proven experience with automat=
+ion. Knowledge of=0D=0Aconfiguration management tools like Puppet or Chef i=
+s a plus;=0D=0A- Additional=0D=0Aexperience in Networking, Security or Stor=
+age is a plus;=0D=0A- Be able to=0D=0Aunderstand and formulate meaningful b=
+usiness metrics;=0D=0A- Creative and not=0D=0Aafraid to step outside of you=
+r comfort zone;=0D=0A- Fluent in the English=0D=0Alanguage both spoken and =
+written.=0D=0A=0D=0AWebsite for more information: http://grnh.se/l2dagu1=0D=
+=0A=0D=0AContact information at:=0D=0Ahttp://jobs.perl.org/job/20830#contac=
+t=0D=0A

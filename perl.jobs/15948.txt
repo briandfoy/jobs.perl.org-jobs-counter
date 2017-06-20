@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15948
+Return-Path: <msprvs1=173431WD7rQ00=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6051 invoked from network); 19 Jun 2017 22:16:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Jun 2017 22:16:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 4C3CA11EB35
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:36 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0EE5B11EB78
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:34 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 608C011EB35
+	for <jobs@perl.org>; Mon, 19 Jun 2017 15:16:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1497910586; i=@perl.org;
+	bh=8246u2IBj1Vj7N6x6HWtLdx7GxefktLm8KOAV4CRJGw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=l7sabs/ZC6B7rwbhz2DRDt/GBeNKb2bOYAkTAwh/HXetaKy7FvJ6cJWU8oMRNDp2U
+	 p7d0rTNddFRvNAUff0tub30thLjXk0lXrtrFa30J6U8BM8HKRxBvXDuk6nQbefn8Yf
+	 qVoiSz4MLbR2c7YpcxlkwkCnkP6j7E8WkEBFDuEM=
+X-MSFBL: VbZDBqwnAaBFw27KNiu/kEiBCvzBa64pskNKOxvQjBQ=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsImciOiIwMDAwMDp
+	wbGFjZWhvbGRlciIsImlwX3Bvb2wiOiJkZWZhdWx0IiwiaXBfcG9vbF9yYXciOiJ
+	kZWZhdWx0IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDNhNGQ0ODU5YWY4NTU3NDQiLCJyY3B0X3RhZ3MiOls
+	gXSwidGVuYW50X2lkIjoic3BjIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJzdWJhY2NvdW50X2l
+	kIjoiMSIsInRlbXBsYXRlX2lkIjoic210cF8xMjU2MTczOTUzMzA1ODczOCIsInJ
+	jcHRfbWV0YSI6eyB9LCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNTYxNzM5NTMzMDU4NzM4In0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:64147] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60118 r(Core:4.2.32.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 75/44-34223-A3D48495; Mon, 19 Jun 2017 22:16:26 +0000
+Received: from [10.2.0.67] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dN4y9-00014w-Rg
+	for jobs@perl.org; Mon, 19 Jun 2017 22:16:26 +0000
+Date: Mon, 19 Jun 2017 22:16:25 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dN4y9-00014w-Rg@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.19.221216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Make your work more visible; Catalyst and Template Toolkit with an
+ eye for detail - junior to mid-level (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20840=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June 19, 2017=
+=0D=0A=0D=0AJob title:=0D=0AMake your work more visible; Catalyst and Templ=
+ate Toolkit with an eye for=0D=0Adetail - junior to mid-level=0D=0A=0D=0ACo=
+mpany name: Perl Jobs by Perl Careers=0D=0A=0D=0ALocation: London, UK=0D=0A=
+=0D=0ATerms of employment: Salaried employee=0D=0A=0D=0AHours: Full time=0D=
+=0A=0D=0AOnsite: yes=0D=0A=0D=0ADescription:=0D=0AGot an eye for detail and=
+ some HTML/CSS/jQuery skills=3F Want to work in a=0D=0Asmall team with a ve=
+ry popular product in Central London=3F Some exposure to=0D=0ACatalyst and =
+Template Toolkit=3F=0D=0A=0D=0AMy client is looking to completely overhaul=
+=0D=0Atheir site on Catalyst, and is looking for a developer to wrangle Tem=
+plate=0D=0AToolkit into showing their users practical, functional, and beau=
+tiful=0D=0Apages.=0D=0A=0D=0AYou=E2=80=99ll be primarily a Perl developer =
+=E2=80=93 although perhaps not=0D=0Acurrently a Perl wizard =E2=80=93 but y=
+ou=E2=80=99ll have a deep interest in user=0D=0Aexperience and using web te=
+chnologies to dazzle and help customers. Perhaps=0D=0Ayou worked with PHP f=
+or a few years before switching to Perl, and don=E2=80=99t=0D=0Awant your f=
+ront-end skills to deteriorate=3F=0D=0A=0D=0AClient is based in West London=
+,=0D=0Ais a key supporter of the Perl community, and consists of a small,=
+=0D=0Afriendly, and technical team. You=E2=80=99ll be working along side so=
+me seriously=0D=0Acapable people, and it=E2=80=99s guaranteed you=E2=80=99l=
+l be a stronger Perl developer for=0D=0Athe experience.=0D=0A=0D=0ADesired =
+skills:=0D=0APerl, especially exposure to Catalyst=0D=0A=0D=0AHTML / Javasc=
+ript / CSS=0D=0A=0D=0AAn eye for=0D=0Adetail=0D=0A=0D=0AWebsite for more in=
+formation:=0D=0Ahttps://perl.careers/jobs/catalyst-and-template-toolkit-eye=
+-for-detail-perl=0D=0A/=0D=0A=0D=0AContact information at:=0D=0Ahttp://jobs=
+.perl.org/job/20840#contact=0D=0A

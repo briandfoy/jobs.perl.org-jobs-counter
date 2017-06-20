@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15941
+Return-Path: <msprvs1=173431WD7rQ00=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6032 invoked from network); 19 Jun 2017 22:16:16 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Jun 2017 22:16:16 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id AC6EA11EB78
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:16 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9F7A511EB98
+	for <perlmail-jobs@onion.perl.org>; Mon, 19 Jun 2017 15:16:13 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 3ACD411EB4D
+	for <jobs@perl.org>; Mon, 19 Jun 2017 15:16:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1497910572; i=@perl.org;
+	bh=a3PcmBTxHHaexo7smSzHJ/PeZFnCJ23stjTpjC8liQQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ScC+QQJWWkmhyTIjBAgMZ8jzk0z32puNoF/DgFZSkFqQvHCQ2It0IX/CoYxC4h2ks
+	 UW1r/qIuneoEwM1TF6LCd6ClYjzNx16vkHOkYmDCv8t9gvFEJ0OboplYTTYFAE0x5C
+	 NICkYnwW+6x2KVLScIdWwGmo43t2S19aiIxMJDfg=
+X-MSFBL: fN5gOahBH9KUbZuxBj1WAbMmDpJIVP8yO0rDfTgABSw=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDJjNGQ0ODU5OGY3ZjFlYjgiLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJ
+	0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsImlwX3Bvb2wiOiJ
+	kZWZhdWx0IiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInJjcHRfbWV0YSI6eyB9LCJ
+	iIjoiaXBfMzQuMjA5LjgwLjI5Iiwic3ViYWNjb3VudF9pZCI6IjEiLCJ0cmFuc21
+	pc3Npb25faWQiOiIxMjU2MTc0NjYxMjkxMzQ2OCIsInRlbXBsYXRlX3ZlcnNpb24
+	iOiIwIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJzZW5kaW5nX2lwIjoiMzQuMjA5Ljg
+	wLjI5IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNTYxNzQ2NjEyOTEzNDY4IiwicmN
+	wdF90YWdzIjpbIF0sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3J
+	nIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61095] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60118 r(Core:4.2.32.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E1/8B-32655-C2D48495; Mon, 19 Jun 2017 22:16:12 +0000
+Received: from [10.2.0.67] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dN4xu-00014s-Rj
+	for jobs@perl.org; Mon, 19 Jun 2017 22:16:11 +0000
+Date: Mon, 19 Jun 2017 22:16:10 +0000
+MIME-Version: 1.0
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dN4xu-00014s-Rj@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.19.221216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Developer (onsite), Toronto, ON, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20842=0D=0A=0D=0ATo subsc=
+ribe to this list, send mail to jobs-subscribe@perl.org.=0D=0ATo unsubscrib=
+e, send mail to jobs-unsubscribe@perl.org.=0D=0A=0D=0APosted: June 19, 2017=
+=0D=0A=0D=0AJob title: Senior Perl Developer=0D=0A=0D=0ACompany name: Fligh=
+t Network=0D=0A=0D=0ALocation: Toronto, ON, Canada=0D=0A=0D=0APay rate: Com=
+mensurate with experience=0D=0A=0D=0ATerms of employment: Salaried employee=
+=0D=0A=0D=0AHours: Full time=0D=0A=0D=0AOnsite: yes=0D=0A=0D=0ADescription:=
+=0D=0AWe=E2=80=99re looking for a senior developer to join our Air Engine t=
+eam. We=0D=0Adeliver new features and provide support for a proprietary fli=
+ght booking=0D=0Aengine. The booking engine supports our international OTA =
+business and has=0D=0Aan extensive XML/JSON API that is used internationall=
+y by 3rd party travel=0D=0Asites.=0D=0A=0D=0AThe primary technologies used =
+are Perl (Catalyst, Moose, etc.),=0D=0AJava, and PostgreSQL.=0D=0A=0D=0ASom=
+e of the things you can expect to do in this role=0D=0Awould be to:=0D=0A=
+=0D=0A- Actively participate in ongoing software development,=0D=0Adesign, =
+build, testing and deployment=0D=0A=0D=0A- Work with product owner to refin=
+e=0D=0Aand understand the business stories=0D=0A=0D=0A- Attend and actively=
+ participate in=0D=0Aplanning, backlog grooming and retrospective meetings=
+=0D=0A=0D=0A- Actively=0D=0Aparticipate in all team discussions and whitebo=
+arding sessions=0D=0A=0D=0A- Coach=0D=0Ateam members and present designs to=
+ your peers=0D=0A=0D=0A- Heavy focus on providing=0D=0Adirection on future =
+process and technical improvements.=0D=0A=0D=0ADesired skills:=0D=0AWe=E2=
+=80=99re looking for talented engineers with a varied background who take t=
+he=0D=0Aapproach that a specific technology is really just a tool in their=
+=0D=0Atoolbelt. In terms of experience, capabilities, and approach we=E2=80=
+=99re looking=0D=0Afor:=0D=0A=0D=0A- 3+ years experience as a software deve=
+loper with Perl 5=0D=0A=0D=0A- 5+ years=0D=0Aexperience in an web based app=
+lication development=0D=0A=0D=0A- Aptitude to do=0D=0Asoftware development =
+in a variety of programming languages such as Perl,=0D=0AJava, Groovy=0D=0A=
+=0D=0A- Experience with DevOps methodologies and tools such as=0D=0AAnsible=
+, Chef, Puppet is a plus.=0D=0A=0D=0A- Must be disciplined, detail oriented=
+,=0D=0Areliable and have the ability to work effectively in team environmen=
+ts=0D=0A=0D=0A-=0D=0ABachelor's degree in Computer Science/Engineering or r=
+elated field=0D=0A=0D=0AWebsite for more information: https://flight-networ=
+k.breezy.hr/=0D=0A=0D=0AContact information at:=0D=0Ahttp://jobs.perl.org/j=
+ob/20842#contact=0D=0A
