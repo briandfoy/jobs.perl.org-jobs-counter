@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15951
+Return-Path: <msprvs1=17354oLtXwf6d=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3192 invoked from network); 30 Jun 2017 09:50:36 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 30 Jun 2017 09:50:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EF79912051E
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 02:50:27 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 505FD11D407
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 02:50:00 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id A1B1E11F094
+	for <jobs@perl.org>; Fri, 30 Jun 2017 02:49:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1498816190; i=@perl.org;
+	bh=V3OQe0vdOOX7XbbeL5GT4gCyjFdReD4SUPyPPCikIBY=;
+	h=Date:To:From:Subject:Reply-To;
+	b=Vgk8Tsx0a3Z6tIvPBB6kBb6AXobw/Fl42vX9h5QoOqkCf7avvDM1UWf7h6S6AqQJl
+	 plhN+PTP+BPyGVuJc7+duV8IdYMbtHKl15EGxd7qlGRbXLzuyF3baN0tFe8gljHWIW
+	 c5Nuqy3cMD/ClOeiBQBBj6WpVe1zSk4BFM8E5HpU=
+X-MSFBL: FpewPxOO3PIOhYFUVB70abHu59RNLY3+CVYwONpcSuw=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyY3B0X21ldGEiOnsgfSwic2V
+	uZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCI
+	sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwidGVtcGxhdGV
+	faWQiOiJzbXRwXzEyNTcyNTYwODg4NTk5NDcwIiwicmNwdF90YWdzIjpbIF0sImI
+	iOiJpcF8zNC4yMDkuODAuMjkiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsImlwX3B
+	vb2wiOiJkZWZhdWx0IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI1NzI1NjA4ODg1OTk
+	0NzAiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwYmUxZTU
+	2NTlhMDRlNmQxMyIsInRlbmFudF9pZCI6InNwYyIsImciOiIwMDAwMDpwbGFjZWh
+	vbGRlciIsInIiOiJqb2JzQHBlcmwub3JnIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50536] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id D6/31-20128-EBE16595; Fri, 30 Jun 2017 09:49:50 +0000
+Received: from [10.2.0.85] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dQsYf-00004s-O2
+	for jobs@perl.org; Fri, 30 Jun 2017 09:49:49 +0000
+Date: Fri, 30 Jun 2017 09:49:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dQsYf-00004s-O2@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.30.93916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20854
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2017
+
+Job title: Perl Developer
+
+Company name: Revolution Technology
+
+Location: London
+
+Pay rate: =C2=A375,000 per annum
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Buying, selling, renting or leasing, everyone is effected by property in
+some way. A leading, Digital Property Platform and app that has
+revolutionised the way people rent, lease and buy property are still
+enjoying continuous growth as they dominate this market. And they are
+looking for an experienced Perl Developer to continue to help them do so
+
+The Perl Developer will share a passion for tech, digital platforms and the
+property market. You will build new features and enhancements to the
+platform including the APIs that drive our website, back-end tools,
+intensive/distributed data processing, search technology, complex valuation
+algorithms, and server control functionality.=20
+
+As an experienced Perl
+Developer, you will join a small team within a 500 strong business but have
+the luxuries of the heavily agile and tech start-up-esq environment that it
+is run.=20
+
+In my 10 years of recruitment I have genuinely never seen an
+office as nice as this one. It=E2=80=99s amazing.
+
+Desired skills:
+Perl Developer
+
+=E2=80=A2	Linux, Apache,=20
+=E2=80=A2	Perl (/Mason)
+=E2=80=A2	MySQL
+=E2=80=A2	Amazon's Web Services (EC2, RDS etc.)
+=E2=80=A2	Gearman, Memcached
+
+Website for more information: http://www.revolutiontechnology.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20854#contact

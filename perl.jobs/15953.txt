@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15953
+Return-Path: <msprvs1=17354oLtXwf6d=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2699 invoked from network); 30 Jun 2017 09:49:59 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 30 Jun 2017 09:49:59 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7D048120524
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 02:49:58 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8ABFC12051D
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 02:49:50 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 07841120517
+	for <jobs@perl.org>; Fri, 30 Jun 2017 02:49:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1498816171; i=@perl.org;
+	bh=F5bJ+ruCjt21gIg3R+pnTopjmMlrGnN2So0G7XSrLPI=;
+	h=Date:To:From:Subject:Reply-To;
+	b=UJZiE9mvDB5zA2q6sTrksdzYIFiCgoM0QMf7kojH+P4vXUBjNyQAD919dOVUtSutt
+	 /asPiXjkd7XWjnNynZrxubTE3oCTvDcpAOQhLKGjMfXidEikbJV5boXAyRkTlMaAqO
+	 JmEggVozFt/Lw/YB0eM0G62fLexXsfeXJ0Ss7MvI=
+X-MSFBL: BcOZ9M70RgH4EQAqwkeKGxTZgaVv/dTBg2YoAeLyV08=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGFiMWU1NjU5NzY3YTk2NjgiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzZW5kaW5
+	nX2lwIjoiMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJ0ZW1
+	wbGF0ZV9pZCI6InNtdHBfMTI1NzI1NTU3ODg1MzUxNTMiLCJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJzdWJhY2NvdW50X2lkIjoiMSIsImciOiIwMDAwMDpwbGFjZWh
+	vbGRlciIsInRyYW5zYWN0aW9uYWwiOiIxIiwiYiI6ImlwXzM0LjIwOS44MC4yOSI
+	sImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0cmFuc21pc3Npb25faWQiOiIxMjU3MjU
+	1NTc4ODUzNTE1MyIsInJjcHRfdGFncyI6WyBdLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sImlwX3Bvb2wiOiJkZWZhdWx0IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5
+	AcGVybC5vcmciLCJyY3B0X21ldGEiOnsgfX0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52718] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 69/86-31350-BAE16595; Fri, 30 Jun 2017 09:49:31 +0000
+Received: from [10.2.0.85] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dQsYM-00004g-Ct
+	for jobs@perl.org; Fri, 30 Jun 2017 09:49:30 +0000
+Date: Fri, 30 Jun 2017 09:49:30 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dQsYM-00004g-Ct@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.30.93916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P1_1 0, __C230066_P1_2 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Engineer (onsite), San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20750
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2017
+
+Job title: Software Engineer
+
+Company name: Capital One
+
+Location: San Francisco
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Description
+
+As a Capital One Software Engineer, you'll work on
+everything from customer-facing web and mobile applications using
+cutting-edge open source frameworks, to highly-available RESTful services,
+to back-end Java based systems using the hottest techniques in Big Data.
+You'll bring solid experience in emerging and traditional technologies such
+as: Modern Perl, node.js, Java, AngularJS, React, Python, Selenium, REST,
+JSON, XML, Ruby, HTML / HTML5, CSS, NoSQL databases, relational databases,
+Hadoop, Chef, Maven, iOS, Android, and AWS/Cloud Infrastructure to name a
+few.=20
+
+You will:
+
+Work with product owners to understand desired
+application capabilities and testing scenarios - Continuously improve
+software engineering practices
+Work within and across Agile teams to
+design, develop, test, implement, and support technical solutions across a
+full-stack of development tools and technologies
+Lead the craftsmanship,
+availability, resilience, and scalability of your solutions
+Bring a passion
+to stay on top of tech trends, experiment with and learn new technologies,
+participate in internal & external technology communities, and mentor other
+members of the
+engineering community
+
+Encourage innovation, implementation
+of cutting-edge technologies, inclusion, outside-of-the-box thinking,
+teamwork, self-organization, and diversity
+
+Desired skills:
+Basic Qualifications:
+
+At least 1 year experience programming with Perl
+Bachelors Degree or military experience
+At least 2 years experience in
+software development
+At least 1 years of MySQL or Postgres database
+experience
+
+Preferred Qualifications:
+
+Masters Degree
+3+ years experience
+in software development.=20
+Strength in Perl and proficiency with the Linux
+shell is desirable.
+3+ years experience in Agile practices
+At this time,
+Capital One will not sponsor a new applicant for employment authorization
+for this position.
+
+Website for more information:
+https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/San-Francisco-CA/S
+oftware-Engineer_R23698
+
+Contact information at:
+http://jobs.perl.org/job/20750#contact
