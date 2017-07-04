@@ -1,0 +1,153 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15959
+Return-Path: <msprvs1=17357yIP8u0PL=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20304 invoked from network); 3 Jul 2017 21:01:56 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Jul 2017 21:01:56 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 03E9711D8AC
+	for <perlmail-jobs@onion.perl.org>; Mon,  3 Jul 2017 14:01:56 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 6D98511D419
+	for <perlmail-jobs@onion.perl.org>; Mon,  3 Jul 2017 14:01:53 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 2830711D410
+	for <jobs@perl.org>; Mon,  3 Jul 2017 14:01:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1499115709; i=@perl.org;
+	bh=Jx5mw6eYkpp9UFEoXwnBc+CZ0p6oTqQRKn4qyuHlE/g=;
+	h=Date:To:From:Subject:Reply-To;
+	b=JB9cR+RZVRnBBzTJGBYUen9Uv2T/hZDLB5jC1SJwcMGBxEoim33mIECjtLNN2P9wG
+	 N5E3lq+BfuXDuui+u2wdS+rW1fzOHC0/RdNoCJQtgIJvwfbpZgPoFPBOkw6ixqX85c
+	 GhRyoDDgSBtrKGueNUnmDwSm0kD2vbPesQftgrBM=
+X-MSFBL: y85kLD86ULRQ5lpi5oUfhKrz06Ld0DOZKb5KumOEo2s=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGJkYjA1YTU5NWU4NTUxNjciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ0ZW1wbGF
+	0ZV9pZCI6InNtdHBfMTI1NzI1NTgzNTkxOTkxMTciLCJyY3B0X3RhZ3MiOlsgXSw
+	iZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJpcF9wb29sX3J
+	hdyI6ImRlZmF1bHQiLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwiciI6Imp
+	vYnNAcGVybC5vcmciLCJ0cmFuc2FjdGlvbmFsIjoiMSIsImIiOiJpcF8zNC4yMDk
+	uODAuMjkiLCJ0cmFuc21pc3Npb25faWQiOiIxMjU3MjU1ODM1OTE5OTExNyIsInN
+	1YmFjY291bnRfaWQiOiIxIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJyY3B0X21ldGE
+	iOnsgfSwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwiY3VzdG9tZXJfaWQiOiIxNzU
+	zMCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58896] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 15/76-34142-DB0BA595; Mon, 03 Jul 2017 21:01:49 +0000
+Received: from [10.2.3.105] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dS8Tc-0000Ea-6q
+	for jobs@perl.org; Mon, 03 Jul 2017 21:01:48 +0000
+Date: Mon, 3 Jul 2017 21:01:48 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dS8Tc-0000Ea-6q@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.3.205716
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl developer (onsite), Amsterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20872
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  3, 2017
+
+Job title: Perl developer
+
+Company name: CLIQ Digital
+
+Location: Amsterdam
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Would you like to work as a Perl Developer in a high driven mobile
+marketing company with an international team in the centre of Amsterdam?
+Are you determined, focused and do you see obstacles as opportunities, then
+CLIQ is looking for YOU!!=20
+
+
+CLIQ Digital is a sales and distribution
+network for digital products, with proprietary Billing and Payment systems.
+We deliver products that the digital generation wants. We are specialized
+in Games, Entertainment, Apps and Software.=20
+
+We have an international team
+with specialists in all fields, including sales, software development,
+business development, creative design and product development
+
+
+Overview
+role
+We are looking for a Perl developer which is an important role in our
+25 people technology team. Together with the Perl team you will design,
+improve and enhance our core billing platform; a business critical,
+high-performance Perl system, handling millions of transactions monthly.
+The platform manages and bills subscriptions, and delivers content to our
+global mobile user base.=20
+
+Responsibilities:
+=E2=80=A2	Analyze business
+requirements.
+=E2=80=A2	Create technical designs.
+=E2=80=A2	Object oriented
+development.
+=E2=80=A2	Module & system testing.
+=E2=80=A2	Documentation,
+packaging and deployment.
+
+Desired skills:
+Skills and experience
+=E2=80=A2	Educated to degree level (Bachelor or
+Master).
+=E2=80=A2	At least 3 year=E2=80=99s experience as a backend developer on
+large projects.
+=E2=80=A2	Fluent in English, both spoken and written.
+=E2=80=A2=20=20=20=20=20=20
+Experience with Perl.
+=E2=80=A2	Experience with object oriented programming.
+=E2=80=A2	Experience with information analysis and data modeling.
+=E2=80=A2=20=20=20=20=20=20
+Knowledge of software development best practices.
+=E2=80=A2	Experience with
+software version control.
+=E2=80=A2	Familiarity with Linux operating systems
+is an advantage.
+
+Personal competencies
+=E2=80=A2	Excellent analytical
+skills.
+=E2=80=A2	Good communication skills, verbal and written.
+=E2=80=A2=20=20=20=20=20=20
+Enjoys co-operation, participation and sharing of ideas and information.
+=E2=80=A2=20
+     Precise, with an eye for detail and quality.
+=E2=80=A2	Experience with
+teams with different nationalities and backgrounds is an advantage.
+
+Website for more information: http://www.cliqdigital.com
+
+Contact information at:
+http://jobs.perl.org/job/20872#contact

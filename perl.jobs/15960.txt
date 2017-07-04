@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15960
+Return-Path: <msprvs1=17354oLtXwf6d=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25871 invoked from network); 30 Jun 2017 21:48:17 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 30 Jun 2017 21:48:17 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 737EB11DFF9
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 14:48:16 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id AA42711DFFE
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 14:48:14 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 4606E11DFF9
+	for <jobs@perl.org>; Fri, 30 Jun 2017 14:48:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1498859293; i=@perl.org;
+	bh=qwb6eLiMM94QFlk3IQE1wmc9VKNo/GNAuHL6lfrdGLA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=nWfpXbbKYjA/wPrfYbyFvEAw+zDspP4SMej1GrKTIFkIHhAh+2XCx7pOv6QcJoSUw
+	 0s5AXF7SzXS9rFVynWvO+erSgEtnYQqkdkN1pTJfOjFUQhWKGzBRzRwHrUWPAAbR7X
+	 FAiYNuh7g99WiLq3apVvdEVN1n+oW6Da0syCZwh0=
+X-MSFBL: 743Z8VQSnusrSSMflcq2AD2eQSRo0fpld/rsTVcofvI=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDA
+	wMWRjNzU2NTk1ZTg1NDY3NSIsInRlbmFudF9pZCI6InNwYyIsImlwX3Bvb2xfcmF
+	3IjoiZGVmYXVsdCIsInJjcHRfbWV0YSI6eyB9LCJpcF9wb29sIjoiZGVmYXVsdCI
+	sInJjcHRfdGFncyI6WyBdLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwiZnJ
+	pZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiYiI6ImlwXzM0LjIwOS44MC4
+	yOSIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNTcyNTU4MzQ2MzQ0NjcwIiwic3ViYWN
+	jb3VudF9pZCI6IjEiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI1NzI1NTgzNDYzNDQ
+	2NzAiLCJjdXN0b21lcl9pZCI6IjE3NTMwIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59275] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 64/57-34142-D17C6595; Fri, 30 Jun 2017 21:48:13 +0000
+Received: from [10.2.3.105] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dR3ls-00005C-Tq
+	for jobs@perl.org; Fri, 30 Jun 2017 21:48:13 +0000
+Date: Fri, 30 Jun 2017 21:48:12 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dR3ls-00005C-Tq@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.30.213915
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (with networking experience) (onsite), Minneapolis,
+ MN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20864
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 27, 2017
+
+Job title: Perl Developer (with networking experience)
+
+Company name: CenturyLink
+
+Location: Minneapolis, MN
+
+Pay rate: $60.00 /hr on W2
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer (with networking experience)
+Contract
+Minneapolis, MN
+=20
+Job
+Requirements Job Requirements:=20
+=E2=80=A2 Demonstrated experience in software
+development using PERL
+=E2=80=A2 7 years design and development experience in Perl=20
+=E2=80=A2 Experience with Apache/Tomcat or JBoss and web technologies such =
+as
+SOAP/REST/JSON=20
+=E2=80=A2 Experience integrating with Oracle and PostgreSQL
+databases
+=E2=80=A2 Ability to design, implement, test and support timely and
+reliable project driven software solutions
+=E2=80=A2 Familiarity with Agile
+Software Development Process
+=E2=80=A2 Desire to thrive in a fast-paced, fun and
+rewarding team-based environment=20
+=E2=80=A2 Strong analytical and problem solving
+skills; outstanding oral and written communication skills=20
+=E2=80=A2 Work well
+independently and in teams
+=E2=80=A2 Possess good basic organizations skills
+=E2=80=A2
+Networking background specifically L2/L3 CCNA a plus
+Experience &
+Education:=20
+=E2=80=A2 Bachelor=E2=80=99s Degree in Computer Science=20
+=E2=80=A2 7 or more year=E2=80=99s
+equivalent experience without a degree in programming field
+Preferred
+Qualifications:=20
+=E2=80=A2 Programming Developer w/Telecommunication experience
+(highly preferred Ethernet/IP, L2/L3 switching, Routers. and network
+elements)
+=E2=80=A2 Bachelor=E2=80=99s Degree in Computer Science or 7 or more years
+equivalent experience in programming field
+=E2=80=A2 Experience in SDLC methodology
+
+=E2=80=A2 Design and development experience in Perl, Java, Java Script, XML,
+HTML/CSS, webservice, SQL, Unix and Linux
+
+Desired skills:
+Preferred Qualifications:=20
+=E2=80=A2 Programming Developer w/Telecommunication
+experience (highly preferred Ethernet/IP, L2/L3 switching, Routers. and
+network elements)
+=E2=80=A2 Bachelor=E2=80=99s Degree in Computer Science or 7 or more
+years equivalent experience in programming field
+=E2=80=A2 Experience in SDLC
+methodology=20
+=E2=80=A2 Design and development experience in Perl, Java, Java
+Script, XML, HTML/CSS, webservice, SQL, Unix and Linux
+
+Contact information at:
+http://jobs.perl.org/job/20864#contact

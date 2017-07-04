@@ -1,0 +1,149 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15962
+Return-Path: <msprvs1=17354oLtXwf6d=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25887 invoked from network); 30 Jun 2017 21:48:26 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 30 Jun 2017 21:48:26 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E430D11DFF9
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 14:48:25 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id BE3B011DFFE
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Jun 2017 14:48:23 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 466BC11DFF9
+	for <jobs@perl.org>; Fri, 30 Jun 2017 14:48:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1498859302; i=@perl.org;
+	bh=TWJfnHOtmntsF7SE5T7TVwTo5f2zefnRAlfeyEzi9i4=;
+	h=Date:To:From:Subject:Reply-To;
+	b=DGOOaRAiT1SL9oU/Lf3Ac9Nygm7PqRGV++G5OOvAoWNnOZ5T6ieIwCnfEEhejkdk8
+	 iXvWgI0jQQwl+GsXVjovfJKW2V9cjFVZzKan+3OZNPK3bgB7KkvVKJI/zWj82EA2W1
+	 mKhBsDYRr4Da1BBRH0X6r/lkHyPiM/8/zQXzPdA8=
+X-MSFBL: pFKu/gNapZlAPMbrjCk+p0GGiDw1bs7ZQGPkvjPWNng=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInRlbXBsYXRlX2lkIjoic210cF8xMjU3MjU1ODM0NjM0NTIxOSIsIml
+	wX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImlwX3Bvb2wiOiJkZWZhdWx0IiwibWVzc2F
+	nZV9pZCI6IjAwMDAyNmM3NTY1OTVlODVkZTc3IiwiYiI6ImlwXzM0LjIwOS44MC4
+	yOSIsInIiOiJqb2JzQHBlcmwub3JnIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJzZW5
+	kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWR
+	taW5AcGVybC5vcmciLCJ0cmFuc21pc3Npb25faWQiOiIxMjU3MjU1ODM0NjM0NTI
+	xOSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJnIjo
+	iMDAwMDA6cGxhY2Vob2xkZXIiLCJyY3B0X3RhZ3MiOlsgXSwicmNwdF9tZXRhIjp
+	7IH0sInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:51139] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id ED/77-34142-627C6595; Fri, 30 Jun 2017 21:48:22 +0000
+Received: from [10.2.4.89] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dR3m2-00005G-CQ
+	for jobs@perl.org; Fri, 30 Jun 2017 21:48:22 +0000
+Date: Fri, 30 Jun 2017 21:48:22 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dR3m2-00005G-CQ@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.6.30.213915
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0,
+ __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Cornwall, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20866
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2017
+
+Job title: Perl Developer
+
+Company name: Headforwards
+
+Location: Cornwall, United Kingdom
+
+Pay rate: =C2=A330,000 =E2=80=93 =C2=A350,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for 2 Perl Developers to join established teams working on
+projects for one of the largest companies in the world.
+You should have
+commercial experience of Perl software development along with some
+relational database development experience.
+C or C++ programmers should
+also apply, however, this is a Perl orientated position.
+You will work on
+both the enhancement of a mature, existing codebase and working on new
+projects using web services, AJAX and system integration.
+
+Desired skills:
+Required Skills:
+--------------
+
+- Perl
+- SQL (any flavour)
+- Team worker
+-
+Passionate about good software
+
+Desired Skills:
+--------------
+
+- OO Perl
+-
+JavaScript (jQuery, JSON, AJAX)
+- Git Version Control
+- Benefits of working
+at Headforwards:
+
+Enhanced company pension
+----------------------------
+-
+Fun monthly team socials (Beach BBQ=E2=80=99s, Laser Tag, Film screenings, =
+Rugby
+trips etc.)
+- End of summer company festival =E2=80=93 Headstock
+- Headtalks =E2=80=93
+monthly internal technical =E2=80=98conference=E2=80=99
+- Fresh fruit
+- Corporate gym
+membership rates
+- Child care vouchers
+- Salary sacrifice bike scheme
+
+Hours:
+-------
+The working week is Monday =E2=80=93 Friday
+0900 -1730 with a 1-hour
+lunch break.
+
+Location:
+---------
+Near Redruth, Cornwall, UK
+
+Website for more information: https://www.headforwards.com/perl-developer-j=
+ob/
+
+Contact information at:
+http://jobs.perl.org/job/20866#contact
