@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15964
+Return-Path: <msprvs1=17358mGmdURwV=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7052 invoked from network); 4 Jul 2017 04:59:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Jul 2017 04:59:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 93B3B12170F
+	for <perlmail-jobs@onion.perl.org>; Mon,  3 Jul 2017 21:59:38 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9073611F292
+	for <perlmail-jobs@onion.perl.org>; Mon,  3 Jul 2017 21:59:36 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 9D4B012170F
+	for <jobs@perl.org>; Mon,  3 Jul 2017 21:59:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1499144373; i=@perl.org;
+	bh=NMZqDxODusdiQiqBh5XCCP+1r71qHOcbfBZ/JkSGe+E=;
+	h=Date:To:From:Subject:Reply-To;
+	b=eMfcBihEZVNLxm05p0F0OU97S19wa1n5Uk4Lx8/JqU7/hzMXLjspjeejQZEc7qKEb
+	 Z1nOZX8PjEHtJcWtrnyCpWt6q2QalqjF8nxjkUeJWiGxYakb2/NF9LbVQ3Ewq4n40d
+	 56BZ23D8BpTZG346Mic0c0xM0RP5OJL6OrfmNRB4=
+X-MSFBL: A3YsiMJ+H7AeJzcFYUdgI/H9Ja0ld4kefhSvD2CXo60=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGI1MjA1YjU5YTA0ZWZmYzkiLCJyIjoiam9ic0BwZXJsLm9yZyIsImZyaWV
+	uZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwic2VuZGluZ19pcCI6IjM
+	0LjIwOS44MC4yOSIsInRlbmFudF9pZCI6InNwYyIsImlwX3Bvb2xfcmF3IjoiZGV
+	mYXVsdCIsImlwX3Bvb2wiOiJkZWZhdWx0IiwicmNwdF9tZXRhIjp7IH0sInN1YmF
+	jY291bnRfaWQiOiIxIiwidHJhbnNtaXNzaW9uX2lkIjoiMTI1NzI1NjA5MTE2NDU
+	1ODAiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI1NzI1NjA5MTE2NDU1ODAiLCJyY3B
+	0X3RhZ3MiOlsgXSwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInRlbXBsYXRlX3ZlcnN
+	pb24iOiIwIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsImciOiIwMDAwMDpwbGFjZWh
+	vbGRlciIsInRyYW5zYWN0aW9uYWwiOiIxIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=SMTP_Injection; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59207] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.32.60351 r(Core:4.2.32.11)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id FF/9C-20128-5B02B595; Tue, 04 Jul 2017 04:59:33 +0000
+Received: from [10.2.3.105] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dSFvx-0000Fk-2n
+	for jobs@perl.org; Tue, 04 Jul 2017 04:59:33 +0000
+Date: Tue, 4 Jul 2017 04:59:32 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dSFvx-0000Fk-2n@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.4.45115
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_700_799 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: PERL Developer (onsite), Madrid, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20756
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  4, 2017
+
+Job title: PERL Developer
+
+Company name: Buenos Y Baratos
+
+Location: Madrid, Spain
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+We are looking for a junior developer with 1 year of experience with the
+following qualifications: PERL
+
+Any other useful skills are welcomed and
+they will be considered an advantage.
+
+Desired skills:
+Fluent in English
+Witty and Creative
+
+Website for more information: http://buenosybaratos.es
+
+Contact information at:
+http://jobs.perl.org/job/20756#contact
