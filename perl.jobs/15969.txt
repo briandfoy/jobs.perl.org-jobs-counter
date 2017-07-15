@@ -1,0 +1,138 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15969
+Return-Path: <msprvs1=17367YKWTiges=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17205 invoked from network); 13 Jul 2017 02:07:44 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 13 Jul 2017 02:07:44 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6DF7411DBB5
+	for <perlmail-jobs@onion.perl.org>; Wed, 12 Jul 2017 19:07:44 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 18C7711D8BB
+	for <perlmail-jobs@onion.perl.org>; Wed, 12 Jul 2017 19:07:42 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 1F53711DBD8
+	for <jobs@perl.org>; Wed, 12 Jul 2017 19:07:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1499911653; i=@perl.org;
+	bh=zAgeMBmuQTBAPa4wF1O5VaCq3isD2CFTviH9knQhCok=;
+	h=Date:To:From:Subject:Reply-To;
+	b=WzuRoe1DmE5yjMyXpVNAl+fmwXSokCzApvJuf1ElPhelwttrM7SXQU9plyXCCjU1w
+	 qIHH/hVYgv+Iq8mFbi+3vLVRfCh4Ck5704XaFUVpUJNbqWVNCitkQCG97aB+IcqyDM
+	 vWQiytqDojKoYIY7rMFlF+71kGukCJZ3GKDN6WMA=
+X-MSFBL: GmvrK9NUBypwhPn2VCAFm494vc1TjFnqT6LY5beda0s=|eyJyY3B0X21ldGEiOns
+	gfSwidGVuYW50X2lkIjoic3BjIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsImlwX3B
+	vb2xfcmF3IjoiZGVmYXVsdCIsInJjcHRfdGFncyI6WyBdLCJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwiciI6ImpvYnNAcGVybC5vcmciLCJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInRlbXBsYXRlX2lkIjoic210cF8xMjU4MTMyNDQzNjg0MzEzNiIsInR
+	lbXBsYXRlX3ZlcnNpb24iOiIwIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3N
+	hZ2VfaWQiOiIwMDAwZTVkNTY2NTkyZDZiYTgyZiIsImlwX3Bvb2wiOiJkZWZhdWx
+	0IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ0cmFuc21
+	pc3Npb25faWQiOiIxMjU4MTMyNDQzNjg0MzEzNiIsInN1YmFjY291bnRfaWQiOiI
+	xIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60234] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.33.60423 r(Core:4.2.33.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 8A/F2-27437-5E5D6695; Thu, 13 Jul 2017 02:07:33 +0000
+Received: from [10.2.4.105] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dVTXQ-0000Mb-Ls
+	for jobs@perl.org; Thu, 13 Jul 2017 02:07:32 +0000
+Date: Thu, 13 Jul 2017 02:07:32 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dVTXQ-0000Mb-Ls@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.13.20016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20888
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 10, 2017
+
+Job title: Perl Developer
+
+Company name: Zoopla
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking hard-working, high-performing software developers who want
+to make a difference, and are not afraid of a challenge to join our
+dedicated team based in Central London. Our development team builds the
+platform behind all aspects of the business, including our websites, data
+processing, search, analysis, reporting, CRM and finance. Our platform
+architecture is based on Linux, Apache, Perl (/Mason), MySQL, Amazons
+WebServices (EC2, RDS etc.), Gearman, Memcached and other technologies. You
+will be joining a small and friendly group of developers in an exciting and
+ambitious company where your work can make a big difference.
+
+Key
+Responsibilities:
+We are looking to recruit Perl developers to help us
+build new features and enhancements to our platform - this includes the
+APIs that drive our website, back-end tools, intensive/distributed data
+processing, search technology, complex valuation algorithms, and server
+control functionality.
+
+Working for Us
+Were based in a vibrant area thats
+full of history. Built on the site of the old Courage brewery, our
+"Cooperage" offices are located right next to Tower Bridge on the south
+side of the Thames.
+Our workplace has many great features, from the gym,
+games room and in-house barista to the free breakfasts and snacks.
+Youll be
+part of a cross-functional agile team that comprises frontend and backend
+developers, QA, UX and visual designers and a product owner, holding
+regular planning, retro and demo sessions.
+
+Desired skills:
+You will consider yourself an excellent problem-solver, will enjoy a
+flexible working environment and a strong team culture.
+You will need good
+communication skills as well as technical ability.
+You will need to
+understand the importance of building structured code that is highly
+scalable, secure, reliable and robust.
+You will need to thrive in a
+challenging and rewarding environment where you may need to work with all
+aspects of our systems - software engineering, server configuration,
+software evaluation, scripting, QA.
+Essential
+Perl platform development
+Database / data-processing experience
+Desired
+Linux, Apache, MySQL, HTML,
+AWS
+
+Website for more information: http://www.zpg.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20888#contact

@@ -1,0 +1,188 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15965
+Return-Path: <msprvs1=17367YKWTiges=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17159 invoked from network); 13 Jul 2017 02:07:20 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 13 Jul 2017 02:07:20 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3182C11D896
+	for <perlmail-jobs@onion.perl.org>; Wed, 12 Jul 2017 19:07:20 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B3C3411D9EB
+	for <perlmail-jobs@onion.perl.org>; Wed, 12 Jul 2017 19:07:16 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6AA7611D896
+	for <jobs@perl.org>; Wed, 12 Jul 2017 19:07:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1499911625; i=@perl.org;
+	bh=3YI6CplkKhSkrxEEsVCXNouwVyYqLy2WA74VBNfBhbE=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ddF7PEOWUb8eTKZfoYWPRzlzKfpibjH0RsARC6MJHEv4u4YTMQsIbrG6ab4Sgsjj6
+	 S2E52DD6to6E1yQ70cSaflkudT+oQVlT1oQDA3Fay9uZFjZldaZ2PE7+CgCsEdKTpI
+	 2MTmDpTTtC2JQaxxK0MU/bPH6A5Bth1DqHBCFLS8=
+X-MSFBL: 8bHmHCGPaHAM0mW0zlkpIQ1sG2kJ08fRngU4HZMWsrI=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJmcmllbmRseV9mcm9tIjoiam9
+	icy1hZG1pbkBwZXJsLm9yZyIsInJjcHRfdGFncyI6WyBdLCJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNTgxMzI0NDM2ODQ
+	xODQ0IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI1ODEzMjQ0MzY4NDE4NDQiLCJnIjo
+	iMDAwMDA6cGxhY2Vob2xkZXIiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInRlbmF
+	udF9pZCI6InNwYyIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImlwX3Bvb2wiOiJ
+	kZWZhdWx0IiwiciI6ImpvYnNAcGVybC5vcmciLCJiIjoiaXBfMzQuMjA5LjgwLjI
+	5IiwicmNwdF9tZXRhIjp7IH0sInRyYW5zYWN0aW9uYWwiOiIxIiwibWVzc2FnZV9
+	pZCI6IjAwMDBjOWQ1NjY1OTJkNmI2NTI5In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52709] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.33.60423 r(Core:4.2.33.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 56/92-27437-9C5D6695; Thu, 13 Jul 2017 02:07:05 +0000
+Received: from [10.2.5.148] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dVTWy-0000MX-Bc
+	for jobs@perl.org; Thu, 13 Jul 2017 02:07:04 +0000
+Date: Thu, 13 Jul 2017 02:07:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dVTWy-0000MX-Bc@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.13.20016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), The Netherlands - Amsterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20890
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 12, 2017
+
+Job title: Perl Developer
+
+Company name: Genscape
+
+Location: The Netherlands - Amsterdam
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Genscape located in Amsterdam has a vacancy for an
+
+Perl Developer
+Reports
+to: MD, European Power
+
+Our Company:=20
+Genscape, a DMGT company, is a
+leading global provider of energy information and analytical services for
+commodity and financial markets.
+
+Utilizing patented technologies and
+proprietary algorithms, Genscape provides accurate & timely data on
+capacities, flow and utilization for all major energy commodities. The
+product offerings include real-time information services for power, natural
+gas and oil in North America and Europe as well as fundamentals-based
+analytical platforms and market intelligence services which market
+participants rely upon to better understand drivers, risks and dynamics of
+regional power and gas markets.
+
+Genscape is committed to enhancing the
+market activities of our clients through access to superior fundamental
+data, market intelligence and analytical capabilities.=20
+
+For additional
+information about our Company visit our careers page at
+www.genscape.com/careers.=20=20
+
+Our Team:=20=20=20
+Our teams of employees at
+Genscape are highly motivated, innovative, and passionate for providing
+excellent products and customer service. We look for individuals interested
+in growing with our company, and working in an exciting, open and collegial
+work environment.=20=20=20=20=20
+
+Due to strong international growth, Genscape is
+seeking a (Senior) Perl Developer to expand the EPSI Platform development
+team and tackle the challenges of scalability, speed and data management.
+Based in Amsterdam, you=E2=80=99ll apply and develop your deep skillset in =
+Perl
+within a focused and entrepreneurial environment to keep the EPSI platform
+at the cutting edge.
+
+The EPSI platform enables European electricity market
+participants (power traders, power station owners, consultants and
+regulators) to develop scenarios of short and long term market development
+based on supply/demand fundamentals. This B2B web-based platform has been
+developed using open-source components, based on Linux servers and with
+Perl as the dominant server-side technology and ES6 / React / Backbone as
+the front-end. Our product vision is centered around a superior user
+experience based on execution speed, interface usability, quality, and full
+integration between data and analytics. The EPSI platform was established
+in 2007 and has rapidly taken a leading market position in Europe.=20
+
+The
+key objective of this role is to drive forward the technological foundation
+to enable the continued expansion of our platform business in Europe and
+internationally by expanding the capabilities of the Perl-based back end:
+=E2=80=A2
+      Expansion of the analytical feature-set in accordance with business
+objectives
+=E2=80=A2	The move to cloud and re-working platform architecture
+to take advantage of scalability and manage growth in user numbers
+=E2=80=A2=20=20=20=20=20=20
+Speed-optimisation of scenario execution and data storage to ensure
+market-leading performance
+=E2=80=A2	Expanding and re-working the ingestion
+and processing of external data feeds to meet quality, flexibility, and
+speed criteria
+
+Desired skills:
+=E2=80=A2	You have 5+ years=E2=80=99 experience in a Perl software developm=
+ent role
+=E2=80=A2
+      You have a good mathematical background
+=E2=80=A2	You have experience
+working with Modern Perl, Moo, XS, PSGI/Plack
+=E2=80=A2	You have experience
+with database architecture and development, MySQL
+=E2=80=A2	Development
+practices: Unit testing, Refactoring
+=E2=80=A2	You have used version control
+tools: Git
+=E2=80=A2	You have a familiarity with Agile development approach
+=E2=80=A2
+      You have a master's degree in an exact science or engineering field
+=E2=80=A2
+      You have Unix experience
+
+Once you land this position, you=E2=80=99ll get to
+enjoy:
+=E2=80=A2	A fun, fast paced, entrepreneurial environment
+=E2=80=A2	Being
+part of a team of highly intelligent and highly innovative individuals
+=E2=80=A2=20=20=20
+   A company that offers a strong focus on work life balance
+=E2=80=A2	An
+awesome office location with multiple perks
+=E2=80=A2	Plenty of paid time off
+=E2=80=A2	401k and a full benefits package that begins on your first day
+
+Website for more information: http://www.genscape.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/20890#contact
