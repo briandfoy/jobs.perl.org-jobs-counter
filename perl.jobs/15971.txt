@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15971
+Return-Path: <msprvs1=17375F2u4A4DM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5750 invoked from network); 21 Jul 2017 02:40:57 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2017 02:40:57 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id AB43111D416
+	for <perlmail-jobs@onion.perl.org>; Thu, 20 Jul 2017 19:40:57 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id EB21A11D40C
+	for <perlmail-jobs@onion.perl.org>; Thu, 20 Jul 2017 19:40:53 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 93D2311D8BE
+	for <jobs@perl.org>; Thu, 20 Jul 2017 19:40:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1500604849; i=@perl.org;
+	bh=t2QqEgxran66GTsP/CXnvTXwS+5NkOCdCHFf9B7CbAs=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ikqndibzgjec7oa9w92VMLlZw0ZGEJGvr6saB2h6gZXSsd9Lfz0Epvttk4imrLibu
+	 gwF7gyBUKhGZhFTgmx0pVbXmCU/4gi23LbDr4NXONI/gP90IB3mFn8gIU9nclltxJy
+	 gdXFEv8lp/fshNZeuu19LmeUx5xTgZi9ozc+J++8=
+X-MSFBL: Asf0pmd0r1Wlherq8aeCZS/DNdJxLDpT0ou/2asc2Mo=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInRlbXBsYXRlX2lkIjoic210cF8xMjU
+	4Njg5OTMyNTg5Mjg3NiIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsIm1lc3NhZ2V
+	faWQiOiIwMDAwYjE2OTcxNTk3NmYzZTQ5ZiIsInNlbmRpbmdfaXAiOiIzNC4yMDk
+	uODAuMjkiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsImciOiIwMDAwMDpwbGFjZWh
+	vbGRlciIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNTg2ODk5MzI1ODkyODc2IiwiYiI
+	6ImlwXzM0LjIwOS44MC4yOSIsInIiOiJqb2JzQHBlcmwub3JnIiwiZnJpZW5kbHl
+	fZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sImlwX3Bvb2wiOiJkZWZhdWx0IiwicmNwdF9tZXRhIjp7IH0sImN1c3RvbWVyX2l
+	kIjoiMTc1MzAiLCJyY3B0X3RhZ3MiOlsgXX0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63244] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60511 r(Core:4.2.34.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4E/F9-62326-1B961795; Fri, 21 Jul 2017 02:40:49 +0000
+Received: from [10.2.3.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dYNs1-00006A-8v
+	for jobs@perl.org; Fri, 21 Jul 2017 02:40:49 +0000
+Date: Fri, 21 Jul 2017 02:40:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dYNs1-00006A-8v@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.21.23616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Junior Perl Developer (onsite), Kent, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20498
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2017
+
+Job title: Junior Perl Developer
+
+Company name: Eligo
+
+Location: Kent, UK
+
+Pay rate: =C2=A335,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Wanted=20
+
+A hungry junior developer with an appetite for all things Perl.=20=20
+
+If you=E2=80=99re passionate about learning new languages and technologies,=
+ then
+this junior Perl Developer role is ideal for you. Working for a growing
+payment technology business you will be integral in supporting the ongoing
+and rapid development of its platform.=20
+
+A role to get your teeth into=20
+=E2=80=A2=20=20
+    You=E2=80=99ll be hands on, prototyping, maintaining and refactoring pr=
+oduct
+features.
+=E2=80=A2	You=E2=80=99ll be applying your coding skills to developing,
+testing and debugging Perl backend code, SQL queries, frontend HTML &
+JavaScript.=20
+=E2=80=A2	You will be providing internal support for
+system-related questions and issues whilst making sure to develop and
+maintain all technical documentation.
+
+You don=E2=80=99t have to chase down your
+rewards, as Junior Perl Developer you will be offered
+=E2=80=A2	A competitive
+salary of =C2=A325,000 =E2=80=93 =C2=A335,000.
+=E2=80=A2	The chance to thrive in a great
+working environment, working alongside friendly designers, copywriters,
+product managers, marketers and developers.
+=E2=80=A2	You=E2=80=99ll also get the
+opportunity to work at the companies=E2=80=99 satellite offices in other co=
+untries
+and attend their annual coding event in Sweden.=20
+
+Have you got what it
+takes to master all things Perl
+=E2=80=A2	You=E2=80=99ll ideally have 1+ years=E2=80=99
+experience of Perl-based web development and 2+ years of frontend web
+development.
+=E2=80=A2	Great knowledge of modern Perl MVC web frameworks;
+Mojolicious, Catalyst and Dancer.=20
+=E2=80=A2	Hands on experience with
+testing, continuous integration, SVN and Git.=20
+
+To take the next step in
+your Perl career, apply to become Junior Perl Developer now!
+
+Website for more information: http://eligo.co.uk/it-recruitment/
+
+Contact information at:
+http://jobs.perl.org/job/20498#contact

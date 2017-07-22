@@ -1,0 +1,255 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15985
+Return-Path: <msprvs1=17375F2u4A4DM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7769 invoked from network); 21 Jul 2017 20:34:42 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2017 20:34:42 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 479F711F099
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:34:42 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id F1E5011F0B4
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:34:39 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 53D8911F0B3
+	for <jobs@perl.org>; Fri, 21 Jul 2017 13:34:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1500669274; i=@perl.org;
+	bh=RJFa2Qtg1LgIoPj8giftIt91W6Wkk4HUNUH+HFERrnQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=iBvrIjuEYbzvh81LYssBpmcEZT9XSWffXvb8EjA6owsW0kh3ujHSE7Jx2wU5CA+3M
+	 BDZ5waMY9qG0va3110J+w+x4SonqYctLo7QCmfQzZFxoB/EZjwnbnSxVKaFdTZ6C1a
+	 WWSmjO2kYU1V9x+eUXxTHuD3cmSeps4akx5q6Wgw=
+X-MSFBL: HAiHrBakjLmt5hCYZo5oKUGtNPbxGijMtDvijNGYgFs=|eyJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwicmNwdF90YWdzIjpbIF0sInJjcHRfbWV0YSI6eyB9LCJ0cmFuc21
+	pc3Npb25faWQiOiIxMjU4Njg5NTQ3MTEzMTg1MyIsImZyaWVuZGx5X2Zyb20iOiJ
+	qb2JzLWFkbWluQHBlcmwub3JnIiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNTg2ODk
+	1NDcxMTMxODUzIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInRlbXBsYXRlX3ZlcnN
+	pb24iOiIwIiwibWVzc2FnZV9pZCI6IjAwMDA1YTY1NzI1OTUzZjE1MWFkIiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJ0cmFuc2FjdGlvbmFsIjoiMSIsImlwX3Bvb2wiOiJ
+	kZWZhdWx0Iiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInRlbmFudF9pZCI
+	6InNwYyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInN1YmFjY291bnRfaWQiOiI
+	xIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50718] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60511 r(Core:4.2.34.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 15/DA-61779-A5562795; Fri, 21 Jul 2017 20:34:34 +0000
+Received: from [10.2.3.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dYed6-00009E-Sf
+	for jobs@perl.org; Fri, 21 Jul 2017 20:34:33 +0000
+Date: Fri, 21 Jul 2017 20:34:32 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dYed6-00009E-Sf@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.21.202116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_5000_5999 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_ENDS_IN_HTML 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FRAUD_JOB 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_MSG_3 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_6 0, __STOCK_PHRASE_8 0, __STOCK_PHRASE_X3 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer, London, SW6 (not remotely)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19756
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2017
+
+Job title: Perl Developer
+
+Company name: Adzuna
+
+Location: London, SW6 (not remotely)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We=E2=80=99re looking for a Perl developer to help us make job search bette=
+r. This
+is a rare and exciting opportunity to be a part of the ongoing development
+and rapid growth of the Adzuna job search engine in one of the UK=E2=80=99s=
+ most
+dynamic and fastest-growing startups.
+
+Our infrastructure is built around
+industry-standard open-source tools and runs on distributed clusters. You
+will be a key member of a small, experienced team that oversees all aspects
+of our operations, ranging from powering our international websites,
+aggregating classifieds from thousands of external sources, to crunching
+job market data to power our statistics and applying machine learning
+algorithms to enhance job seekers=E2=80=99 experience.=09
+
+At Adzuna you will work
+independently in a fast-moving, low-structure environment where you will
+have the opportunity to help shape our technical direction and processes as
+we grow. An appreciation of the =E2=80=98DevOps=E2=80=99 movement is essent=
+ial as we manage
+and monitor the systems ourselves. You will also need to understand the
+importance of building structured code that is fast, scalable, reliable and
+robust.
+
+The projects you will work on will include new search features,
+relevancy and matching algorithms, APIs and =E2=80=98big data=E2=80=99 anal=
+ysis, reporting
+tools and features to enhance the job search experience on Adzuna. Our
+systems have been built to scale, and you will be able to demonstrate your
+experience in writing scalable code running in distributed environments.
+
+We offer a fun and supportive working environment, with an emphasis on
+team-working, mentoring and training. Adzuna is an exciting high-growth
+business where you can make a huge difference, with a market competitive
+package including stock options.
+
+In this role you will:
+
+- Partner with
+other developers and data scientists to improve existing systems and
+develop new functionality and tools
+
+- Analyse business and technical
+requirement and develop solutions, taking into account variable aspects,
+such as performance, scalability, ease of maintenance and cost.
+
+- Help
+refactor existing processes and workflows to improve efficiency
+
+-
+Participate in R&D of new technology trends and tools
+
+- Assist and mentor
+members of our development team
+
+
+
+About Adzuna
+
+
+Adzuna is a search engine
+for job ads used by over 10 million visitors per month that aims to list
+every job, everywhere. We search thousands of websites so our users don=E2=
+=80=99t
+have to, bringing together millions of ads in one place. By providing
+smarter search options and powerful data about the job market, as well as
+unique tools like ValueMyCV, we give jobseekers the information they need
+to take control of their careers.
+
+Adzuna=E2=80=99s data also powers the Number 10
+Dashboard, used by the Prime Minister and senior officials to keep track of
+economic growth on a daily basis.
+Adzuna launched in the UK in July 2011
+and now operates in 16 countries. We have a great, international team, top
+class investors, recently won an award for best crowdfunding round of the
+year, and have been recognised as one of the government=E2=80=99s Future Fi=
+fty and
+Sunday Times Tech Track 100 fastest-growing tech companies in Britain.
+
+Adzuna=E2=80=99s mission is to be the best place to start looking for a job=
+. We
+love using the awesome power of technology to help match people to better,
+more fulfilling jobs and keep Britain working.
+
+
+What we offer
+
+-
+Competitive salary
+
+- Stock options
+
+- An opportunity to be part of a
+high-growth startup business with a friendly, informal, no-politics,
+low-hierarchy, multicultural team culture
+
+- The chance to work with and
+learn from a highly motivated team of experienced internet professionals
+who want to make job search better
+
+- Startup benefits like a positive
+attitude towards flexible working and families, your birthday off,
+cycle-to-work scheme, childcare vouchers, regular team training sessions -
+plus a table tennis table and a programme of team social events
+
+- Bright,
+airy office in the heart of bustling Fulham Broadway
+
+Desired skills:
+Required skills
+
+- 4+ years with high-volume/high-traffic
+applications/sites
+
+- Excellent Object-Oriented Perl, preferably including
+Moose
+
+- Strong SQL (ideally MySQL) and DBIx::Class
+
+- Experience with unit
+and functional testing (Test::More etc.)
+
+- Good experience with Unix/Linux
+
+- Version control systems, ideally Git
+
+- Solid understanding of
+application data flow and lifecycles
+
+- Strong attention to detail
+
+
+
+Useful extra skills / experience
+
+
+- Solr, Lucene, ElasticSearch or other
+search engine
+
+- Templating frameworks (ideally Template Toolkit)
+
+-
+Classified ads / vertical search websites
+
+- Varnish, nginx, PSGI/Plack,
+Apache httpd, FastCGI
+
+- Spidering technology
+
+- Search technology and
+search engine optimisation
+
+- Cloud infrastructure and tools (AWS
+preferred)
+
+- Chef (pref), Puppet or an equivalent
+
+- Gearman or other
+distributed queueing/messaging frameworks
+
+- Unicode and
+internationalisation
+
+- Machine learning / neural nets
+
+- Python
+
+Website for more information: http://www.adzuna.co.uk/about-us.html
+
+Contact information at:
+http://jobs.perl.org/job/19756#contact

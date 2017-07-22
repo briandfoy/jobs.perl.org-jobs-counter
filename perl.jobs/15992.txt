@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15992
+Return-Path: <msprvs1=17375F2u4A4DM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7721 invoked from network); 21 Jul 2017 20:34:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2017 20:34:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E332E11F0AA
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:34:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E848911F096
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:34:28 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 7C30411F0AB
+	for <jobs@perl.org>; Fri, 21 Jul 2017 13:34:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1500669263; i=@perl.org;
+	bh=yXaKlcwBdvhDFc/eP05TrYiYYkOR3h98zBR5WGsH7H8=;
+	h=Date:To:From:Subject:Reply-To;
+	b=e+hc3fXLaIef7vIS+zNKrIqB/wtm8A6fkxLfyecuc4/MlAyFfWI5aDel7bQ/ANZZi
+	 ppb4s2hEgIR9DZRlEoUUCFiXRqKTZA4WU/vgAyxVUa1Qu4VYpwcdnfDxI7NUuj0hww
+	 RS+VsbwI3kw8g6rOd2ctYl4U5ZAMGLlNbiCxyAXk=
+X-MSFBL: TVFSwdJ/EHgJduzN85qGeSK2ePwomRT62EjFqruJrPI=|eyJ0cmFuc21pc3Npb25
+	faWQiOiIxMjU4Njg5OTMyOTc2MjkyNiIsInRlbmFudF9pZCI6InNwYyIsImlwX3B
+	vb2xfcmF3IjoiZGVmYXVsdCIsImlwX3Bvb2wiOiJkZWZhdWx0IiwiY3VzdG9tZXJ
+	faWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiIwMDAwNGY2NTcyNTk3NmYzODcwYiI
+	sImciOiIwMDAwMDpwbGFjZWhvbGRlciIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWF
+	kbWluQHBlcmwub3JnIiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNTg2ODk5MzI5NzY
+	yOTI2IiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInJjcHRfdGFncyI6WyBdLCJzZW5
+	kaW5nX2lwIjoiMzQuMjA5LjgwLjI5Iiwic3ViYWNjb3VudF9pZCI6IjEiLCJ0ZW1
+	wbGF0ZV92ZXJzaW9uIjoiMCIsInJjcHRfbWV0YSI6eyB9LCJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRyYW5zYWN0aW9uYWwiOiIxIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57464] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60511 r(Core:4.2.34.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 78/B0-62326-F4562795; Fri, 21 Jul 2017 20:34:23 +0000
+Received: from [10.2.5.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dYecx-000092-7u
+	for jobs@perl.org; Fri, 21 Jul 2017 20:34:23 +0000
+Date: Fri, 21 Jul 2017 20:34:23 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dYecx-000092-7u@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.21.202116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20552
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2017
+
+Job title: Senior Developer
+
+Company name: CV-Library
+
+Location: London
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CV-Library is one of the UK's largest online job sites, with over 10
+million candidates and 3.8 million unique visitors every month. With a
+client list crammed full of the biggest brand names in recruitment and also
+a healthy mix of well-known corporate clients, we are rapidly evolving into
+one of the biggest and most dynamic online media organisations in the UK.
+The exciting news is we're still growing beyond all expectations.
+
+We now
+have the opportunity for an experienced and skilled senior developer to
+help with the continuing expansion of the UK's fastest growing job board.
+
+As a senior developer you will have an in depth knowledge of Modern Perl
+and object-oriented programming. You believe in best practices and tests
+(sometimes developing using TDD).
+
+You are equally happy adding new
+features or refactoring legacy code to improve the overall architecture.
+You enjoy learning new technologies and coaching/mentoring your fellow
+developers.
+
+Essential skills:
+
+* OO Perl with Moose
+* Apache / Nginx
+* SQL
+(MySQL)
+* Linux
+* Version control (ideally with Git)
+
+Our development team
+performs code review (with Gerrit) and continuous integration (with Jenkins
+running our Test::Class unit tests) to increase code quality. We use commit
+hooks with Perltidy and Perl::Critic and we have daily standups, and weekly
+demos and retrospectives.
+
+The team enjoy a quiet working environment with:
+
+* High quality dual monitors
+* High spec PC
+* Laid back dress code
+
+Desired skills:
+Experience with any following would be advantageous:
+
+* Solr
+* Template
+Toolkit
+* Plack
+* Javascript (JQuery)
+
+Website for more information: https://www.cv-library.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20552#contact

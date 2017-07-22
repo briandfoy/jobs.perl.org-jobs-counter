@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15990
+Return-Path: <msprvs1=17375F2u4A4DM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8341 invoked from network); 21 Jul 2017 20:35:31 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2017 20:35:31 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 02AC711F0B4
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:35:31 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0C66911D8A5
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:35:27 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 4413D11F0AA
+	for <jobs@perl.org>; Fri, 21 Jul 2017 13:35:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1500669309; i=@perl.org;
+	bh=64nRI0rKctb51toeN0wAuZ15exFOUzDxgJmKktTqsO0=;
+	h=Date:To:From:Subject:Reply-To;
+	b=kIXBkel0JaoyyJQIY5d5ouicjEl3m4LuYaeDAYdg5RPRrIBL3cQ6p1U9BuKQgR30q
+	 dQbubFKQc8r416hqX0RdkfdMmIQEEdcu/BtezFGXlEtS8DSSF0txCWe9NwpNDiXsVQ
+	 PTxd4V+zOJ+FDQacJ54EvhOwnqBv8DiDwIHa/OD0=
+X-MSFBL: CJaiQidEcbOV60Vy1RMqER/PSIliNcJmh7DCVQecImE=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwicmNwdF90YWdzIjpbIF0sImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCI
+	sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwidGVtcGxhdGV
+	fdmVyc2lvbiI6IjAiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI1ODY4OTU0NzExMzM
+	2MzEiLCJ0cmFuc21pc3Npb25faWQiOiIxMjU4Njg5NTQ3MTEzMzYzMSIsImlwX3B
+	vb2wiOiJkZWZhdWx0IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwic3ViYWNjb3V
+	udF9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDd
+	kNjU3MjU5NTNmMTdhYjUiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwicmNwdF9tZXR
+	hIjp7IH0sInRyYW5zYWN0aW9uYWwiOiIxIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	zZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59815] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60511 r(Core:4.2.34.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A7/5B-61779-D7562795; Fri, 21 Jul 2017 20:35:09 +0000
+Received: from [10.2.5.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dYedh-00009g-G5
+	for jobs@perl.org; Fri, 21 Jul 2017 20:35:09 +0000
+Date: Fri, 21 Jul 2017 20:35:09 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dYedh-00009g-G5@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.21.203017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl / EDI Developer (Telecommute), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20894
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2017
+
+Job title: Perl / EDI Developer (Telecommute)
+
+Company name: CargoTel Inc.
+
+Location: Chicago, IL
+
+Pay rate: TBD
+
+Hours: Full time
+
+Description:
+Perl / EDI Developer
+=20
+CargoTel, Inc., is a web and mobile SaaS business
+focused on the automotive logistics industry in the US and internationally.
+We have a robust logistics web platform to which we add hybrid Android and
+iOS mobile modules. This position is remote =E2=80=93 you will need your own
+computer and a suitable home office.=20
+=20
+A key area of continuous demand is
+automotive industry EDI and Web Services.  Primarily, we are seeking a
+talented Perl web with extensive EDI and Web Service knowledge and
+experience to maintain existing processes as well as to develop and deploy
+new ones.  Other project categories may include development related to our
+industry-leading ERP solution.	Salary is commensurate with skill level and
+experience.
+
+Desired skills:
+Required Skills
+=E2=80=A2	 7+ years OO Perl web development in a production
+environment
+=E2=80=A2	 5+ years experience in developing and maintaining EDI
+and Web Service communications
+=E2=80=A2	 Modern JavaScript (JS)
+=E2=80=A2=09
+Revision control (GitHub preferred)
+=E2=80=A2	 REST, SOAP, JSON - HTML
+=E2=80=A2=20=20=20=20=20
+  Team Player - Enthusiasm, determination and initiative; self-starter
+=E2=80=A2=20=20=20
+    Strong troubleshooting skills, especially with complex and/or legacy
+code=20
+=E2=80=A2	 Works well under pressure and under tight deadlines
+=20
+Bonus
+Skills
+=E2=80=A2	 IBM Informix and/or PostGresQL familiarity
+=E2=80=A2	 Basic
+system administration (Linux)=20
+=E2=80=A2	 Experience working in a virtual
+environment
+=E2=80=A2	 MVC frameworks like Dancer or Mojo
+=E2=80=A2	 JavaScript
+such as Angular, CoffeeScript, Bootstrap
+=E2=80=A2	 Mapping integration and
+PostGIS
+=E2=80=A2	 Experience in the logistics or transportation industries
+
+Website for more information: http://CargoTel.com
+
+Contact information at:
+http://jobs.perl.org/job/20894#contact

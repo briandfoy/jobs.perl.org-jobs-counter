@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15988
+Return-Path: <msprvs1=17375F2u4A4DM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8391 invoked from network); 21 Jul 2017 20:35:40 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2017 20:35:40 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6582111D8A5
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:35:40 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 38F5C11F0AA
+	for <perlmail-jobs@onion.perl.org>; Fri, 21 Jul 2017 13:35:38 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id ACBDF11D8A5
+	for <jobs@perl.org>; Fri, 21 Jul 2017 13:35:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1500669333; i=@perl.org;
+	bh=2tAgkoU6lWdFgVDw7KaAO2q0HGKtdqJoa5AVEBPXoCA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=IY5T8UZf0bG82l5nghinlKd/Fa7o9T7LD0CpVjh9OK5vn4oGyMVL3h7HFWeB93bgB
+	 LTJNVGRXepOVnMTUUFYyR8Cr90gDVW7N8J2wUZuDEYz0jIvzDyXqKD2SMYMDy01Zjy
+	 rYcfUZwbDHFLBM0M/JDAGmG0kPu+E3Z2HN2DBUOA=
+X-MSFBL: Pmprx5YC13UB7mAGI43d3LMewr51sbCRU8tQ1p2St3g=|eyJpcF9wb29sIjoiZGV
+	mYXVsdCIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJnIjoiMDAwMDA6cGxhY2Vob2x
+	kZXIiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInRyYW5
+	zYWN0aW9uYWwiOiIxIiwiciI6ImpvYnNAcGVybC5vcmciLCJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJiIjoiaXBfMzQ
+	uMjA5LjgwLjI5IiwidGVuYW50X2lkIjoic3BjIiwidGVtcGxhdGVfaWQiOiJzbXR
+	wXzEyNTg2ODk5MzI5NzY2NjI5IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI1ODY4OTk
+	zMjk3NjY2MjkiLCJyY3B0X21ldGEiOnsgfSwicmNwdF90YWdzIjpbIF0sImlwX3B
+	vb2xfcmF3IjoiZGVmYXVsdCIsIm1lc3NhZ2VfaWQiOiIwMDAwOTU2NTcyNTk3NmY
+	zNjQxZCIsInN1YmFjY291bnRfaWQiOiIxIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57702] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60511 r(Core:4.2.34.0)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 46/D1-62326-59562795; Fri, 21 Jul 2017 20:35:33 +0000
+Received: from [10.2.3.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dYee4-00009k-Vo
+	for jobs@perl.org; Fri, 21 Jul 2017 20:35:33 +0000
+Date: Fri, 21 Jul 2017 20:35:32 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dYee4-00009k-Vo@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.21.203017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1500_1599 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Perl Developer / Web Master (telecommute), Glen Allen, Virginia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20896
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2017
+
+Job title: Perl Developer / Web Master
+
+Company name: Business Partnering Intl, Ltd. dba AgencyFinder
+
+Location: Glen Allen, Virginia
+
+Pay rate: $50 - $100 per hour US
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for someone to manage, modify and build (as necessary) the
+Perl backend of our website at agencyfinder.com . The front end is
+WordPress and we have that covered. As it is we have a powerful and
+extensive dashboard to manage the Perl database portion of our site.
+Ideally you would be in Richmond, Virginia but we're used to long-distance
+relationships. We've been around since 1997 and considered a pioneer and
+leader in the advertising industry.
+
+We have a Web Architect responsible
+for any new WordPress construction; we handle updates and additions
+in-house.
+
+The site is hosted at an ISP in Maryland. There is no immediate
+=E2=80=9Ctask=E2=80=9D or assignment and as was the case with our previous =
+Web Master, he
+would do what we decided needed doing at the time. He billed his work by
+the hour but provided a firm estimate in advance.
+
+Desired skills: Perl, Perl & Perl! Sell us on anything more.
+
+Website for more information: http://www.agencyfinder.com/
+
+Contact information at:
+http://jobs.perl.org/job/20896#contact
