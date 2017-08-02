@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15997
+Return-Path: <msprvs1=17386SmpXh2bB=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28711 invoked from network); 1 Aug 2017 23:42:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 1 Aug 2017 23:42:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5DD4911D9C5
+	for <perlmail-jobs@onion.perl.org>; Tue,  1 Aug 2017 16:42:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 87FA711EB78
+	for <perlmail-jobs@onion.perl.org>; Tue,  1 Aug 2017 16:42:00 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 95DD311EB9C
+	for <jobs@perl.org>; Tue,  1 Aug 2017 16:41:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1501630918; i=@perl.org;
+	bh=qihucDxU3/Qhka+7xMizCcJcX41wp9uVjdIcmxLtWaA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=lo+MybGKH3xiy9Lavd77Jo4Yz4CENo6vQBpZWtf37iWFdA4osJGV8CIqcYFbu4WLv
+	 iMvMW9AysPyY3fOayY+gO4+a9kT58nMBqXEHf+Rl88XLnBYp06qrIOAiyBkjcyEs9c
+	 R6Vz8Hs0pL5t1vVrtCxbw+8npkBkxuz8x8rXwLKY=
+X-MSFBL: iZQoBkXrfnICLulmspup9AkIdmWBX/eU35zyYtycrwk=|eyJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJpcF9wb29sIjoiZGVmYXVsdCI
+	sImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRyYW5
+	zbWlzc2lvbl9pZCI6IjEyNTkwNTU1ODI5NTY2NjIwIiwic3ViYWNjb3VudF9pZCI
+	6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJ
+	0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjk
+	iLCJyY3B0X21ldGEiOnsgfSwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGV
+	ybC5vcmciLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJyY3B0X3RhZ3MiOlsgXSw
+	idGVtcGxhdGVfaWQiOiJzbXRwXzEyNTkwNTU1ODI5NTY2NjIwIiwibWVzc2FnZV9
+	pZCI6IjAwMDBjNjExODE1OWJmZGVkMDRjIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53047] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60555 r(Core:4.2.34.1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 0D/C4-57023-6C111895; Tue, 01 Aug 2017 23:41:58 +0000
+Received: from [10.2.1.158] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dcgnV-0000Q1-6C
+	for jobs@perl.org; Tue, 01 Aug 2017 23:41:57 +0000
+Date: Tue, 1 Aug 2017 23:41:57 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dcgnV-0000Q1-6C@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.8.1.232716
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Make your work more visible; Catalyst and Template Toolkit with an
+ eye for detail - junior to mid-level (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20902
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2017
+
+Job title:
+Make your work more visible; Catalyst and Template Toolkit with an eye for
+detail - junior to mid-level
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Got an eye for detail and some HTML/CSS/jQuery skills? Want to work in a
+small team with a very popular product in Central London? Have some
+exposure to Catalyst and Template Toolkit?
+
+My client is looking to
+completely overhaul their site on Catalyst, and is looking for a developer
+to wrangle Template Toolkit into showing their users practical, functional,
+and beautiful pages.
+
+You=E2=80=99ll be primarily a Perl developer =E2=80=93 although
+perhaps not currently a Perl wizard =E2=80=93 but you=E2=80=99ll have a dee=
+p interest in
+user experience and using web technologies to dazzle and help customers.
+Perhaps you worked with PHP for a few years before switching to Perl, and
+don=E2=80=99t want your front-end skills to deteriorate?
+
+Client is based in West
+London, is a key supporter of the Perl community, and consists of a small,
+friendly, and technical team. You=E2=80=99ll be working along side some ser=
+iously
+capable people, and it=E2=80=99s guaranteed you=E2=80=99ll be a stronger Pe=
+rl developer for
+the experience.
+
+Desired skills: Perl
+
+Website for more information:
+https://perl.careers/jobs/catalyst-and-template-toolkit-eye-for-detail-perl
+/
+
+Contact information at:
+http://jobs.perl.org/job/20902#contact
