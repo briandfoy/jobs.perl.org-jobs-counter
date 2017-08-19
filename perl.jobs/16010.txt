@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16010
+Return-Path: <msprvs1=174048oljk1hH=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24875 invoked from network); 19 Aug 2017 08:44:21 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Aug 2017 08:44:21 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 207B011D897
+	for <perlmail-jobs@onion.perl.org>; Sat, 19 Aug 2017 01:44:21 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C782D11F079
+	for <perlmail-jobs@onion.perl.org>; Sat, 19 Aug 2017 01:44:16 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id F363C11D897
+	for <jobs@perl.org>; Sat, 19 Aug 2017 01:44:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1503132255; i=@perl.org;
+	bh=0AYGFZoxOMsIazySBW2fRs0FgPqrtFQ8PDtZkHOCvvI=;
+	h=Date:To:From:Subject:Reply-To;
+	b=LqOnNwtK7TPZzYFrfwrsZ2F1aJSRzhkY5Sq/Cll2xLRK5GAkaJ2qHo7UZBtuxEPZl
+	 zdEM2DrSlrQtkaBSCy9dzWJ3SuNkkS9OI8cvSiVDZlohpNWs6D17gVDJHp/gU31hns
+	 Pj6ARhs5my0arUTOx9lSxoH/0ApcXk7sf9AcTJMs=
+X-MSFBL: jCGnvmiixHyt4sYImTjtBNmLb7s4oVrpiKYm+wIhhO4=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwidGVtcGxhdGV
+	faWQiOiJzbXRwXzEyNjA4MDczNDY4NTIxMzY5IiwiYiI6ImlwXzM0LjIwOS44MC4
+	yOSIsInJjcHRfbWV0YSI6eyB9LCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInRyYW5
+	zYWN0aW9uYWwiOiIxIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQ
+	iOiIwMDAwNWZmYTk3NTkzMjQzMzIzNyIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNjA
+	4MDczNDY4NTIxMzY5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwicmNwdF90YWd
+	zIjpbIF0sInIiOiJqb2JzQHBlcmwub3JnIiwic2VuZGluZ19pcCI6IjM0LjIwOS4
+	4MC4yOSIsImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59829] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60837 r(Core:4.2.34.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 23/73-17202-F5AF7995; Sat, 19 Aug 2017 08:44:15 +0000
+Received: from [10.2.4.23] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dizMd-00005Q-HC
+	for jobs@perl.org; Sat, 19 Aug 2017 08:44:15 +0000
+Date: Sat, 19 Aug 2017 08:44:15 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dizMd-00005Q-HC@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.8.19.83616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer Job (onsite), Redruth, Cornwall, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20852
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 19, 2017
+
+Job title: Perl Developer Job
+
+Company name: Headforwards
+
+Location: Redruth, Cornwall, UK
+
+Pay rate: =C2=A330,000 to =C2=A350,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for Perl developers to join our fast growing company here in
+Cornwall.You will be part of a fast-moving development team delivering
+multiple releases every day. We fully employ the use of Agile methodologies
+within our business to better achieve project objectives.
+
+About
+Headforwards:
+
+We are an outsource software development company, based in
+Cornwall, South West England. Cornwall is not only famous for its stunning
+coastline, it is fast becoming known as a thriving tech hub. With a
+collaborative software community and a growing number of exciting
+conferences and meet-ups, including Agile on the Beach, Cornwall is an
+exciting place to be based.
+
+Here at Headforwards we value people and have
+a company culture that revolves around creating and maintaining effective
+teams, great software and a fantastic work/life balance.
+
+Desired skills:
+We are looking for 2 Perl Developers to join established teams working on
+projects for one of the largest companies in the world.
+
+You should have
+commercial experience of Perl software development along with some
+relational database development experience.
+
+C or C++ programmers should
+also apply, however, this is a Perl orientated position.
+
+You will work on
+both the enhancement of a mature, existing codebase and working on new
+projects using web services, AJAX and system integration.
+
+Required Skills:
+
+Perl
+SQL (any flavour)
+Team worker
+Passionate about good software
+
+Desired
+Skills:
+
+OO Perl
+JavaScript (JQuery, JSON, AJAX)
+Git Version Control
+
+Website for more information: https://www.headforwards.com/perl-developer-j=
+ob/
+
+Contact information at:
+http://jobs.perl.org/job/20852#contact

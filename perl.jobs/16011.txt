@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16011
+Return-Path: <msprvs1=174048oljk1hH=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24789 invoked from network); 19 Aug 2017 08:43:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 19 Aug 2017 08:43:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 028E311F079
+	for <perlmail-jobs@onion.perl.org>; Sat, 19 Aug 2017 01:43:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 172F711D897
+	for <perlmail-jobs@onion.perl.org>; Sat, 19 Aug 2017 01:42:53 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 2202B11F0AE
+	for <jobs@perl.org>; Sat, 19 Aug 2017 01:42:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1503132171; i=@perl.org;
+	bh=+4lOdlHodgw4vY0QR7cK/RmQ8iTDoDtpoWv2JBa/bHc=;
+	h=Date:To:From:Subject:Reply-To;
+	b=N7c0kSPO/nJHidK+RaBVpQtj/nHpM02BWBi4HA4m2vrBMFMAB6bCCBM6gA4L+9o+Q
+	 a2gEySuqXvpu6Y8FZfLcZwKV37Ug2WYMSZXuQxAZU7z6C9DRRAHUSTNld7oNY4y4QI
+	 i31hvbxFdSdNECuTkBsGUwrWsX1FOTTzOgmQuBMc=
+X-MSFBL: Q3EKJXAtabLGycBmtT4jhqqkLo4+mCv9CG2tETdlWFM=|eyJmcmllbmRseV9mcm9
+	tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciI
+	sInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ0ZW1
+	wbGF0ZV9pZCI6InNtdHBfMTI2MDgwNzQ5MTEwNTIzMDkiLCJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDAwYmZhOTc1OTc4MjViZWE3Iiwic2V
+	uZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInRyYW5zYWN0aW9uYWwiOiIxIiwic3V
+	iYWNjb3VudF9pZCI6IjEiLCJpcF9wb29sIjoiZGVmYXVsdCIsImlwX3Bvb2xfcmF
+	3IjoiZGVmYXVsdCIsInJjcHRfdGFncyI6WyBdLCJ0cmFuc21pc3Npb25faWQiOiI
+	xMjYwODA3NDkxMTA1MjMwOSIsInJjcHRfbWV0YSI6eyB9LCJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwidGVuYW50X2lkIjoic3BjIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52114] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60837 r(Core:4.2.34.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id EB/7A-09592-B0AF7995; Sat, 19 Aug 2017 08:42:51 +0000
+Received: from [10.2.5.20] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dizLD-000055-Pr
+	for jobs@perl.org; Sat, 19 Aug 2017 08:42:48 +0000
+Date: Sat, 19 Aug 2017 08:41:37 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dizLD-000055-Pr@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.26.42117
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_AGE_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Full-Stack Software Engineer (Perl) (part onsite), Santa Monica, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20928
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 19, 2017
+
+Job title: Full-Stack Software Engineer (Perl)
+
+Company name: ZipRecruiter
+
+Location: Santa Monica, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+On-site or Remote in U.S. only
+
+Role Summary:
+ZipRecruiter is looking to
+expand our engineering team. We are a successful start-up (7 years old,
+700+ employees) and we're still growing rapidly.
+
+We help employers and
+recruiters distribute their jobs online and screen their applicants. We
+also provide a job search engine and job alert email for job seekers and
+other job boards. You will even have the opportunity to lead significant
+projects. We pay market competitive salaries and offer generous benefits
+and equity. We are more laid back than the average startup and more fun
+than the average BigCo.
+
+We're looking for exceptional full stack software
+engineers who are happy to learn new technologies and are willing to think
+like product/business people who personally implement software.
+
+Desired skills:
+What we're looking for:
+Superb software design and development skills
+Experience with general web development and programming in a Linux
+environment
+Experience with Perl or a similar language, such that you could
+pick it up quickly
+=20
+Bonus Points:
+Experience with EC2 and other AWS
+technologies
+Experience with MySQL or other relational databases
+Experience
+with Javascript (jQuery and hand-coding)
+=20
+Technologies we use:
+Perl (DBIC,
+Catalyst), MySQL, jQuery, Amazon Web Services, Ubuntu
+
+Website for more information: http://www.ziprecruiter.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/20928#contact
