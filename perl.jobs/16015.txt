@@ -1,0 +1,168 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16015
+Return-Path: <msprvs1=17414EhNUSwK5=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5187 invoked from network); 29 Aug 2017 06:59:12 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Aug 2017 06:59:12 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 08ED911D8AD
+	for <perlmail-jobs@onion.perl.org>; Mon, 28 Aug 2017 23:59:11 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 82C8011EB01
+	for <perlmail-jobs@onion.perl.org>; Mon, 28 Aug 2017 23:59:06 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 05C8511D8AD
+	for <jobs@perl.org>; Mon, 28 Aug 2017 23:59:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1503989944; i=@perl.org;
+	bh=INcqy/7q+RWa/nvArD6ZY95viMKos/gV2gqRUbnqkRs=;
+	h=Date:To:From:Subject:Reply-To;
+	b=gTue09jVp1HzgVqGRS9dxINSATtILfZMZlVqx+BGsOkb5YXU2Bma0Hcp/6p9FJ52+
+	 JJt7Achx/gXUIgAx4YHvK0IqSdxCP3pSwMF/pnx/4fgmE1FtL08Yzu24JYeSsSmPOc
+	 UJmMY5UVzQfmjXWJfQCFFlDJStGGNXonEGULiUJE=
+X-MSFBL: vpeWONXqNwJ0JjWX0Grtdj6+BEs6Kj0I6Z7m9qEFuCU=|eyJ0cmFuc21pc3Npb25
+	faWQiOiIxMjYxNTkyMDExMDY0MjY2MCIsInIiOiJqb2JzQHBlcmwub3JnIiwidGV
+	tcGxhdGVfdmVyc2lvbiI6IjAiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJ0ZW1
+	wbGF0ZV9pZCI6InNtdHBfMTI2MTU5MjAxMTA2NDI2NjAiLCJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwicmNwdF9tZXRhIjp7IH0sIm1lc3NhZ2VfaWQiOiIwMDAwYjgxMGE
+	1NTk5NjlkZjYwNyIsInN1YmFjY291bnRfaWQiOiIxIiwiaXBfcG9vbF9yYXciOiJ
+	kZWZhdWx0Iiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInJjcHRfdGFncyI
+	6WyBdLCJpcF9wb29sIjoiZGVmYXVsdCIsInRyYW5zYWN0aW9uYWwiOiIxIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHB
+	lcmwub3JnIiwidGVuYW50X2lkIjoic3BjIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60889] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.60937 r(Core:4.2.34.6)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 6F/70-40342-8B015A95; Tue, 29 Aug 2017 06:59:04 +0000
+Received: from [10.2.3.59] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dmaUK-00004m-9b
+	for jobs@perl.org; Tue, 29 Aug 2017 06:59:04 +0000
+Date: Tue, 29 Aug 2017 06:59:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dmaUK-00004m-9b@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.8.29.65116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Sr. Programmer Analyst (onsite), Baltimore, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20942
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 29, 2017
+
+Job title: Sr. Programmer Analyst
+
+Company name: Project MUSE at Johns Hopkins University Press
+
+Location: Baltimore, MD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Programmer Analyst is a member of Project MUSE's technical
+development team involved in software and database development. The
+position works with a small talented team who continues to output and
+design innovative publishing features in record time, with the quality and
+depth of a large organization. Project MUSE has thrived on creating custom
+solutions, offering flexibility to both the product and the customer. This
+position will report to the Manager, Publishing Technologies at Project
+MUSE.
+
+Primary Duties and Responsibilities:
+
+Develops or modifies computer
+programs; develops test plans and performs unit, system and integrated
+testing for individual assignments, and or vendor software releases.
+
+Database design, development, and implementation, including user and system
+requirements collection, prototyping and testing, application database
+schemes design and integration with applications, production maintenance,
+and user support.
+
+Develops, maintains, documents and tests new or existing
+programs.
+Adheres to project wide standards for data collection/storage,
+structured programming techniques, documentation requirements, testing,
+reporting, software/hardware releases.
+
+Uses programming knowledge and
+critical thinking to resolve moderately complex technical or procedural
+problems.
+
+Create reports and work with end users on report specifications;
+create and run queries as needed, both scripted and ad hoc.
+
+Participates
+in institutional-level information technology initiatives as assigned.
+
+Other duties and projects as assigned.
+
+Manage several projects
+simultaneously while meeting tight deadlines.
+
+Ability to work on a team,
+set priorities, work under pressure, adapt to demanding situations, and
+maintain schedules.
+
+Desired skills:
+Bachelor's degree and three years related experience required. Additional
+education may substitute for required experience and additional related
+experience may substitute for required education, to the extent permitted
+by the JHU equivalency formula. Direct programming experience while
+pursuing education may count towards related experience.
+
+Significant
+undergraduate programming coursework or independent project can be
+considered as related experience.
+
+Special Knowledge and Skills:
+
+Expert
+experience with Web programming using Perl, CGI/Mod_Perl is required.
+
+Experience with MySQL.
+
+Working knowledge of JavaScript, (eg. JQuery),
+HTML, CSS is desirable.
+
+Experience and or knowledge with XML and or XSLT
+would be a plus.
+
+Knowledge to implement and or support data analytics
+projects (eg. WebBI, Tableau) a plus.
+
+Working environment is UNIX.
+
+Publishing Experience a bonus.
+
+Ruby and Python a bonus but not required
+
+Website for more information:
+https://jobs.jhu.edu/jhujobs/jobview.cfm?reqId=3D315689&postId=3D16325
+
+Contact information at:
+http://jobs.perl.org/job/20942#contact
