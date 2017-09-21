@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16031
+Return-Path: <msprvs1=17434HNxOebgs=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18173 invoked from network); 18 Sep 2017 01:43:01 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 18 Sep 2017 01:43:01 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 76CD011D8A3
+	for <perlmail-jobs@onion.perl.org>; Sun, 17 Sep 2017 18:43:01 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 385AC11EB4F
+	for <perlmail-jobs@onion.perl.org>; Sun, 17 Sep 2017 18:42:59 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 07A7711D8A3
+	for <jobs@perl.org>; Sun, 17 Sep 2017 18:42:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1505698975; i=@perl.org;
+	bh=tBWHZTFizKGiaB/GeVRWL9Nv0vTff5LM/IhIt7CBUBw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=k+wJn4tuAcRZos9AlAnw5Dgh/i6iABgd4pl/H8yhRQpn7QvSGRbOuc8hRxFfxORN9
+	 Dkzo/lw1uetX1T/PtboKrcNFHZNFTTyvEWA3rxSiIv7c9T6G1fAOWtJ0/7A3kKKQhL
+	 RH3Cph5rR8PRfns/llha8HUnw5cbwibofO9YSzdk=
+X-MSFBL: FUa8N3gruKYiuPNOjYxEPAWIz2fVGsabOO284dHPHTM=|eyJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwicmNwdF9tZXRhIjp7IH0
+	sInN1YmFjY291bnRfaWQiOiIxIiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSI
+	sInRlbXBsYXRlX2lkIjoic210cF8xMjYyODQ4MjMwMzcxMjc4NyIsInRlbmFudF9
+	pZCI6InNwYyIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ0cmFuc2FjdGlvbmFsIjo
+	iMSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnM
+	tYWRtaW5AcGVybC5vcmciLCJ0cmFuc21pc3Npb25faWQiOiIxMjYyODQ4MjMwMzc
+	xMjc4NyIsInIiOiJqb2JzQHBlcmwub3JnIiwicmNwdF90YWdzIjpbIF0sImlwX3B
+	vb2wiOiJkZWZhdWx0IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwibWVzc2FnZV9
+	pZCI6IjAwMDA5ZjI0YmY1OTgzZmNhYjA4In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50374] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.61137 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id BA/80-64643-F942FB95; Mon, 18 Sep 2017 01:42:55 +0000
+Received: from [10.2.3.125] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dtl5K-0000dP-NL
+	for jobs@perl.org; Mon, 18 Sep 2017 01:42:54 +0000
+Date: Mon, 18 Sep 2017 01:42:54 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dtl5K-0000dP-NL@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.9.18.13615
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1300_1399 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Developer (onsite), San Diego, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20964
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 18, 2017
+
+Job title: Software Developer
+
+Company name: DrJays.com, Inc.
+
+Location: San Diego, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a detail oriented Perl developer to joins us in
+maintaining and modernizing a custom web based ERP system.
+
+Desired skills:
+Required Qualifications:
+ * Solid understanding of web application
+development using Perl
+ * Experience creating reliable and scalable
+software
+ * Familiarity with web and REST based API creation and
+consumption
+
+Beneficial Qualifications:
+
+Experience with the following Perl
+modules will be helpful:
+	 * DBI (MySQL) and DBIx::Class
+	 *
+Moose or Moo
+	 * Mojolicious or Dancer
+	 * Template Toolkit
+
+Experience with the following programming concepts:
+	 * Object
+Orientation
+	 * Data Warehouse
+	 * Database ORMs
+
+Experience
+with LAMP stack development:
+	 * Basic understanding of JavaScript
+=20
+       * Comfortable with HTML and CSS=20
+=20
+Familiarity with:
+	 * JSON
+	 * YAML
+	 * REST
+	 * SOAP
+
+Website for more information: http://drjays.com
+
+Contact information at:
+http://jobs.perl.org/job/20964#contact

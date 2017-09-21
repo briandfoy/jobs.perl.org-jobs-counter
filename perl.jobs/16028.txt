@@ -1,0 +1,147 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16028
+Return-Path: <msprvs1=17434HNxOebgs=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16674 invoked from network); 18 Sep 2017 01:35:19 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 18 Sep 2017 01:35:19 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E52F466FF9
+	for <perlmail-jobs@onion.perl.org>; Sun, 17 Sep 2017 18:35:18 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0065366FFB
+	for <perlmail-jobs@onion.perl.org>; Sun, 17 Sep 2017 18:35:04 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BAF3866FF9
+	for <jobs@perl.org>; Sun, 17 Sep 2017 18:34:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1505698493; i=@perl.org;
+	bh=mC71nB8XUbcJXs8tl/av9GJUSn6dNagAkTzdHaxNM9Y=;
+	h=Date:To:From:Subject:Reply-To;
+	b=NkS4mRY72iW7vaAWtL89gCgH/bldvycItdEFOyUgxDOoZLBT4NTJw7R74T1XuBHoX
+	 8FTQwkqWvy9MFo5kH9p2KIEmf7Ot+AeT2zo5eZ8avGSnAmL5pWhOcylPI0J51y+csK
+	 Ss4BiH5nbWq/kmo6UsTcaDyKJV5OMARq5MwaUrHE=
+X-MSFBL: 9fK7oii6k2qFqb9ffM3eqI/BwYRLmFuOnL5vpHrfoyY=|eyJmcmllbmRseV9mcm9
+	tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInJjcHRfbWV0YSI6eyB9LCJ0ZW5hbnR
+	faWQiOiJzcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRyYW5zYWN0aW9uYWwiOiI
+	xIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	pcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJ
+	0cmFuc21pc3Npb25faWQiOiIxMjYyODQ4MjMwMzg1MDE2MSIsIm1lc3NhZ2VfaWQ
+	iOiIwMDAwYmQyMmJmNTlkMGJjNWZmZiIsInJjcHRfdGFncyI6WyBdLCJ0ZW1wbGF
+	0ZV92ZXJzaW9uIjoiMCIsInIiOiJqb2JzQHBlcmwub3JnIiwic2VuZGluZ19pcCI
+	6IjM0LjIwOS44MC4yOSIsImlwX3Bvb2wiOiJkZWZhdWx0IiwidGVtcGxhdGVfaWQ
+	iOiJzbXRwXzEyNjI4NDgyMzAzODUwMTYxIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61132] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.34.61137 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id F5/FF-48336-DB22FB95; Mon, 18 Sep 2017 01:34:53 +0000
+Received: from [10.2.5.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dtkxZ-0000bv-40
+	for jobs@perl.org; Mon, 18 Sep 2017 01:34:53 +0000
+Date: Mon, 18 Sep 2017 01:34:52 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dtkxZ-0000bv-40@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.9.18.11216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Programmer (telecommute), Eugene Oregon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16931
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 18, 2017
+
+Job title: Perl Programmer
+
+Company name: NetStores
+
+Location: Eugene Oregon
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+A Commercial Commerce Service Provider providing E-Commerce Shopping Cart
+technology for Websites for companies around the country is accepting
+applications for the position of Perl / SQLite PROGRAMMER. Applicants must
+be self-motivated, skilled, talented and have at least 5 years professional
+experience in computer programming in Perl.
+
+Programming experience in PERL
+Java Script, /C/Unix, CGI scripting, SHELL, CVS,  HTML, XML, WSDL, SOAP,
+JAVA, XML, AJAX, Perl DBI. Duties will include programming, documentation,
+and debugging. CONTRACT WORK.=20
+
+Simple modifications of PERL.
+
+Desired skills:
+Experience/Skills:=20
+	* CGI scripting (Perl/XML/WSDL/SOAP/JAVA/JAVA
+SCRIPT)
+	* mysql and sqlite
+	* Installation Perl Modules and
+Perl DBI
+	* Excellent Software Debugging
+	* Knowledge of Perl
+Debuggers
+	* Knowledge of Perl Modules : LIB XML
+
+* UNIX, Linux,
+FreeBSD, OSX or Sun operating systems
+	* ability to troubleshoot and
+solve problems creatively
+	* self-motivated with a positive attitude
+	* Reliable at completing projects in a timely manner
+	*
+Ability to delivery in a team environment
+	* Excellent commenting
+and documentation
+=09=20
+	* Ability to Work with Legacy Code
+
+
+
+-
+Coding robust web software applications
+- Adhering to specs and design
+details
+- Writing modular, reusable, maintainable code
+- Attention to
+detail, coding standards, and commenting
+- Efficiently working with others
+toward completing projects
+- Create database driven websites using PHP and
+SQLite
+- Work with creative department to turn their design into a
+functioning database driven website
+
+Website for more information: http://www.netstores.com
+
+Contact information at:
+http://jobs.perl.org/job/16931#contact
