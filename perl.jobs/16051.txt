@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16051
+Return-Path: <msprvs1=17450gLaILEsa=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8876 invoked from network); 4 Oct 2017 01:01:39 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2017 01:01:39 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C4A7611F260
+	for <perlmail-jobs@onion.perl.org>; Tue,  3 Oct 2017 18:01:37 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2AC5E11F27F
+	for <perlmail-jobs@onion.perl.org>; Tue,  3 Oct 2017 18:01:33 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 04F6911F267
+	for <jobs@perl.org>; Tue,  3 Oct 2017 18:01:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1507078881; i=@perl.org;
+	bh=7my5ZavWehOhGalX9Wv9IP0JOSTbzQYe2HguODQmxOQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=QnC4KQX/fDTy0hhbytju9T47HIwQdjcfJkgcFvhraJ651G6g6r3QjdVtNuYYH2Mn9
+	 QGELLm/FCTqtJQT9IYz2RCVHXEGr/qPAXJKR6ijd+89fRlaNjnPSWXL/4BrUEOw4ON
+	 ZK+cscjTV6KvKt94XINfDekCtaqGZStuw1Kr2YqE=
+X-MSFBL: I5eg6KJt2m2lz+B/yz8Y0YLEP83bEsFvvhnoDo84EzY=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNjM
+	4NTEzMTk0MjE4NTk1IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjM4NTEzMTk0MjE
+	4NTk1IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJyY3B0X3RhZ3MiOlsgXSwiaXBfcG9
+	vbCI6ImRlZmF1bHQiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9
+	yZyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInR
+	lbXBsYXRlX3ZlcnNpb24iOiIwIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInJjcHR
+	fbWV0YSI6eyB9LCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwibWVzc2FnZV9
+	pZCI6IjAwMDBlMTMyZDQ1OTIzMjhmMGE1In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60581] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61374 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 0F/5A-10275-1E234D95; Wed, 04 Oct 2017 01:01:21 +0000
+Received: from [10.2.3.39] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dzY3t-0000hO-C6
+	for jobs@perl.org; Wed, 04 Oct 2017 01:01:21 +0000
+Date: Wed, 4 Oct 2017 01:01:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dzY3t-0000hO-C6@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.4.5116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_1099 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: CV-Library (onsite), Warsaw
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20990
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 23, 2017
+
+Job title: CV-Library
+
+Company name: Cellulit Solutions
+
+Location: Warsaw
+
+Pay rate: 5000 PLN
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We now have the opportunity for a passionate Junior Developer to join our
+small, agile, development team to help with the continuing expansion of
+Poland fastest growing job boards.
+You will have access to:
+
+* Quiet
+working conditions
+* High quality dual monitors
+* High spec PC
+* Laid back
+dress code
+
+Desired skills:
+Experience with any of the following would be advantageous:
+
+* Moose, or OO
+generally
+* MVC web frameworks
+* HTML::FormHandler
+* Template Toolkit
+
+Website for more information: http://www.cellulitis.info.pl
+
+Contact information at:
+http://jobs.perl.org/job/20990#contact

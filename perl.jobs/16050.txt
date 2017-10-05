@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16050
+Return-Path: <msprvs1=17450gLaILEsa=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8609 invoked from network); 4 Oct 2017 01:00:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2017 01:00:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B6E5111D417
+	for <perlmail-jobs@onion.perl.org>; Tue,  3 Oct 2017 18:00:25 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 306E211D9B7
+	for <perlmail-jobs@onion.perl.org>; Tue,  3 Oct 2017 18:00:23 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6121211D417
+	for <jobs@perl.org>; Tue,  3 Oct 2017 18:00:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1507078805; i=@perl.org;
+	bh=GlKSXyDRCpaEG32KF4bs1oiBTUlk4PH7tE1qnzJIDgo=;
+	h=Date:To:From:Subject:Reply-To;
+	b=YmkAZj+F1zWKNTHIW4Hd+9uPT2xmlvfdc3Izrqi1uiHzBWoVRSsTpPa5UIpKnrElM
+	 pChuAmQAM5igD2+Q5qv9iflnjN2yI8frqh89eDyC2FJEwU69h+OiQc+qf73p4SZArB
+	 Nn++9RJ/bghwFbLfHDbs1FB0u5VdLrkrwRnx46L8=
+X-MSFBL: Xg581uzMsuj6wPz6x+hHS4uL+gAEG0ek485tbwnl53I=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImciOiI
+	wMDAwMDpwbGFjZWhvbGRlciIsInJjcHRfdGFncyI6WyBdLCJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsImlwX3Bvb2wiOiJkZWZhdWx0IiwibWVzc2FnZV9pZCI6IjAwMDA5NTM
+	yZDQ1OTIzMjgxYjg4IiwidGVuYW50X2lkIjoic3BjIiwiciI6ImpvYnNAcGVybC5
+	vcmciLCJ0cmFuc21pc3Npb25faWQiOiIxMjYzODUxMzE5NDIxMjgxOSIsInJjcHR
+	fbWV0YSI6eyB9LCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfdmVyc2l
+	vbiI6IjAiLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfaWQ
+	iOiJzbXRwXzEyNjM4NTEzMTk0MjEyODE5In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62616] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61374 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id B1/88-10275-59234D95; Wed, 04 Oct 2017 01:00:05 +0000
+Received: from [10.2.3.39] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1dzY2f-0000hK-2k
+	for jobs@perl.org; Wed, 04 Oct 2017 01:00:05 +0000
+Date: Wed, 4 Oct 2017 01:00:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1dzY2f-0000hK-2k@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.4.5116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_1099 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21008
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 27, 2017
+
+Job title: Perl Developer
+
+Company name: Net-A-Porter
+
+Location: London, UK
+
+Pay rate: =C2=A3450 - =C2=A3500 (GBP) / day
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I am hiring 2 Perl developers for my team at Net-A-Porter in White City,
+London.
+
+The contracts are for 6 months and require: Modern Perl,
+Javascript, SQL (Postgres), TDD, Linux or BSD.
+
+Good to have: Message
+Queues (RMQ, AMQ), Elasticsearch, Puppet.
+
+Rate is =C2=A3450 - =C2=A3500 per day.
+
+Note that this role is to work as part of a co-located team. You need to be
+able to work in London.
+
+Desired skills:
+Required: Modern Perl, Javascript, SQL (Postgres), TDD, Linux or BSD.
+
+Good
+to have: Message Queues (RMQ, AMQ), Elasticsearch, Puppet.
+
+Contact information at:
+http://jobs.perl.org/job/21008#contact
