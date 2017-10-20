@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16057
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27806 invoked from network); 20 Oct 2017 06:05:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 06:05:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6364111DDD6
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:05:51 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2C3F711DE45
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:05:49 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6F09911DDD6
+	for <jobs@perl.org>; Thu, 19 Oct 2017 23:05:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508479544; i=@perl.org;
+	bh=CLc7pW5EX0OiVGyibo2OceGLfoWCR0SPYpXsxCF7txM=;
+	h=Date:To:From:Subject:Reply-To;
+	b=gnJHoa6Ng8btyyNT9hxyfw8Y6MeS5B0zwyjmYG+MF4KKKEj8qqfGsQc2+qyqa2HlI
+	 +UJOIaOAz9q+z2EhftvXLm7a1BH5kPCzAGSLuA+LLtIIUVZ8fIn5lS8ryOGc9wRnvB
+	 VQZXbJTX1LYpPCm71OIm2PikMwKp5I+iEqiV1pmI=
+X-MSFBL: X5SwAMbM5SZu0sbsGYgWVOHFx6Fhqjg6FE3tsJr/fvk=|eyJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNjUzNzUzNjM3NjA2ODAzIiwiZnJ
+	pZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJyY3B0X21ldGEiOnsgfSwidGVuYW50X2lkIjoic3BjIiwic2V
+	uZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInRlbXBsYXRlX2lkIjoic210cF8xMjY
+	1Mzc1MzYzNzYwNjgwMyIsInJjcHRfdGFncyI6WyBdLCJ0ZW1wbGF0ZV92ZXJzaW9
+	uIjoiMCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJpcF9wb29sIjoiZGVmYXVsdCI
+	sInN1YmFjY291bnRfaWQiOiIxIiwibWVzc2FnZV9pZCI6IjAwMDAzODkyZTk1OTc
+	0MDA2OGFkIiwiciI6ImpvYnNAcGVybC5vcmciLCJjdXN0b21lcl9pZCI6IjE3NTM
+	wIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0In0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60269] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 86/DA-00116-83299E95; Fri, 20 Oct 2017 06:05:44 +0000
+Received: from [10.2.4.14] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5QRC-0000Pl-Eb
+	for jobs@perl.org; Fri, 20 Oct 2017 06:05:42 +0000
+Date: Fri, 20 Oct 2017 06:05:42 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5QRC-0000Pl-Eb@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.55416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20986
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Perl Developer
+
+Location: London, UK
+
+Pay rate: =C2=A3350-450 per day
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You=E2=80=99re a Perl Developer. Perl code runs through your veins, and you=
+ can
+deal with coding errors in your sleep. You like to work alongside
+knowledgeable people, for companies that know their market like no other.
+You love Perl, and Perl development is what you love to do.
+
+Bring your
+experience on board as you join up with a leading UK business- I'm sure
+you'll know them as soon as I mention their name! They need a Perl
+developer just like yourself to come on board, working on their web
+application, ensuring continued development and bug fixing, alongside
+ensuring their data processing pipelines are in fully working order, using
+your knowledge of Mason to its' fullest.
+
+This environment will allow you
+to compare your Perl knowledge to the team already in place, sharing ideas,
+helping each other out and generally being fully on top of all development
+related topics. Perl is this company=E2=80=99s backbone, and you=E2=80=99re=
+ the
+chiropractor. Get cracking!
+
+The details:
+
+-Join a market leading brand on
+a contract basis, using your Perl development knowhow and love of databases
+to work on their leading web app and data processing abilities
+-They=E2=80=99re
+looking for strong experience of developing web applications with Perl,
+coupled ideally with MySQL database knowledge, and a background of Mason
+experience
+
+Want to hear more? Apply now- even if this Perl development
+position isn=E2=80=99t quite right, we have a number on at the moment that =
+I=E2=80=99m keen
+to speak to you about!
+
+Desired skills:
+Perl, Mason, experience of Agile development, MySQL
+
+Website for more information: http://eligo.co.uk/eligo-job/6608
+
+Contact information at:
+http://jobs.perl.org/job/20986#contact

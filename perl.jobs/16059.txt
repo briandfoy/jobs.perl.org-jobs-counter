@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16059
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27858 invoked from network); 20 Oct 2017 06:06:18 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 06:06:18 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 42B5811D88C
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:06:18 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8933F11DDB2
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:06:13 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 5F14811D89D
+	for <jobs@perl.org>; Thu, 19 Oct 2017 23:06:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508479561; i=@perl.org;
+	bh=vGuEI6+H2RuIReSc5e5IZccId9xLC1MHEGD7u/+/a6Y=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ocwz8crGVN6nxMVvOPcHmEFzRwK7ku74XtQXJIv4kk3fnkyzMy47t+nXbMKaPRu+r
+	 rb0/1IVJUZ1hSPmZS68+c/IlNrlvrXQJR0S4QAKMGZIWkxnbLklv0fiuccLRTKt+qU
+	 WqYJW/9yq7aJGaQBDxIDaeQnhHk5cNeDLF/BS51E=
+X-MSFBL: QkrSle8H0Vxfeiw6uwgSi24Lqf/NhN8jSpXeQvl+tNQ=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwicmN
+	wdF9tZXRhIjp7IH0sImlwX3Bvb2wiOiJkZWZhdWx0IiwibWVzc2FnZV9pZCI6IjA
+	wMDA0OTkyZTk1OWNiNzkyNzQyIiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjUzNzQ
+	2OTQzNjkwMDExIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInRyYW5zYWN0aW9uYWw
+	iOiIxIiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2NTM3NDY5NDM2OTAwMTEiLCJnIjo
+	iMDAwMDA6cGxhY2Vob2xkZXIiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInIiOiJ
+	qb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsImlwX3Bvb2xfcmF
+	3IjoiZGVmYXVsdCIsInJjcHRfdGFncyI6WyBdLCJzZW5kaW5nX2lwIjoiMzQuMjA
+	5LjgwLjI5IiwidGVuYW50X2lkIjoic3BjIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65444] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 72/24-31179-94299E95; Fri, 20 Oct 2017 06:06:01 +0000
+Received: from [10.2.4.14] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5QRV-0000Pt-3A
+	for jobs@perl.org; Fri, 20 Oct 2017 06:06:01 +0000
+Date: Fri, 20 Oct 2017 06:06:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5QRV-0000Pt-3A@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.55416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_1099 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Developer in Pasadena, CA (part onsite), Pasadena, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20992
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Senior Perl Developer in Pasadena, CA
+
+Company name: Wellness Geeky
+
+Location: Pasadena, CA
+
+Pay rate: 45000+
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We have the opportunity for a Junior Perl Developer to join our growing
+development team to help with the expansion of the fastest growing Health &
+Wellness company. If you have an enthusiasm and understanding for Perl you
+will be rewarded with this job opportunity.
+
+Desired skills:
+Perl
+MySQL
+Team player
+Passionate about good software development
+Experience with database architecture
+Unix/ Linux experience
+5+ years=E2=80=99
+experience in a Perl software development
+
+Website for more information: http://www.wellnessgeeky.com
+
+Contact information at:
+http://jobs.perl.org/job/20992#contact

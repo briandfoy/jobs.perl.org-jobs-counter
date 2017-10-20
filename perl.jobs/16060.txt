@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16060
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27890 invoked from network); 20 Oct 2017 06:06:41 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 06:06:41 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 063A411D88C
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:06:41 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id AFE7111D89D
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:06:38 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 3D6D111D88C
+	for <jobs@perl.org>; Thu, 19 Oct 2017 23:06:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508479597; i=@perl.org;
+	bh=V53ROANHyFy7903iKU5ReUcRMLnx8w2ckD2su9yRfX4=;
+	h=Date:To:From:Subject:Reply-To;
+	b=MzDXNbwc7QfCEszKk68UqXDJovg9PFdnASzcqsVu26Y+SLh/wC5RkR9nHgETxuVTk
+	 orHAIg2CdLM/rZ6aPHeegIWkiiRJaXxmfmhi+XgEI2ZzG5x7a9TRhjkzPZdMjZZmVG
+	 +hLnkgNGQ6zF97PGtHsF1GzjfVX857FnQaozORBI=
+X-MSFBL: u37Q/Yx/u8eyKZGK4yQbRxzssl8b2dya7BKvHgxc2x0=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInRlbmFudF9pZCI6InNwYyIsInRlbXBsYXRlX2lkIjoic210cF8
+	xMjY1Mzc0Njk0MzY5MzE0OSIsInIiOiJqb2JzQHBlcmwub3JnIiwicmNwdF90YWd
+	zIjpbIF0sImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJpcF9wb29sX3JhdyI6ImRlZmF
+	1bHQiLCJpcF9wb29sIjoiZGVmYXVsdCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODA
+	uMjkiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInN1YmFjY291bnRfaWQiOiIxIiwiYiI
+	6ImlwXzM0LjIwOS44MC4yOSIsInJjcHRfbWV0YSI6eyB9LCJmcmllbmRseV9mcm9
+	tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwNmQ5MmU
+	5NTljYjc5NDQ1MSIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNjUzNzQ2OTQzNjkzMTQ5In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62074] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 44/15-31179-D6299E95; Fri, 20 Oct 2017 06:06:37 +0000
+Received: from [10.2.4.14] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5QS5-0000Q1-15
+	for jobs@perl.org; Fri, 20 Oct 2017 06:06:37 +0000
+Date: Fri, 20 Oct 2017 06:06:36 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5QS5-0000Q1-15@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.60016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB_HOURS 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Bring more Modern Perl to a properly agile team in Manchester (and
+ learn NodeJS) (part onsite), Macclesfield, near Manchester, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20996
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title:
+Bring more Modern Perl to a properly agile team in Manchester (and learn
+NodeJS)
+
+Company name: Perl Careers
+
+Location: Macclesfield, near Manchester, UK
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Successful and established team about to undergo an large expansion looking
+for Perl developers at every level of experience, from school leaver to
+Larry Wall.
+
+As part of their expansion, and having mastered continuous
+delivery and Scrum in a way that works primarily for rather than against
+developers, the team is looking for Perl developers to support a move
+towards a more API-centric approach. The team=E2=80=99s upcoming focus on b=
+ringing
+their product to international markets will need to be supported by
+developers who want to grow along with the company =E2=80=93 both technical=
+ly and
+managerially =E2=80=93 and who have an interest in getting stuck into diffi=
+cult
+problems like internationalisation.
+
+The team loves Perl, and has a real
+depth of Perl talent, but know that some services benefit from other stacks
+=E2=80=93 most recently they=E2=80=99ve been experimenting with NodeJS, so =
+either
+experience or an interest in learning would be beneficial. As you=E2=80=99d=
+ expect
+from a long-established business who are still improving their product
+daily, the codebase itself is a mixture of older and newer code, but with
+technical management who are very keen to embrace Modern Perl.
+
+Fundamentally the team values people who are looking to make a difference,
+and who want to push small changes that improve their customers=E2=80=99
+experience, day after day.
+
+The team works flexible hours, and while some
+onsite in Manchester is expected, for the right candidate this needn=E2=80=
+=99t be
+an entirely onsite role.
+
+Desired skills: Perl
+
+Website for more information:
+https://perl.careers/jobs/bring-more-modern-perl-to-a-properly-agile-team-i
+n-manchester-and-learn-nodejs/
+
+Contact information at:
+http://jobs.perl.org/job/20996#contact

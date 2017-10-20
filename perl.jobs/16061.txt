@@ -1,0 +1,152 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16061
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27991 invoked from network); 20 Oct 2017 06:07:20 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 06:07:20 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B192111D9C2
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:07:20 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 873D111D888
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:07:17 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id D7B1F11D9C2
+	for <jobs@perl.org>; Thu, 19 Oct 2017 23:07:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508479636; i=@perl.org;
+	bh=QY2/iAolrsktVKubg/6sMwja65q0xOjFyx9rsl017jk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=FxPmEQqr8FpNhkARLCMarpTqfHZb4PXw5SqGXGn1pEgihV2JBnQf1LO8jsctAFa5N
+	 SANyOcl8mjx8YVZTzie6ZrhwbzXulD2LE/55ukxmO2vJVLPjlokKnflhpR8+lydtRB
+	 +BuvtMPbLMLE39fmKV7ZdoAkrBEmoPX3mGsOWNRY=
+X-MSFBL: To/BaPJ6/dPYhY22Umje7QGhpVQQ2dR77omWEH9LttY=|eyJyY3B0X3RhZ3MiOls
+	gXSwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiw
+	ic3ViYWNjb3VudF9pZCI6IjEiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInNlbmRpbmd
+	faXAiOiIzNC4yMDkuODAuMjkiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJtZXN
+	zYWdlX2lkIjoiMDAwMDk0OTJlOTU5NTMxNTkzZGMiLCJjdXN0b21lcl9pZCI6IjE
+	3NTMwIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwidGVtcGxhdGVfaWQiOiJzbXR
+	wXzEyNjUzNzUwMjU3MDcwMzg4IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2NTM3NTA
+	yNTcwNzAzODgiLCJyIjoiam9ic0BwZXJsLm9yZyIsImZyaWVuZGx5X2Zyb20iOiJ
+	qb2JzLWFkbWluQHBlcmwub3JnIiwicmNwdF9tZXRhIjp7IH0sInRlbmFudF9pZCI
+	6InNwYyIsImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58151] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 39/CD-05459-49299E95; Fri, 20 Oct 2017 06:07:16 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5QSi-0000QD-0J
+	for jobs@perl.org; Fri, 20 Oct 2017 06:07:16 +0000
+Date: Fri, 20 Oct 2017 06:07:15 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5QSi-0000QD-0J@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.60016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Middle/Senior Perl Developer (onsite), Kyiv, Ukraine
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21004
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Middle/Senior Perl Developer
+
+Company name: WebbyLab
+
+Location: Kyiv, Ukraine
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+WebbyLab is looking to recruit a full-time Software Engineer who
+appreciates the startup experience. You will be brought on as an engineer
+for a consumer facing (B2B) web application, which currently serves
+thousands of hotels and hostels around the world. Working in a small team
+of engineers, you will manage integrations for new and existing partner
+connections, provide developer support for our API=E2=80=99s, and contribut=
+e to the
+core system.
+
+The project is one of San Diego=E2=80=99s top thriving startups
+working to transform the travel industry through innovative software. We
+are looking for hungry, enthusiastic, travel-obsessed people who love to
+explore the world and experience new cultures. We have five offices (San
+Diego, Dublin, Sao Paulo, Barcelona and Kiev) as well as many employees
+scattered across the globe.
+
+We=E2=80=99ve spent the past five years building a
+SaaS platform to power independent hotels, hostels, bed and breakfasts,
+inns, motels and more. Every day we get to work with a diverse group of
+people from around the world who spend their days doing what they love.
+We=E2=80=99re focused on building the best software tools to take these ind=
+ependent
+properties to the next level.
+The team is made up of nimble characters
+looking to make a positive impact on the community. If this sounds like
+you, keep on reading!
+
+Desired skills:
+Must-haves
+
+B.S. or higher in Computer Science (or equivalent experience).
+Experience with Linux.
+Experience with programming in Perl.
+Experience
+integrating with third-party API=E2=80=99s having XML and JSON formats.
+Ability to
+work and communicate well in a small and remote team environment.
+Proficient written English.
+Proficient using GIT.
+
+Nice-to-haves
+
+Experience with screen scraping techniques in Perl.
+Experience with Redis
+or similar caching applications.
+Experience with AWS SQS or similar
+messaging applications.
+Troubleshooting, debugging, and scripting skills on
+Linux.
+Experience with NodeJS programming.
+Experience with automated
+deployment.
+Experience writing unit and functional tests.
+Experience with
+NGINX web server.
+Experience with UWSGI.
+Experience administering AWS
+resources (EC2/VPC/ELB/RDS/S3/Cloudwatch/IAM/Route53).
+Experience working
+in a multiple server environment.
+Experience with Atlassian JIRA and
+BitBucket.
+
+Website for more information: https://webbylab.com/
+
+Contact information at:
+http://jobs.perl.org/job/21004#contact

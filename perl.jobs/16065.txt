@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16065
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27973 invoked from network); 20 Oct 2017 06:07:14 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 06:07:14 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 39DC711D88C
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:07:14 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E4AB511D888
+	for <perlmail-jobs@onion.perl.org>; Thu, 19 Oct 2017 23:07:11 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 90C0211D88C
+	for <jobs@perl.org>; Thu, 19 Oct 2017 23:07:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508479628; i=@perl.org;
+	bh=mOKnHOl+kQxHBqgO66sAI42qgwd8c4p+NdLc+C2Mh3k=;
+	h=Date:To:From:Subject:Reply-To;
+	b=DpieUXW56bRq5W5iAsj0yn5sDsBdTYdaQqy51gLdrm1TDrdJCq5O/VUWzCTSH/YUe
+	 C/DiqvtEedcjW9l1ZIcBtu9UjU3QqlJNbh9C/g2dU/qjEQKfhLJtWOusPejRDm5XAm
+	 vs18QaASG/o74tAv49jJ4eynKkOu/7I0o03kvH24=
+X-MSFBL: SBEvDj3Nc3O2xyH6CJh/4Lz96LnvzAGL0QJZE7obKTc=|eyJ0cmFuc21pc3Npb25
+	faWQiOiIxMjY1Mzc1MzYzNzYxNTgwOSIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODA
+	uMjkiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwicmNwdF90YWdzIjpbIF0sInRlbmF
+	udF9pZCI6InNwYyIsInRlbXBsYXRlX2lkIjoic210cF8xMjY1Mzc1MzYzNzYxNTg
+	wOSIsInN1YmFjY291bnRfaWQiOiIxIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWR
+	taW5AcGVybC5vcmciLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInIiOiJqb2JzQHB
+	lcmwub3JnIiwicmNwdF9tZXRhIjp7IH0sInRyYW5zYWN0aW9uYWwiOiIxIiwiaXB
+	fcG9vbCI6ImRlZmF1bHQiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwibWVzc2FnZV9
+	pZCI6IjAwMDA4YzkyZTk1OTc0MDA2MWQ4IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx
+	0IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57636] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 16/8D-00116-C8299E95; Fri, 20 Oct 2017 06:07:08 +0000
+Received: from [10.2.4.14] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5QSZ-0000Q9-Le
+	for jobs@perl.org; Fri, 20 Oct 2017 06:07:07 +0000
+Date: Fri, 20 Oct 2017 06:07:07 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5QSZ-0000Q9-Le@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.60016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, OEM_SOFTWARE_X1 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_SOFTWARE_5 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?U29mdHdhcmUgRGV2ZWxvcGVyIOKAkyBKYXZhIGFuZCBTY3JpcHRp?=
+ =?UTF-8?B?bmcgTGFuZ3VhZ2VzIChvbnNpdGUpLCBDb2x1bWJ1cywgT0g=?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21000
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Software Developer =E2=80=93 Java and Scripting Languages
+
+Company name: CAS
+
+Location: Columbus, OH
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Work as a member of the e-Content Operations Technical Team to develop and
+maintain systems supporting the acquisition and processing of global STEM
+content.=20
+Develop systems and tools to enable processing, tracking,
+delivery, and reporting of diverse data streams to support CAS database
+building.
+Work closely with business experts and system users to assist the
+team in identifying opportunities to add greater value to CAS internal
+processes.
+
+Desired skills:
+Bachelor=E2=80=99s degree in Information Management or Computer Science, or=
+ a
+Bachelor=E2=80=99s degree with verifiable programming training.=20
+Minimum three
+years programming experience; Java development and scripting language
+experience is required, Perl development experience is strongly desired.=20
+The following are desired:
+- Demonstrated expertise in content extraction
+and transformation.
+- Experience working with scientific, technical or
+patent electronic content.
+- Knowledge of JATS, ST.36, or ST.96.
+Strong
+interpersonal and effective communication skills, including the ability to
+communicate technical information with peers and with non-technical staff,
+business experts and management.
+Working knowledge of Microsoft Office,
+Access, SharePoint, and related products.
+Planning, organizational,
+analytical, and problem-solving skills.
+Ability to establish clear
+directions and set goals related to assigned projects.
+Attention to detail.
+
+Website for more information: http://www.cas.org
+
+Contact information at:
+http://jobs.perl.org/job/21000#contact
