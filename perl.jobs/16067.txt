@@ -1,0 +1,248 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16067
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28443 invoked from network); 20 Oct 2017 12:44:46 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:44:46 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E2AB611F6F2
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:44:45 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id DCE7911F709
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:44:42 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 2092111F6F2
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:44:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503481; i=@perl.org;
+	bh=1QiyD8ebQYQDMEqbYI+FnBp7O2/wvLTuShDdtNxP86U=;
+	h=Date:To:From:Subject:Reply-To;
+	b=hhrMXVWau01xgj200wYCn+uTXZeC4LdnkuGegx7A0tjMEogEtBNe5uXq9OvwQtT2k
+	 u2YR3wTkBnURnolfGFVJnnhktTqaiJsu6O6EcNTs89XdQd6rro83jq1i2XtqV6nZbp
+	 qN/vXQ0dA8qZBTdnW4eRAKaqvSEmq0us6hEhGCEA=
+X-MSFBL: tlcR6uUuABSqtfTBN3Jp46PLqaT9pxYzpq8aMVbH6HU=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGI5ZWZlOTU5Y2I3OTk2NzEiLCJpcF9wb29sIjoiZGVmYXVsdCIsInN1YmF
+	jY291bnRfaWQiOiIxIiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjUzNzQ2OTQ1MDA
+	3NzY2IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2NTM3NDY5NDUwMDc3NjYiLCJmcml
+	lbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInRlbmFudF9pZCI6InN
+	wYyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCI
+	sImIiOiJpcF8zNC4yMDkuODAuMjkiLCJyY3B0X3RhZ3MiOlsgXSwidHJhbnNhY3R
+	pb25hbCI6IjEiLCJyY3B0X21ldGEiOnsgfSwiZyI6IjAwMDAwOnBsYWNlaG9sZGV
+	yIiwiciI6ImpvYnNAcGVybC5vcmciLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI
+	5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61337] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 69/17-31179-9BFE9E95; Fri, 20 Oct 2017 12:44:41 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5WfJ-0000RN-5Z
+	for jobs@perl.org; Fri, 20 Oct 2017 12:44:41 +0000
+Date: Fri, 20 Oct 2017 12:44:41 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5WfJ-0000RN-5Z@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123315
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_QUALITY 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_STORAGE_LIMIT 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Engineer - Web Development (onsite), Dayton, OH
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21016
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Software Engineer - Web Development
+
+Company name: LexisNexis Risk Solutions
+
+Location: Dayton, OH
+
+Pay rate: 80-90K U.S.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SOFTWARE ENGINEER III =E2=80=93 WEB DEVELOPMENT
+
+DAYTON, OH
+
+Job Summary
+
+As a part
+of a highly productive team, you will be assisting in adding new features
+to an active front end webpage that our customers utilize daily.  Using
+Perl, HTML, Bootstrap, jQuery, CSS, and JavaScript in an agile framework,
+you will code pages that talk to web services to retrieve data. After the
+data is returned, you use XSLT to style the results for display to
+customers.=20
+=20
+Hundreds of Fortune 500 customers use our products daily to
+make important decisions for their clients.  Customers run searches against
+our systems 24/7, so strong team members are needed to ensure that our
+applications run flawlessly and seamlessly around the clock.  Our products
+are a very important part of a customer=E2=80=99s workflow, so we need team=
+ members
+who are customer focused and dedicated to producing high quality products.
+
+In this role, your responsibilities will include new development,
+maintenance work, and responding to bugs submitted by customers or our QA
+teams.
+
+A typical day on our team could include the following:
+=E2=80=A2=20=20=20=20=20=20
+Arrive at work, grab breakfast from our cafeteria, and grab a free cup of
+coffee or tea from our convenience centers.
+=E2=80=A2	In our daily scrum
+stand ups, you will report your development status.  During sprints, you
+will also help to groom the backlog for a sprint, as well as to help pull
+stories into a sprint.	At the end of a sprint, you will also participate
+in the sprint retrospective.
+=E2=80=A2	Throughout the day, you will continue
+to work on stories and bugs, as well as attending other meetings as needed.
+=E2=80=A2	During your lunch hour, you can grab lunch from our cafeteria,
+exercise in our workout facility, or participate in one of the many sports
+leagues on campus or other professional groups on campus.
+=E2=80=A2	During a
+break in your day, you can take a brisk walk along our beautiful campus to
+help clear your mind and get some exercise!
+
+We aren=E2=80=99t looking for average
+engineers for this position. We are looking for team members with a strong
+work ethic who are customer focused, driven, dependable, passionate,
+innovative, and curious, shows initiative, and requires little management.
+We do not want an engineer who is trying to build experience for resumes;
+we are looking for an engineer who wants to build a career.  As a member of
+our team, you will enjoy great benefits from the company while working for
+a manager who cares about you and understands the importance of work life
+balance.
+
+Experience (US only) and Education
+=E2=80=A2	3+ years of Software
+Engineering experience
+=E2=80=A2	BS Engineering/Computer Science or
+equivalent experience required
+
+Technical Skills=20
+
+=E2=80=A2	Experience with
+HTML/CSS/DHTML/JavaScript=20
+=E2=80=A2	Experience with PERL / LAMP Application
+Development (Perl)=20
+=E2=80=A2	Experience with Relation Database Systems
+(MySQL, Sybase)=20
+=E2=80=A2	Experience with Unix / Linux Operating System=20
+=E2=80=A2=20=20
+    Experience with Apache Web Servers=20
+
+Desirable skills and experience:
+
+=E2=80=A2	Experience with XML, XSLT, Ajax, HTML5, Web Services, Cross-Brows=
+er
+Compatibility and Version Control systems (GitLab)
+=E2=80=A2	Experience with
+page templating systems, session data storage, caching, and inter-process
+communication.=20
+=E2=80=A2	Experience developing large-scale web applications=20
+=E2=80=A2	Understanding of professional software development processes.
+Including familiarity with the cycles of requirements definition, issue
+tracking, version control, automated testing, deployment and maintenance.=20
+=E2=80=A2	Some experience with ASP.net and SQL Server is preferred
+Accountabilities=20
+=E2=80=A2	Full lifecycle development process including
+design, development, testing and implementation of moderate complexity
+systems. Writes and reviews portions of detailed specifications for the
+development of system components of simple to moderate complexity.=20
+=E2=80=A2=20=20=20=20=20=20
+Interfaces with technical and non- technical personnel and/or team members
+to finalize requirements.=20
+=E2=80=A2	Provides feedback on technical tasks of
+simple to moderate complexity.=20
+=E2=80=A2	Develops basic to intermediate
+designs.=20
+=E2=80=A2	Codes proficiently in the required language(s).=20
+=E2=80=A2=20=20=20=20=20=20
+Contributes to design, code and test reviews.=20
+=E2=80=A2	Performs unit
+testing based upon test plans generated and reports results and
+recommendations to his/her project leader.=20
+=E2=80=A2	Develops and executes
+performance, integration and test plans.=20
+=E2=80=A2	Perform support functions
+in validation cycle as required (i.e., test monitoring, debugging, problem
+resolutions, etc.).=20
+Qualifications=20
+=E2=80=A2	Ability to work independently
+and collaborate with technical and non-technical staff.
+=E2=80=A2	Strong
+written and verbal communication skills including effectively communicating
+technical concepts to technical and non- technical audiences.=20
+=E2=80=A2=20=20=20=20=20=20
+Ability to effectively resolve issues/problems to reach a workable and
+successful solution.=20
+=E2=80=A2	Ability to learn, understand and develop
+large systems of simple-to-moderate complexity.=20
+LexisNexis Risk Solutions
+General Benefits Package
+
+- 401k match of 5% (Company match grows as you
+grow with the company)
+- 18 Days PTO (Additional days as you grow with the
+company)
+- 2 Additional CARES Days (Volunteer Days)
+- 10 Paid Company
+Holidays
+- Benefits start upon hire date
+- Work/Life Balance is a priority
+for us, it should be for you too.
+- We promote and endorse our Employee
+Forums, for example our African Ancestry Network, Women=E2=80=99s Connected,
+Veterans Group etc.
+
+Desired skills:
+=E2=80=A2	Experience with HTML/CSS/DHTML/JavaScript=20
+=E2=80=A2	Experience with
+PERL / LAMP Application Development (Perl)=20
+=E2=80=A2	Experience with
+Relation Database Systems (MySQL, Sybase)=20
+=E2=80=A2	Experience with Unix /
+Linux Operating System=20
+=E2=80=A2	Experience with Apache Web Servers=20
+
+
+=E2=80=A2=20=20=20=20
+  Experience with XML, XSLT, Ajax, HTML5, Web Services, Cross-Browser
+Compatibility and Version Control systems (GitLab)
+=E2=80=A2	Experience with
+page templating systems, session data storage, caching, and inter-process
+communication.=20
+=E2=80=A2	Experience developing large-scale web applications=20
+=E2=80=A2	Understanding of professional software development processes.
+Including familiarity with the cycles of requirements definition, issue
+tracking, version control, automated testing, deployment and maintenance.=20
+=E2=80=A2	Some experience with ASP.net and SQL Server is preferred
+
+Contact information at:
+http://jobs.perl.org/job/21016#contact

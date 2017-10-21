@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16078
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28992 invoked from network); 20 Oct 2017 12:45:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:45:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1EFBB11F70A
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:45:38 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E4CD211F681
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:45:34 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id B60AC11F70A
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:45:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503520; i=@perl.org;
+	bh=K94X/SxlwVE+ECT/DLu7hsYwW+mpXNbz39U7wpFQv94=;
+	h=Date:To:From:Subject:Reply-To;
+	b=D2OUOoxhCJjehvFGlsnInV6lepZhXWyRbbHv0MicOpetEiI36CbO5SOkNIZE21fxB
+	 3JCskH6Z3qrSgb+qYc02SuLTEUii5I/P862WXGMDU2lD60PWbPjViLYvJsUTypAWJU
+	 87wZnxIykO27AdkQ90ffIKAzTZm9bPxFyIIXjQT4=
+X-MSFBL: D44NKfGTeV3mpefkXwJpx/1a6edmUFDlrt3efqHAX8A=|eyJyY3B0X3RhZ3MiOls
+	gXSwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjUzNzQ2OTQ1MDA5NDQwIiwidHJhbnN
+	hY3Rpb25hbCI6IjEiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInRlbmFudF9pZCI
+	6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwibWVzc2FnZV9pZCI6IjAwMDBlMGV
+	mZTk1OWNiNzk1YTdhIiwiciI6ImpvYnNAcGVybC5vcmciLCJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwidHJhbnNtaXNzaW9uX2l
+	kIjoiMTI2NTM3NDY5NDUwMDk0NDAiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiZnJ
+	pZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwicmNwdF9tZXR
+	hIjp7IH0sImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:64572] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A5/A7-31179-0EFE9E95; Fri, 20 Oct 2017 12:45:20 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5Wfw-0000Rd-Gu
+	for jobs@perl.org; Fri, 20 Oct 2017 12:45:20 +0000
+Date: Fri, 20 Oct 2017 12:45:20 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5Wfw-0000Rd-Gu@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123315
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Mongers of Wimbledon Common Are We - Perl Developer wanted in
+ Wimbledon (part onsite), SW London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21022
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title:
+Perl Mongers of Wimbledon Common Are We - Perl Developer wanted in
+Wimbledon
+
+Company name: Perl Careers
+
+Location: SW London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Back in the day, the Wombles of Wimbledon collected rubbish. Nowadays,
+since the advent of motorised road sweepers, they=E2=80=99d be in need of a=
+ new
+profession. Perl Developer, perhaps? Our client is based in the heart of
+Wimbledon, under a mile away from the Common where the Wombles famously
+made their home.
+
+This client makes cutting edge software for recruiters
+and, having tested some of the system out, Perl Careers can gladly confirm
+that it=E2=80=99s a great product. That=E2=80=99s corroborated by the fact =
+that they can
+name JP Morgan, Morgan Stanley and Marks & Spencer among their customers.=20
+
+They=E2=80=99re looking for an experienced Perl developer to join their amb=
+itious
+team. The business is growing, but still maintains an entrepreneurial
+spirit at its core and is a friendly place to work. The option of half a
+week telecommuting is an added bonus.
+
+Desired skills:
+The right candidate will have a good background in JavaScript as well as
+Perl, and be ready to take a lead role in making improvements to their web
+applications. The company use a range of modern Perl technologies, and
+experience with some of the following would be a big advantage:
+
+MySQL,
+Linux (Debian), Catalyst framework, DBI::x, Moose, Angular, J-Query,
+test-driven development and GIT
+
+Website for more information:
+https://perl.careers/jobs/perl-mongers-of-wimbledon-common-are-we/
+
+Contact information at:
+http://jobs.perl.org/job/21022#contact

@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16070
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29194 invoked from network); 20 Oct 2017 12:47:50 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:47:50 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 79B5011F6F2
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:50 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1288311F709
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:48 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 4018311F6F2
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:47:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503666; i=@perl.org;
+	bh=WrfeqddlyIkoxRVqENVFU1y6oKcyJqVyWUmTc5AXMHY=;
+	h=Date:To:From:Subject:Reply-To;
+	b=SRc4swm8PLhI30PitXdb0ZO+2ZMcDFoe3wItkAFut0jxs6sqdiv0RbypYKDDDHsMr
+	 l/uy+TeGwNWhNhtAqfSutauKMthSLUnawisxJxwtSdXT+jEqd3mfHRTyP/rS5BeQOy
+	 CQw0Hp/+2T9b6lxQHD5T7P/uIciCUv5hEbaM/KRA=
+X-MSFBL: r5kVx5sssEivfSeW47x/8gGHUNeRMJzXuE9YhBRb+dk=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJtZXNzYWdlX2lkIjoiMDAwMDcyZjBlOTU5Y2I3OWE0OTYiLCJ
+	jdXN0b21lcl9pZCI6IjE3NTMwIiwicmNwdF9tZXRhIjp7IH0sImlwX3Bvb2xfcmF
+	3IjoiZGVmYXVsdCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiciI6ImpvYnNAcGV
+	ybC5vcmciLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI2NTM3NDY5NDUwMTQ5MDEiLCJ
+	zZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwicmNwdF90YWdzIjpbIF0sInRyYW5
+	zbWlzc2lvbl9pZCI6IjEyNjUzNzQ2OTQ1MDE0OTAxIiwiaXBfcG9vbCI6ImRlZmF
+	1bHQiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI6InNwYyIsImIiOiJ
+	pcF8zNC4yMDkuODAuMjkiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJ
+	sLm9yZyIsInRyYW5zYWN0aW9uYWwiOiIxIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65097] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4A/69-31179-270F9E95; Fri, 20 Oct 2017 12:47:46 +0000
+Received: from [10.2.4.14] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5WiH-0000SN-Vf
+	for jobs@perl.org; Fri, 20 Oct 2017 12:47:46 +0000
+Date: Fri, 20 Oct 2017 12:47:45 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5WiH-0000SN-Vf@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: PERL Contractor with AWS experience (part onsite), Bay Area CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21038
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: PERL Contractor with AWS experience
+
+Company name: Digitalwork
+
+Location: Bay Area CA
+
+Pay rate: $80--$120 per hour
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: some
+
+Description:
+DigitalWork needs an experienced PERL developer to adapt our services onto
+AWS.  The migration has been done.  We need to optimize our service.
+
+Desired skills:
+PERL.  AWS experience.	PHP.  TinyMCE.	Wordpress. UI design a plus.
+
+Website for more information: http://www.digitalwork.com
+
+Contact information at:
+http://jobs.perl.org/job/21038#contact

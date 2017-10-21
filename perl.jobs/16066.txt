@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16066
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29214 invoked from network); 20 Oct 2017 12:48:00 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:48:00 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 48E7111F65D
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:48:00 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 30F0611F709
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:58 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id B472D11F6F2
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:47:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503676; i=@perl.org;
+	bh=u/H3cvUHEJeqszBQTlFYoQTSlOqz5kzz/YbWManHUcw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ahTGxNwI7VhQEysYICAHZKNRhWJ09X9YsySv2PYFYi5VFuLa2Sd5+nNB6uu8C4keq
+	 1cVM2Yi3ZmfL8JuIf6WwiJvzU/C4nR8vqX+nRdNdWDEsyah6jc1SCJ6goQnQIMrd2w
+	 +dKxIsabNikGw2ktAy0r/82R2mRK6MIpuL+zZjvE=
+X-MSFBL: Ohn7v/97AiH2zAOKw18eWm2chhpBuCzkTna4hzAGS9E=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiaXBfcG9vbF9yYXciOiJ
+	kZWZhdWx0IiwidGVuYW50X2lkIjoic3BjIiwiYiI6ImlwXzM0LjIwOS44MC4yOSI
+	sInJjcHRfbWV0YSI6eyB9LCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwN2NmMGU5NTk3NDAwMGZkZCIsInRyYW5
+	zYWN0aW9uYWwiOiIxIiwicmNwdF90YWdzIjpbIF0sInRyYW5zbWlzc2lvbl9pZCI
+	6IjEyNjUzNzUzNjM4OTMwMzY3Iiwic3ViYWNjb3VudF9pZCI6IjEiLCJzZW5kaW5
+	nX2lwIjoiMzQuMjA5LjgwLjI5IiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJ0ZW1wbGF
+	0ZV92ZXJzaW9uIjoiMCIsInRlbXBsYXRlX2lkIjoic210cF8xMjY1Mzc1MzYzODk
+	zMDM2NyIsInIiOiJqb2JzQHBlcmwub3JnIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59404] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id F0/DD-00116-C70F9E95; Fri, 20 Oct 2017 12:47:56 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5WiS-0000SR-7k
+	for jobs@perl.org; Fri, 20 Oct 2017 12:47:56 +0000
+Date: Fri, 20 Oct 2017 12:47:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5WiS-0000SR-7k@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Programmer (telecommute), San Francisco, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21040
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: Perl Programmer
+
+Company name: DigitalWork
+
+Location: San Francisco, CA, United States
+
+Pay rate: $55.00 USD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+DigitalWork is actively looking for positive, forward-thinking individuals,
+who specialize in Perl development and AWS.
+
+Implement various development
+environments for effective systems integration testing.
+
+Design and
+implement (create and enhance) timely and reliable software solutions.
+
+Develop configuration-driven, self-monitoring, scalable solutions that can
+easily accommodate ongoing enhancements.
+
+Implement software development
+best practices and lessons learned as a means of continuous improvement.
+
+Document maintenance and support procedures for production systems.
+
+Desired skills:
+Strong oral and written communication skills
+
+Ability to transform complex
+business requirements into sound technical designs and implementations
+
+Good analytical and problem solving skills
+
+3+ years development experience
+in JavaScript
+
+3+ years design and development experience in Perl,
+specifically, the following skills:
+
+Application development (as opposed to
+strictly CGI or maintenance scripts)
+
+Usage as well as creation of Perl
+modules
+
+Postgres Database programming
+
+Competency in basic Unix platform
+development and deployment activities
+
+Experience with source control
+packages
+
+Responsibilities include development of new features and
+enhancements to current infrastructure. Ability to interact with customers
+alongside the Project Manager.
+
+Website for more information: http://www.digitalwork.com/
+
+Contact information at:
+http://jobs.perl.org/job/21040#contact

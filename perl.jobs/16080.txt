@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16080
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29173 invoked from network); 20 Oct 2017 12:47:35 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:47:35 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8A07D11F922
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:35 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7268011F6F2
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:32 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6A8CC11F681
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:47:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503650; i=@perl.org;
+	bh=JF5tjiiMoi2ypKYoSxN2XT7luRWQhWaq7vOE4IXyJW4=;
+	h=Date:To:From:Subject:Reply-To;
+	b=qarKTYD2fpsqPj6023yVu8TvbA6PWNH6LaArT8NOKr5Lp8fKvikrynOKKtsuLKvZU
+	 KNlT0odYx8+GquuZtNtBLS4Pb4816XzffsRDbwt7BvGUgZgEp4ITvygmiOtX02kTyI
+	 wPpZi2ERYjYSSbT81fFvBKBc1ibKoIqdSZVs7dY0=
+X-MSFBL: t08f3+K1esxdQMT69cIIElSnQ51NKN9TUDoTBmbL2Is=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInJjcHR
+	fdGFncyI6WyBdLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwidHJhbnNtaXNzaW9uX2l
+	kIjoiMTI2NTM3NDY5NDUwMTQyNzYiLCJpcF9wb29sIjoiZGVmYXVsdCIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJtZXNzYWd
+	lX2lkIjoiMDAwMDYyZjBlOTU5Y2I3OTRkOTMiLCJzZW5kaW5nX2lwIjoiMzQuMjA
+	5LjgwLjI5IiwicmNwdF9tZXRhIjp7IH0sInN1YmFjY291bnRfaWQiOiIxIiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInRlbXBsYXRlX2l
+	kIjoic210cF8xMjY1Mzc0Njk0NTAxNDI3NiIsImciOiIwMDAwMDpwbGFjZWhvbGR
+	lciIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50978] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id D4/39-31179-260F9E95; Fri, 20 Oct 2017 12:47:30 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5Wi2-0000SJ-2Z
+	for jobs@perl.org; Fri, 20 Oct 2017 12:47:30 +0000
+Date: Fri, 20 Oct 2017 12:47:30 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5Wi2-0000SJ-2Z@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123916
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ CO_TLD 0.1, REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1500_1599 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: LAMP Application Developer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21036
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title: LAMP Application Developer
+
+Company name: Fourth Estate Publiic Benefit Corp.
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for an awesome Web Developer / Perl Developer / PHP Developer
+to develop, maintain and extend a variety cutting edge web-based
+applications and service platforms.
+
+We need a reliable team player, who is
+able to adapt to a variety of challenges and who is is passionate about
+their work.
+
+This is a fantastic opportunity for a Developer to find a home
+solving challenge and important problems for a growing organization.
+
+Desired skills:
+We'd prefer a Bachelor=E2=80=99s degree in computer science (or related fie=
+ld) and
+a minimum of three years experience in software or website development.
+
+You should have proven experience developing large-scale database-driven
+applications for the web and mobile environment
+
+You'll need extensive
+professional experience programming Perl and PHP. Bonus for other languages
+and have expertise with the rest of the modern tech stack.
+
+Please be a
+professional team player with a sense of humor!
+
+Website for more information: https://www.FourthEstate.co
+
+Contact information at:
+http://jobs.perl.org/job/21036#contact

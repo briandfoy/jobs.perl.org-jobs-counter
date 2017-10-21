@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16074
+Return-Path: <msprvs1=174663FYQg9NJ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29133 invoked from network); 20 Oct 2017 12:47:15 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 20 Oct 2017 12:47:15 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 9E1F411F709
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:15 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 34E9311F65D
+	for <perlmail-jobs@onion.perl.org>; Fri, 20 Oct 2017 05:47:13 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 86DD111F917
+	for <jobs@perl.org>; Fri, 20 Oct 2017 05:47:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1508503629; i=@perl.org;
+	bh=/Nqwg9ruZIHOW2xSGeSxY36CCCvJiPTHNRNtYzC+irY=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ZmbCGODLce4GNNUzy/P27Z3Xuq3A2aZQl8GFodXfIydVYlI0+SV/NtPfCSoSt1BrD
+	 Zt+ZU6Mrv5HCjWNM98Xn/h3oCT6RZ/1X0mKWbwB7RML2/uehCvZZgNYklvU7BPx2cl
+	 BjcI5N0VwZEQnZXY8+hNyci02an4dL/unvcTu/5o=
+X-MSFBL: Tb/cLNJkXrAfrc1oa4fk0Zk+1ZtxzZ91PLw6prLuuxI=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJyY3B0X21ldGEiOnsgfSwiYiI6ImlwXzM0LjIwOS44MC4yOSI
+	sInIiOiJqb2JzQHBlcmwub3JnIiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSI
+	sInRyYW5zYWN0aW9uYWwiOiIxIiwidGVuYW50X2lkIjoic3BjIiwidGVtcGxhdGV
+	fdmVyc2lvbiI6IjAiLCJ0cmFuc21pc3Npb25faWQiOiIxMjY1Mzc1MDI1ODM4MDc
+	wMiIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImlwX3Bvb2wiOiJkZWZhdWx0Iiw
+	ic3ViYWNjb3VudF9pZCI6IjEiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkB
+	wZXJsLm9yZyIsInJjcHRfdGFncyI6WyBdLCJjdXN0b21lcl9pZCI6IjE3NTMwIiw
+	idGVtcGxhdGVfaWQiOiJzbXRwXzEyNjUzNzUwMjU4MzgwNzAyIiwibWVzc2FnZV9
+	pZCI6IjAwMDA0ZGYwZTk1OTUzMTVlNGQ1In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62020] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61648 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4E/5D-05459-D40F9E95; Fri, 20 Oct 2017 12:47:09 +0000
+Received: from [10.2.3.253] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1e5Whh-0000SB-I8
+	for jobs@perl.org; Fri, 20 Oct 2017 12:47:09 +0000
+Date: Fri, 20 Oct 2017 12:47:09 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1e5Whh-0000SB-I8@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.10.20.123315
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, SUPERLONG_LINE 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1600_1699 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0,
+ __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?UGVybCBBcHBsaWNhdGlvbnMgYW5kIFByb3RlaW4gQW5hbHlzaXMg?=
+ =?UTF-8?B?4oCTIG1pZC1sZXZlbCBQZXJsIGRldmVsb3BlciB3YW50ZWQgZm9yIGEgTG9u?=
+ =?UTF-8?B?ZG9uIGJpb2luZm9ybWF0aWNzIGNvbXBhbnkgKG9uc2l0ZSksIExvbmRvbg==?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21034
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2017
+
+Job title:
+Perl Applications and Protein Analysis =E2=80=93 mid-level Perl developer w=
+anted
+for a London bioinformatics company
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Calling all science enthusiasts! Perhaps you studied Chemistry at
+university but then found yourself pulled towards software development
+instead when you entered the world of work? Or maybe you did a dissertation
+or early internship in bioinformatics and have always wanted to get back
+into the sciences? This interesting role sits at the junction of science
+and software development, and is a great opportunity for a Perl developer
+to rediscover his or her passion for the natural sciences.
+
+It=E2=80=99s with a
+popular bioinformatics company that makes software to facilitate protein
+identification and comparison. The London-based team is looking for
+candidates with solid experience developing large commercial products in
+Perl but also some scientific background =E2=80=93 or at the least a demons=
+trable
+passion for the sciences! The company is small and values strong full-stack
+skills and versatility in its developers.
+
+Desired skills: Perl
+
+Website for more information:
+https://perl.careers/jobs/perl-applications-and-protein-analysis--mid-level
+-perl-developer-wanted-for-a-london-bioinformatics-company/
+
+Contact information at:
+http://jobs.perl.org/job/21034#contact
