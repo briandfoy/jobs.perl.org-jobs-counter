@@ -1,0 +1,169 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16086
+Return-Path: <msprvs1=1747974k6U7yl=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 716 invoked from network); 2 Nov 2017 00:57:56 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 2 Nov 2017 00:57:56 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EEDC311DE6B
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:57:55 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E72D511DA03
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:57:53 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 2DC6A11DE6B
+	for <jobs@perl.org>; Wed,  1 Nov 2017 17:57:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1509584272; i=@perl.org;
+	bh=IHylgnU7pIdB7pKbBH62jJtdWKV3Xc+YvJcXAbx7Gqk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=GyVUFxm7BZr0Pmy+G9m6Z1VJWXZNbs69IUGHm4+wSwwrH/BLMS1wsX6Nb2PLxw/hD
+	 fQKsR70h1snVJINqxaIp679YInAorbyy+XckSf5+cOuCHIUuidfN7bYsR2vNyjjxs8
+	 98Na2XmzmxaIgg2voKtqQp9hmSiJxiVVn/AbJlIY=
+X-MSFBL: IZURY7k6IhUmrVzqtkU3OdlWO+3GNGvPKLOz+qsBHnI=|eyJpcF9wb29sIjoiZGV
+	mYXVsdCIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwidHJ
+	hbnNhY3Rpb25hbCI6IjEiLCJyY3B0X21ldGEiOnsgfSwidGVtcGxhdGVfaWQiOiJ
+	zbXRwXzEyNjYzMDQyNTY5MjkyOTg1IiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsIm1
+	lc3NhZ2VfaWQiOiIwMDAwOTA2ZGZhNTk4NjVjMTg0YyIsInRlbmFudF9pZCI6InN
+	wYyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInJjcHRfdGFncyI6WyBdLCJzZW5
+	kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJ
+	hY2NvdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW1wbGF0ZV9
+	2ZXJzaW9uIjoiMCIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNjYzMDQyNTY5MjkyOTg1In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63736] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61898 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 81/C4-23686-09D6AF95; Thu, 02 Nov 2017 00:57:52 +0000
+Received: from [10.2.5.193] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eA3pP-0000QR-Um
+	for jobs@perl.org; Thu, 02 Nov 2017 00:57:51 +0000
+Date: Thu, 2 Nov 2017 00:57:51 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eA3pP-0000QR-Um@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.2.4816
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS ,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Software Developer, Newcastle, NSW or Sydney, NSW
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2017
+
+Job title: Perl Software Developer
+
+Company name: HomeAway
+
+Location: Newcastle, NSW or Sydney, NSW
+
+Pay rate: $100K AUD base salary (negotiable)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Are you passionate about great customer experience? Love building software
+that people really use? Do you like to get stuff done? YesBookit is the
+leading holiday rentals booking management system in Australia and we are
+looking for a passionate Perl programmer to join our ambitious team.
+
+You
+will take part in all aspects of the software development lifecycle and
+help develop software that businesses rely on to be successful.
+
+YesBookit
+is part of the HomeAway family, this provides an opportunity to integrate
+and learn from industry leading teams around the world; whether it be Web
+Security or AI. The HomeAway Australia family also consists of our siblings
+at Stayz.com.au who operate from a first-class office in Sydney. We
+regularly work (and play!) with the team in Sydney, this provides another
+avenue for learning between peers.
+
+What we are looking for:
+- A programmer
+at heart and that is passionate about solving problems for the user.
+- You
+should have a real passion for code quality, employing the best practises
+while still being able to get things done in a timely way.
+- You are able
+to express yourself and participate in a team environment.=20
+- Ideally, you
+will be a creative thinker who can find simple solutions to interesting
+problems
+
+You=E2=80=99ll become a part of our small but dedicated dynamic, stable
+and growing development team working alongside other Perl developers, Front
+End developers, QA engineers and Product Managers in a focused agile team.
+
+Though primarily Perl there will be ample opportunity to introduce new
+technologies to the ecosystem and to contribute to HomeAway on a global
+scale; ultimately opening the door to other roles within the company.
+
+Responsibilities:
+- Maintain and develop new and existing Perl web services
+- Work closely with business, QA, product and marketing functions to
+develop technical solutions
+- Ensure consistent, clean coding and adherence
+to relevant coding standards
+
+Benefits:
+- Competitive salary with targeted
+annual bonus
+- Relaxed office with water views of Newcastle's foreshore in
+the Honeysuckle district with free snacks and drinks
+- Personal development
+and learning development program
+- Opportunity to work up to two weeks in
+many HomeAway offices worldwide (Austin, Paris, London ...)
+- Relaxed
+atmosphere where creativity is encouraged and you are allowed to be
+yourself
+
+Desired skills:
+Qualifications:
+Should Have:
+- Formal software engineering education or
+equivalent experience (coding and design)
+- 2 years of experience
+developing Perl for web applications
+- Experience in developing OO
+(Object-oriented) Perl applications
+- Some experience working with
+front-end technologies
+
+Desirable Experience:
+- Experience with modern Perl
+technologies such as PSGI, Mojolicious, Dancer, DBIx::Class etc=E2=80=A6
+- Database
+driven (MySQL) application development
+- Knowledge of Amazon Web Services
+(EC2, S3, Route53)
+- Development of and against REST APIs
+- Experience with
+Docker and Container orchestration
+- Java experience
+
+Contact information at:
+http://jobs.perl.org/job/21048#contact

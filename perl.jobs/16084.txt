@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16084
+Return-Path: <msprvs1=1747974k6U7yl=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 684 invoked from network); 2 Nov 2017 00:57:48 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 2 Nov 2017 00:57:48 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C885611DA03
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:57:48 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2132511FDCE
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:57:46 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 67D1D11DE6B
+	for <jobs@perl.org>; Wed,  1 Nov 2017 17:57:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1509584265; i=@perl.org;
+	bh=wlwY+zj5L0lE4JzUTHnA+iP+126H0L6j/dulhAr+TyM=;
+	h=Date:To:From:Subject:Reply-To;
+	b=hdUGc6QB6K/vz2WWsIx7E0puxr/th/+XDHdFVPLoDIJNT2A3vDFXMA37IPTyXs7UB
+	 KQnrx58VFBQWQeI4yqw3B1ws5uOxmJnHI9RroeJZNHg68HNdq8LtdC2/rkKJscARBH
+	 BA9TlvNeEP5iu/d0+MfK4iQqWLMraUZEGSerqOs8=
+X-MSFBL: 1egTcdx7ikT4SNFQCMSYow4wyeE2TegmzBszMGXLZVQ=|eyJpcF9wb29sX3JhdyI
+	6ImRlZmF1bHQiLCJzdWJhY2NvdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc
+	1MzAiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfaWQiOiJzbXRwXzE
+	yNjYzMDQyNTY5MjkyNzU2IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJ0ZW1wbGF0ZV9
+	2ZXJzaW9uIjoiMCIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNjYzMDQyNTY5MjkyNzU
+	2Iiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInRlbmFudF9pZCI6InNwYyI
+	sInJjcHRfbWV0YSI6eyB9LCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJ
+	sLm9yZyIsImlwX3Bvb2wiOiJkZWZhdWx0IiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	yY3B0X3RhZ3MiOlsgXSwibWVzc2FnZV9pZCI6IjAwMDA4OTZkZmE1OTg2NWNlZTR
+	hIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:60000] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61898 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id EE/A4-23686-98D6AF95; Thu, 02 Nov 2017 00:57:45 +0000
+Received: from [10.2.4.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eA3pI-0000QN-Q7
+	for jobs@perl.org; Thu, 02 Nov 2017 00:57:44 +0000
+Date: Thu, 2 Nov 2017 00:57:44 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eA3pI-0000QN-Q7@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.2.4816
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1600_1699 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Mid-level/Senior Perl Developer wanted for the largest Perl team in
+ London (with beautiful Docklands offices) (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21046
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2017
+
+Job title:
+Mid-level/Senior Perl Developer wanted for the largest Perl team in London
+(with beautiful Docklands offices)
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Large, dynamic Perl team in Canary Wharf looking for mid-level and senior
+developers. Run by a Perl-loving CTO in beautiful offices with a great view
+over Canary Wharf, the company manages one legacy Perl codebase and a whole
+bunch of very new, very shiny, and very modern codebases that power the
+market-leading solution in their particular area. Free breakfast, too, for
+some values of breakfast.
+
+The company has a number of big-data and data
+analysis projects, and have bet heavily on AWS, for everything from
+autoscaling to Redshift. They use a variety of Modern Perl technologies
+across their projects and regularly send developers to YAPC.
+
+The company
+has maintained its small company feel, despite being bought a few years ago
+by a much larger company, and the office is really friendly and supportive.
+
+Desired skills:
+Perl, of course. Experience with the modern technologies and frameworks
+such as Mojo, Dancer or DBIx::Class would be a strong advantage.
+
+Website for more information:
+https://perl.careers/jobs/largest-perl-team-in-london-with-beautiful-dockla
+nds-offices/
+
+Contact information at:
+http://jobs.perl.org/job/21046#contact

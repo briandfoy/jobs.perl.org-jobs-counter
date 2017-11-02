@@ -1,0 +1,192 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16083
+Return-Path: <msprvs1=1747974k6U7yl=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 752 invoked from network); 2 Nov 2017 00:58:12 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 2 Nov 2017 00:58:12 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2B14411FDD3
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:58:12 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 95E4A11DE6B
+	for <perlmail-jobs@onion.perl.org>; Wed,  1 Nov 2017 17:58:07 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6B76A11DA03
+	for <jobs@perl.org>; Wed,  1 Nov 2017 17:58:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1509584284; i=@perl.org;
+	bh=EnRYmkayE6Nkbb2Xu6EichkSkdJyWGpQxbVUqtKmi+E=;
+	h=Date:To:From:Subject:Reply-To;
+	b=GDH5dr6nxQ+ITVKGmSlNE6qNdwILWZF8fMpOWV6kfYHqvQQ+siHK+QOU/3ABg3QAt
+	 DXgxpR4ntmQ7+cqxGIDNEAgVvR9NTl7ohibatsho75GFWS5TNPQ2qrVJzy85uwDsra
+	 KoQdTvePJMY7BB8OKSyKBCq9y8gEHfDWmKBVYeMo=
+X-MSFBL: MQY+zq1ypzG5ggoqbww7GlvIsZSF3x7Ch3nyxrhyK5M=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDljNmRmYTU5ODY1YzcwNGUiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyY3B0X21ldGEiOns
+	gfSwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJzZW5kaW5nX2lwIjoiMzQuMjA5Ljg
+	wLjI5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwiZyI6IjAwMDAwOnBsYWNlaG9
+	sZGVyIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJyY3B0X3RhZ3MiOlsgXSwidHJhbnN
+	hY3Rpb25hbCI6IjEiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwidHJhbnNtaXNzaW9
+	uX2lkIjoiMTI2NjMwNDI1NjkyOTM0NTciLCJzdWJhY2NvdW50X2lkIjoiMSIsInR
+	lbXBsYXRlX2lkIjoic210cF8xMjY2MzA0MjU2OTI5MzQ1NyIsImZyaWVuZGx5X2Z
+	yb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:64729] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.35.61898 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 07/E4-23686-C9D6AF95; Thu, 02 Nov 2017 00:58:04 +0000
+Received: from [10.2.5.193] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eA3pc-0000QZ-CU
+	for jobs@perl.org; Thu, 02 Nov 2017 00:58:04 +0000
+Date: Thu, 2 Nov 2017 00:58:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eA3pc-0000QZ-CU@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.2.4816
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21052
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2017
+
+Job title: Perl Developer
+
+Company name: Yoox Net-A-Porter
+
+Location: London, UK
+
+Pay rate: 50-60K GBP
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have an exciting opportunity for an experienced Software Developer to
+join us.
+
+Joining an Agile team, this is an opportunity to establish a
+close relationship with our product owners and users and make a real
+difference in a fast-paced online retail environment. We deliver value to
+our business every release, meaning that you will immediately be able to
+contribute and make a positive impact.
+
+Our approach to technology is to
+use the right tool for the job and, through TDD and CI/CD, to build high
+quality solutions that are built with a view to maintenance.
+
+To build on
+our success, we are looking for smart, conscientious software developers
+who want to work in a friendly, hard-working environment and take our
+platform and products forward. In return you will be exposed to the latest
+technologies, frameworks & methodologies in application development.
+
+The
+Role:
+
+* Build high quality applications and HTTP based services
+* Work
+closely with both technical and non-technical members in the team
+* Develop
+a good understanding of business requirements and write technical
+specifications
+* Ensure that work is well-planned, estimated, implemented,
+tested, and documented
+* Identify and help plan improvements to systems
+*
+Participate in code review and mentoring processes
+* Keep up with industry
+trends and experiment with new tools, technologies & development methods
+with a view to adopting best practices that fit the business
+* Monitor and
+support production systems
+
+Note that this is role is based in London, UK.
+You must be eligible to work in the UK to apply for this role. If you
+require a visa to work in the UK you will need to have this before you
+apply.
+
+Desired skills:
+Required Skills & Experience:
+
+* Server-side development in Perl
+*
+Client-side development in Javascript
+* SQL/RDBMS (we use PostgreSQL and
+MySQL)
+* Version control systems (we use git)
+* Able to investigate &
+trouble-shoot technical issues
+* Able to rapidly and effectively
+context-switch
+* Linux OS familiarity
+
+Desirable Skills & Experience:
+
+Experience of any of the following will be useful but training will be
+provided to the right candidate.
+
+* Able to develop web-based user
+interfaces (HTML, CSS) & APIs (JSON & XML)
+* Server side development in
+Javascript (Node.js)=20
+* Knowledge of CPAN modules and frameworks,
+particularly: DBI, DBIx::Class, Catalyst, Plack, Template Toolkit and Moose
+*  Knowledge of NPM libaries and frameworks, including test frameworks
+*=20
+Search Technology (we use Elasticsearch)
+*  RabbitMQ, ActiveMQ, Amazon SQS
+*  Puppet or similar configuration management solutions
+*  Experience
+building and testing high-availability applications
+*  Agile development
+methodologies and practises (Scrum, Kanban, TDD)
+*  Implementing continuous
+delivery (ideally using Jenkins and OpenStack)
+
+Understanding of:
+
+*  Perl,
+Javascript & Linux conventions
+*  Perl & Javascript testing frameworks
+*=20
+Refactoring
+
+We are looking for candidates that:
+
+*  Are passionate about
+software development
+*  Are good communicators with good writing skills
+*=20
+Have a healthy dose of common sense and initiative
+*  Have a great sense of
+humour and attitude
+
+Website for more information: http://www.ynap.com/
+
+Contact information at:
+http://jobs.perl.org/job/21052#contact
