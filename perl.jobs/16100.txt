@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16100
+Return-Path: <msprvs1=17487bC5a0EjT=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13136 invoked from network); 10 Nov 2017 19:38:58 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Nov 2017 19:38:58 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 056D211DA4C
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:58 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id EAE8211F234
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:55 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 7FBC911DA4C
+	for <jobs@perl.org>; Fri, 10 Nov 2017 11:38:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1510342732; i=@perl.org;
+	bh=UZ5MjM17N77F+EZ8G2Vzl/Ddf1wqxShyWSkITviqcrE=;
+	h=Date:To:From:Subject:Reply-To;
+	b=eQWeJ55+J/AXTla946t4TVfHBpXra6+SFvybd9EZfpjyFsgo3NwaHnFKy18m3Q8us
+	 8PqhVfuEHXS7Z8K/gEaHu+PEMbDoRHcz3SyNWjhJsjU8RCsKcA17z74THgx87F9LBl
+	 IrpmzvpRnQ+XrF41CjsflT8lgUSE091Aqy3dz3J0=
+X-MSFBL: WGWJ19e5VD+rJS3DMqbyG7z2/NFunkd2P09FWLtE4cg=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInIiOiJqb2JzQHBlcmwub3JnIiwiaXBfcG9vbF9yYXciOiJkZWZ
+	hdWx0IiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJiIjoiaXBfMzQuMjA5LjgwLjI5Iiw
+	idGVtcGxhdGVfaWQiOiJzbXRwXzEyNjY4MDQyNzI5NjQ0NTY5IiwibWVzc2FnZV9
+	pZCI6IjAwMDA0YzAwMDY1YTIxNzIwNGI5IiwidGVuYW50X2lkIjoic3BjIiwidHJ
+	hbnNtaXNzaW9uX2lkIjoiMTI2NjgwNDI3Mjk2NDQ1NjkiLCJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInJjcHRfdGFncyI6WyBdLCJzdWJhY2NvdW50X2lkIjoiMSIsImZyaWV
+	uZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwic2VuZGluZ19pcCI6IjM
+	0LjIwOS44MC4yOSIsInJjcHRfbWV0YSI6eyB9LCJjdXN0b21lcl9pZCI6IjE3NTM
+	wIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52770] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.61980 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 40/9B-29217-C40060A5; Fri, 10 Nov 2017 19:38:52 +0000
+Received: from [10.2.0.194] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eDF8e-0000w5-0i
+	for jobs@perl.org; Fri, 10 Nov 2017 19:38:52 +0000
+Date: Fri, 10 Nov 2017 19:38:51 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eDF8e-0000w5-0i@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.10.193315
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Simple Solutions to Big Problems - Perl Developers across the
+ experience range (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21062
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2017
+
+Job title:
+Simple Solutions to Big Problems - Perl Developers across the experience
+range
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Me, I get excited by shiny things. I played with Maypole before Catalyst or
+Mojolicious was a thing, and I wrote some mean Class::DBI code before
+DBIx::Class took over the Perl ORM business.
+
+But it=E2=80=99s possible to build
+clean, fast, simple, elegant and reliable Perl the old way. You can write
+effective tests without needing to invent a test-specific DSL, you can
+write web-services without using the trendiest new web-framework, and you
+can lovingly hand-craft performant and understandable SQL.
+
+What=E2=80=99s more,
+you can do this while running one of the UK=E2=80=99s largest, most success=
+ful, and
+most profitable web properties. You can do this at scale, and fall back on
+the simplicity of your system when debugging rather than needing to
+hand-pick through multi-page stack traces generated by some tooling.
+
+And
+you can do all of this while providing a work environment that=E2=80=99s fr=
+iendly,
+forward-looking, and full of free food.
+
+They=E2=80=99re heavily invested in the
+wider London Perl community, I=E2=80=99m always bumping into their people a=
+t Perl
+conferences, and I have many former colleagues and current friends enjoying
+their time there.
+
+With excellent benefits, an excellent salary package,
+and an engineering culture that focuses on excellence, simply delivered,
+isn=E2=80=99t it time for a simple life?
+
+Desired skills:
+Our client uses the classic LAMP stack of Linux, Apache, MySQL and Perl. To
+hit their scaling needs, they make heavy use of AWS, queueing and
+job-management systems like Gearman, and Memcached for making sure data is
+quickly available when needed. Experience with these would be an advantage,
+but it's not essential to know all of them.
+
+Website for more information:
+https://perl.careers/jobs/simple-solutions-to-big-problems/
+
+Contact information at:
+http://jobs.perl.org/job/21062#contact

@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16109
+Return-Path: <msprvs1=17487bC5a0EjT=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13119 invoked from network); 10 Nov 2017 19:38:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Nov 2017 19:38:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id ED5AD11DA4C
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:50 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id AE03F11F234
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:48 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id DD47F11DA4C
+	for <jobs@perl.org>; Fri, 10 Nov 2017 11:38:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1510342726; i=@perl.org;
+	bh=tkTcM2Odgt3qShbfpZMz8v1y0ujZnfgQbWe9zK3I/qs=;
+	h=Date:To:From:Subject:Reply-To;
+	b=hvh0fsDaDqZGSsSTB3bofBu77OCCSa3QollLNFUPm8TCEEQuWHxfvPWZJ1ViBppIe
+	 7ihOmGOYhZUiA0Ef8rPWwc5XpDS/kOIWkV7N14IEdlsIG1xNhz+xZQcF5BYTlf1wVx
+	 4aGa1EO4mSNAK/GjbT3akaYKx6Ss+zpp+NrqPsI4=
+X-MSFBL: 0Kg/XsSQp1A83V1DIS4LsuxSOKYo1ddk2ROh6tE9R/0=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJpcF9wb29sIjoiZGVmYXVsdCIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCI
+	sInJjcHRfdGFncyI6WyBdLCJyY3B0X21ldGEiOnsgfSwic2VuZGluZ19pcCI6IjM
+	0LjIwOS44MC4yOSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0cmFuc21pc3Npb25
+	faWQiOiIxMjY2ODAzNjYyMjg1NDQxNyIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ
+	0ZW1wbGF0ZV9pZCI6InNtdHBfMTI2NjgwMzY2MjI4NTQ0MTciLCJyIjoiam9ic0B
+	wZXJsLm9yZyIsInN1YmFjY291bnRfaWQiOiIxIiwiZnJpZW5kbHlfZnJvbSI6Imp
+	vYnMtYWRtaW5AcGVybC5vcmciLCJtZXNzYWdlX2lkIjoiMDAwMDQ2MDAwNjVhNzA
+	0OWEzMjMiLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJ0cmFuc2FjdGlvbmFsIjo
+	iMSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57263] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.61980 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 3A/32-18800-640060A5; Fri, 10 Nov 2017 19:38:46 +0000
+Received: from [10.2.4.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eDF8Y-0000w1-DJ
+	for jobs@perl.org; Fri, 10 Nov 2017 19:38:46 +0000
+Date: Fri, 10 Nov 2017 19:38:46 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eDF8Y-0000w1-DJ@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.10.193315
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Bioinformatician (onsite), Enkhuizen, the Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21060
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2017
+
+Job title: Bioinformatician
+
+Company name: Enza Zaden
+
+Location: Enkhuizen, the Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you want to work in a research environment, are you interested in plant
+biology and are you capable of building relationships on different levels
+through the organisation in order to analyse business needs? As a
+bioinformatician you will join our research team and develop healthy,
+innovative vegetable varieties in a sustainable way.
+
+As bioinformatician
+you will be part of the Biotechnology Research department which performs a
+wide range of research requiring you to work in close collaboration with
+molecular biologists. This research generates vast amounts of data, ready
+to be analysed. The goal of this analysis is to facilitate the breeding
+process by finding leads which will enable the breeders to create the best
+vegetable varieties.
+
+You will mainly work on data analysis with focus on
+next-generation sequencing data. This includes development of analysis
+pipelines, including user interfaces and databases, data visualisation and
+optimising in-house developed algorithms and workflows.
+
+Our main stack is
+Perl, Moo, Mojolicious, Rex. If the task requires it, we also switch to
+other technologies, such as R or golang.
+
+Desired skills:
+You are familiar with software development and data analysis. You have the
+drive to dig into complex data-sets and the ability to continue until you
+have found the answers you are looking for. You keep looking for new
+possibilities and you share your ideas with the team. Furthermore you have
+excellent communication skills and are a strong team player.
+
+To make this
+function a success you=E2=80=99ll need the following requirements:
+
+BSc or MSc
+degree in bioinformatics, computer science or data analysis related field.
+
+* Confident in the scripting language Perl (or other language and
+willingness to learn Perl)
+* Above average Linux skills
+* Knowledge of
+distributed source code version control system, e.g. git or mercurial
+*
+Interested in plant biology
+* Fluent in English
+
+Proficiency in high
+performance computing and sequence data analysis is highly desirable. Basic
+database knowledge (SQL/NoSQL) and web application development (Perl
+Mojolicious) are a plus.
+
+Website for more information:
+http://www.enzazaden.com/careers-and-learning/vacancies/bioinformatician
+
+Contact information at:
+http://jobs.perl.org/job/21060#contact

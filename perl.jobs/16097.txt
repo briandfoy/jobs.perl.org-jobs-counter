@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16097
+Return-Path: <msprvs1=17487bC5a0EjT=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13152 invoked from network); 10 Nov 2017 19:38:59 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 10 Nov 2017 19:38:59 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F1D0011F8AE
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:58 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0355A11F276
+	for <perlmail-jobs@onion.perl.org>; Fri, 10 Nov 2017 11:38:57 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 9AB7911DA4C
+	for <jobs@perl.org>; Fri, 10 Nov 2017 11:38:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1510342736; i=@perl.org;
+	bh=O3fMvuZ+MicZ12MthD+nGdQFt/QP2S8YNqN+M0Y/gjI=;
+	h=Date:To:From:Subject:Reply-To;
+	b=VQ5eLqq2atruWFF1wTqklyJashVM1Y88sAt6tZX/mLtfK+orgnkkCItLidicae9IW
+	 luwBxkmEEMtGMYR8LseVjo9IBibTH3XfwAQFSTPVF2zU7fK7qfqNKZQ2FLOEk1gkYb
+	 W9mF1J1UfUJzwOiKmFFj+9hh/hO7AutggnktqtBE=
+X-MSFBL: gCZXnCh9wSki2i4H3hHb2QyIVsbSq1uXLMPgRGlXP30=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwidHJhbnNhY3R
+	pb25hbCI6IjEiLCJ0cmFuc21pc3Npb25faWQiOiIxMjY2ODA0MjcyOTY0NDgzMiI
+	sInRlbmFudF9pZCI6InNwYyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJpcF9wb29
+	sX3JhdyI6ImRlZmF1bHQiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJ
+	sLm9yZyIsInJjcHRfdGFncyI6WyBdLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbXB
+	sYXRlX2lkIjoic210cF8xMjY2ODA0MjcyOTY0NDgzMiIsImlwX3Bvb2wiOiJkZWZ
+	hdWx0IiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sImIiOiJpcF8zNC4yMDkuODAuMjkiLCJyY3B0X21ldGEiOnsgfSwibWVzc2FnZV9
+	pZCI6IjAwMDA1MDAwMDY1YTIxNzI0YWJhIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63302] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.61980 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A4/AB-29217-050060A5; Fri, 10 Nov 2017 19:38:56 +0000
+Received: from [10.2.4.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eDF8i-0000w9-40
+	for jobs@perl.org; Fri, 10 Nov 2017 19:38:56 +0000
+Date: Fri, 10 Nov 2017 19:38:55 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eDF8i-0000w9-40@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.10.193315
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1500_1599 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Do you love customers? Senior Perl Developer with a product focus,
+ London (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21064
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2017
+
+Job title:
+Do you love customers? Senior Perl Developer with a product focus, London
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ever find yourself wishing you could see meaningful impact on users from
+your work? Trapped in a company with long release cycles and dubious
+release dates? Wish your ideas for product improvement didn=E2=80=99t keep
+disappearing in to the Project Manager=E2=80=99s backlog?
+
+My client is looking for
+a product-focused Senior Perl Developer to help them move their exciting
+and profitable product set forward. Working with their product owner,
+you=E2=80=99ll be expected to help define new features, talk to customers, =
+and have
+a real impact on the client=E2=80=99s end products.
+
+Desired skills:
+The ideal candidate has:
+
+Experience with DBIx::Class and either Postgres
+or MySQL
+Template Toolkit
+Experience with at least one of the modern web
+frameworks: Dancer, Mojolicious, Catalyst
+Exposure to Moose would be ideal
+Knows their way around HTML and Javascript
+
+Website for more information:
+https://perl.careers/jobs/do-you-love-customers-senior-perl-developer-with-
+a-product-focus-london/
+
+Contact information at:
+http://jobs.perl.org/job/21064#contact
