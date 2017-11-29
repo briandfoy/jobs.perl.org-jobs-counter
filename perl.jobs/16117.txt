@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16117
+Return-Path: <msprvs1=17506WLpgCnwe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13672 invoked from network); 29 Nov 2017 01:34:15 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Nov 2017 01:34:15 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 981621200AE
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:34:15 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D36461200C4
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:34:13 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 5DA311200AE
+	for <jobs@perl.org>; Tue, 28 Nov 2017 17:34:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1511919253; i=@perl.org;
+	bh=rZ6y7e698pT3TXC0E1B/zN5YK2HGjpOQmmBZsVJ+L2o=;
+	h=Date:To:From:Subject:Reply-To;
+	b=AoEoEnOaJSklrg6w2Cn7d/ndm8FtAy1OXXcBCrnpmWl0AjVpD1Yup7H4+euWT5K2M
+	 +fPzqCJru9PAXNMaZYSkJ1np2JHdxRh4EX+vQg+hi5JJkAVjEnIUmcnoXXo+yefGxB
+	 j7dGUU1O3RV4jFlmJ+c5oBC5/mosithtXI/PtE0Q=
+X-MSFBL: tJBJ8Xx/jokMOM93ura1ovy10khuMAjmmtll+OqOqD8=|eyJpcF9wb29sIjoiZGV
+	mYXVsdCIsInN1YmFjY291bnRfaWQiOiIxIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnM
+	tYWRtaW5AcGVybC5vcmciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2ODI2NDk3NDk4MjY
+	1NzYiLCJyY3B0X3RhZ3MiOlsgXSwibWVzc2FnZV9pZCI6IjAwMDA5NDBlMWU1YTU
+	4N2U3MmE4IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwiYiI6ImlwXzM0LjIwOS4
+	4MC4yOSIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsInRlbXBsYXRlX2lkIjoic21
+	0cF8xMjY4MjY0OTc0OTgyNjU3NiIsInRyYW5zYWN0aW9uYWwiOiIxIiwiY3VzdG9
+	tZXJfaWQiOiIxNzUzMCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwicmNwdF9tZXR
+	hIjp7IH0sInIiOiJqb2JzQHBlcmwub3JnIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65014] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62175 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 27/8A-32344-49E0E1A5; Wed, 29 Nov 2017 01:34:13 +0000
+Received: from [10.2.4.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eJrGO-0001uD-Jy
+	for jobs@perl.org; Wed, 29 Nov 2017 01:34:12 +0000
+Date: Wed, 29 Nov 2017 01:34:12 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eJrGO-0001uD-Jy@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.29.12717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Perl DevOp for Network of Unix Systems, Dallas, Texas, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2017
+
+Job title: Perl DevOp for Network of Unix Systems
+
+Company name: Setex
+
+Location: Dallas, Texas, USA
+
+Pay rate: >$50, us dollars
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Description:
+i have contract work for a perl/sql/unix programmer doing dev ops for a
+leading telco (privately held) company in dallas area. must be comfortable
+with both legacy and recent unix environments. remote work is fine as long
+as able to meet regularly in dallas. i will supervise and assist.
+
+Desired skills:
+perl
+shell
+postgresql
+
+Contact information at:
+http://jobs.perl.org/job/21096#contact

@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16120
+Return-Path: <msprvs1=17506WLpgCnwe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13638 invoked from network); 29 Nov 2017 01:34:00 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Nov 2017 01:34:00 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 4E4B91200AE
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:34:00 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 6710F1200C4
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:33:58 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id E33431200AE
+	for <jobs@perl.org>; Tue, 28 Nov 2017 17:33:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1511919237; i=@perl.org;
+	bh=vbUTz+uOMdaK1n8jjbNRwcKED33VeuPBqTCcv86xLzk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ZYZwVYCq6PFKFYWD8mQHFTVCS5Kv9uiiBukmxAkngmobYZEEykb/aF6Xj39MD8vhk
+	 gnt7fgImAaa5qbIHAzvboQP7aahh7J8m8Iyr2M1jFoupTj8OOJvXsnldysBC0+mUNE
+	 wUiW7V9KFuK53Ly8yl+Ekk0OP5hI/tsMrYEp8o+M=
+X-MSFBL: DKHe7V8eOfr+GqI52Of545ezCDxaeLSQgzUCLl1aob0=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwidGVtcGxhdGVfaWQiOiJzbXRwXzE
+	yNjc4NDU0MzMxODI2NjI1Iiwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInJ
+	jcHRfdGFncyI6WyBdLCJzdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiI
+	wMDAwODUwZTFlNWFmNWJiMjgxOCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiYiI
+	6ImlwXzM0LjIwOS44MC4yOSIsImlwX3Bvb2wiOiJkZWZhdWx0IiwiZyI6IjAwMDA
+	wOnBsYWNlaG9sZGVyIiwicmNwdF9tZXRhIjp7IH0sImZyaWVuZGx5X2Zyb20iOiJ
+	qb2JzLWFkbWluQHBlcmwub3JnIiwiciI6ImpvYnNAcGVybC5vcmciLCJ0cmFuc2F
+	jdGlvbmFsIjoiMSIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNjc4NDU0MzMxODI2NjI1In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54847] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62175 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 82/81-48117-58E0E1A5; Wed, 29 Nov 2017 01:33:57 +0000
+Received: from [10.2.5.6] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eJrG8-0001u5-Un
+	for jobs@perl.org; Wed, 29 Nov 2017 01:33:56 +0000
+Date: Wed, 29 Nov 2017 01:33:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eJrG8-0001u5-Un@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.29.12717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0,
+ __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Developer (onsite), Greenbelt, MD, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21092
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2017
+
+Job title: Software Developer
+
+Company name: ADNET Systems, Inc.
+
+Location: Greenbelt, MD, United States
+
+Pay rate: $60,000 (USD)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a programmer to support the development and maintenance of
+the Virtual Solar Observatory (VSO) at NASA's Goddard Space Flight Center.
+The VSO provides search and retrieval access for space- and ground-based
+observations of the Sun using Web-based and command-line clients
+communicating with distributed remote data provider servers. The VSO
+architecture comprises several technologies including: Web services using
+SOAP/XML; database systems built using Perl/MySQL; and specialized clients
+written in Interactive Data Language (IDL) and Python. The duties of this
+position include:
+
+=E2=80=A2	Support the maintenance and development of Perl
+components of the VSO architecture.=20
+=E2=80=A2	Improve the overall
+performance of the VSO software and associated databases.=20
+=E2=80=A2	Work
+with a distributed team of programmers, via biweekly telecons, and secure
+chat.
+
+We are seeking a candidate with excellent verbal and written
+communication skills, the ability to work independently and within a team,
+and the motivation to solve problems and master new techniques. The
+candidate is expected to learn and understand the functionality of
+custom-built Perl modules. This position is ideal for a recent graduate who
+is interested in starting an IT career in a dynamic and challenging
+environment such as at NASA.
+
+Desired skills:
+=E2=80=A2	Minimum 2 years programming in Perl (undergraduate course=20
+=20=20=20=20=20=20=20
+work, or equivalent work experience)
+=E2=80=A2	Minimum 1 year experience
+using Linux and/or Mac OS
+=E2=80=A2	Modular code development techniques
+=E2=80=A2=20=20=20=20
+  Web components (e.g. HTTP protocols, web services)
+=E2=80=A2	SQL or similar
+database query languages
+
+US Citizenship or Permanent Residence required.
+
+Contact information at:
+http://jobs.perl.org/job/21092#contact

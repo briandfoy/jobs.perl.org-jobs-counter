@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16115
+Return-Path: <msprvs1=17506WLpgCnwe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13558 invoked from network); 29 Nov 2017 01:33:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Nov 2017 01:33:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id AB5EE1200AE
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:33:33 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A5A6B1200DC
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:33:31 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 210881200AE
+	for <jobs@perl.org>; Tue, 28 Nov 2017 17:33:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1511919210; i=@perl.org;
+	bh=qr5SWlcwI0ju+gyqgOghCBeP0Vh+GXxKArnJ3J1TCLc=;
+	h=Date:To:From:Subject:Reply-To;
+	b=f7Z3czOJNXS7yKVpRhwXneA6iji++DLXId6T7jgS3/GkX6UDWXc9cadRodklG/w79
+	 37xiw48QE0kdm3EIVnhZdgrEigjRjTKrSpfQAqG6HYhlQvGt16lgU3L09W5gPs9/Wp
+	 cbcmhFBh+/Gr18IL5orfvCydmKg49u63TgXaT2YQ=
+X-MSFBL: v+BAZl62fLrBlU8pr3NrvuneU4pKwifwNUkH71Nmuf0=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDZhMGUxZTVhYWY4NGE4YWUiLCJ0cmFuc21pc3Npb25faWQiOiIxMjY3Nzc
+	xMDMxODY5OTAxNyIsInJjcHRfbWV0YSI6eyB9LCJzZW5kaW5nX2lwIjoiMzQuMjA
+	5LjgwLjI5IiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInIiOiJqb2JzQHBlcmwub3J
+	nIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ0cmFuc2F
+	jdGlvbmFsIjoiMSIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInRlbXBsYXRlX2l
+	kIjoic210cF8xMjY3NzcxMDMxODY5OTAxNyIsInN1YmFjY291bnRfaWQiOiIxIiw
+	idGVuYW50X2lkIjoic3BjIiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJpcF9wb29
+	sX3JhdyI6ImRlZmF1bHQiLCJyY3B0X3RhZ3MiOlsgXSwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCIsImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:51068] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62175 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 8A/EA-33967-A6E0E1A5; Wed, 29 Nov 2017 01:33:30 +0000
+Received: from [10.2.5.6] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eJrFi-0001tp-D3
+	for jobs@perl.org; Wed, 29 Nov 2017 01:33:30 +0000
+Date: Wed, 29 Nov 2017 01:33:30 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eJrFi-0001tp-D3@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.29.12717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB_HOURS 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_EURO 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Software Developer (part onsite), Tallinn, Estonia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2017
+
+Job title: Perl Software Developer
+
+Company name: 7BinaryOptions.com
+
+Location: Tallinn, Estonia
+
+Pay rate: EUR
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Would you like to use your Perl developing skills to help new binary option
+traders globally? Do you have excellent web development as well as backend
+skills that you would like to use to the fullest with a passionate and fast
+growing company?
+
+We are seeking a Perl Software Developer to our team in
+Tallinn, Estonia. You could work first as an hourly employee with flexible
+hours, mainly from Tallinn, but often location independently as well.
+
+You
+would report directly to the Senior Developer and strong experience with
+frameworks such as Dancer, Catalyst and Mojolicious along with great object
+oriented Perl and moose are necessary.
+
+Our company principles are hard
+work ethic, passion, loyalty as well as playfulness. We are still a small
+team but growing fast, so this is a good opportunity to be part of a small
+but dynamic family.
+
+Desired skills:
+- Technical skills: Minimum 3-4 years of Linux, Perl, MySQL and JavaScript,
+as well as database and web/application architecture
+- Independent problem
+solving mentality, critical thinking, a logical approach to analyzing
+problems
+- High level of productivity and good in organizing work
+- Ability
+to work with other people effectively
+- Complete projects on schedule with
+limited post deployment issues
+- Effective oral communication and writing
+skills
+- Ability to focus on the customer experience
+
+Website for more information: http://www.7binaryoptions.com
+
+Contact information at:
+http://jobs.perl.org/job/19790#contact

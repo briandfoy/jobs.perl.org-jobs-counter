@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16112
+Return-Path: <msprvs1=17506WLpgCnwe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13656 invoked from network); 29 Nov 2017 01:34:08 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Nov 2017 01:34:08 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 86B1F1200AE
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:34:08 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8342E1200C4
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:34:06 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id EAD241200AE
+	for <jobs@perl.org>; Tue, 28 Nov 2017 17:34:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1511919245; i=@perl.org;
+	bh=Qh/lAC+YnohsHgnq/T7kTNIkBmabZ2dlvCtO926sTVM=;
+	h=Date:To:From:Subject:Reply-To;
+	b=MZ+vfgBXhM4EqULKt571eV29TY+EwMgcj+Bw3eymHt5o/3n9Y4LQCQK0DcANgOM7p
+	 wr2MPvk645jwGQV5JlKFynpC9SMOn2yknxSL5vmNKav0SHQdHh/8+xUveErqXVOYmR
+	 FtRGAieitC2xmPRFV+cjekRKngWGJleplBujjfJw=
+X-MSFBL: s+cjKxLpm7YTuu6v9IffOP8w0vI/Cv2tVC7OfwWof74=|eyJyY3B0X3RhZ3MiOls
+	gXSwiciI6ImpvYnNAcGVybC5vcmciLCJyY3B0X21ldGEiOnsgfSwiaXBfcG9vbF9
+	yYXciOiJkZWZhdWx0IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjgyNjQ5NzQ5ODI
+	2MDE2IiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2ODI2NDk3NDk4MjYwMTYiLCJzdWJ
+	hY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwOGQwZTFlNWE1ODdlYmZ
+	hNSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnM
+	tYWRtaW5AcGVybC5vcmciLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiYiI6ImlwXzM
+	0LjIwOS44MC4yOSIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJ0cmFuc2F
+	jdGlvbmFsIjoiMSIsImlwX3Bvb2wiOiJkZWZhdWx0IiwidGVuYW50X2lkIjoic3B
+	jIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61538] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62175 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id FB/5A-32344-D8E0E1A5; Wed, 29 Nov 2017 01:34:05 +0000
+Received: from [10.2.4.132] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eJrGH-0001u9-7U
+	for jobs@perl.org; Wed, 29 Nov 2017 01:34:05 +0000
+Date: Wed, 29 Nov 2017 01:34:05 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eJrGH-0001u9-7U@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.29.12717
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, SUPERLONG_LINE 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?RE5BIGFuZCBEYW5jZXIgRG93biBVbmRlciDigJMgbWlkLWxldmVs?=
+ =?UTF-8?B?IGRldmVsb3BlciByZXF1aXJlZCBmb3IgYSBiaW9pbmZvcm1hdGljcyBjb21w?=
+ =?UTF-8?B?YW55IGluIENhbmJlcnJhIChwYXJ0IG9uc2l0ZSksIENhbmJlcnJhLCBBdXN0?=
+ =?UTF-8?B?cmFsaWE=?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21094
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2017
+
+Job title:
+DNA and Dancer Down Under =E2=80=93 mid-level developer required for a
+bioinformatics company in Canberra
+
+Company name: Perl Careers
+
+Location: Canberra, Australia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Back in 1953 when Watson and Crick first discovered DNA, they burst into
+the pub near their laboratory boasting that they had =E2=80=98discovered th=
+e secret
+of life=E2=80=99. More than half a century later, scientists are still unra=
+velling
+the many mysteries encoded within the DNA of organisms, and our client is
+working at the cutting edge in this field. Their software provides
+genotyping information about crops and can assist in the development of new
+species.
+
+Perks include a generous annual bonus, flexible working hours,
+and the opportunity to work from home for a significant proportion of time
+after the initial 6 months onsite in Canberra to get you up to speed.
+Candidates must have an existing right to work in Australia, as the company
+cannot provide visa sponsorship.
+
+Desired skills:
+Sitting right at the junction of technology and life sciences, this is a
+unique role. The company=E2=80=99s priority is to hire a candidate with exc=
+ellent
+modern Perl skills, so they are happy to consider strong developers coming
+from other industries who show a genuine interest in moving into the
+bioinformatics field. Perhaps you studied genetics or have worked in
+scientific analysis before, but then your career took another direction for
+a few years? Or perhaps you have a strong personal interest in the field
+and reading up about the latest genome technology breakthroughs in Nature
+magazine forms part of your weekend routine? If so, the company are keen to
+speak to you, and a comprehensive in-house induction programme will help
+get you up to speed with the latest bioinformatics developments.=20
+
+Their
+technological environment consists of some legacy code, which is now being
+modernised, and some newer code based on the Dancer framework. The right
+candidate will be familiar with modern tooling and might have some exposure
+to Ansible and AWS and Linux containers. Familiarity with MySQL and
+Postgres as well as Solr would all be advantages. As a small team they
+promote the autonomy of developers.
+
+Website for more information:
+https://perl.careers/jobs/dna-and-dancer-down-under--mid-level-develop-requ
+ired-for-a-bioinformatics-company-in-canberra/
+
+Contact information at:
+http://jobs.perl.org/job/21094#contact

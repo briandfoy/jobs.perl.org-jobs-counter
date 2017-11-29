@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16113
+Return-Path: <msprvs1=17506WLpgCnwe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13467 invoked from network); 29 Nov 2017 01:33:12 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Nov 2017 01:33:12 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D18E11200C4
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:33:12 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id ABFAD1200AE
+	for <perlmail-jobs@onion.perl.org>; Tue, 28 Nov 2017 17:33:10 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 11B811200C4
+	for <jobs@perl.org>; Tue, 28 Nov 2017 17:33:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1511919190; i=@perl.org;
+	bh=Uuz6d/dDSYSELQTucA13XYQQKK/76BFuLNlrpl3DVzQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=LY1zTa/cFjPxKD0OkY630UckQpiksZR47biN+ec0WdtE2aE+iiPkFay8vV75BXmDm
+	 bKPGZMgy4ZnOWxEJ40GMrRmynDpO5LxwpOqCBFfOaMuWFNasnRbehmmqG8zt3wd+t4
+	 T40IPvM+zfK6R5nDt2KPS7t3JGaoIWetMN1UbHUw=
+X-MSFBL: i8pd6evdbeQyixjtHHQImriooZeHpJtLPGRBVtnPpDU=|eyJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInRlbmFudF9pZCI6InNwYyIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWF
+	kbWluQHBlcmwub3JnIiwibWVzc2FnZV9pZCI6IjAwMDA1NTBlMWU1YTU4N2U4Njk
+	wIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJyY3B0X21ldGEiOnsgfSwiY3VzdG9tZXJ
+	faWQiOiIxNzUzMCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ0ZW1wbGF0ZV9pZCI
+	6InNtdHBfMTI2ODI2NDk3NDk4MjE3NTgiLCJzdWJhY2NvdW50X2lkIjoiMSIsInI
+	iOiJqb2JzQHBlcmwub3JnIiwidHJhbnNtaXNzaW9uX2lkIjoiMTI2ODI2NDk3NDk
+	4MjE3NTgiLCJyY3B0X3RhZ3MiOlsgXSwic2VuZGluZ19pcCI6IjM0LjIwOS44MC4
+	yOSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx
+	0IiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54662] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62175 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 68/09-32344-55E0E1A5; Wed, 29 Nov 2017 01:33:10 +0000
+Received: from [10.2.5.6] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eJrFN-0001tZ-JK
+	for jobs@perl.org; Wed, 29 Nov 2017 01:33:09 +0000
+Date: Wed, 29 Nov 2017 01:33:09 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eJrFN-0001tZ-JK@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.11.29.12717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Looking for your first real programming job? Junior role for a
+ hobbyist PHP or JavaScript developer interested in Perl - Oxford (onsite),
+ Oxford, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21082
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2017
+
+Job title:
+Looking for your first real programming job? Junior role for a hobbyist PHP
+or JavaScript developer interested in Perl - Oxford
+
+Company name: Perl Careers
+
+Location: Oxford, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a graduate or school-leaver with some programming knowledge, who
+wants to take their first step into a programming career? My Oxford-based
+client are a very successful SaaS business willing to take on and mentor
+promising junior programmers whose programming experience has so far just
+been a hobby or a programming bootcamp.
+
+Based near Oxford train station,
+the team=E2=80=99s codebase is modern and shows off many cutting-edge and p=
+roven
+technologies. Their primary development language is Perl, a multi-paradigm
+programming language in use everywhere from search engines to startups.
+
+You=E2=80=99ll get a chance to join a strong development team and get some =
+years of
+proper, high-end, and modern development under your belt as the first step
+in your programming career.
+
+Desired skills:
+As a new member of the team, you=E2=80=99ll be expected to be self-starting=
+. You=E2=80=99ll
+need some non-commercial programming experience - maybe you=E2=80=99ve writ=
+ten PHP
+or JavaScript for fun or as part of your own website. You should also be
+familiar with the basics of databases and have a firm conceptual grasp of
+how the Internet works.
+
+Website for more information:
+https://perl.careers/jobs/looking-for-your-first-real-programming-job-hobby
+ist-php-or-javascript-developer-interested-in-perl/
+
+Contact information at:
+http://jobs.perl.org/job/21082#contact
