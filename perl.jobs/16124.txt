@@ -1,0 +1,222 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16124
+Return-Path: <msprvs1=17514PvONFfEl=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23242 invoked from network); 7 Dec 2017 05:28:42 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Dec 2017 05:28:42 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E816C11D412
+	for <perlmail-jobs@onion.perl.org>; Wed,  6 Dec 2017 21:28:41 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id DB53E11D41B
+	for <perlmail-jobs@onion.perl.org>; Wed,  6 Dec 2017 21:28:39 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 22F2C11D412
+	for <jobs@perl.org>; Wed,  6 Dec 2017 21:28:38 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1512624518; i=@perl.org;
+	bh=eY/hDxfwwY8LipyI2hMGjPq5kscHsOaDf7+7hnYDCqQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=mGqGj5eLegWt171z79PwK2jGP6m6egrZBiekjuwrVsjKxhkHMQAw32dPG/AZzeiU7
+	 0mP/gLKtzMhiUpKqdrWIqqv8mBt/6VLoDdBuW7tMVMG4O/mkkG36RJHqtwgSCRnWZp
+	 HwFINhv7Z/mva0NPBd+OLuVcVHwiqTpKvyI1i8xw=
+X-MSFBL: c6+9gqiTAQK7QWfli2fFjy2ayrUQtHWJS532uQL3fY0=|eyJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx
+	0IiwidGVuYW50X2lkIjoic3BjIiwicmNwdF90YWdzIjpbIF0sInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNjg3ODcwMTkzODc5MTk4IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnM
+	tYWRtaW5AcGVybC5vcmciLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI2ODc4NzAxOTM
+	4NzkxOTgiLCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwidGVtcGxhdGVfdmV
+	yc2lvbiI6IjAiLCJtZXNzYWdlX2lkIjoiMDAwMDg1ZDEyODVhYzE1NjhlOWQiLCJ
+	jdXN0b21lcl9pZCI6IjE3NTMwIiwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInJjcHR
+	fbWV0YSI6eyB9LCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJzdWJhY2NvdW50X2l
+	kIjoiMSIsImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59186] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.37.62307 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E8/D9-22209-581D82A5; Thu, 07 Dec 2017 05:28:38 +0000
+Received: from [10.2.0.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eMojd-0002Hx-Ic
+	for jobs@perl.org; Thu, 07 Dec 2017 05:28:37 +0000
+Date: Thu, 7 Dec 2017 05:28:37 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eMojd-0002Hx-Ic@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.12.7.52417
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P5 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_BADTHINGS 0, __FRAUD_CONTACT_AGE 0, __FRAUD_CONTACT_NAME 0, __FRAUD_CONTACT_SEX 0, __FRAUD_FP_NEGATE 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_PAYMENT 0, __FRAUD_MONEY_VALUE 0, __FRAUD_NEGATE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2017
+
+Job title: Perl Developer
+
+Company name: craigslist
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+craigslist seeks perl web developers to:=20
+* imagine, design, implement,
+test, and roll out new features=20
+* ship code daily, and see it loved (or
+hated) by millions=20
+* draw from and contribute to various open source
+projects=20
+* enjoy a tech-driven, laid-back, fun-loving workplace=20
+
+Required
+skills:
+* 5+ years programming experience
+* proven ability to design,
+develop, and maintain web systems
+* deep understanding of web development
+concepts
+* expert level knowledge in a programming language
+* solid
+troubleshooting and problem solving skills
+* familiarity with Linux/UNIX
+
+Experience with any of the following is beneficial, but not required:
+*
+large scale, big traffic, high performance websites
+* security, web site
+vulnerabilities, phishing attacks
+* machine learning
+* user interface
+design
+* event driven programming
+* internationalization, encoding systems,
+Unicode
+* anti-fraud / spam / scam systems
+* accounts receivable & billing
+systems
+* QA / automated testing
+* queuing / job scheduling systems
+*
+networking protocols
+* build systems
+* project management
+
+The ideal
+candidate:
+* self-motivated and highly productive
+* a data-driven problem
+solver
+* passionate about helping (and delighting) end users
+* loves
+learning and teaching others
+* passion for automation
+* makes teammates
+better
+* resourceful and adaptable
+* communicates effectively
+* empathetic
+and self-aware
+* loves craigslist
+
+A sampling of the technologies we work
+with includes:=20
+* Perl, Linux, Apache, MySQL=20
+* python, node.js, C/C++=20
+*
+JavaScript, jQuery, AJAX=20
+* redis, SQLite=20
+* HTML, CSS, JSON, XML=20
+
+craigslist offers:=20
+* an unusually philanthropic company mission and
+philosophy=20
+* a small team (~50) of fun-loving, smart, interesting,
+idealistic people=20
+* non-garden-variety tech challenges at
+billions-of-page-views-per-day=20
+* a tech nirvana, free from VCs, MBAs,
+sales, marketing, biz dev, or pivoting=20
+* big company stability and
+benefits -- w/o the dysfunction and despair=20
+* competitive market rates for
+you -- free classifieds for humanity=20
+
+craigslist benefits include:=20
+* 100%
+paid (including eligible dependents) health and dental insurance=20
+*
+craigslist-provided health reimbursement account ($4K-$10K)=20
+* 3-to-1 match
+on employee charitable donations (up to 10% of salary)=20
+* 401(k) matching
+program (up to 6% of salary), with immediate vesting=20
+* 4 weeks paid time
+off; 10 paid holidays=20
+* paid parental leave
+* commuting stipend (up to
+$255/month)=20
+* wellness stipend (up to $150/month); weekly in-office yoga=20
+* mobile phone and at-home internet stipend (up to $250/month)=20
+*
+bike-friendly culture, in-office bicycle parking=20
+* healthy (vegan,
+vegetarian, omnivore) breakfast, lunch, and snacks daily=20
+* SF HQ - 25'
+ceilings, all natural light, adjustable height desks, CoffeeBot 9000=20
+
+Please note: This position is based in craigslist's San Francisco office.
+Relocation expenses will be reimbursed. Candidates must be authorized to
+work in the United States without sponsorship.
+
+To apply, please send your
+plain text resume, a cover email which includes a summary of your technical
+strengths and interests, and Perl Developer in the subject line to
+qqjmw-6342243238@job.craigslist.org. No attachments, please.=20
+
+craigslist
+is an equal opportunity employer and does not discriminate based sex
+(including pregnancy, perceived pregnancy, childbirth, breastfeeding, and
+related medical conditions), age, genetic information, marital/domestic
+partner status, medical condition (including cancer, genetic
+characteristics, or AIDS/HIV), mental/physical disability, national origin
+or ancestry (including language use and holding a driver=E2=80=99s license =
+granted
+under Vehicle Code section 12801.9), race and color, religion, creed,
+gender (including actual/perceived gender identity, expression, or
+transition, and transgender or gender non-conforming status), sexual
+orientation, weight, height, military/veteran status, or any other
+characteristic protected by federal, state, or local laws.
+
+Website for more information:
+http://www.craigslist.org/about/craigslist_is_hiring
+
+Contact information at:
+http://jobs.perl.org/job/19048#contact
