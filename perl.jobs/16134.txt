@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16134
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17004 invoked from network); 16 Dec 2017 06:51:53 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:51:53 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F1BDB11DBC4
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:51:52 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0979311F04D
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:51:48 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 109AC11F0FA
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:51:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513407106; i=@perl.org;
+	bh=kygBa+sDYZgVydE1STrISXbcva1kaWOJishk3beIT5o=;
+	h=Date:To:From:Subject:Reply-To;
+	b=gqebHoVgs5aW0Ok3VKh7xD/ubUfGCLffoKNYHQgFZBqYm0akluIGOn29ffBpAIICv
+	 W6pqvffc357+KCH6bGO0JfIfTXMf9norM3ez5pU5iPkGqo8DqdSPkf5zeVEY9D0F00
+	 jD0jyaU3ZQXmWEiULXrVIEJqKBhhmXLT+FdObmy4=
+X-MSFBL: CjEP3n/7yZx0cuOHI3OhOVoThDqwrw8AT/cRZA2Mu2w=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDgyYzIzNDVhYmEyOGEyY2MiLCJ0cmFuc21pc3Npb25faWQiOiIxMjY5MzY
+	wMjEyMTEyMTI2NCIsInJjcHRfbWV0YSI6eyB9LCJ0cmFuc2FjdGlvbmFsIjoiMSI
+	sInRlbmFudF9pZCI6InNwYyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInJjcHR
+	fdGFncyI6WyBdLCJpcF9wb29sIjoiZGVmYXVsdCIsInNlbmRpbmdfaXAiOiIzNC4
+	yMDkuODAuMjkiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyI
+	sImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsInRlbXBsYXRlX2lkIjoic210cF8xMjY5MzYwMjE
+	yMTEyMTI2NCIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCIsInIiOiJqb2JzQHBlcmwub3JnIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:55732] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 2A/CC-10426-282C43A5; Sat, 16 Dec 2017 06:51:46 +0000
+Received: from [10.2.0.106] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6K2-0000En-3E
+	for jobs@perl.org; Sat, 16 Dec 2017 06:51:46 +0000
+Date: Sat, 16 Dec 2017 06:51:46 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6K2-0000En-3E@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.12.16.64516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Be a trailblazer in a time of growth - Full Stack Architect required
+ for a rapidly expanding London company (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21110
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 16, 2017
+
+Job title:
+Be a trailblazer in a time of growth - Full Stack Architect required for a
+rapidly expanding London company
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We recently started to advertise a developer role at a financial services
+company that=E2=80=99s growing in a bamboo-like fashion. We can now confirm=
+ that
+they=E2=80=99re also looking for some top talent to help lead this expansio=
+n. If
+you=E2=80=99re currently a senior full stack developer looking to take on y=
+our next
+role as an architect then this is a great opportunity to do so in a company
+that is both ambitious and supportive. Increased job satisfaction is
+another perk, as their codebase is notably new and clean and the team are
+committed to using modern practices.
+
+Desired skills:
+The right candidate will have very strong modern Perl (at least 5 years=E2=
+=80=99
+experience), plus a good level of fluency in HTML, CSS and JavaScript
+(jQuery) and a commitment to agile methodologies. Some experience of
+integrating 3rd party APIs via SOAP and REST would be advantageous, as
+would familiarity with the testing platforms Jenkins/Hudson.
+
+Get in touch
+to find out more, and help shape the path of future growth for both
+yourself and the company.
+
+Website for more information:
+https://perl.careers/jobs/be-a-trailblazer-in-a-time-of-growth---full-stack
+-architect-required-for-a-rapidly-expanding-london-company/
+
+Contact information at:
+http://jobs.perl.org/job/21110#contact

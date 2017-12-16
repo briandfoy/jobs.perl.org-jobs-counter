@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16131
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11079 invoked from network); 16 Dec 2017 06:46:43 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:46:43 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8C43D11F0D0
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:46:43 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8637211DD79
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:46:41 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BF30C66FF9
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:46:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513406795; i=@perl.org;
+	bh=bvs5lvyESUMPWtrf4KcyU2AIGHm4nCQd9a+yah5n8Yg=;
+	h=Date:To:From:Subject:Reply-To;
+	b=alTXGmcgO96NM3lr3R9taSxbcjAPyYa5pGSKpDFB9HmaRunN+6jZ7eT0tsl9liwk7
+	 zWcbhiFKZrHjkLysviPv8AM91JHxwxd+s1dpeGjal9SU9UsAKjHaPEYweyfb3b8fNt
+	 DHFAXENY13wxBA3J4+14i1tgA0k1CewmAnSS27b0=
+X-MSFBL: Ut2Qq+xyBbaZdr8bAS+HYeZJcWVT5YI2oOFC+dAmPTI=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDRiYzEzNDVhYWQ2ZDE2ZGMiLCJyY3B0X3R
+	hZ3MiOlsgXSwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNjkzNTM4ODIxMTczOTY4Iiw
+	iZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ0cmFuc21pc3N
+	pb25faWQiOiIxMjY5MzUzODgyMTE3Mzk2OCIsImlwX3Bvb2xfcmF3IjoiZGVmYXV
+	sdCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJyY3B0X21ldGEiOnsgfSw
+	iZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsIml
+	wX3Bvb2wiOiJkZWZhdWx0IiwiciI6ImpvYnNAcGVybC5vcmciLCJ0cmFuc2FjdGl
+	vbmFsIjoiMSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwiYiI6ImlwXzM0LjIwOS4
+	4MC4yOSIsInN1YmFjY291bnRfaWQiOiIxIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65035] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 61/CD-28077-B41C43A5; Sat, 16 Dec 2017 06:46:35 +0000
+Received: from [10.2.3.160] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6F1-0000ET-1h
+	for jobs@perl.org; Sat, 16 Dec 2017 06:46:35 +0000
+Date: Sat, 16 Dec 2017 06:46:35 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6F1-0000ET-1h@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.26.42117
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Sr Perl programmer (onsite), Ahmedabad
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21106
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  6, 2017
+
+Job title: Sr Perl programmer
+
+Company name: Mavenvista Technologies Pvt Ltd
+
+Location: Ahmedabad
+
+Pay rate: 35-45K PM
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Opportunity:
+=09
+1.Development and enhancement of enterprise SaaS
+solution in the procurement space
+2.Consistently enhance open source
+technology stack for superior customer experience in terms of UI &
+Functionality across different devices
+3.Build & enhance API for seamless
+exchange of data with leading ERPs like SAP/ Oracle/ Infor & other
+enterprise applications
+4.Trouble shoot technology challenges like
+enhancement of performance and scalability of the product=20
+
+
+Job
+Description=20
+1.Ensuring Quality and timely development
+2.Candidate is
+expected to create new interfaces, algorithms.
+3.Designing and Maintaining
+MySQL Databases and Tables
+4.Code Management / legacy code to be managed in
+the best optimal way
+5.Adapt,learn and Implement new technology
+
+Desired skills:
+Tech Skills:
+PERL,OOP, Catalyst,Mysql,HTML,Javascript
+
+HR Skills:
+>>
+Someone who believes in taking initiatives
+>> Self Learner
+>> Problem
+Solving Attitude
+>> Excellent Team Player
+>> Communication Skills
+
+Adv Tech
+Skills:
+>> Experience with SOAP and REST APIs will be an added advantage.
+>> Experience in developing Modular, Extensible & Scalable, Secured code.
+>> Experience with writing high-quality, well-architect and well-documented
+code.
+
+Website for more information: https://mavenvista.com/
+
+Contact information at:
+http://jobs.perl.org/job/21106#contact

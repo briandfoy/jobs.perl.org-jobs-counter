@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16133
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10974 invoked from network); 16 Dec 2017 06:45:48 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:45:48 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id BEA1011DDF7
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:45:48 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 6DF8011F05F
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:45:46 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BBD9A11F0DB
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:45:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513406731; i=@perl.org;
+	bh=ugBFrXwHF99ogbjwxpDvrVrLC46m0Bo5LaBXdqkRtKg=;
+	h=Date:To:From:Subject:Reply-To;
+	b=oSWsmTMv658BAMiskWPN8HepBtkRwcM2qjLLKHfYzCdjnRekCY4X0NlNa1h0X1TuR
+	 ikx/hTWBrY5O4z+Ulcvxy+uYz+bFal2AwSGUTNZDFMerfk0yDD/bNeuJCZzNYWXVS6
+	 a3tfNrtdMMIJmpo9gawrSXmCiTcf9KyOXPOO3t8A=
+X-MSFBL: r/DbSsxYtdjtdfK1SfC0Pn8Cr94Om7bCcoh84Fxrh8U=|eyJmcmllbmRseV9mcm9
+	tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInRlbmFudF9pZCI6InNwYyIsInJjcHR
+	fbWV0YSI6eyB9LCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwiciI6ImpvYnN
+	AcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInJjcHRfdGFncyI6WyBdLCJ
+	jdXN0b21lcl9pZCI6IjE3NTMwIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJ0ZW1wbGF
+	0ZV92ZXJzaW9uIjoiMCIsImIiOiJpcF8zNC4yMDkuODAuMjkiLCJ0ZW1wbGF0ZV9
+	pZCI6InNtdHBfMTI2OTI3Njc0Njg3MjIzMDYiLCJ0cmFuc21pc3Npb25faWQiOiI
+	xMjY5Mjc2NzQ2ODcyMjMwNiIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInRyYW5
+	zYWN0aW9uYWwiOiIxIiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwibWVzc2FnZV9
+	pZCI6IjAwMDAwYmMxMzQ1YTk1Nzk4Mjc4In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61783] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 28/87-31125-B01C43A5; Sat, 16 Dec 2017 06:45:31 +0000
+Received: from [10.2.0.106] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6Dy-0000EH-Ld
+	for jobs@perl.org; Sat, 16 Dec 2017 06:45:30 +0000
+Date: Sat, 16 Dec 2017 06:45:30 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6Dy-0000EH-Ld@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.7.26.42117
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Expert Perl Developer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21122
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 16, 2017
+
+Job title: Expert Perl Developer
+
+Pay rate: $50.00 USD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We have an existing chatbot which is used to 'onboard' our users to our
+mobile app.  We have a perl api backend and require the need of a very good
+Perl developer to fix several bugs in order for us to launch on time before
+the holidays.  We have a single Perl module that needs modifying and this
+works with our MySQL DB.
+
+Desired skills: Perl, MySQL
+
+Contact information at:
+http://jobs.perl.org/job/21122#contact

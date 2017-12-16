@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16136
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17071 invoked from network); 16 Dec 2017 06:52:24 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:52:24 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 69E5E11DBC4
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:52:24 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 3C0C511F04D
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:52:22 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id ABD8311DBC4
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:52:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513407141; i=@perl.org;
+	bh=Xw/aJQEoAI0zjZAd0FqddG9lxLxW2A0O0OCHygTDrwo=;
+	h=Date:To:From:Subject:Reply-To;
+	b=i043wJ2jTNGLvlN1DyR59qqMR9uRhhAKaJTX/1nruDjGDo+VUwzaIMsVDRnY52k1U
+	 Mh1d73JN/LmuHYWax0nl/eNh28xCbnnLEPaSG7w6QYQOav+pQdqlKaEEpctNj8owMQ
+	 qOhbpxMx/uPnAk1WUGZ0btUs7+D4vfJGW6KP2ltI=
+X-MSFBL: DbzS3EsqKPSvBFKcHi9mbc4+HEX1HkV/39G5p2nX6EQ=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNjkzNjAyMTIxMTIxOTYwIiw
+	iaXBfcG9vbCI6ImRlZmF1bHQiLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJjdXN
+	0b21lcl9pZCI6IjE3NTMwIiwicmNwdF90YWdzIjpbIF0sImciOiIwMDAwMDpwbGF
+	jZWhvbGRlciIsInRyYW5zYWN0aW9uYWwiOiIxIiwiYiI6ImlwXzM0LjIwOS44MC4
+	yOSIsInRlbmFudF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiZnJpZW5
+	kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJyY3B0X21ldGEiOnsgfSw
+	ic2VuZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsInN1YmFjY291bnRfaWQiOiIxIiw
+	idGVtcGxhdGVfaWQiOiJzbXRwXzEyNjkzNjAyMTIxMTIxOTYwIiwibWVzc2FnZV9
+	pZCI6IjAwMDBhNWMyMzQ1YWJhMjhmM2NmIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54179] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 3F/FC-10426-5A2C43A5; Sat, 16 Dec 2017 06:52:21 +0000
+Received: from [10.2.0.106] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6Kb-0000Ez-7B
+	for jobs@perl.org; Sat, 16 Dec 2017 06:52:21 +0000
+Date: Sat, 16 Dec 2017 06:52:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6Kb-0000Ez-7B@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.12.16.64516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_COMP 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Mid/Senior-level telecommute role for US company (telecommute),
+ Massachusetts, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21116
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 16, 2017
+
+Job title: Mid/Senior-level telecommute role for US company
+
+Company name: Perl Careers
+
+Location: Massachusetts, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Our client is looking for an experienced developer to join them working on
+their popular web application. There will be some customer-facing aspects
+to this role, but the extent is very much down to personal preference: for
+a candidate who prefers to keep their head in their laptop this could be
+limited to troubleshooting by email, but there=E2=80=99s also potential for=
+ the
+right candidate=E2=80=99s involvement to expand into taking customer specif=
+ications
+and negotiating custom designs.=20
+
+It=E2=80=99s a small team and you=E2=80=99ll be
+collaborating with one another senior architect and several junior
+developers, so a willingness to mentor the next generation of Perl
+developers will be crucial.=20
+
+Their head quarters are based on the USA=E2=80=99s
+east coast and but they work with customers in many different time zones
+and will consider candidates from as far away as Australia on a contract
+basis. For residents of the USA, free medical and dental care is an
+additional perk.
+
+Desired skills:
+The right candidate will have full stack experience including jQuery and
+JavaScript in addition to Perl. While their stack is based on Mason and
+Plack, they=E2=80=99re looking for the kind of person who also has a solid
+understanding of actual HTTP, and who knows the difference between an email
+envelope and email body.
+
+Website for more information:
+https://perl.careers/jobs/midsenior-level-telecommute-role-for-us-company/
+
+Contact information at:
+http://jobs.perl.org/job/21116#contact

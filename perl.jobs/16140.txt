@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16140
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17119 invoked from network); 16 Dec 2017 06:52:52 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:52:52 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 394CB11F0F9
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:52:52 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 76DEB11F04D
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:52:50 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 0B28E11F0F9
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:52:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513407169; i=@perl.org;
+	bh=JpZPGq3bfbxv8CO1RuigpIiWFsPYqDa85KKt7eALVtU=;
+	h=Date:To:From:Subject:Reply-To;
+	b=BWkqtc5XGVpW6mGR4ULdTgufiVG+fQC0n9yH7VyF6p+Jr+DrnzG8JbJaX2mLyFbSd
+	 q+Ww2wnE9kd1VgM7Z3lCicJZc5hlfmQS5Q2zCIUJTtZ38S+JDl6OW0jVa63/lgvQBV
+	 We4ANVfazQ02w3I2tr564m67H7VYw+yNj75X+0VE=
+X-MSFBL: fV0RsPpmtSibHedkwco7yu0JtKUQfC652qnIMPGlIY8=|eyJ0ZW1wbGF0ZV9pZCI
+	6InNtdHBfMTI2OTM1Mzg4MjExODIxOTIiLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCI
+	sInJjcHRfbWV0YSI6eyB9LCJzZW5kaW5nX2lwIjoiMzQuMjA5LjgwLjI5IiwidHJ
+	hbnNtaXNzaW9uX2lkIjoiMTI2OTM1Mzg4MjExODIxOTIiLCJyY3B0X3RhZ3MiOls
+	gXSwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCI
+	sInIiOiJqb2JzQHBlcmwub3JnIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJnIjoiMDA
+	wMDA6cGxhY2Vob2xkZXIiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwibWVzc2FnZV9
+	pZCI6IjAwMDBjMWMyMzQ1YWFkNmRmYzA1IiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJ
+	0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsImZyaWVuZGx5X2Z
+	yb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63412] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id CF/50-28077-1C2C43A5; Sat, 16 Dec 2017 06:52:49 +0000
+Received: from [10.2.0.106] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6L3-0000FB-4Y
+	for jobs@perl.org; Sat, 16 Dec 2017 06:52:49 +0000
+Date: Sat, 16 Dec 2017 06:52:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6L3-0000FB-4Y@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.12.16.64516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Lead Developer / Architect (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21120
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2017
+
+Job title: Perl Lead Developer / Architect
+
+Company name: Pro-Quest Resourcing Ltd
+
+Location: London, UK
+
+Pay rate: 50-70K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Leading trading plc urgently require Lead OO Perl / SQL/ MVC Architect to
+join their award winning team and play a key role in guiding and
+architecture decisions that shape the business products!
+
+Desired skills:
+RESTful APIs
+Linux
+MVC frameworks
+SQL
+
+Website for more information: http://www.pro-quest.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/21120#contact
