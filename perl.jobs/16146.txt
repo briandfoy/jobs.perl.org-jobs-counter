@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16146
+Return-Path: <msprvs1=17523bUcHfx2g=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17159 invoked from network); 16 Dec 2017 06:53:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Dec 2017 06:53:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6485E11E075
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:53:04 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,RCVD_IN_DNSWL_NONE,URIBL_BLOCKED
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 204CF11DBC4
+	for <perlmail-jobs@onion.perl.org>; Fri, 15 Dec 2017 22:53:01 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 76EC111E075
+	for <jobs@perl.org>; Fri, 15 Dec 2017 22:53:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1513407180; i=@perl.org;
+	bh=olhkoLheTpMMNvBd1SGY4GJtN+vEpuJKbEZey58xj1w=;
+	h=Date:To:From:Subject:Reply-To;
+	b=gFBvGZt4f4fV4CwBlcznXjFI8FcmWRhrrKytY+qZ/d8ALt3NfqCJaCa23vl+k576h
+	 FuyWsTkJvW4SjD1lLG1UUj46GbLf7Rbr8cQ2c2oZBB7ilIvEFaf7vmHloAA1kipZzH
+	 vOgZTj1QHEPn4RrezwJPT5GzFE1olXTnVH15cX4k=
+X-MSFBL: RgatKBN6sE+zZrF2CAg1L8w/7jJm2RXxQcCeRyVr47M=|eyJyY3B0X3RhZ3MiOls
+	gXSwiaXBfcG9vbCI6ImRlZmF1bHQiLCJzdWJhY2NvdW50X2lkIjoiMSIsInNlbmR
+	pbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsImIiOiJ
+	pcF8zNC4yMDkuODAuMjkiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbXBsYXRlX3Z
+	lcnNpb24iOiIwIiwibWVzc2FnZV9pZCI6IjAwMDBjYmMyMzQ1YWFkNmQwOTA3Iiw
+	icmNwdF9tZXRhIjp7IH0sInRyYW5zbWlzc2lvbl9pZCI6IjEyNjkzNTM4ODIxMTg
+	yNDA0IiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJpcF9
+	wb29sX3JhdyI6ImRlZmF1bHQiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJnIjoiMDAwMDA
+	6cGxhY2Vob2xkZXIiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI2OTM1Mzg4MjExODI
+	0MDQiLCJjdXN0b21lcl9pZCI6IjE3NTMwIn0=
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63008] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62433 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 90/70-28077-BC2C43A5; Sat, 16 Dec 2017 06:53:00 +0000
+Received: from [10.2.0.106] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eQ6LD-0000FJ-Im
+	for jobs@perl.org; Sat, 16 Dec 2017 06:52:59 +0000
+Date: Sat, 16 Dec 2017 06:52:59 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eQ6LD-0000FJ-Im@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2017.12.16.64516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1300_1399 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Cheshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18208
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 14, 2017
+
+Job title: Perl Developer
+
+Company name: Eligo Recruitment
+
+Internal ID: DEVMAN-1
+
+Location: Cheshire, UK
+
+Pay rate: =C2=A340,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A completely Agile Perl house based in Cheshire are looking a senior Perl
+developer to take on a senior role. As they are advocates of Modern Perl
+strong experience with Perl frameworks such as Catalyst , Dancer or
+Mojolicious along with great object-oriented Perl and moose will give you a
+real advantage while growing with the Perl development team.=20
+
+Alongside
+this you will be expected to help the Front-End team also, so it is vital
+for you to have great experience with JavaScript, HTML and CSS as this will
+be a large part of the role and you will need to help mentor some of the
+Junior developers.=20
+
+If you love working with Perl and enjoy JavaScript and
+want to work with a progressive team then this is certainty the role for
+you.
+
+Website for more information: http://www.eligo.co.uk/jobseeker/it_technical
+
+Contact information at:
+http://jobs.perl.org/job/18208#contact
