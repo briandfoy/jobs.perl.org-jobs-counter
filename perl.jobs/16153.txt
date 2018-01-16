@@ -1,0 +1,209 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16153
+Return-Path: <msprvs1=17553Mg77u51T=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29298 invoked from network); 15 Jan 2018 18:38:26 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 15 Jan 2018 18:38:26 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id DE9E71204C6
+	for <perlmail-jobs@onion.perl.org>; Mon, 15 Jan 2018 10:38:24 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A2157120467
+	for <perlmail-jobs@onion.perl.org>; Mon, 15 Jan 2018 10:38:15 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 13BF61203F6
+	for <jobs@perl.org>; Mon, 15 Jan 2018 10:38:15 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516041495; i=@perl.org;
+	bh=F4/CLsAP+s/aHf6YAmC1GbuQgKLji9yRBFrKeBhqpQU=;
+	h=Date:To:From:Subject:Reply-To:List-Unsubscribe:List-Id;
+	b=NaTZIM69HDu20HeDR2gWKP7QA64EZMFulkMLs0TT6ds5PaWOwIhX5b2SuqvHzB8RF
+	 yQYQQy0BqEehQjeNK54tI1tSWma+rWFl/IeOifyttUOm3WsfL9E7UuydQhS19h3kcd
+	 XbOlW7fDCpZNt4jmY3B/hW2wloqCvQFUDVPpNKUQ=
+X-MSFBL: 7gUdCAPjDH9n/TY967eNv6j2s8XGn5ytrcYkzNUwxHY=|eyJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNzEyMzU5MzQ5MjIzMTEyIiw
+	ibWVzc2FnZV9pZCI6IjAwMDAxNmY1NWM1YTIxNWYzMDkyIiwiY3VzdG9tZXJfaWQ
+	iOiIxNzUzMCIsInJjcHRfdGFncyI6WyBdLCJmcmllbmRseV9mcm9tIjoiam9icy1
+	hZG1pbkBwZXJsLm9yZyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInRlbXBsYXR
+	lX3ZlcnNpb24iOiIwIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJ0cmFuc2FjdGlvbmF
+	sIjoiMSIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCI
+	sInIiOiJqb2JzQHBlcmwub3JnIiwicmNwdF9tZXRhIjp7IH0sInRyYW5zbWlzc2l
+	vbl9pZCI6IjEyNzEyMzU5MzQ5MjIzMTEyIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53015] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62612 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 03/29-24353-615FC5A5; Mon, 15 Jan 2018 18:38:15 +0000
+Received: from [10.2.5.144] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eb9eA-00006U-Hg
+	for jobs@perl.org; Mon, 15 Jan 2018 18:38:14 +0000
+Date: Mon, 15 Jan 2018 18:38:14 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eb9eA-00006U-Hg@mail-jobs>
+List-Id: <spc-17530-1>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.15.182716
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, OEM_SOFTWARE_X1 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_LIST_HEADER 0, __HAS_LIST_ID 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_SOFTWARE_5 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Las Vegas, NV
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21124
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2018
+
+Job title: Perl Developer
+
+Company name: TEKsystems
+
+Location: Las Vegas, NV
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The purpose of this position is to develop, test and integrate new
+web-based software applications and address issues with production systems,
+while also providing technical research, support and training as necessary.
+The position is also responsible for the integration of server side logic
+for user-facing elements developed by front-end developers, as well as
+optimization of web applications for maximum speed and scalability.=20
+
+
+
+Essential Duties and Responsibilities:=20
+=E2=80=A2 Integration of user-facing
+elements developed by a front-end developers with server side logic
+=E2=80=A2
+Building reusable code and libraries for future use
+=E2=80=A2 Design, build,
+document, & maintain SOAP/REST/RESTful API's
+=E2=80=A2 Optimization of web
+applications for maximum speed and scalability
+=E2=80=A2 Implementation of security
+and data protection
+=E2=80=A2 Plan, create, enhance, maintain, test, deploy,
+administer, and document web applications, workflows, event handlers,
+lists, master pages, layouts, and content types
+=E2=80=A2 Work closely with the
+Project Management Office and IT Managers to gather requirements for
+functionality needed by various business units
+=E2=80=A2 Update existing sites as
+required by various business units
+=E2=80=A2 Function as subject matter expert
+=E2=80=A2
+Ensure all custom solutions are hardened against malicious data inputs and
+outputs
+=E2=80=A2 Ensure all solutions code is secured in accordance with
+compliance standards
+=E2=80=A2 Create and maintain technical documentation
+describing configuration and solution administration
+=E2=80=A2 Maintain excellent
+communication with team members and management on all tasks and projects
+=E2=80=A2
+Communicate or escalate issues to management when required
+
+
+
+Other Duties:
+
+
+=E2=80=A2 Perform other assignments or duties as necessary
+=E2=80=A2 Responsible for
+staying abreast of software development best practices
+
+
+Required Job
+Skills:=20
+
+=E2=80=A2 Ability to perform on-site and remote technical support
+=E2=80=A2
+Strong experience with variety of software development methodologies,
+frameworks, and tools
+=E2=80=A2 Excellent analytical, problem solving, debugging,
+and estimation skills
+=E2=80=A2 Ability to work independently as well as part of a
+dynamic and fast-moving team
+=E2=80=A2 Experience with API design, development and
+management=20
+=E2=80=A2 Knowledge of user authentication and authorization methods
+between multiple systems, servers, and environments
+=E2=80=A2 Strong knowledge of
+XML/JSON Parsing
+=E2=80=A2 Proficient understanding of code versioning tools
+=E2=80=A2
+Strong knowledge of security standards, practices, and architecture
+=E2=80=A2
+Understanding of session management
+=E2=80=A2 Ability to interpret relational
+database schemas
+=E2=80=A2 Ability to work as a technical professional in a
+high-pressure environment
+=E2=80=A2 Ability to write proposals, papers, and make
+presentations
+=E2=80=A2 Knowledge of current technological developments/trends in
+area of expertise
+=E2=80=A2 Understands the concepts and necessity of compliance
+controls and requirements
+=E2=80=A2 Exceptional analytical and problem solving
+skills
+=E2=80=A2 Ability to be proactive, handle multiple responsibilities, and
+work under pressure
+=E2=80=A2 Strong interpersonal and communication skills, verbal
+and written
+=E2=80=A2 Ability to be flexible to a changing environment,
+acknowledging urgency when necessary
+=E2=80=A2 Ability to exercise good judgment
+and discretion in confidential matters
+
+Desired skills:
+Top 3 Skills:
+
+1 - PERL Experience
+2- LAMP=20
+3- 2- 6 yrs programming
+experience=20
+
+
+ Experience with PERL, MySQL and object-oriented programming
+=E2=80=A2 Experience with HTML, CSS, JavaScript, and AJAX development
+=E2=80=A2 Experience
+with JIRA and Atlassian products
+=E2=80=A2 Experience with GIT source control
+=E2=80=A2
+Experience with modern and advanced development environments, frameworks
+and tools
+=E2=80=A2 Experience with highly efficient IDEs, such as Jetbrains
+WebStorm and PHPStorm
+=E2=80=A2 Thorough working knowledge of various software
+applications including Microsoft Office Suite (Outlook, Excel, PowerPoint,
+Visio, Word)
+
+Website for more information: https://www.switch.com/
+
+Contact information at:
+http://jobs.perl.org/job/21124#contact
