@@ -1,0 +1,225 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16158
+Return-Path: <msprvs1=17559lM7IkGHc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8866 invoked from network); 21 Jan 2018 00:07:09 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jan 2018 00:07:09 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0D07411DE12
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:07:09 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5D91F11D870
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:07:06 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 7154C11D455
+	for <jobs@perl.org>; Sat, 20 Jan 2018 16:07:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516493225; i=@perl.org;
+	bh=3Qo37/ZRs0eZaUjBN48yNujbf9L70wFnGZhtee89G9E=;
+	h=Date:To:From:Subject:Reply-To;
+	b=BvJCepNtaE356WE5a4dlnl/aR492UHXEnVPXKXq0Dh0alO9bAEndXj3DBbg6/6jrs
+	 Ja4rzJLxo8xkT+ro03q8gjUdCfNm3luhOIcNGgCgcHOcKy4COcxPXGj+YYtqlqkq5O
+	 NyzC+4A+Ah0HMutnRF1jZI8x8NtuWpn4Uzc0S8n4=
+X-MSFBL: n86KBaCDDc58dahUy2JIk0kR+OionXIKLntcQUb9Qpw=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJyY3B0X21ldGEiOnsgfSwic2V
+	uZGluZ19pcCI6IjM0LjIwOS44MC4yOSIsImZyaWVuZGx5X2Zyb20iOiJqb2JzLWF
+	kbWluQHBlcmwub3JnIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJyY3B0X3RhZ3MiOls
+	gXSwibWVzc2FnZV9pZCI6IjAwMDBhOWQ5NjM1YTA4YWE0MDA0IiwidHJhbnNtaXN
+	zaW9uX2lkIjoiMTI3MjA0MDMzNzc1NDI4NzIiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sInRyYW5zYWN0aW9uYWwiOiIxIiwiZyI6IjAwMDAwOnBsYWNlaG9sZGVyIiwidGV
+	tcGxhdGVfdmVyc2lvbiI6IjAiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI3MjA0MDM
+	zNzc1NDI4NzIiLCJiIjoiaXBfMzQuMjA5LjgwLjI5IiwiciI6ImpvYnNAcGVybC5
+	vcmciLCJjdXN0b21lcl9pZCI6IjE3NTMwIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54267] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 04/40-43528-9A9D36A5; Sun, 21 Jan 2018 00:07:05 +0000
+Received: from [10.2.2.131] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ed3A8-0000Nq-Kt
+	for jobs@perl.org; Sun, 21 Jan 2018 00:07:04 +0000
+Date: Sun, 21 Jan 2018 00:07:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ed3A8-0000Nq-Kt@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.21.17
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_5000_5999 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?Q29udGFpbmVyIEVuZ2luZWVyIC8gUGVybCBEZXZlbG9wZXIg4oCU?=
+ =?UTF-8?B?IE9kZXNzYSBvciBSZW1vdGUgKHRlbGVjb21tdXRlKSwgVWtyYWluZSwgT2Rl?=
+ =?UTF-8?B?c3Nh?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21128
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 21, 2018
+
+Job title:
+Container Engineer / Perl Developer =E2=80=94 Odessa or Remote
+
+Company name: Electric Cloud
+
+Location: Ukraine, Odessa
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Electric Cloud is Small enough and big enough to make a difference.
+
+Small
+enough. As a 100-person company, whether you=E2=80=99re developing a new fe=
+ature,
+or helping a customer, your contribution is important =E2=80=94 starting on=
+ day
+one.
+
+Big enough. We have huge customers. What you create here affects how
+cars are made in Korea, mobile phones in Sweden, and the most sophisticated
+medical devices are developed in the United States =E2=80=94 to name a few.
+
+Electric Cloud provides centralized management and visibility for the
+entire software delivery pipeline. We orchestrate the entire delivery
+pipeline using plugins that integrate with most tools and infrastructure on
+the planet.
+
+If you like the idea of working...
+
+In a start-up environment
+With really smart people
+To solve complicated software development problems
+For some of the largest corporations around the world
+
+Brief Description:
+
+We are looking for an energetic and talented Sr. Software Engineer to join
+the team building the Continuous Delivery / DevOps platform that is the
+basis for Electric Cloud=E2=80=99s product offerings.
+
+Description:
+
+At Electric
+Cloud, we=E2=80=99re blazing new trails in DevOps Release Automation and Co=
+ntinuous
+Delivery. We make it easy for teams to get started by plugging in their
+existing tools and processes and future-proofing their work with our
+flexible, scalable orchestration platform. Wherever teams are along their
+journey, we=E2=80=99re ready to help=E2=80=94through shared knowledge, expe=
+rience, and the
+industry=E2=80=99s only unified platform for automating the biggest bottlen=
+ecks in
+the software delivery lifecycle.
+
+Speeding up software delivery is hard,
+and we=E2=80=99re doing the difficult, challenging, but exciting work to ma=
+ke it
+faster, easier, and more reliable. We are a 100+ person company that
+believes that =E2=80=9Csoftware is eating the world=E2=80=9D and that we=E2=
+=80=99re uniquely
+positioned to help lead the transformation where, in some way, =E2=80=9Ceve=
+ry
+business is a software business.=E2=80=9D
+
+This is your opportunity to help
+developers at top-notch technology companies around the world make rapid
+and agile development a reality. This team-oriented environment enables you
+to work with other motivated, intelligent, and enthusiastic engineers to
+solve challenging issues. Electric Cloud places a high value on quality
+with a rigorous unit test framework, code reviews, and a continuous
+integration build system that helps to find problems fast. The ideal
+candidate for this position will think of programming as a craft, as well
+as a job.
+
+Roles and Responsibilities:
+
+Electric Cloud provides centralized
+management and visibility for the entire software delivery pipeline. We
+orchestrate the entire delivery pipeline using plugins that integrate with
+most tools and infrastructure on the planet. As Electric Cloud plugins team
+lead, you will be responsible for the following:
+
+Roles and
+Responsibilities:
+
+Responsible for ElectricFlow plugins delivery based on
+customer requirements and market demands (ref.
+electric-cloud.com/plugins/directory)
+Drive and deliver design,
+architecture and implementation of plugins
+Provide strategic direction for
+plugins in the ElectricFlow product and leadership to members of the
+plugins team
+Work with Product Management, Customers, and Electric Cloud
+field team to identify and capture integration requirements and use cases
+Actively stay abreast of latest technology trends and recommend best
+practices
+
+Desired skills:
+Job Requirements:
+
+Experience building container-based applications using
+web services.
+Expert in one or more languages such as Groovy or Perl or
+Java.
+5+ years of production Java software development experience for
+enterprise software and/or systems management software
+Working experience
+with Spring and Hibernate or any other ORM framework
+Deep knowledge of at
+least one scripting language, as well as willingness to learn others (Perl
+is ideal)
+Excellent understanding of scalability and performance for
+server-side code
+Strong analytical and development skills
+Excellent
+communication and collaboration skills
+Intellectual curiosity and
+self-motivated work style
+Thrive in a dynamic fast-paced environment where
+requirements shift to meet changing business needs
+
+Nice to have:
+
+Experience in both Linux and Windows environments
+Knowledge of Docker and
+Cloud Container Platforms
+Experience with Docker containers and
+orchestration platforms such Kubernetes, and Docker Swarm.
+
+
+We offer:
+
+Financial stability and competitive salary
+Professional development
+opportunities
+Modern and comfortable office facilities
+Friendly team and
+comfortable working environment
+Possible business trips to US
+
+Website for more information:
+https://jobs.dou.ua/companies/electriccloud/vacancies/36467/
+
+Contact information at:
+http://jobs.perl.org/job/21128#contact

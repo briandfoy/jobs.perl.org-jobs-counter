@@ -1,0 +1,160 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16162
+Return-Path: <msprvs1=17559lM7IkGHc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8845 invoked from network); 21 Jan 2018 00:06:53 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jan 2018 00:06:53 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F391011D455
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:06:52 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B5FAE11D870
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:06:50 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 4103911D455
+	for <jobs@perl.org>; Sat, 20 Jan 2018 16:06:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516493202; i=@perl.org;
+	bh=xsIhrieghvvXuV6HC6VADEaQW0n9L9vJOT/5kcnRgVg=;
+	h=Date:To:From:Subject:Reply-To;
+	b=nhN/q2SyaaaZxMbLOk+7bAjxVRHCiu2z56BIxWx6Fj7/fVrmkG35mdcrHvMzX9T7/
+	 Lajqb/nCSF98WAwO6ov2GCCP5RsWMPJ7JLtlx7TReJ9GW/mpbP6mYwEB5WhoyMyf9f
+	 zwE9EFO1VXpM0Y8s+FGU9+dTeWnYTf3RU/kMZmGU=
+X-MSFBL: NPvA9NNVZcPRJNJRyC3DuJhJ0jrERLitNgPXRQnNxns=|eyJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwiZnJpZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ
+	yIjoiam9ic0BwZXJsLm9yZyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciIsInJjcHR
+	fdGFncyI6WyBdLCJpcF9wb29sX3JhdyI6ImRlZmF1bHQiLCJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI3MTk4NTkyODc0MDUwMzYiLCJyY3B
+	0X21ldGEiOnsgfSwiYiI6ImlwXzM0LjIwOS44MC4yOSIsInN1YmFjY291bnRfaWQ
+	iOiIxIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJ0cmFuc21pc3Npb25faWQiOiIxMjc
+	xOTg1OTI4NzQwNTAzNiIsIm1lc3NhZ2VfaWQiOiIwMDAwOTJkOTYzNWEwZDFmZTQ
+	2OSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:56104] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4E/96-07949-299D36A5; Sun, 21 Jan 2018 00:06:42 +0000
+Received: from [10.2.5.144] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ed39m-0000Nm-E2
+	for jobs@perl.org; Sun, 21 Jan 2018 00:06:42 +0000
+Date: Sun, 21 Jan 2018 00:06:42 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ed39m-0000Nm-E2@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.21.17
+X-PMX-Spam: Gauge=X, Probability=10%, Report='
+ URI_SNOWNS_NS_NAME 0.5, REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, DQ_SUSP_1 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __C230066_P1_1 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_HEUR_1 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_MSG_3 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_6 0, __STOCK_PHRASE_7 0, __STOCK_PHRASE_X3 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0,
+ __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Software Engineer (part onsite), Milwaukee, WI, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18762
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 21, 2018
+
+Job title: Perl Software Engineer
+
+Company name: Assurant Mortgage Solutions
+
+Location: Milwaukee, WI, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Assurant Mortgage Solutions is looking for modern Perl developers that can:
+* Architect web scale solutions that never drop a message
+* Write elegant
+code with tests that guarantee the objectives
+* Harness open source
+technology and contribute improvements when possible
+* Dream up crazy ideas
+that will inspire teammates to find the right answer
+
+Our Perl Developers
+are creating modern web applications with good software architecture.
+
+Some
+of the technologies we work with includes:
+* Perl, PostgreSQL, Linux,
+Docker, git
+* Moose, Catalyst, Mojo, DBIx::Class, Test::More
+* memcached,
+RabbitMQ
+* JavaScript, ExtJS, Angular
+* REST, SOAP, JSON, XML, YAML
+* vim,
+bash, CLI apps
+* Jira, Bitbucket, Bamboo, Confluence
+
+Benefits worth
+highlighting:
+* Medical, Dental, Life and Disability Insurance
+* Basic
+Life, Basic Accidental Death & Dismemberment, Short-Term and Long-Term
+Disability
+* 401(k) Plan with $1 for $1 match up to 6 percent
+* Flexible
+Health Care Spending plan
+* Employee Stock Purchase Plan at a 10% discount
+* Tuition Reimbursement Assistance
+* Community Involvement / Matching Gifts
+Program
+* 19 days of PTO per year with the ability to roll over 15 unused
+days per year
+* 11 paid company holidays in 2018
+
+Half our team is remote,
+so telecommuters are welcome so long as you are available to travel to the
+Milwaukee office 3 times a year. Currently we are only seeking
+telecommuters within the US.
+
+Never been to Milwaukee? You'll love it here!
+http://www.dearmke.com/
+
+https://www.assurantmortgagesolutions.com/
+
+Desired skills:
+We need you to have the following experience:
+* Bachelors in Computer
+Science or related degree, or equivalent work experience
+* 3 years minimum
+of Software Development experience
+* Experience with Perl
+* Expert
+knowledge of OOP Principles
+* Experience working with a Relational Database
+(SQL Server, Oracle, MySQL, PostgreSQL, etc.)
+* Experience with Source
+Control Tools like GIT
+* Experience with Continuous Integration & writing
+Unit Tests
+
+Website for more information:
+https://jobs.assurant.com/job/milwaukee/perl-software-engineer-work-from-ho
+me-remote/114/6591728
+
+Contact information at:
+http://jobs.perl.org/job/18762#contact

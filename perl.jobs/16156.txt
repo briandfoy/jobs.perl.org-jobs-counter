@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16156
+Return-Path: <msprvs1=17559lM7IkGHc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8882 invoked from network); 21 Jan 2018 00:07:15 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jan 2018 00:07:15 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E8DC211D455
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:07:14 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0935011D885
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:07:13 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 5888E11D455
+	for <jobs@perl.org>; Sat, 20 Jan 2018 16:07:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516493231; i=@perl.org;
+	bh=G00SHlyg3l3EmbVi9uuirEUoO0eyRvhU5RR8TDHjzSk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=V75YgplBaJRgBSUF6P9PJzhsxx1YZH09bCwV8DF3d5OToQbuYfGA80ybxy/RVyc6F
+	 gv/7bS8nk8Xrkr8GY+ieADP44M/QZ+A3UqLQtfBQlpC+yb5Ws3S4bWX/m6PtaBVavX
+	 +SAHITtBbg8BGV0zcKAy0ae0yEEG6MO5y2Xl6yHo=
+X-MSFBL: BQPUyrsOuAiBlAThQMVEq0ioUybrw4XxbkBGsQlSfcI=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsIm1lc3NhZ2VfaWQiOiIwMDAwYWZkOTYzNWEwOGFhMDcwNSIsImZ
+	yaWVuZGx5X2Zyb20iOiJqb2JzLWFkbWluQHBlcmwub3JnIiwiciI6ImpvYnNAcGV
+	ybC5vcmciLCJnIjoiMDAwMDA6cGxhY2Vob2xkZXIiLCJiIjoiaXBfMzQuMjA5Ljg
+	wLjI5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwicmNwdF90YWdzIjpbIF0sImN
+	1c3RvbWVyX2lkIjoiMTc1MzAiLCJyY3B0X21ldGEiOnsgfSwidHJhbnNtaXNzaW9
+	uX2lkIjoiMTI3MjA0MDMzNzc1NDMwMzYiLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI
+	3MjA0MDMzNzc1NDMwMzYiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInN1YmFjY291bnR
+	faWQiOiIxIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJzZW5kaW5nX2lwIjoiMzQuMjA
+	5LjgwLjI5IiwidGVuYW50X2lkIjoic3BjIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61503] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 70/50-43528-FA9D36A5; Sun, 21 Jan 2018 00:07:11 +0000
+Received: from [10.2.5.144] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ed3AE-0000Nu-Ri
+	for jobs@perl.org; Sun, 21 Jan 2018 00:07:10 +0000
+Date: Sun, 21 Jan 2018 00:07:10 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ed3AE-0000Nu-Ri@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.21.17
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1200_1299 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl developer (possibly remote) (telecommute), Dublin, Ireland. or
+ UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21130
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 21, 2018
+
+Job title: Perl developer (possibly remote)
+
+Company name: Interleaf Technology
+
+Location: Dublin, Ireland. or UK
+
+Pay rate: competitive
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Experienced Perl developer required to join our team working out of Ireland
+and UK. The position is a flexible position and remote working will be
+considered.=20
+
+Reporting to the technical director the successful candidate
+will help in the implementation of a new development department and
+associated procedures. The main focus of development work will be focusing
+on a popular open source application, written in perl with a MySQL backend.
+Front end technologies include HTML, CSS, Javascript, Mojolicious.
+
+Desired skills:
+- Strong OO Perl
+- Linux/Unix experience
+- MySQL
+- Revision control
+software - preferably git
+- PHP and front end technologies and Mojolicious
+a big advantage
+- Fluent in English
+
+Website for more information: https://www.interleaf.ie
+
+Contact information at:
+http://jobs.perl.org/job/21130#contact

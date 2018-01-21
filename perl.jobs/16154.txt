@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16154
+Return-Path: <msprvs1=17559lM7IkGHc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8780 invoked from network); 21 Jan 2018 00:06:11 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jan 2018 00:06:11 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id DED3111D885
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:06:10 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0068E11D870
+	for <perlmail-jobs@onion.perl.org>; Sat, 20 Jan 2018 16:06:07 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 6F19011DBDB
+	for <jobs@perl.org>; Sat, 20 Jan 2018 16:06:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516493165; i=@perl.org;
+	bh=KyPWsl0gkg2KkpUzNjtgOUR8gpjR9XKJTpOY8BNF8Dw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=ijZzrIT80CuNTFAHWCrtzgALdzXskEcfVpNrhJfenPXQVpoLBR08bjx7t8v3GnhOV
+	 ZAEvQ9xGol3EknriWGjwZzwxYANc2+qdDpIyBdxtVg5O4E0ghalztng+CumQlv5NW2
+	 87rfZRQXb9H14aOUQgjSEvO+7KleAMRoqzXMRZng=
+X-MSFBL: LO8ILSLETK0JoWKdkK1D8B8MmsloPvzbBkZHGH+FNKY=|eyJ0ZW1wbGF0ZV9pZCI
+	6InNtdHBfMTI3MTk4NTkyODc0MDM5MTAiLCJ0cmFuc2FjdGlvbmFsIjoiMSIsInR
+	lbXBsYXRlX3ZlcnNpb24iOiIwIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsImlwX3B
+	vb2xfcmF3IjoiZGVmYXVsdCIsInRlbmFudF9pZCI6InNwYyIsInJjcHRfdGFncyI
+	6WyBdLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsIm1lc3N
+	hZ2VfaWQiOiIwMDAwNmRkOTYzNWEwZDFmZWU2MyIsImIiOiJpcF8zNC4yMDkuODA
+	uMjkiLCJyIjoiam9ic0BwZXJsLm9yZyIsImciOiIwMDAwMDpwbGFjZWhvbGRlciI
+	sInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sInRyYW5zbWlzc2lvbl9pZCI6IjEyNzE5ODU5Mjg3NDAzOTEwIiwicmNwdF9tZXR
+	hIjp7IH0sImlwX3Bvb2wiOiJkZWZhdWx0In0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52608] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id EE/36-07949-D69D36A5; Sun, 21 Jan 2018 00:06:05 +0000
+Received: from [10.2.2.131] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ed39A-0000Na-9h
+	for jobs@perl.org; Sun, 21 Jan 2018 00:06:04 +0000
+Date: Sun, 21 Jan 2018 00:06:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ed39A-0000Na-9h@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.21.17
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer - Learn to Code (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19140
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  2, 2018
+
+Job title: Perl Developer - Learn to Code
+
+Company name: Eligo Recruitment
+
+Internal ID: RDL2C-1
+
+Location: London, UK
+
+Pay rate: =C2=A325,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Junior (or Willing to learn) Developer wanted to join the an expanding
+Perl team at this London based software house who provide a web based
+software which millions of people access a year, You'll be working with and
+being trained by some of the best Perl developers in the UK. This role is
+for someone at a more junior level with a passion for Perl and developing
+their own coding spectrum with a major brand in the Perl community.=20
+
+The
+role=20
+
+It will be your responsibility to handle each project from the start
+of development through to completion, this is broken down (but not limited
+to) the following:=20
+
+Template setup according to the specification provided
+
+Data mappings and configuration=20
+Initial testing of the code and basic
+functionality=20
+Subsequent changes following QA testing=20
+
+If you feel this
+role is for your or in fact you know someone who might be interested (As we
+have a great referral scheme) please do get in touch either way with your
+CV.=20
+Required skills: *Interest and experience of writing code and a good
+understanding of=20
+
+programming principles=20
+*Exposure to Perl or a similar
+language=20
+*Familiar with web services=20
+Desired skills: *PHP=20
+*Experience of
+CSS=20
+*Advanced HTML
+
+Website for more information: http://www.eligo.co.uk/technical/
+
+Contact information at:
+http://jobs.perl.org/job/19140#contact
