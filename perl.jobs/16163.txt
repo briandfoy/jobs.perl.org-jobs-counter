@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16163
+Return-Path: <msprvs1=17560wnNs9Dq2=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17286 invoked from network); 22 Jan 2018 00:37:02 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 22 Jan 2018 00:37:02 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B1F0711FE29
+	for <perlmail-jobs@onion.perl.org>; Sun, 21 Jan 2018 16:37:01 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 6E1F311FE2D
+	for <perlmail-jobs@onion.perl.org>; Sun, 21 Jan 2018 16:36:59 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id CDDBA11FE29
+	for <jobs@perl.org>; Sun, 21 Jan 2018 16:36:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516581417; i=@perl.org;
+	bh=JPN/1wkOkpsjtSPeDrtK7gh22BLRPOH7udAmHVPFkn4=;
+	h=Date:To:From:Subject:Reply-To;
+	b=MVlsK+8T/dTEOhBc+59TVOtuHbRzypfe8oFmZOj3jszzR9iBhJoDbWaPOTsQ7Uv5j
+	 mH1MRF7ELl5HB8yXAGRsnQACozXuDHeCjYG6JsIAL/OvCqf3LuC5h8yIb441XI6/oi
+	 NkHUcuOzRJbVKGvNHEsZBhBL5wTGJ4Dvn9NOEflg=
+X-MSFBL: yCJ80GC2g7nKdoWSBZXd/7Uco10VMTDC6RNMWW28ZEw=|eyJzZW5kaW5nX2lwIjo
+	iMzQuMjA5LjgwLjI5IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJiIjoiaXBfMzQuMjA
+	5LjgwLjI5IiwiaXBfcG9vbF9yYXciOiJkZWZhdWx0IiwiZyI6IjAwMDAwOnBsYWN
+	laG9sZGVyIiwiaXBfcG9vbCI6ImRlZmF1bHQiLCJjdXN0b21lcl9pZCI6IjE3NTM
+	wIiwic3ViYWNjb3VudF9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyY3B0X3R
+	hZ3MiOlsgXSwicmNwdF9tZXRhIjp7IH0sInIiOiJqb2JzQHBlcmwub3JnIiwiZnJ
+	pZW5kbHlfZnJvbSI6ImpvYnMtYWRtaW5AcGVybC5vcmciLCJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInRlbXBsYXRlX2lkIjoic210cF8xMjcyMTM1NzI4NzE4NzI1NyI
+	sInRyYW5zbWlzc2lvbl9pZCI6IjEyNzIxMzU3Mjg3MTg3MjU3IiwibWVzc2FnZV9
+	pZCI6IjAwMDAyOTMyNjU1YWI4ZDJiNWVlIn0=
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58260] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 5B/EE-53944-922356A5; Mon, 22 Jan 2018 00:36:57 +0000
+Received: from [10.2.5.144] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1edQ6b-0000RO-2R
+	for jobs@perl.org; Mon, 22 Jan 2018 00:36:57 +0000
+Date: Mon, 22 Jan 2018 00:36:57 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1edQ6b-0000RO-2R@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.22.2717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Junior Developer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21136
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2018
+
+Job title: Junior Developer
+
+Company name: UK2 Group
+
+Location: London
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Have experience with programming in other languages, and want to learn
+Perl?  We=E2=80=99re looking for a keen junior developer to join our team. =
+ Full
+mentoring will be given - one of our senior developers has a background in
+teaching programming courses, so you will have a lot of support.
+
+You would
+be working on our group-wide backend system - a provisioning and billing
+engine. We have a clean, modern code base (a RESTful API powered by modern
+Perl, Dancer, Moose, DBIx::Class, robust Test::Class::Moose-powered test
+suite etc) and constantly have new projects including new products and
+features that we need to add.
+
+We strive towards code reuse and sane coding
+standards, with peer code reviews and discussion encouraged. There is a
+dedicated QA team and separated dev, QA, and production environments. We
+collaborate over IRC, use GitHub for version control, and Redmine for
+project management in an agile environment.
+
+In return we offer excellent
+remuneration, flexible working, the chance to hang out in yet another Perl
+IRC channel, no admin work whatsoever, and the opportunity to make a real
+difference.  One day a week remote working may be available once settled.
+
+About us:
+UK2 Group is a large multinational web hosting company, offering
+a wide range of solutions across multiple brands.  We were recently
+acquired by THG - The Hut Group, a fast-growing
+
+Desired skills:
+Required skills:
+* Some programming experience, ideally in a commercial
+environment
+* Experience working on Linux/Unix-based systems
+* Some
+knowledge of common Internet protocols (e.g. HTTP, SMTP, DNS, Whois)=20=20
+* An
+appetite to learn
+
+Desired skills:
+* Some experience in Perl
+* Experience
+building web-facing API solutions
+* SQL (particularly MySQL)
+* Experience
+in the domain registration / web hosting market=20=20
+* Linux/Unix system
+administration experience (don't worry, we won't * make you do much sysad
+work, we have sysads for that, but it helps to be able to speak their
+language)
+
+Contact information at:
+http://jobs.perl.org/job/21136#contact

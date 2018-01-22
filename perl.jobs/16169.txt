@@ -1,0 +1,212 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16169
+Return-Path: <msprvs1=17560wnNs9Dq2=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17398 invoked from network); 22 Jan 2018 00:38:19 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 22 Jan 2018 00:38:19 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6A0D011ED51
+	for <perlmail-jobs@onion.perl.org>; Sun, 21 Jan 2018 16:38:19 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0433A11FE85
+	for <perlmail-jobs@onion.perl.org>; Sun, 21 Jan 2018 16:38:16 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 51B6A11DDF7
+	for <jobs@perl.org>; Sun, 21 Jan 2018 16:37:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516581437; i=@perl.org;
+	bh=HHMHw/ClCREq44YKIi/CSCR9Ijj3Z16eTbB6rdL2KfU=;
+	h=Date:To:From:Subject:Reply-To;
+	b=Re6Adcz5rGxyLIZpPQjFP0hyVdFYWboGBRgiy50IhVu65clIAIvBnzZ01bmc/RQvB
+	 jRgyEiMuC3xPlhfuNEQdxL1etGXsMiDiZvZtzw1kc+ynRAEpzgrHcH0QIU5lr4izLY
+	 z7WtneoBR7mlVLwggo2ZXCTJyJsJo4Lnli4aBosw=
+X-MSFBL: WceBe09u4tPgQku5Nwy3oi6fWBkikdbxXVtsYGkGXVI=|eyJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODAuMjkiLCJnIjoiMDAwMDA
+	6cGxhY2Vob2xkZXIiLCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9
+	yZyIsInJjcHRfbWV0YSI6eyB9LCJ0cmFuc21pc3Npb25faWQiOiIxMjcyMDQwMzM
+	4MDYxNjUwMSIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsInN1YmFjY291bnRfaWQ
+	iOiIxIiwidGVuYW50X2lkIjoic3BjIiwibWVzc2FnZV9pZCI6IjAwMDAzZDMyNjU
+	1YTA4YWEyODk0IiwicmNwdF90YWdzIjpbIF0sImN1c3RvbWVyX2lkIjoiMTc1MzA
+	iLCJ0ZW1wbGF0ZV9pZCI6InNtdHBfMTI3MjA0MDMzODA2MTY1MDEiLCJiIjoiaXB
+	fMzQuMjA5LjgwLjI5IiwidHJhbnNhY3Rpb25hbCI6IjEiLCJpcF9wb29sIjoiZGV
+	mYXVsdCIsInIiOiJqb2JzQHBlcmwub3JnIn0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52598] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62693 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 82/49-43528-D32356A5; Mon, 22 Jan 2018 00:37:17 +0000
+Received: from [10.2.5.144] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1edQ6u-0000Re-JN
+	for jobs@perl.org; Mon, 22 Jan 2018 00:37:16 +0000
+Date: Mon, 22 Jan 2018 00:37:16 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1edQ6u-0000Re-JN@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.22.2417
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_5000_5999 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Developer (onsite), Ann Arbor, MI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21142
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2018
+
+Job title: Senior Developer
+
+Company name: Merit Network, Inc.
+
+Location: Ann Arbor, MI
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Background:
+
+Merit Network, Inc. (http://www.merit.edu) is a nonprofit,
+member-focused provider of network and related services; a trusted
+strategic partner to the education and non-profit community for over 50
+years. Merit was formed in 1966 to design and implement a computer network
+between public universities in Michigan. Today, Merit continues to provide
+network based services and high-performance network connections to the
+research and education communities in Michigan and beyond.
+
+Position
+Description:
+
+Merit Network is seeking a highly motivated candidate to join
+our Product Management Team. The Senior Developer will be a part of a
+software development team providing software tools and applications in
+support of large-scale, high-volume services for the higher education and
+non-profit community (Examples: Merit RADb - http://radb.net/ and The
+Michigan Cyber Range - https://www.merit.edu/cyberrange/). The team creates
+applications, tools and integrations that enhance Merit's service offerings
+as well as to increase operational efficiency within Merit. The team works
+with internal customers in order to identify needs and solution
+requirements. The team builds technology solutions and manages each project
+from initial scope to release. Once released, the team is responsible for
+maintenance and will work with customers to periodically review and further
+enhance the tools. The team is also responsible for keeping Merit current
+with the latest and most useful technologies.=20
+
+This position will be an
+excellent opportunity for a driven individual to push the limits of current
+web technology and experiment with a variety of techniques, in order to
+build robust, enterprise-level solutions.
+
+The team=E2=80=99s current development
+stack consists of: Perl, Mojolicious, DBIx::Class (and DBI), Moose,
+Bootstrap, jQuery, AngularJS, and Oracle in a Linux environment.
+
+Secondarily, the team also uses MySQL, PostgreSQL, Python and C.
+
+Responsibilities*
+Essential Functions for this position are followed by an
+(E).
+
+As the Merit Senior Developer, this position=E2=80=99s key responsibilities
+include, but are not limited to, the following:
+
+Approximately 65% of the
+Senior Developer=E2=80=99s time and duties are needed to:
+
+Evaluating requirements
+for new web-based applications and enhancements to existing applications.
+This includes interviewing stakeholders and documenting requirements. (E)
+Designing, building, testing and documenting web-based applications and
+supporting back-end systems. (E)
+Working with APIs and other data sources
+to integrate with external systems. (E)
+Supporting legacy code and projects
+(with an eye to replacing them with modernized solutions). (E)
+Approximately 25% of the Senior Developer=E2=80=99s time and duties are nee=
+ded to:
+
+Trouble ticket response and resolution. (E)
+Approximately 10% of the Senior
+Developer=E2=80=99s time and duties are needed to:
+
+Keeping abreast of new
+programming technologies; making recommendations on future technology
+direction. (E)
+Required Qualifications*
+Bachelor's degree in Computer
+Science, a related field, or equivalent experience.
+5 to 7 years of
+experience with systems analysis and programming activities in a business
+environment.
+Proven ability to deliver production-ready software on time
+and on budget.
+Fluency in Perl.
+Knowledge of HTML, JavaScript and CSS.
+Knowledge of shell scripting, linux system utilities, network and
+application protocols.
+Background developing in a LAMP (Linux, Apache,
+MySQL, Perl) environment.
+Solid SQL skills (MySQL, PostgreSQL, or Oracle).
+Ability to prioritize and multi-task many small projects in a shared code
+environment (GIT/SVN).
+Excellent interpersonal, communication and
+organizational skills with the ability to interact effectively with
+employees at all levels both within the organization and with Merit=E2=80=
+=99s
+members and customers.
+Dedication to learning and advancing your skills.
+Ability to troubleshoot software and communications malfunctions.
+
+Desired skills:
+Solid understating of testing best practices and why testing is important.
+Object-Oriented Perl (Moose).
+Experience with NetSuite ERP.
+DBI and
+DBIx::Class.
+Mojolicious MVC framework.
+jQuery, Twitter Bootstrap, and
+Angular.JS.
+PHP experience.
+Python experience.
+C experience.
+Ability to
+apply CI/CD principles and tools to new and legacy platforms and
+applications.
+Experience with deployment automation.
+Ability to implement
+and maintain solutions for systems monitoring, metrics collection and
+alerting.
+Familiarity with containerization systems such as Docker.
+Experience with CI/CD tools such as Jenkins, Travis CI, etc.
+Mobile app
+development experience.
+Knowledge of the networking or cloud services
+industry a plus.
+Experience working with higher education, K-12 educational
+institutions, libraries, research institutions and other public sector
+non-profit organizations a plus.
+
+Website for more information:
+http://careers.umich.edu/job_detail/152455/seniorintermediate_developer
+
+Contact information at:
+http://jobs.perl.org/job/21142#contact
