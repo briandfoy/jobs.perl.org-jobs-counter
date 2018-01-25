@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16172
+Return-Path: <msprvs1=17563W0qOujaF=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9841 invoked from network); 25 Jan 2018 04:28:03 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 25 Jan 2018 04:28:03 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 9F99C11D417
+	for <perlmail-jobs@onion.perl.org>; Wed, 24 Jan 2018 20:28:03 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C053E11D8AF
+	for <perlmail-jobs@onion.perl.org>; Wed, 24 Jan 2018 20:28:01 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 86F3C11D417
+	for <jobs@perl.org>; Wed, 24 Jan 2018 20:28:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1516854479; i=@perl.org;
+	bh=P3y0RRfdRBuFcLQFz7hFDHVXhx7pDPQvVJZhhxaQi9U=;
+	h=Date:To:From:Subject:Reply-To;
+	b=WTZ6az9uu39XIOqte2Uci0o7kTMJF37rnyeKrXDjQUKa6O54VpguFnc4ohRWjveAG
+	 qL8CQN5v0XvFItD1RRgLPhciE5kvPaTf/c4zaaDeiPN9fMRCU4tOCH89Q+bCPK5r0H
+	 MywkEo/OScPux7N2LJaPqwqR6eG806VUS8TJYPdo=
+X-MSFBL: BghP9JyeAc+8STBRffGaxKdviCbV9V8Rw/pc7G5xpcc=|eyJnIjoiMDAwMDA6cGx
+	hY2Vob2xkZXIiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiYiI6ImlwXzM0LjIwOS4
+	4MC4yOSIsInRlbmFudF9pZCI6InNwYyIsInNlbmRpbmdfaXAiOiIzNC4yMDkuODA
+	uMjkiLCJpcF9wb29sIjoiZGVmYXVsdCIsInRyYW5zbWlzc2lvbl9pZCI6IjEyNzI
+	zOTkyOTE5NTcyNzYzIiwidHJhbnNhY3Rpb25hbCI6IjEiLCJ0ZW1wbGF0ZV92ZXJ
+	zaW9uIjoiMCIsImlwX3Bvb2xfcmF3IjoiZGVmYXVsdCIsInJjcHRfbWV0YSI6eyB
+	9LCJmcmllbmRseV9mcm9tIjoiam9icy1hZG1pbkBwZXJsLm9yZyIsInIiOiJqb2J
+	zQHBlcmwub3JnIiwidGVtcGxhdGVfaWQiOiJzbXRwXzEyNzIzOTkyOTE5NTcyNzY
+	zIiwicmNwdF90YWdzIjpbIF0sInN1YmFjY291bnRfaWQiOiIxIiwibWVzc2FnZV9
+	pZCI6IjAwMDBjZjVjNjk1YWZjY2ViZWM5In0=
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65401] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.38.62845 r(:)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id EB/9C-52988-FCC596A5; Thu, 25 Jan 2018 04:27:59 +0000
+Received: from [10.2.2.131] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eeZ8o-0000cA-Dv
+	for jobs@perl.org; Thu, 25 Jan 2018 04:27:58 +0000
+Date: Thu, 25 Jan 2018 04:27:58 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eeZ8o-0000cA-Dv@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.1.25.42120
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_EURO 0, __FRAUD_URGENCY 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __HTTPS_URI 0, __MEDS_PLAIN 0, __MEDS_PLAIN_CIALIS 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0,
+ __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?RMOpdmVsb3BwZXVyIFBFUkwgKG9uc2l0ZSksIEx1eGVtYm91cmc=?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21156
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 25, 2018
+
+Job title: D=C3=A9veloppeur PERL
+
+Company name: Hays Luxembourg
+
+Location: Luxembourg
+
+Pay rate: 530=E2=82=AC/Day
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Notre client, une soci=C3=A9t=C3=A9 sp=C3=A9cialis=C3=A9e dans l'=C3=A9diti=
+que recherche un
+D=C3=A9veloppeur PERL pour renforcer ses =C3=A9quipes =C3=A0 Luxembourg=20=
+=20
+=20
+Le contexte :
+
+
+Vous allez rejoindre et renforcer une =C3=A9quipe de d=C3=A9veloppement "Ou=
+tput"
+d'environ 5 d=C3=A9veloppeurs. Il y a beaucoup de projets entrants et pas a=
+ssez
+de ressources techniques, c'est pourquoi notre client a besoin de vous !=20
+(L'=C3=A9quipe est compos=C3=A9e de tout types de profils en terme d'exp=C3=
+=A9rience)
+Une
+mission de consultance de 3 mois renouvelables jusqu'=C3=A0 fin 2018 vous s=
+era
+propos=C3=A9e - D=C3=A9marrage ASAP ou jusqu'=C3=A0 Mars si pr=C3=A9avis =
+=C3=A0 d=C3=A9poser.
+
+Vos
+missions :=20
+=20
+D=C3=A9veloppement Perl=20
+Scripting Unix/Shell
+D=C3=A9ploiement auto
+CICD (Int=C3=A9gration continue & D=C3=A9ploiement continu
+
+Desired skills:
+Une exp=C3=A9rience en d=C3=A9veloppement Perl confirm=C3=A9e de 7 ans ou p=
+lus
+Une
+exp=C3=A9rience avec un outil d'=C3=A9ditique=20
+Une exp=C3=A9rience sur un site ou un
+projet d'envergure (Back up,cha=C3=AEne de traitement de donn=C3=A9es)
+
+Website for more information:
+https://www.ictjob.lu/fr/recruiter/auth/view-job?id=3D6794&forceDisplayOffl=
+in
+eOffer=3Dfalse
+
+Contact information at:
+http://jobs.perl.org/job/21156#contact
