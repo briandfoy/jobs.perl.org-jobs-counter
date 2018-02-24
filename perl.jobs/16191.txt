@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16191
+Return-Path: <msprvs1=17591Cx7mk2dS=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11519 invoked from network); 22 Feb 2018 13:04:22 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 22 Feb 2018 13:04:22 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 828CF11D3C0
+	for <perlmail-jobs@onion.perl.org>; Thu, 22 Feb 2018 05:04:22 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 69AA011D418
+	for <perlmail-jobs@onion.perl.org>; Thu, 22 Feb 2018 05:04:20 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id E041011D3C0
+	for <jobs@perl.org>; Thu, 22 Feb 2018 05:04:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1519304658; i=@perl.org;
+	bh=03gdYDy7ttNENRclwd3h2ldQFv2AvmgeQ/yrSnLQqys=;
+	h=Date:To:From:Subject:Reply-To;
+	b=CHzr0q2hQQZI5nHFIVtR4WcBeRz73SuUkMzP2jaueh1rlgp/qyStM0aaeVr6IEmyS
+	 KGdICC/vMyy9xs+Berq7Of/kKPzHEgtvWZ1IF2Qv+aq6pqe+mYpzAiM897gaTs5yJY
+	 zFGxCcJPeKIdmN2g8g3hUx8Qucgr+FYApLDjb9g8=
+X-MSFBL: HcGM6Umf0xNvGUJKpQC2qJ9/w2CBJlC+p+VEqTPlNN0=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGQyYmY4ZTVhNWQwMzg1YTAiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmF
+	udF9pZCI6InNwYyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:40934] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.63146 r(Core:4.2.39.4)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 58/0A-00861-2DFBE8A5; Thu, 22 Feb 2018 13:04:18 +0000
+Received: from [10.2.4.60] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1eoqXp-0000G7-Nc
+	for jobs@perl.org; Thu, 22 Feb 2018 13:04:17 +0000
+Date: Thu, 22 Feb 2018 13:04:17 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1eoqXp-0000G7-Nc@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.2.22.125715
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_700_799 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl HTML, my SQL, object oriented Design, (onsite), Mid Hudson
+ Valley NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21194
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 21, 2018
+
+Job title: Perl HTML, my SQL, object oriented Design,
+
+Company name: Management Recruiters of Orange County New York
+
+Location: Mid Hudson Valley NY
+
+Pay rate: 80K +
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Local mid Hudson Valley company,  ( Orange County NY) looking for a
+programmer, , someone who enjoys writing code, to work with end users...web
+development, etc.  Great work environment.
+
+Desired skills:
+PERL,  OBJECT ORIENTED DESIGN, WEB DEVELOPMENT, SQL, HTML,
+
+Contact information at:
+http://jobs.perl.org/job/21194#contact
