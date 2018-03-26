@@ -1,0 +1,151 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16199
+Return-Path: <msprvs1=17622tCA3nw2D=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14042 invoked from network); 25 Mar 2018 03:18:49 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 25 Mar 2018 03:18:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 9B73F11ECE2
+	for <perlmail-jobs@onion.perl.org>; Sat, 24 Mar 2018 20:18:49 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A9C1111ED10
+	for <perlmail-jobs@onion.perl.org>; Sat, 24 Mar 2018 20:18:45 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id E823C11ECE2
+	for <jobs@perl.org>; Sat, 24 Mar 2018 20:18:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1521947924; i=@perl.org;
+	bh=ct6bJcRxWJq7VtElfvFisByji/Yb5cJ7JlSwot1n3cw=;
+	h=Date:To:From:Subject:Reply-To;
+	b=QNM7djLlVOOL1HUv/Rxi7Tlb3hFef6l2Wre3hTzubwOKol3WvMd0w4gdBnHpEl/+m
+	 hCi/Nku2wa71SVQZIvPcH3WJSnr4ahkv381Y1Sglkf7V5amWaQXfPWCp6zIFTYcX5Q
+	 xghl+G0Va0j6NhfNPYEfZS6n1xZEL6jXhl1UE7fc=
+X-MSFBL: KSj+OLIP6jS15UdYcNJQqnBQfHD31EqyqeeK66Kx0sI=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMTQxNWI3NWEzZDk2YjQxOCIsInRlbmF
+	udF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:56235] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.63466 r(Core:4.2.39.13)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4B/81-38461-41517BA5; Sun, 25 Mar 2018 03:18:44 +0000
+Received: from [10.2.2.168] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ezwBA-0000xj-9c
+	for jobs@perl.org; Sun, 25 Mar 2018 03:18:44 +0000
+Date: Sun, 25 Mar 2018 03:18:43 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ezwBA-0000xj-9c@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.3.25.31216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: PERL Freelancer gesucht (webbasierte Anwendungen) 100% Remote!
+ (telecommute), Munich
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21230
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2018
+
+Job title:
+PERL Freelancer gesucht (webbasierte Anwendungen) 100% Remote!
+
+Company name: CosmoShop GmbH
+
+Location: Munich
+
+Pay rate: tbd
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+PERL Webentwickler / Programmierer als Freelancer gesucht (eCommerce
+Schwerpunkt) (m/w)
+
+
+Zur Unterst=C3=BCtzung bei der Projektumsetzung suchen wir
+ab sofort einen engagierten PERL Webentwickler bzw. Programmierer /
+Softwareentwickler (m/w) der auch mit webbasierten Anwendungen Erfahrung
+hat. Reine Perl Kenntnisse reichen leider nicht aus. Wir erstellen
+ausschliesslich webbasierte Anwendungen (wie etwa unsere eCommerce
+Shopsoftware CosmoShop, die zu 100% auf Perl basiert).
+
+
+CosmoShop GmbH ist
+seit 20 Jahren Spezialist f=C3=BCr Softwareentwicklung und IT-Beratung
+Schwerpunkt eCommerce mit Sitz in Puchheim. Unser Fokus liegt auf der
+Entwicklung individueller webbasierter Anwendungen unter Verwendung
+aktueller Technologien und Methoden f=C3=BCr Web und Mobile. Zu unseren Kun=
+den
+z=C3=A4hlen neben mittelst=C3=A4ndischen Unternehmen =C3=B6ffentliche Insti=
+tutionen,
+namhafte Technologieunternehmen und innovative Startups.
+
+
+
+Ihre Aufgaben
+
+=E2=80=93 Sie unterst=C3=BCtzen unser Projekt-Team bei der Umsetzung unserer
+Kundenl=C3=B6sungen auf Basis des =E2=80=9CCosmoShop=E2=80=9D (Programmiers=
+prache PERL)
+=E2=80=93 Sie
+setzen spannende Projekte im B2B oder B2C Umfeld um
+- Sie betreuen auch
+bestehende Kundenprojekte
+
+
+
+Wir bieten
+
+=E2=80=93 Mitwirken an unserer eCommerce
+L=C3=B6sung =E2=80=9CCosmoShop=E2=80=9D=20
+=E2=80=93 Abwechslungsreiche Aufgabengebiete und Mitarbeit in
+anspruchsvollen umfangreichen IT-Projekten
+=E2=80=93 ein Top motiviertes und junges
+Team
+- 100% Remote Arbeit
+
+
+
+
+Werden Sie Teil unseres DEV Teams und
+unterst=C3=BCtzen uns mit Ihrer Kreativit=C3=A4t und fachlichen Kompetenz!
+
+Desired skills:
+Ihr Profil
+
+=E2=80=93 umfangreiche Erfahrung in der Entwicklung webbasierter
+Anwendungen unter Verwendung der Technologien PERL (mindestens 3
+Projektjahre in der Perl Entwicklung), sowie der sichere Umgang mit jQuery,
+Ajax, HTML, CSS.
+=E2=80=93 Routine im Umgang mit mySQL
+=E2=80=93 Ausgepr=C3=A4gtes analytisches
+Denkverm=C3=B6gen, eine zielorientierte und strukturierte Arbeitsweise
+Teamf=C3=A4higkeit, Eigeninitiative und gute Kommunikationsf=C3=A4higkeit
+
+Website for more information: https://www.cosmoshop.de
+
+Contact information at:
+http://jobs.perl.org/job/21230#contact

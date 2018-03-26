@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16197
+Return-Path: <msprvs1=17622tCA3nw2D=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14017 invoked from network); 25 Mar 2018 03:18:45 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 25 Mar 2018 03:18:45 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3BEA111ED6B
+	for <perlmail-jobs@onion.perl.org>; Sat, 24 Mar 2018 20:18:45 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D0C5F11ED10
+	for <perlmail-jobs@onion.perl.org>; Sat, 24 Mar 2018 20:18:42 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 4FCEE11ECE2
+	for <jobs@perl.org>; Sat, 24 Mar 2018 20:18:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1521947916; i=@perl.org;
+	bh=pLaeZv6GnnnBiVWUoZCBdLK582I7dZK9/SEAdPHf8z0=;
+	h=Date:To:From:Subject:Reply-To;
+	b=eGayzFodcdBbD/StAeNm3Ajss7BiAtMHlYem+uoMuyhs2Crf29B/9HHsot2ssm2AC
+	 8StCb06vTGHHjPAqVDaV565Tc3Aj//MNheffEyCp1WlCMVy/812vYX4EwmLAws/On0
+	 T5VU3YFlLMNiuMW7+wngkif9EQjFzEuFbHEa+240=
+X-MSFBL: l/rzj60faTm/lHNvpU/63XAQcUGZXQA4kINIvxOCA5s=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDAwYzE1Yjc1YTNkOTZjMTE2IiwidGV
+	uYW50X2lkIjoic3BjIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59400] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.63466 r(Core:4.2.39.13)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 1C/61-38461-C0517BA5; Sun, 25 Mar 2018 03:18:36 +0000
+Received: from [10.2.5.230] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ezwB1-0000xf-5g
+	for jobs@perl.org; Sun, 25 Mar 2018 03:18:35 +0000
+Date: Sun, 25 Mar 2018 03:18:35 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ezwB1-0000xf-5g@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.3.25.31216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ADULT_SUBJ_LO_2 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Analista Perl (onsite), Madrid
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21228
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2018
+
+Job title: Analista Perl
+
+Company name: SATEC
+
+Location: Madrid
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Experiencia de m=C3=A1s de 6 a=C3=B1os como desarrollador full stack (JAVA =
+y/o PERL).
+Experiencia de m=C3=A1s de 2 a=C3=B1os como Analista.
+Experiencia en la realizaci=C3=B3n
+de an=C3=A1lisis funcionales y de impacto de nuevas funcionalidades/m=C3=B3=
+dulos.
+Experiencia en servicios de soporte a productos o aplicaciones.
+Persona
+aut=C3=B3noma y con ganas de asumir responsabilidades.
+Capacidad y ganas de
+aprender para adquirir autonom=C3=ADa y responsabilidad sobre un producto.
+Capacidad para trabajar en equipo.
+
+Conocimiento en:
+
+Experiencia en el
+desarrollo de aplicaciones WEB / J2EE: conocimientos en HTML y Javascript.
+Entorno UNIX - Elevado.
+Conocimientos avanzados en Bases de Datos
+relacionales (MySQL)
+
+Desired skills:
+Experiencia previa trabajando en equipos Agile y/o DevOps bajo metodolog=C3=
+=ADa
+DevOps.
+Experiencia trabajando con el framework javascript JQuery.
+Conocimientos elevados de shell scripting en UNIX.
+Experiencia previa
+trabajando para una operadora de telecomunicaciones como cliente final
+(conocimiento funcional de los procesos y/o del negocio).
+Experiencia y
+conocimientos en herramientas de monitorizaci=C3=B3n de red
+Experiencia y
+conocimientos en el protocolo SNMP.
+Experiencia y conocimientos en
+configuraci=C3=B3n de routers
+Conocimientos de tecnolog=C3=ADas de visibilidad de red
+(NetFlow, IP-SLA)
+Conocimientos de redes IP
+Conocimientos de configuraci=C3=B3n
+b=C3=A1sica de equipamiento de red (Cisco, Juniper, etc.)
+
+Website for more information: https://www.linkedin.com/jobs2/view/630772415
+
+Contact information at:
+http://jobs.perl.org/job/21228#contact
