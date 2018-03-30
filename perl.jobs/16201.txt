@@ -1,0 +1,174 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16201
+Return-Path: <msprvs1=17626HpuueNc-=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8833 invoked from network); 29 Mar 2018 17:43:50 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 Mar 2018 17:43:50 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6E78211D89D
+	for <perlmail-jobs@onion.perl.org>; Thu, 29 Mar 2018 10:43:50 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D8EBB11EB25
+	for <perlmail-jobs@onion.perl.org>; Thu, 29 Mar 2018 10:43:47 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 3D75511D89D
+	for <jobs@perl.org>; Thu, 29 Mar 2018 10:43:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1522345427; i=@perl.org;
+	bh=gs9pCC2PcVljjKOVYwxGu4LLq3dVRLGnDe8S1OVlkjA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=WMlC+j1l55BXQHHgcJud6xXWKaoN20PViySzifVMWultRcnPid9pk5w81eFQT1MHW
+	 aDSAK1B5Wxh6kp23VcUR+Z7dI7maiwVyv7xwAGEz2ZmNR70sIHou29n9JahY9w0ZpS
+	 PMMq52oTzllHbtxCFsUaby/Jp6JQZVAtgPFRUH64=
+X-MSFBL: t5o2/8F0MEVQnUg9ishAk5BKMWQGx5k3NP8s8gg71hc=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGQzMjViZDVhNzBiNTRhN2IiLCJyIjoiam9ic0BwZXJsLm9yZyIsInN1YmF
+	jY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:55540] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.63536 r(Core:4.2.39.14)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A4/B7-46448-3D52DBA5; Thu, 29 Mar 2018 17:43:47 +0000
+Received: from [10.2.2.187] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1f1baU-0000Fw-Os
+	for jobs@perl.org; Thu, 29 Mar 2018 17:43:46 +0000
+Date: Thu, 29 Mar 2018 17:43:46 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1f1baU-0000Fw-Os@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.3.29.173616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl System Programmer (Linux) (onsite), Warsaw, Poland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21236
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 29, 2018
+
+Job title: Perl System Programmer (Linux)
+
+Company name: Monit24.pl Sp. z o.o.
+
+Location: Warsaw, Poland
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a company based in Warsaw - Poland, providing dedicated, advanced
+software-as-a-service for websites monitoring, and other IT services
+monitoring (SaaS, API, VOIP, video streams, mobile applications
+monitoring). We created our own solution based on Perl (95%) with elements
+of C, Python and Ruby. Our customers are the biggest representatives both
+from banking/finance, GOV, e-commerce, cloud and media sectors, mostly from
+Poland.  We have developed our solution since 2006, so we have been through
+at least 2 significant system architecture changes and paradigm shifts. Our
+software is still robust, complies with the latest standards, and it is
+created with passion.=20
+
+- If you want to work with us on developing great
+new features of backend of our monitoring system (both core, API and
+modules) giving our customers the best value software-as-a-service product;
+- if you want to be part of a great, open-minded team and be a innovative
+architect and programmer of our monitoring system;
+- if you love Perl and
+you are 100% committed to it;
+we will love to work with you :)
+
+Our
+solution is divided into following parts in which you will be able to
+contribute and of course gain new knowledge:
+	1. Our version 3 API,
+based on Swager / OpenAPI, implemented purely in Perl (with one algorithm
+embedded in C for exceptional speed)
+	2. Main monitoring server =E2=80=93 a
+daemon implemented in OO Perl, divided into dozen of runtime processes
+responsible for particular tasks
+	3. Monitoring stations =E2=80=93 daemons
+implemented in Perl, scattered all over the world, allowing our customers
+to check their websites from various Internet locations/networks. The
+newest modules are also written in Python since it has very robust
+interface for chromium engine that we use in about 5% of services.
+=20=20=20=20=20=20=20
+4. Tools for our system management, both in Perl and Ruby since we like to
+explore new technologies and gain new knowledge.
+
+Desired skills:
+The programmer we are looking for will be:
+- implementing new features of
+our software in Perl
+- helping in design of new features and changes of our
+monitoring system
+- documenting one=E2=80=99s created code and new features
+- unit
+test writing for created code
+- code optimization and refactoring
+
+In our
+system architecture we use also following technologies and solutions:
+-
+gitlab
+- GIT
+- MySQL/MariaDB
+- nginx/apache/psgi/plack
+- Linux Debian
+-
+OpenAPI
+- Perl modules including but not limited to: Curl, LWP,
+Crypt::Rijndael, JSON, IO::Socket, IO::Select, POSIX, Git::Raw, List::Util,
+Test::Most
+
+We use Agile techniques for project management, and we have
+adopted with some improvements
+nvie.com/posts/a-successful-git-branching-model/ for managing development
+process.
+
+
+Requirements
+- you have to be proven Perl programmer with at
+least 4 years of working experience in a Linux environment
+- it will be
+nice if you have at least bachelor degree in IT (programming, operating
+systems or databases)
+- you need to have strong understanding of
+Linux-based software development environments
+- at least basic knowledge
+and experience with relational databases and SQL is a plus=20
+- knowledge and
+experience with programming using following mechanisms: multi
+thread/process, IPC, OO programming, network programming (IP)
+- knowing of
+debugging tools like strace, gdb, NYTProf will be a significant advantage
+-
+easiness working in Linux systems environments
+- Polish or English language
+is desired
+- strong analytical and problem solving skills will be
+extensively used in this position
+- security aspects of programming and
+computer systems (Linux) are important skill
+
+Contact information at:
+http://jobs.perl.org/job/21236#contact
