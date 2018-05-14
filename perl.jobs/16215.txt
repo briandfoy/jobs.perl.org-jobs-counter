@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16215
+Return-Path: <msprvs1=17671COJCnkju=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18209 invoked from network); 13 May 2018 19:18:27 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 13 May 2018 19:18:27 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 78C7F11D88C
+	for <perlmail-jobs@onion.perl.org>; Sun, 13 May 2018 12:18:27 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 519BF11D9C5
+	for <perlmail-jobs@onion.perl.org>; Sun, 13 May 2018 12:18:25 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id DE15411D88C
+	for <jobs@perl.org>; Sun, 13 May 2018 12:18:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1526239104; i=@perl.org;
+	bh=cdMtbPxjRRWo57uHwRHa4gbIbZZwiRONtZMoK1uE9m0=;
+	h=Date:To:From:Subject:Reply-To;
+	b=hT+xjObP2FcEZTH7oVdIJQjgnqy+i16A0w79KEp8ExrhemDyHYjqCFjfsX0M2w3Pv
+	 xaHuBKJCdP4mB+Il6iIu9Ap1Hnd6+ou6hK2YtGenWw/ar4x7AUzRkuPLlmodyJfFqM
+	 cZ0rxyEQpVjyUnD1yvs/xBQS+FzFGTl/4TG4AIck=
+X-MSFBL: sh0ACdj6Iq8cXiHeGFA8yDbO2nxGBLR/60rETnWn0lU=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwODA4ZmY4NWE0ZWI4YmUxYiIsInIiOiJ
+	qb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.105] ([207.171.7.105:49354] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64056 r(Core:4.2.39.28)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id EB/B1-47182-08F88FA5; Sun, 13 May 2018 19:18:24 +0000
+Received: from [10.2.1.196] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fHwVj-0001by-68
+	for jobs@perl.org; Sun, 13 May 2018 19:18:23 +0000
+Date: Sun, 13 May 2018 19:18:23 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fHwVj-0001by-68@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.5.13.191216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software- und Webentwickler (m/w) (German language) (onsite),
+ Munich, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21280
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2018
+
+Job title:
+Software- und Webentwickler (m/w) (German language)
+
+Company name: EQS Group
+
+Location: Munich, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Das sind Ihre pers=C3=B6nlichen Pluspunkte:
+=E2=80=A2 Innovationsfreudigkeit und
+Offenheit f=C3=BCr neue Wege
+=E2=80=A2 Ihre Messlatte f=C3=BCr Qualit=C3=A4t liegt ganz oben
+=E2=80=A2 Ihr
+Fachwissen tauschen Sie gerne aus und arbeiten produktiv im Team
+=E2=80=A2 Sie
+k=C3=B6nnen die Umsetzbarkeit von Anforderungen gut einsch=C3=A4tzen und
+kommunizieren
+=E2=80=A2 Dabei arbeiten Sie l=C3=B6sungsorientiert und innerhalb der
+Deadlines
+
+
+Unser Angebot an Sie:
+=E2=80=A2 Raum f=C3=BCr Ideen und die M=C3=B6glichkeit,
+eigene Erfahrungen einzubringen
+=E2=80=A2 M=C3=B6glichkeit zur fachlichen
+Weiterentwicklung
+=E2=80=A2 Tolle Arbeitsatmosph=C3=A4re in einem innovativen
+internationalen Team
+=E2=80=A2 Flache Hierarchien und kurze Entscheidungswege
+=E2=80=A2
+Benefits wie z. B. unser Aktienbeteiligungsprogramm und gef=C3=B6rdertes
+Sportangebot
+=E2=80=A2 Flexible Arbeitszeiten
+=E2=80=A2 Modernes B=C3=BCro 5 Minuten vom
+M=C3=BCnchner Hauptbahnhof entfernt
+
+Desired skills:
+Das bringen Sie mit:
+=E2=80=A2 sehr gute Kenntnisse in einer Webentwicklung-Sprache
+(Perl/PHP/Java) oder die Bereitschaft, sich in Perl einzuarbeiten
+=E2=80=A2 Sehr
+gute Kenntnisse in der Datenbankprogrammierung
+=E2=80=A2 Erfahrungen in X-HTML und
+CSS sind w=C3=BCnschenswert sowie Kenntnisse in AJAX, JavaScript und jQuery
+=E2=80=A2
+Weitere Kenntnisse in der API-basierten Anwendungsentwicklung und in
+Web-Services sind von Vorteil
+=E2=80=A2 Ein abgeschlossenes Fachstudium oder eine
+Ausbildung im Bereich Informatik
+=E2=80=A2 Gute Deutsch- und Englischkenntnisse in
+Wort und Schrift
+
+Website for more information: http://www.eqs.com
+
+Contact information at:
+http://jobs.perl.org/job/21280#contact

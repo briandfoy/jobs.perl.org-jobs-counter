@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16216
+Return-Path: <msprvs1=17671COJCnkju=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18225 invoked from network); 13 May 2018 19:18:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 13 May 2018 19:18:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B308511D88C
+	for <perlmail-jobs@onion.perl.org>; Sun, 13 May 2018 12:18:28 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 70A8211D3FD
+	for <perlmail-jobs@onion.perl.org>; Sun, 13 May 2018 12:18:25 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id C374411EB1A
+	for <jobs@perl.org>; Sun, 13 May 2018 12:18:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1526239094; i=@perl.org;
+	bh=MukJ57uLjm/4mWjoNM+czapRxgIlEnBgZw/f6xVjciA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=EmeQ5XtDHBc/OyGAA+wnXuIdD0S5uDEkHf/thBWQVNwQY3yzPw0qixNLR15QCsSA8
+	 YNRpClyX8M7MOPVogSd8EeSUBj56av5aDOJgXpneoZY6Mm4FqkWj+oj9X0/6ZV+YT3
+	 +w1LYNvBOPBAu9Y0+Om7mbmr0WDwN+ai7lJqyvLA=
+X-MSFBL: bhQKJql2fInwewZ/Lme+xTXqS59r4QWvv4ZLKWuWkgc=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwibWVzc2FnZV9pZCI6IjAwMDA3Njh
+	mZjg1YTRlYjg3MTFhIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.105] ([207.171.7.105:48840] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64056 r(Core:4.2.39.28)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 17/A1-47182-67F88FA5; Sun, 13 May 2018 19:18:14 +0000
+Received: from [10.2.3.53] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fHwVa-0001bu-He
+	for jobs@perl.org; Sun, 13 May 2018 19:18:14 +0000
+Date: Sun, 13 May 2018 19:18:14 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fHwVa-0001bu-He@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.5.13.190316
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Mid Level Perl Programmer (onsite), Greenwich, CT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2018
+
+Job title: Mid Level Perl Programmer
+
+Company name: Interactive Brokers
+
+Internal ID: MW-OOP-CT
+
+Location: Greenwich, CT, USA
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Interactive Brokers is looking for an experienced Mid Level Perl Programmer
+who is a self-starter and enjoys the craft of coding and developing
+innovative solutions.  The ideal candidate is someone who can communicate
+well with the business side and take a project from conception to a
+finished project. We offer mentorship from seasoned, senior developers. Our
+offices are a short walk from the Greenwich Connecticut train station,
+which is a 45-minute ride to New York City. The ideal candidate will have
+3-5 years=E2=80=99 programming experience and will:
+- Develop, test and maintain
+software
+- Develop and maintain web based tools and micro services.
+-
+Support the technology needs of the Legal and Compliance Departments
+
+Desired skills:
+- Degree in Computer Science/Engineering, Data Science, or Information
+Technology is required.
+- Strong verbal and written communication skills
+-
+Experience with at least one dynamic language such as Perl, Python, Ruby,
+or R
+- Experience with Linux command line and text editor vim
+- Experience
+databases and SQL
+- Experience with version control and git
+- Willingness
+to learn new languages such as Go, Python and Perl.
+
+Website for more information:
+https://careers-interactivebrokers.icims.com/jobs/1777/compliance-technolog
+y-programmer-%28mid-level-%29/job
+
+Contact information at:
+http://jobs.perl.org/job/14088#contact
