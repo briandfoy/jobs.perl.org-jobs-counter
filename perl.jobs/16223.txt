@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16223
+Return-Path: <msprvs1=17687mkIqEC1Q=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17379 invoked from network); 29 May 2018 08:43:24 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 May 2018 08:43:24 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0462A6701D
+	for <perlmail-jobs@onion.perl.org>; Tue, 29 May 2018 01:43:08 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E6C0C67064
+	for <perlmail-jobs@onion.perl.org>; Tue, 29 May 2018 01:42:25 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 9AD6E11F589
+	for <jobs@perl.org>; Tue, 29 May 2018 01:42:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1527583324; i=@perl.org;
+	bh=qkrWeMC4t2pdksIx/YzzXGxLCwYRwm5IHEv8P0q1cXo=;
+	h=Date:To:From:Subject:Reply-To;
+	b=qL0gxDE3mgoHNUO2UYXha3XXT4nfGk6S+Uix6UJeoI6oQzz7ssEV1P03ypy25zkd2
+	 SOQMgPyGr1OildxI82DiT34e4yUuLh1tCyRmosFhRIjZ/Vao8WKic/Nxcv6IvV3wLv
+	 lRJf6qqmgTAA6dtAz+6vcpcGOXMS46pODkk6v7cE=
+X-MSFBL: /AOLZ1hykjE/aO3I7sopF4y1QO2/nZxvwD2O8Phb8Pc=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDVjMTIwZDViMTQ3ZGZhMzMiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52692] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64350 r(Core:4.2.39.35)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id AF/33-32020-C521D0B5; Tue, 29 May 2018 08:42:04 +0000
+Received: from [10.2.2.220] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fNaCh-0000FU-Vn
+	for jobs@perl.org; Tue, 29 May 2018 08:42:04 +0000
+Date: Tue, 29 May 2018 08:42:03 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fNaCh-0000FU-Vn@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.5.29.83616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FRAUD_INTRO 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Applications Engineer (telecommute), Internet
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21290
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 24, 2018
+
+Job title: Perl Applications Engineer
+
+Location: Internet
+
+Pay rate: US$DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We're looking for a Perl applications engineer to join our growing Perl
+team to build and maintain OpenAPI/Mojolicious services. You'll also be
+called on to build new features in a large legacy Perl application.
+Experience with Mojolicious, Postgres, and Docker is helpful but not
+required. The job is entirely remote, so you'll need to have strong
+communications skills, be self-managing and driven, and always have an eye
+for high-quality results. We're a friendly, collaborative, and
+progress-oriented environment where your work can have significant impact.
+
+We're looking for someone sufficiently experienced enough to work on
+projects solo as needed without the need for oversight. Viable candidates
+will have a track-record of self-motivation, high attention to detail, and
+ability to work very independently. Those authorized to work in the United
+States are encouraged to apply; we are unable to sponsor H1B candidates at
+this time.
+
+Desired skills:
+Desired skills for the position include strong coverage of a mixture of the
+following in descending order of importance:
+
+- Perl applications design
+and development
+- MVC application design in a Mojolicious or Dancer-like
+framework
+- Effective and professional communications and collaboration
+soft-skills
+- REST web services with a full Perl stack including API design
+- Linux system administration and networking
+- Docker or similar container
+technology
+
+Contact information at:
+http://jobs.perl.org/job/21290#contact

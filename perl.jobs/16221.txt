@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16221
+Return-Path: <msprvs1=17687mkIqEC1Q=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16127 invoked from network); 29 May 2018 08:42:26 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 29 May 2018 08:42:26 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B0D7867011
+	for <perlmail-jobs@onion.perl.org>; Tue, 29 May 2018 01:42:26 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7E2BE67019
+	for <perlmail-jobs@onion.perl.org>; Tue, 29 May 2018 01:42:16 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 9FE4811F5CE
+	for <jobs@perl.org>; Tue, 29 May 2018 01:42:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1527583330; i=@perl.org;
+	bh=bMzq9kDunwrcEr/kirA02qzJLnBD3/t4kkLS8QCn8lo=;
+	h=Date:To:From:Subject:Reply-To;
+	b=InjzERMmBANvZ600uRNvNN28zMkOYrgqSbBkithw7nar+8v9dDyVylAXF2KmdQ2Qc
+	 XATWUte5OknBJ6omEOQerUqKP/Vl5wnJ7zruDqfOEW2hvCCWODnRNcJb9DPdFcmkse
+	 Zg2ihnpstLa1y7SPyy1sgr7Ebtjs9S+Gk7gtncpk=
+X-MSFBL: Up0CUij50VO48FRBW4MUF1L22+JIU2Lxlykv0MrkT4c=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDYxMTIwZDViMTQ3ZGNkMzUiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57586] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64350 r(Core:4.2.39.35)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id DC/53-32020-1621D0B5; Tue, 29 May 2018 08:42:10 +0000
+Received: from [10.2.4.185] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fNaCn-0000FY-G6
+	for jobs@perl.org; Tue, 29 May 2018 08:42:09 +0000
+Date: Tue, 29 May 2018 08:42:09 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fNaCn-0000FY-G6@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.5.29.83616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, NO_URI_HTTPS 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __FROM_DOMAIN_IN_RCPT 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer / Perl Programmer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21292
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2018
+
+Job title: Perl Developer / Perl Programmer
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for an experienced Perl programmer / Perl developer who can
+help us update our Perl scripts according to our detailed script
+specifications, so as to make our website mobile friendly as well as
+correct some existing script issues.
+
+Desired skills:
+2+ years' experience in Perl, Perl DBI, mysql, object oriented design,
+html, Javascript, CSS, responsive web design
+
+Contact information at:
+http://jobs.perl.org/job/21292#contact
