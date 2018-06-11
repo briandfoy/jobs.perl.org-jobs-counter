@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16226
+Return-Path: <msprvs1=17694W8JUQ7SZ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2872 invoked from network); 5 Jun 2018 04:47:20 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Jun 2018 04:47:20 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id F0C0B66FF9
+	for <perlmail-jobs@onion.perl.org>; Mon,  4 Jun 2018 21:47:19 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E3AF366FFA
+	for <perlmail-jobs@onion.perl.org>; Mon,  4 Jun 2018 21:47:16 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id A9F0E66FF9
+	for <jobs@perl.org>; Mon,  4 Jun 2018 21:47:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1528174032; i=@perl.org;
+	bh=Vozb2efq1xQmHcfZbQ+XdTC+PuWenmpf8qU1peX+0uA=;
+	h=Date:To:From:Subject:Reply-To;
+	b=S1vPcnJifQQlwLd3nvf5bF7XjyKzP95/GrgFcHuDoJRMvjk8UtRg9sPaE7Qi0L8uj
+	 VnQx26DTxNToVPJODIeJTpS2PpH3pN7Rbnu09R4jS6jDy5lWBmTBUGHMSNc8/55hqY
+	 BC5MdXwRYE4X2UZKUr+8sB6QWcxzXadLpafDAWL0=
+X-MSFBL: NBQ7Q/4+/Lyo5+JuG6IRBYch2PfkhCTysmSVLtsTpxM=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGQwMTUxNjViYjU5MWQ2ZGYiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwic3V
+	iYWNjb3VudF9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57900] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64444 r(Core:4.2.39.37)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 6D/FD-37301-0D5161B5; Tue, 05 Jun 2018 04:47:12 +0000
+Received: from [10.2.5.141] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fQ3sG-0000AH-6j
+	for jobs@perl.org; Tue, 05 Jun 2018 04:47:12 +0000
+Date: Tue, 5 Jun 2018 04:47:12 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fQ3sG-0000AH-6j@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.6.5.43915
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_LOC 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS ,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Save the world then go get piste -- Mid-level Perl developer and
+ ski-master in Sevenoaks, Kent (onsite), Sevenoaks, Kent, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2018
+
+Job title:
+Save the world then go get piste -- Mid-level Perl developer and ski-master
+in Sevenoaks, Kent
+
+Company name: Perl Careers
+
+Location: Sevenoaks, Kent, UK
+
+Pay rate: Strong
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Executive summary:
+
+- Work for a company who are actively making the world
+a better place;
+- They have an annual skiing trip;
+- Fancy a change?
+Opportunities to work from their satellite offices in South Africa and
+Switzerland from time to time
+- Based in Sevenoaks =E2=80=93 escape that London
+feeling
+
+Like parents aren=E2=80=99t meant to have favourite kids, recruiters
+aren=E2=80=99t meant to have favoured clients. But not every client=E2=80=
+=99s invited me to
+a BBQ in their beautiful alpine offices, and there aren=E2=80=99t many clie=
+nts
+whose developers I saw at 5 separate Perl conferences last year=E2=80=A6
+
+You=E2=80=99ll be
+working with a Modern Perl stack deployed to AWS on Mojolicious with a
+strong focus on testing and continuous integration, and the infinite wisdom
+of one of CPAN=E2=80=99s most prolific (and nicest) contributors at hand.
+
+The
+company helps charities fundraise online and works in online payments;
+you=E2=80=99ll literally be saving the world a little bit with every line o=
+f code
+you commit. And while you=E2=80=99ll be well rewarded in financial terms, y=
+ou=E2=80=99re
+also likely to enjoy the annual ski trip for the company=E2=80=99s develope=
+rs, or
+popping over to South Africa to work from the offices there.
+
+I=E2=80=99ve placed
+three very happy developers there this year =E2=80=A6 come be number four, =
+and save
+the world!
+
+Desired skills:
+Modern Perl
+Mojolicious
+Experience with Perl's extensive testing tools
+Skiing (just kidding, beginners welcome!)
+
+Website for more information:
+https://perl.careers/jobs/save-the-world-then-go-get-piste/
+
+Contact information at:
+http://jobs.perl.org/job/21302#contact
