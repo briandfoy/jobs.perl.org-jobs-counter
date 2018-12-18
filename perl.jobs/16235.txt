@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16235
+Return-Path: <msprvs1=17715ZR8cKmlj=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 323 invoked from network); 26 Jun 2018 16:07:51 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 26 Jun 2018 16:07:51 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7956966FFB
+	for <perlmail-jobs@onion.perl.org>; Tue, 26 Jun 2018 09:07:51 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id DA72066FFE
+	for <perlmail-jobs@onion.perl.org>; Tue, 26 Jun 2018 09:07:47 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id D045366FFA
+	for <jobs@perl.org>; Tue, 26 Jun 2018 09:07:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1530029265; i=@perl.org;
+	bh=/bijXFYxGaH+rPQnQTFVMBhSi+/LX/ADSTsm0SJPDjs=;
+	h=Date:To:From:Subject:Reply-To;
+	b=D9GGC8W56HgtYCgkWWsQHpucHHUX1INKZhoa6WCMUaNEUCvZxGo6lzvHHIt+f/xTZ
+	 Spq4uaI2bBsB6A0JZnQ9hP96sT8hBnm1nIZqmlucKXMN5hNSDftgQBEUEON0N9hSWA
+	 tdZEjqezXX3wILEN9PYaVKPDVjy8OKHJsVBywlyE=
+X-MSFBL: xfsJqw6BI+ZXhT/XVELFblq4OdmOnKeQhWx3fgR5L5s=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGQxNjQzMjViOWM2ZmExMmMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmF
+	udF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:51862] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.64859 r(Core:4.2.39.41-TR-309)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 1A/C2-28572-1D4623B5; Tue, 26 Jun 2018 16:07:45 +0000
+Received: from [10.2.5.172] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fXqVL-0000ZJ-0x
+	for jobs@perl.org; Tue, 26 Jun 2018 16:07:43 +0000
+Date: Tue, 26 Jun 2018 16:07:42 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fXqVL-0000ZJ-0x@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.6.26.155717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1500_1599 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_EURO 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl and php developer (onsite), Lille
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21326
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 25, 2018
+
+Job title: Perl and php developer
+
+Company name: Photographie Camberlein
+
+Location: Lille
+
+Pay rate: 100=E2=82=AC
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+As an employer of Photographie Lille, I represent the company to get a Perl
+developer. I could also be interested in independent contractor or a
+freelancer if you prefer.
+
+I absolutely don't compromise on anything like
+experience, drive, salary, good mood and talent. Your moral standards are
+equally important: you must hold the same core values that define who I am
+and how I approach my work as a photographer.
+
+Desired skills:
+Basic help to run websites, databases, webintegration, etc.
+
+But could also
+be :=20
+- Developing and maintaining world-class web applications
+-
+Experienced worker in a team, perhaps as part of other open source projects
+(a real plus)
+- Ready to learn on the fly
+- Open for design is a big plus
+-
+open-source RDBMS systems such as MySQL and PostgreSQL.
+
+You also could
+have a Bachelor's/Master degree in Computer Science with a specialized
+field in php, html, Python, CSS, SQl, etc.
+
+Website for more information: https://photographie.camberlein.fr
+
+Contact information at:
+http://jobs.perl.org/job/21326#contact

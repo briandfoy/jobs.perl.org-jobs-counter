@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16243
+Return-Path: <msprvs1=17735dqWGDCgi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17048 invoked from network); 16 Jul 2018 12:51:40 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Jul 2018 12:51:40 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B071811FBC9
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:51:39 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0F99F11FBC2
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:51:37 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id ACA6511FBC9
+	for <jobs@perl.org>; Mon, 16 Jul 2018 05:51:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1531745488; i=@perl.org;
+	bh=x9h+VXjUcyT2wVNHraK9MdQ7BousTzAl1q4WhJJdlBo=;
+	h=Date:To:From:Subject:Reply-To;
+	b=oH/sjfeao2vEFv+SpxEkdPFn8cRG81CXtxy3DxSVmHAAdSxHSuTOp4I78h4XPoWA+
+	 v25DlquKxUyb+aRRC5/301mQH4m//ZoDDLdQ+7n/M3xmOSvScI8Kr4ebyfXLSzj68l
+	 gfoFgxBtBeRPuhHInSBrA+6BrjqBHrma/hbW38F0=
+X-MSFBL: TuWuErwzbQf1juS3i27IBiFXi+jiYdfgEydGB+jB6js=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRlbmFudF9pZCI6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwibWV
+	zc2FnZV9pZCI6IjAwMDBkMDk0NGM1YjdkY2Q4MGY2IiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58998] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65114 r(Core:4.2.39.45)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 08/6F-52605-0D49C4B5; Mon, 16 Jul 2018 12:51:28 +0000
+Received: from [10.2.1.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ff2yO-0000Ow-4f
+	for jobs@perl.org; Mon, 16 Jul 2018 12:51:28 +0000
+Date: Mon, 16 Jul 2018 12:51:27 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ff2yO-0000Ow-4f@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.16.124516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1600_1699 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0,
+ __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl mentor needed for large and growing team - train the next
+ generation of Perl developers in London (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2018
+
+Job title:
+Perl mentor needed for large and growing team - train the next generation
+of Perl developers in London
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you have some great Perl war stories? Can you help guide and grow the
+experience of junior Perl developers? Never get tired of explaining what
+
+use utf8; doesn=E2=80=99t do?
+
+Client is a very successful company in Zone 2 with a
+large, dynamic team of Perl developers. Particularly committed to Perl,
+they hire across the seniority range =E2=80=93 they=E2=80=99re especially g=
+ood at training
+up inexperienced but promising junior developers, with frequent internal
+training run by the very capable and experienced senior developers.
+
+The
+ideal candidate has a lot of experience with Modern Perl, strong but
+flexible opinions on the right way to approach a range of common Perl and
+architectural challenges, and an interest in challenging and growing more
+junior coworkers. It=E2=80=99s a Senior Perl Developer role, with a particu=
+lar
+focus on mentoring.
+
+Desired skills:
+Perl, of course!
+Experience with one of the modern frameworks
+DBI::x Class
+
+Website for more information:
+https://perl.careers/jobs/perl-mentor-needed-for-large-and-growing-team---t
+rain-the-next-generation-of-perl-developers-in-london/
+
+Contact information at:
+http://jobs.perl.org/job/21056#contact

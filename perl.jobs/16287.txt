@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16287
+Return-Path: <msprvs1=178153raiYLFe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4068 invoked from network); 4 Oct 2018 19:14:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2018 19:14:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C9DD9123538
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:14:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 68E59123542
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:14:02 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id ED9DE123538
+	for <jobs@perl.org>; Thu,  4 Oct 2018 12:14:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1538680441; i=@perl.org;
+	bh=bnz/KRgg1ZOgNP3QfQqKNfdgCXIfc7PACWcqpuTHnQM=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=NEPIII7kzXH/NjSt8WrXRaNE+pk+cD60fkQlUqXpZGK75/4CusBTnMJV2ftPDE0Tw
+	 muB5xxe9Tmm0asXQ6cZ0OZfw2FX21buwCVQ6hM+VYPtD00rOf1zLB0tyk8jqoKALXu
+	 cUc94FIzUkBHBPnY9Ig5SS1qjgUQp8VTcKc3FXoI=
+X-MSFBL: wT9kWAgsJBONhOsroybtVOfym4EOh1YpfH6mzxIJ6CM=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiIwMDAwNzk2NmI2NWJjODg
+	yNGUxNyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:56707] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E4/71-33480-97666BB5; Thu, 04 Oct 2018 19:14:01 +0000
+Received: from [10.2.1.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1g894S-0000d5-Vy
+	for jobs@perl.org; Thu, 04 Oct 2018 19:14:01 +0000
+Date: Thu, 4 Oct 2018 19:14:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1g894S-0000d5-Vy@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.4.190616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1200_1299 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Junior Perl Developer (onsite), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21444
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  4, 2018
+
+Job title: Junior Perl Developer
+
+Company name: Wellness Wires
+
+Location: Chicago, IL
+
+Pay rate: 37000+
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Wellness Wires are looking for a Junior Developer to join us for an
+upcoming project.
+
+We are looking for for self-motivated, proactive Perl
+Developer to develop high-quality code.
+
+We absolutely do not compromise on
+experience, drive, and talent. Your moral standards are equally important:
+you must hold the same core values that define who we are and how we
+approach our work.
+
+Desired skills:
+=E2=97=8F Test and fix things, especially when it involves working with dat=
+a.
+=E2=97=8F
+Optimize infrastructure for maximum scale-ability & speed;
+=E2=97=8F Work with team
+of people in an multinational environment.
+=E2=97=8F Get things done quickly;
+
+Website for more information: http://www.wellnesswires.com/
+
+Contact information at:
+http://jobs.perl.org/job/21444#contact

@@ -1,0 +1,218 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16248
+Return-Path: <msprvs1=17740AsWCcOeB=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25710 invoked from network); 21 Jul 2018 16:52:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 21 Jul 2018 16:52:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6F3EC120878
+	for <perlmail-jobs@onion.perl.org>; Sat, 21 Jul 2018 09:52:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 35B561208DA
+	for <perlmail-jobs@onion.perl.org>; Sat, 21 Jul 2018 09:52:02 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 3234F120878
+	for <jobs@perl.org>; Sat, 21 Jul 2018 09:51:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1532191917; i=@perl.org;
+	bh=xr4PBM4bp5Y16U69UrL0Uh8cBG8PN3hE82pDPs7XgHk=;
+	h=Date:To:From:Subject:Reply-To;
+	b=CogdGrTHoQ/xcDcW9hKv04nLTUNONGTaIiAKYixkcPQbxMJkpW9zwupWUoXPVOlse
+	 yai3o7kTlt3CylqkDrR7a0ztH15acsyUBdnnmX2i7TjQvwbwUJsh7242hZh1n+Fbgd
+	 hZBQnY2oE4sSdJhZI/Le3qxgNzV5ba/6iG8FYUKA=
+X-MSFBL: 70BYnv9qoSuY1x8yM0wzSR21RdD5/aii3vPXBWOCu7I=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	tZXNzYWdlX2lkIjoiMDAwMGFkNjQ1MzViZDA1ODAyNjUiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52092] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65269 r(Core:4.2.39.48)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 20/56-22736-DA4635B5; Sat, 21 Jul 2018 16:51:57 +0000
+Received: from [10.2.1.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fgv6r-0000fe-1y
+	for jobs@perl.org; Sat, 21 Jul 2018 16:51:57 +0000
+Date: Sat, 21 Jul 2018 16:51:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fgv6r-0000fe-1y@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.21.164516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Catalyst, Cloud Web App (telecommute), Austin, TX, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21072
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2018
+
+Job title: Perl Catalyst, Cloud Web App
+
+Company name: Auto-Parallel Technologies, Inc.
+
+Location: Austin, TX, USA
+
+Pay rate: $1,500 USD
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+This project relates to development of the CloudForFree.org software:
+
+http://cloudforfree.org/
+
+https://github.com/wbraswell/cloudforfree.org
+
+The CFF platform is based on ShinyCMS on top of Perl Catalyst, combined
+with RPerl and CGI::Ajax and Ace editor, etc.
+
+Phase 0, LAMP Installer
+Script Section 70
+- Review & Comprehend LAMP_installer.sh Script
+=20=20=20
+https://github.com/wbraswell/lampuniversity.org/blob/master/bin/LAMP_instal
+ler.sh
+- Upgrade LAMP_installer.sh Section 70 =E2=80=9CPERL CLOUDFORFREE=E2=80=9D =
+To
+Function Cleanly
+- Demonstrate Section 70 Installing CloudForFree Software
+In Ubuntu 16.04
+- Upgrade CFF Server To RPerl v4.0
+
+Phase 1, GitLab &
+Bitbucket Authentication
+- Add GitLab Authentication via Auth0 Platform=20
+(will provide instructions)
+- Add Bitbucket Authentication via Auth0
+Platform  (already supported by Auth0)
+- Add Warning To GitHub Users
+
+Phase
+2, IDE Code Editor
+- Create Linux User Account For Existing & New Users
+-
+New Copies Of Learning RPerl Exercises
+- Save All Files In Linux User Home
+Directories
+- Button For "Save File" Function
+- Save & Quit Functions For
+Ace Editor vi & emacs Keyboard Commands
+    :w	  :wq	 ZZ    etc.
+=20=20=20
+Ctrl-x Ctrl-s	 Ctrl-x s    Ctrl-x Ctrl-w    etc.
+- Multiple Open Files
+Via Tab Widget
+
+Phase 3, Open GitHub Issues
+- Review & Comprehend All Open
+GitHub Issues
+    https://github.com/wbraswell/cloudforfree.org/issues
+-
+Collaborate With Client Personnel To Plan Solutions For Each Open Issue
+-
+Implement Solutions For Each Open Issue
+
+Phase 4, Terminal Emulation
+- Full
+xterm Terminal Emulation For Command-Line Job Execution
+- Includes All
+VT100 & VT102 & VT220 Features
+- Resize Number Of Rows & Columns By Window
+Resize
+- Resize Font Size By User Configuration
+- Backspace, Tab, Other
+Special Command Characters
+- Arbitrary Placement Of Characters At Any Row &
+Column
+- Color Characters & Background
+- Curses & Other Menu Support
+- Full
+Window (F10) & Full Screen (F11)
+
+Phase 5, Graphical Output & Mouse Input
+-
+Full X-Windows Graphics Output Using Xpra HTML5 Client
+- Generate Output
+Using SDL From Perl & C
+- Mouse Left-Click, Right-Click, Drag, Scroll
+-
+Resize Number Of Available X & Y Pixels By Window Resize
+- Full Window
+(F10) & Full Screen (F11)
+
+Phase 6, Repositories Integration
+- Import &
+Setup User's GitHub/GitLab/Bitbucket Keys Via Linux User Account (From
+Phase 2)
+- List Of All GitHub/GitLab/Bitbucket Repos With User As Owner Or
+Collaborator
+- Admin Mode, Display All Repos
+- Allow User To Enter Any
+Other Readable GitHub/GitLab/BitBucket Repo URL
+    ex.
+https://github.com/wbraswell/physicsperl
+- Buttons For Basic User Git
+Commands
+    clone    add    commit    push    pull    checkout	  status
+-
+Do Not Duplicate Any GitHub/GitLab/Bitbucket Web Functionality
+
+Phase 7,
+Job Queue
+- Job Scheduler & Monitor Using OAR (1st Choice), Or HTCondor Or
+Slurm (2nd Choices)
+- Manage User's Jobs Via Linux User Account (From Phase
+2)
+- List Of All Current Jobs With User As Owner
+- Admin Mode, Display All
+Jobs
+- FileManager For Selecting *.pl RPerl Programs To Run
+- Buttons For
+Basic Job Control Commands
+    start    restart
+    stop (SIGTERM)    force
+stop (SIGKILL)	  pause (SIGSTOP)    continue (SIGCONT)
+    show/hide CLI
+(From Phase 4)	  show/hide GUI (From Phase 5)
+- Display Resources: FLOPS,
+Cores, Memory, Storage; Total, Unused, Available To User
+
+Desired skills:
+Perl 5
+Catalyst
+ShinyCMS
+JavaScript
+AJAX
+Ubuntu
+GitHub
+GitLab
+Bitbucket
+Auth0
+C++
+RPerl
+
+Website for more information: http://www.autoparallel.com
+
+Contact information at:
+http://jobs.perl.org/job/21072#contact

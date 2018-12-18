@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16252
+Return-Path: <msprvs1=177555RSYvw4p=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8487 invoked from network); 5 Aug 2018 20:52:59 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Aug 2018 20:52:59 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 6FFD71219B6
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:52:59 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 25B5811F7D0
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:52:57 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 79FE811F7CD
+	for <jobs@perl.org>; Sun,  5 Aug 2018 13:52:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1533502368; i=@perl.org;
+	bh=ammBnnrHe0VFm+zmlAIdua7F0UURvbTclC9O5WhFRDI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=hsSv+z9DsHI0Z7cjpFxsR44IlxWz/ufFwlaHF8FmXNmEDu2sfPSDPtEYWb+zaGrBX
+	 i87qNQuFaJhCRfvimDS00Pd4FcI90Gcei/ZisqiwdvqrXOAprynlA8FvU44ID0EtPP
+	 2vM1wiPWjzCBX/VtKDw7wUjUgGrGtvIS6qDgKDQE=
+X-MSFBL: uG+s4JU7M75Dr0v6kfbUrm21p9Vu3snU9bUuepLPadk=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGEwNjM2NzViZTFjYzM0NWQiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwic3V
+	iYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:59306] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65390 r(Core:4.2.39.50)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 43/D5-52449-0A3676B5; Sun, 05 Aug 2018 20:52:48 +0000
+Received: from [10.2.4.103] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fmQ19-0000NF-Ht
+	for jobs@perl.org; Sun, 05 Aug 2018 20:52:47 +0000
+Date: Sun, 5 Aug 2018 20:52:47 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fmQ19-0000NF-Ht@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.5.204516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __C230066_P1_3 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Manager, Software Development (onsite), San Mateo CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21362
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2018
+
+Job title: Manager, Software Development
+
+Company name: Vindicia
+
+Location: San Mateo CA
+
+Pay rate: BOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Vindicia is a SaaS financial based company leader. We offer
+enterprise-class subscription and reoccurring billing solutions, we are a
+billing engine behind household name companies like Ancestry, AllRecipies,
+eHarmony, Lifelock, MBA, NFL, Nascar, Onstar, Vimeo, Zillow and many more.
+Vindicia combines cutting edge customer acquisition methods with advanced
+customer retention technologies, while maintaining unmatched scalability.
+
+Vindicia was named "One of the Top 50 Fastest Growing Tech Companies" by
+Silicon Review in 2017!   We are a part of Amdocs, a multinational company.
+Amdocs is a leading software & services provider. Amdocs and its 25,000
+employees serve customers in over 85 countries.
+
+After recently adding
+headcount in our Perl Engineering team, we now need a SW Eng Manager to
+manage and lead design, development and maintenance projects, meeting the
+scope, quality, time, and budget targets. Additionally, this person this
+individual will manage all relevant stakeholder expectations and
+relationships and regularly provide visibility for the projects status.
+
+Desired skills:
+=E2=80=A2 2+ years of managing teams building production software
+=E2=80=A2 5+ years in
+software development skills, preferably Perl as nearly all our SW
+engineering develop using OOPerl in a Linux environment=20
+
+ Extra points
+for:=20
+=E2=80=A2 Bachelor's degree in Computer Science is preferred, but not
+required
+=E2=80=A2 Knowledge of major protocols as well as engineering best
+practices
+=E2=80=A2 A solid understanding of performance and efficiency issues.
+=E2=80=A2
+Experience taking a leading role in building complex software systems that
+have been successfully delivered to customers.
+
+Website for more information: http://www.vindicia.com
+
+Contact information at:
+http://jobs.perl.org/job/21362#contact

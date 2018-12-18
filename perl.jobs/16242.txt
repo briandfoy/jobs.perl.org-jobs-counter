@@ -1,0 +1,171 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16242
+Return-Path: <msprvs1=17735dqWGDCgi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17144 invoked from network); 16 Jul 2018 12:52:54 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Jul 2018 12:52:54 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B2BBD1210FB
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:52:54 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B740711FBC9
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:52:52 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 771E511FBC2
+	for <jobs@perl.org>; Mon, 16 Jul 2018 05:52:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1531745571; i=@perl.org;
+	bh=7K9cJEGjzDZEdCMMTYoUodTWPUuKeGrJpCQ3EFQwGmQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=n2c27fE+/ClIEneth/IC2LQRRAP0TuRzTjsmt+48lrb4rTksHHv0EYAJLZhYkYTfg
+	 iLFtCT0zOEgLXOjqsn6CXBf4QEP8Q0tuZdmPgtuPJuedgsPEg1YVrSZg7t2JS8dPfe
+	 UQCDTC0f6MvkZWUv1vePm6+6nrSgs/7ds2JiRHuI=
+X-MSFBL: zLQ0urih7n88GvvftOPcxQyHHmEOWTy9nEkriHBRmiQ=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDAyMzk1NGM1YjdkY2Q1ODBjIiwic3V
+	iYWNjb3VudF9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:57719] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65114 r(Core:4.2.39.45)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 85/C0-52605-3259C4B5; Mon, 16 Jul 2018 12:52:51 +0000
+Received: from [10.2.1.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ff2zi-0000P8-6P
+	for jobs@perl.org; Mon, 16 Jul 2018 12:52:50 +0000
+Date: Mon, 16 Jul 2018 12:52:50 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ff2zi-0000P8-6P@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.16.124516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P1_2 0, __C230066_P1_5 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Lead Senior Software Engineer II (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21288
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2018
+
+Job title: Lead Senior Software Engineer II
+
+Company name: Akamai Technologies
+
+Location: Cambridge, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the Job
+Akamai's Server Platform Engineering team is looking for a
+talented engineer to lead our Server Configuration team. Your team will be
+responsible for developing critical software components that form the
+foundation of Akamai=E2=80=99s globally-distributed platform.=20
+
+Our software allows
+engineers across the company to customize nearly any aspect of core system
+configuration. Through our API environment, engineers can provide and
+consume a wealth of proprietary and open-source technologies. Using these
+capabilities, product groups across the company are able to rapidly build
+sophisticated, highly-integrated systems that operate at global scale with
+the level of security and reliability that Akamai customers expect.
+
+In
+addition to successful leadership experience, the ideal candidate has a
+strong linux background and is highly motivated to design and develop
+innovative solutions using languages such as Python, Perl, and SQL. The
+right candidate will take pride in writing maintainable and highly reliable
+code. They will also understand the big system picture and be able to solve
+complicated problems within that system. The lead will work closely with
+other engineers at the company and should be able to conduct design and
+code reviews.
+
+About the Team
+Server Platform Engineering is a team of
+engineers who develop distributed systems that support Akamai's global
+network composed of over 240,000 servers, 1700 networks, and 130 countries.
+In general, these systems operate behind the scenes to provide the
+fault-tolerant and highly scalable core of Akamai's configuration and
+health monitoring systems. In this role, the lead engineer will work on
+Akamai's core configuration processing and service control systems that
+manage the configuration of Akamai's distributed network.
+
+Responsibilities
+* Design and develop next-generation capabilities for installing and
+controlling Akamai services.
+* Design and develop enhancements to existing
+install and service control interfaces.
+* Oversee support activities.
+Provide architectural guidance to user community.=20
+* Plan projects, oversee
+work, provide guidance, perform code reviews, and develop talent.
+* Work to
+understand, document and improve complicated code bases.
+* Work with our
+development QA and system QA teams to come up with regression tests that
+cover new changes to our software.
+
+Desired skills:
+Applicants must meet one of the following education and experience
+requirements:
+* 8 years of relevant experience and a Bachelor=E2=80=99s degree in
+Computer Science or its equivalent or
+* 6 years of relevant experience and
+a Master=E2=80=99s degree in Computer Science or=20
+* 3 years of relevant experience
+and a PhD in Computer Science
+
+Required Skills
+* 3+ years of experience as
+a hands-on technical leader
+* 5+ years of experience with Perl, Python or
+C++ on Linux or a Unix based OS
+* 5+ years of experience working with Linux
+OS and System Internals
+* 5+ years of strong expertise with building
+scalable servers or distributed systems
+
+Desired Skills
+* Masters or Ph.D
+in Computer Science or related field with a focus on distributed systems,
+system architecture, or security
+* Solid understanding of internet protocol
+basics including TCP/IP, HTTP, DNS
+* Experience developing interfaces for
+broad internal consumption
+* Experience developing server configuration
+and/or management systems
+* Experience developing distributed systems
+*
+Experience with databases and SQL
+* Proven track record of delivering large
+amounts of high quality, complex code
+* Excellent written and verbal
+communications skills
+
+Website for more information:
+https://akamaijobs.referrals.selectminds.com/jobs/lead-senior-software-engi
+neer-ii-7982
+
+Contact information at:
+http://jobs.perl.org/job/21288#contact

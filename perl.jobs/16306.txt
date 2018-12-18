@@ -1,0 +1,254 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16306
+Return-Path: <msprvs1=17845Hy_s5vMN=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29502 invoked from network); 3 Nov 2018 00:14:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 3 Nov 2018 00:14:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B5E4811D881
+	for <perlmail-jobs@onion.perl.org>; Fri,  2 Nov 2018 17:14:28 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D5DEE11D8C9
+	for <perlmail-jobs@onion.perl.org>; Fri,  2 Nov 2018 17:14:25 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 029D511D881
+	for <jobs@perl.org>; Fri,  2 Nov 2018 17:14:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1541204058; i=@perl.org;
+	bh=rf/nOau0+5xn5P4dLAlaxQZlEf06DnMdXDnhKNj/hYE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=REniJL+AinWdVkbqmJhccYFL9rBAbDEGoWJFx7Hg7IR/vSZpDGVjuAWLeBTpyDjeu
+	 XtjGl0WfnDJIV17GtNC7Pe1ELywmXcz9EL3DKY42Wo9171Xk8vPdzH4St0uYrbQ4ae
+	 7v8reR9p36YAiNXT3S0dXeQkMGzs45F55rO7HrUs=
+X-MSFBL: /y0Pl7LFTlyyoFOizScVTwhprryiB1NcCMYYpvJqCjg=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDAwNWFlOGR
+	jNWIzMTM4OTYxYyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:55108] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66477 r(Core:4.2.40.3)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 69/C1-14385-A58ECDB5; Sat, 03 Nov 2018 00:14:18 +0000
+Received: from [10.2.1.128] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gIjZx-0000TV-Ut
+	for jobs@perl.org; Sat, 03 Nov 2018 00:14:18 +0000
+Date: Sat, 3 Nov 2018 00:14:16 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gIjZx-0000TV-Ut@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.3.617
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __PHISH_PHRASE2 0, __PHISH_SPEAR_SUBJ_TEAM 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: SaaS System Administrator - Telecommuting Opportunity (U.S./Canada)
+ (telecommute), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  3, 2018
+
+Job title:
+SaaS System Administrator - Telecommuting Opportunity (U.S./Canada)
+
+Company name: MaxMind, Inc.
+
+Location: Remote
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a talented SaaS System
+Administrator/Network Administrator to join us. We help protect thousands
+of companies worldwide from fraud, screening over a billion online
+transactions each year, and we provide IP intelligence data to thousands
+more. This work requires us to tackle formidable challenges and we want you
+to help.=20
+
+The Position Overview=20
+Do you have system administration,
+engineering, and communication skills and are ready to collaborate with us
+to build a great real-time fraud analysis and IP intelligence solution?=20
+
+Do you want to contribute to the improvements and delivery of a highly
+available, fault tolerant, and secure customer facing SaaS solution which
+can serve over 2 billion transactions per year? Will you be a collaborator
+with peers and Product to define and contribute to the overall development
+of complex features, and to the success of MaxMind software products?=20
+
+As
+a MaxMind System Administrator, you will utilize the best from DevOps and
+SRE methodologies to make a difference in defining broader architectural,
+design, and technical objectives of MaxMind, and achieving customer
+satisfaction by:=20
+
+- Building performant and scalable SaaS solutions and
+the tools to maintain=20
+them=20
+- Collaborating, mentoring,and advising to
+others=20
+-Offering ideas and suggestions to the improvement of the
+development=20
+tool set, technical direction, and software architecture=20
+-
+Identifying, triaging, and resolving system issues=20
+- Researching changes
+in technologies, development environments, and=20
+tools=20
+- Enabling and
+extending complex system monitoring=20
+- Updating configuration management
+and deployments=20
+- Supporting on call after hours in rotation with other
+members of the team=20
+
+Our System Administration Practices=20
+Our System
+Administrators are members of our Engineering team, working together to
+deliver to our customers=E2=80=99 success. At MaxMind, we are committed to =
+security
+and the contributions of our System Administrators are integral to our
+work. To learn more about our commitment to security, visit
+https://www.maxmind.com/en/company/commitment-to-security. We have built a
+culture of peers, with highly developed practices and processes to work
+together remotely. To learn more about working at MaxMind, visit
+https://www.maxmind.com/en/company/working-at-maxmind.
+
+We use Linux,
+PostgreSQL, and Ansible to deliver our solution. We use a wide variety of
+tools to manage and monitor our systems, including Nagios, Sensu, Grafana,
+and the Elastic/ELK stack. All work goes through internal code review on
+GitHub Enterprise.=20
+
+Our goal is to automate as much as possible. Our tools
+are written in Perl and Go. We also want to improve our coding practices
+for the sysadmin code we write, writing libraries and tests wherever
+possible instead of one-off scripts.=20
+
+Working at MaxMind=20
+MaxMind is a
+casual, friendly, results-focused company of 40+ employees. We are
+passionate about global health and development, as MaxMind and its founder
+gladly donate over 60% of corporate profits to charities
+(www.maxmind.com/en/corporate-giving). We maintain a set of core,
+overlapping hours, but are flexible with specific start and end times and
+are understanding about appointments and life events. Our software team is
+largely comprised of telecommuters, so communication centers around video
+calls, group chat, and agile planning tools.=20
+
+Our salary range begins at
+$100,000 for Engineering hires and is negotiable depending on experience.
+Everyone participates in a company performance-based bonus plan. MaxMind
+offers a $2,000 professional development budget and five days for
+professional development annually.=20
+
+In addition to medical, dental, and
+vision coverage, we offer several other benefits in the US, including a
+401k with employer contribution, Health Savings Account, Limited Purpose
+Flexible Spending Account, paid parental leave, and a public transit
+reimbursement. Please inquire about benefits in Canada.=20
+
+Diversity and
+Inclusion=20
+We're committed to diversity and inclusion and are mindful of
+incorporating them into all aspects of our company. New ideas and
+perspectives come from diverse ways of seeing and thinking. MaxMind is
+sensitive to all individuals and viewpoints and believes everyone=E2=80=99s
+contributions and opinions are valuable assets to our team.=20
+
+We hold
+regular diversity and inclusion meetings and conduct informative sessions
+on improving collaboration and communication. We value bringing individuals
+and different perspectives together within and across every department.=20
+
+We encourage and sincerely welcome applications from candidates of color,
+women, queer candidates, candidates with family caregiving
+responsibilities, transgender candidates, and from other communities not
+well represented in the tech world.=20
+
+If you have suggestions on how we may
+better promote or express our commitment to diversity and inclusion, we
+would love to hear from you. Please send your suggestions to
+hr@maxmind.com.
+
+Desired skills:
+Minimum Qualifications=20
+- Experience as a System Administrator and/or
+DevOps Engineer and/or Site=20
+Reliability Engineer for Highly Available SaaS
+solutions processing web=20
+traffic=20
+- Knowledge of TCP/IP, HTTP, DNS, TLS,
+and SMTP=20
+- Experience building complex monitoring solutions to support
+identification=20
+of issues with high availability=20
+- Able to investigate and
+resolve issues with Linux performance and network=20
+latency/reachability=20
+-
+Experience managing PostgreSQL, including streaming replication and=20
+backups=20
+- Programming experience in Go or Perl. Our System Administration
+code is=20
+mostly Ansible and Perl, but we're happy to hear from you if more
+familiar=20
+with other programming languages or configuration management
+software=20
+- Significant experience with Linux systems=20
+- Experience with
+version control, preferably Git=20
+- Strong analytical and problem-solving
+skills, with logical and repeatable=20
+debugging and problem solving
+approaches=20
+- Ready to learn new things=20
+- Excellent written and verbal
+communication skills with ability to=20
+communicate clearly with partners and
+end users=20
+- Able to work with a geographically distributed team=20
+
+Highly
+Desired (or excited to learn)=20
+- Experience doing security audits, security
+compliance, or penetration=20
+testing=20
+- Experience with=20
+- HAProxy
+configuration=20
+- Docker, Kubernetes, or other container tools=20
+-
+ELK/Elastic Stack=20
+- Cloudflare=20
+- Open source technologies=20
+- Experience
+with emerging cloud platforms and infrastructure tools, and=20
+moving
+services to a cloud platform
+
+Website for more information: https://www.maxmind.com/en/home
+
+Contact information at:
+http://jobs.perl.org/job/21478#contact

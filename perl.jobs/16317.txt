@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16317
+Return-Path: <msprvs1=17869UfnxX6O4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24172 invoked from network); 27 Nov 2018 18:22:42 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 27 Nov 2018 18:22:42 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 88D7E67017
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:22:42 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B6B5C124181
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:22:38 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 8DA68124195
+	for <jobs@perl.org>; Tue, 27 Nov 2018 10:22:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1543342954; i=@perl.org;
+	bh=pk+pCzqGemKmwIluT1qZi9KhVvqPkn32mn1gMHuv7Sk=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=QXmO4NZiFtvQaN+J5AomFWR88XGEXDwxknBvtzCLxCdhD/cxbl6YOPcLIYHDiWzFu
+	 PhtwhjQgWLq5g6pafipXm9d2dtGbkGgloA9hbCaLsiQ2jL2eTwxVvMFcpA4o7tunqw
+	 iu7/JnDe/gWwrHEnpbaWkMFZla8u6Mya3rcp9xnc=
+X-MSFBL: sFQWBjdlNNUd4ihKPmF7J8FKzvXBecSkNsIzAKBQnIM=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwNmE4YmZkNWIzOWE1OGVlNiIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50575] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66712 r(Core:4.2.40.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E8/6E-42297-A6B8DFB5; Tue, 27 Nov 2018 18:22:34 +0000
+Received: from [10.2.2.51] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gRi0I-0000FK-38
+	for jobs@perl.org; Tue, 27 Nov 2018 18:22:34 +0000
+Date: Tue, 27 Nov 2018 18:22:33 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gRi0I-0000FK-38@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.27.181516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0,
+ __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: PERL/LAMP Developer (telecommute), UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 21, 2018
+
+Job title: PERL/LAMP Developer
+
+Company name: Diamond Discovery Software
+
+Location: UK
+
+Pay rate: $10 per hour + depending on experience
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A growing accountancy and bookkeeping systems provider are looking for a
+Software Developer (LAMP stack, robust experience of PERL absolutely
+essential) to join their Development team.=20
+
+You will work within an Agile
+environment developing, designing and testing varied software projects.=20=
+=20
+
+Responsibilities Include:=20
+
+=E2=80=A2 Working with the product management team to
+design and evolve the product vision=20
+
+=E2=80=A2 Guide application architecture in
+line with business and user's requirements.=20
+
+=E2=80=A2 Using your knowledge and
+experience you will be able to influence the team=E2=80=99s success, workin=
+g with
+stakeholders across the business to deliver effective and successful
+product solutions.=20
+
+=E2=80=A2 Feedback on progress against plans, timescale
+updates and problems to Development Director.=20
+
+Essential Experience
+Required:=20
+
+=E2=80=A2 Exposure to the latest tools and technologies (Continuous
+Integration, Test Automation, DevOps) and a strong understanding of
+technology trends.=20
+
+=E2=80=A2 Strong experience working with a range of
+technologies, LAMP stack is essential.=20
+
+=E2=80=A2 Excellent understanding of
+software architecture for cloud / SaaS solutions and related technologies.=
+=20
+
+=E2=80=A2 Good standard of written and spoken English and Russian=20
+
+Desirable
+Experience: =E2=80=A2 Previous exposure to mentoring more junior developers=
+. =E2=80=A2
+Working with containerised applications / Docker.
+
+Desired skills:
+PERL
+
+LAMP (Linux operating system, the Apache HTTP Server, the MySQL
+relational database management system (RDBMS), and the PHP programming
+language)
+
+Engaging personality open to challenges
+
+Website for more information: http://www.getseennow.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/21494#contact

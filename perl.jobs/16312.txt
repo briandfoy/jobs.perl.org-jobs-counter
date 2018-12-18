@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16312
+Return-Path: <msprvs1=17869UfnxX6O4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24090 invoked from network); 27 Nov 2018 18:21:18 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 27 Nov 2018 18:21:18 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 32A9A11FCC1
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:18 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4E11411FCAE
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:14 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id EEBB511FCBF
+	for <jobs@perl.org>; Tue, 27 Nov 2018 10:20:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1543342858; i=@perl.org;
+	bh=xg+wLLbhkdVrJEAaFObe8xD5HlE9D5+nkr1nM70q3xY=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=QKpq6lFDMBR7ecCrq77jGs1RlhJt0WNvcIaxfkFsLnL2NT5JR3IaVE3OrSm3yF6Dp
+	 ZPKwV2ZF/pl2GoFTGjG2tcWkImVPfbFGZAKlR5aUTeQTpinwrUv0ZVO/J21/KFEzI6
+	 oQPcvrqZTrz4eYZtfR+rVmVq5T/+K2R5RszjilqY=
+X-MSFBL: V3lldnCkKbXtkavDAKlTPrGo6bh0e1wRlS6U0BrrL+g=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMGE4YmZ
+	kNWIzOWE1ODg3ZiIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54475] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66712 r(Core:4.2.40.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 88/F7-42297-A0B8DFB5; Tue, 27 Nov 2018 18:20:58 +0000
+Received: from [10.2.4.44] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gRhyj-0000F0-WA
+	for jobs@perl.org; Tue, 27 Nov 2018 18:20:58 +0000
+Date: Tue, 27 Nov 2018 18:20:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gRhyj-0000F0-WA@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.27.180317
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1300_1399 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?U2VuaW9yIFBlcmwgRGV2ZWxvcGVyIC0gwqM4MGsgKyBib251cyAo?=
+ =?UTF-8?B?NTAlIFJlbW90ZSB3b3JrKSAob25zaXRlKSwgTG9uZG9uLCBVbml0ZWQgS2lu?=
+ =?UTF-8?B?Z2RvbQ==?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16080
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2018
+
+Job title:
+Senior Perl Developer - =C2=A380k + bonus (50% Remote work)
+
+Company name: Open Select | osrecruit.com
+
+Internal ID: Snr Perl
+
+Location: London, United Kingdom
+
+Pay rate: =C2=A380k salary plus 15-20% Bonus
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+An award winning, leading financial application service provider, providing
+web based services to the top-tier financial institutions urgently need
+senior perl developers to develop, enhance, maintain and support the
+company=E2=80=99s hosted services. The applications delivering the services
+generally have an interactive user interface component delivered as dynamic
+web pages over the Internet as well as a series of significant server based
+data processing components.
+
+The role offers the opportunity to work in a
+small company setting with other highly skilled developers to produce high
+quality software where good work is both recognised and rewarded
+
+Website for more information: http://www.osrecruit.com/
+
+Contact information at:
+http://jobs.perl.org/job/16080#contact

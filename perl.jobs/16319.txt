@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16319
+Return-Path: <msprvs1=17869UfnxX6O4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24051 invoked from network); 27 Nov 2018 18:21:11 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 27 Nov 2018 18:21:11 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2488711FCC1
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:11 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,T_MONEY_PERCENT,URIBL_BLOCKED
+	autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4047611FC0E
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:07 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id AC06811FCDA
+	for <jobs@perl.org>; Tue, 27 Nov 2018 10:21:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1543342864; i=@perl.org;
+	bh=OVIIg8mj0/F7u4LwaAMf932XJTqSvjhPPpxYxtzIUu0=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=eFeChixBTPGhS3wI+7t3M9EsCbfzMwKsyFI0cG90uvNeDUvyioczHMt2CGssTnMck
+	 lFzh72NIeXCEeWYgi5BU5LbKnvQ/3SsDHlpTGdLzcd2MCT+vxgtOaAcircYPVCBkjF
+	 lTXT3gHZORkSsxsw3t8uyWTZ6BzaFG7G995hyKoU=
+X-MSFBL: 5ogCAuH5BLsd8zrOTO5bblnmXNTtDzHoRbxd2eJHLk4=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDAwMTA4YmZkNWIwMmI
+	2ZjE0ZCJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53636] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66712 r(Core:4.2.40.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 1F/D4-46594-01B8DFB5; Tue, 27 Nov 2018 18:21:04 +0000
+Received: from [10.2.2.51] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gRhyp-0000F4-7I
+	for jobs@perl.org; Tue, 27 Nov 2018 18:21:03 +0000
+Date: Tue, 27 Nov 2018 18:21:03 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gRhyp-0000F4-7I@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.27.180616
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, SUPERLONG_LINE 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_PAYMENT 0, __FRAUD_MONEY_VALUE 0, __FRAUD_PROPOSE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?UGVybCBEZXZlbG9wZXJzIChWYXJpZWQgTGV2ZWxzKSAtIFNhbGFy?=
+ =?UTF-8?B?aWVzIHVwIHRvIMKjODAsMDAwICsgNTAlIFJFTU9URSBXT1JLSU5HIChvbnNp?=
+ =?UTF-8?B?dGUpLCBMb25kb24sIFVuaXRlZCBLaW5nZG9t?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2018
+
+Job title:
+Perl Developers (Varied Levels) - Salaries up to =C2=A380,000 + 50% REMOTE
+WORKING
+
+Company name: OSR | www.osrecruit.com
+
+Internal ID: Dev/Architect
+
+Location: London, United Kingdom
+
+Pay rate:
+50% REMOTE WORKING (at managers discretion) | paying up to =C2=A380,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A fantastic organisation, a recognisable web based brand are urgently
+looking for a senior developer/architect. The successful candidate will be
+joining an existing team of Perl specialists committed to Perl based web
+development.
+=20
+The team works on server-side and web development projects,
+many of them of a critical nature since they handle financial transactions.
+This is not a pure coding role, but will require non-development aspects
+including supporting or implementing effective development processes, as
+well as interacting with the project management process to ensure work is
+delivered reliably
+and quality is high.
+=20
+Their platform is written
+entirely in Perl and built on PostgreSQL, so you should ideally have strong
+Perl skills and good knowledge of SQL and relational database principles,
+related technologies that would be beneficial include HTML, CSS,
+JavaScript.
+=20
+The perfect candidate would feel confident to mentor other
+members of the team and work to improve both code quality and process where
+problems are identified.
+
+Desired skills:
+- Commercial programming experience (min 3 years) - preferably but not
+necessarily Perl.
+- Familiarity with "modern" Perl: exposure to any of the
+following beneficial (Catalyst, DBIx::Class, Moose, Dancer, Mojilicious)
+-
+Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with
+jenkins/hudson or similar platforms would be helpful)
+- Strong
+communicator, able to discuss future projects as well as existing ones with
+members of staff with varying levels of technical understanding.=20=20
+- Good
+overall understanding of all aspects of server software deployment, from
+TCP/IP to HTTP to IO bottlenecks.=20
+- Understanding of secure software
+development techniques (especially, but not exclusively, as pertaining to
+web applications).
+
+- Ajax techniques
+- RESTful server API design=20
+- MVC
+web development
+- Linux systems administration
+- XML/SOAP/XSD.
+
+Website for more information: http://www.osrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/18096#contact

@@ -1,0 +1,142 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16286
+Return-Path: <msprvs1=178153raiYLFe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31463 invoked from network); 4 Oct 2018 19:08:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2018 19:08:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 55CC7123534
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:08:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9009311F721
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:08:28 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id E8BF7123534
+	for <jobs@perl.org>; Thu,  4 Oct 2018 12:08:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1538680099; i=@perl.org;
+	bh=/9T98zcAM+3/DGEE8DKsr+UZyyA6q8+h/beeqsw71QQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Vh+jZ33BPRz8VauMpftuDgdG3oxx2YlemNqe5MzuEcz4jEm20VwiMb/KBlrf/v4lV
+	 hsY2/KyRr3D1gt6wcOkFTJmxCRt2j4Lx4J/j97RrAUaMh5sntdakcvbPIFepeIMRES
+	 iYgGa3dr+qgofaIaq6rheZtAwA3eu4otIJz8rs28=
+X-MSFBL: OyGzDgh9K1siPAuVESV8L5UKh5ojw4pWIeWYqyV4jZA=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwidGVuYW50X2lkIjoic3BjIiwibWVzc2FnZV9pZCI6IjAwMDAyMzY
+	1YjY1YmMxOWIwMWE3IiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59908] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 10/7A-39873-32566BB5; Thu, 04 Oct 2018 19:08:19 +0000
+Received: from [10.2.1.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1g88yx-0000cb-C8
+	for jobs@perl.org; Thu, 04 Oct 2018 19:08:19 +0000
+Date: Thu, 4 Oct 2018 19:08:19 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1g88yx-0000cb-C8@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.4.190316
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21428
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 25, 2018
+
+Job title: Perl Developer
+
+Company name: Data Foundry
+
+Location: Austin, TX
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Data Foundry is looking for a senior-level software developer experienced
+in Perl, used with Apache and MySQL. This position is with one of the most
+important teams in our company: our Platform team that supports our billing
+and service management system. This team provides enhancements and
+integrations serving our customers as well as our Sales, Billing, and Data
+Center Operations teams.
+
+We don=E2=80=99t care if you have a college degree or if
+you are located in Austin, remote is ok for the right person. You must be
+able to show senior-level proficiency in Perl as well as critical thinking
+skills regarding software designs and development process. Our Platform
+team is small, so your feedback will influence a lot of decision-making.
+
+What makes you the perfect fit?
+
+You love Perl and would choose it to
+proof-of-concept an idea
+You like working with entire systems, and not just
+a part of a system
+You can grok code written by others
+You feel ownership
+over your code and its results
+Data Foundry is one of the premier regional
+data center operators in the world. Our customers include multiple Fortune
+5 companies, but we provide the same high-touch service to our smallest
+footprints. With the recent completion of our Texas 2 facility in Austin,
+TX, we are investing in the software and processes to further improve our
+customer experience. Join our team and help us make our excellent service
+even better!
+
+Responsibilities:
+
+Translate new feature requirements into
+conceptual and detailed technical designs
+Estimate development effort for
+feature designs
+Implement new feature designs and assist with testing
+Troubleshoot and resolve problems
+Mentor other developers through code
+review and direction
+
+Desired skills:
+Technical Requirements
+
+Perl =E2=80=93 senior-level experience
+Apache =E2=80=93
+configuration and relationship to web applications
+MySQL =E2=80=93 database
+querying and updates, including SQL joins and basic query optimization
+Linux =E2=80=93command line environment and tools
+Technical Desirables
+Git
+=E2=80=93branching and merging
+mod_perl =E2=80=93 basic handler structure and CGI scripting
+pitfalls
+HTML::Mason =E2=80=93 component best practices
+API design =E2=80=93 conceptual
+understanding of REST and GraphQL
+
+Website for more information: https://www.datafoundry.com/about-us/careers/
+
+Contact information at:
+http://jobs.perl.org/job/21428#contact

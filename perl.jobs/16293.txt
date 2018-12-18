@@ -1,0 +1,179 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16293
+Return-Path: <msprvs1=17823RSrJeTzd=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19280 invoked from network); 12 Oct 2018 19:03:18 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 12 Oct 2018 19:03:18 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2276E11F282
+	for <perlmail-jobs@onion.perl.org>; Fri, 12 Oct 2018 12:03:18 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 69B1F11F2DF
+	for <perlmail-jobs@onion.perl.org>; Fri, 12 Oct 2018 12:03:14 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 6F73511F282
+	for <jobs@perl.org>; Fri, 12 Oct 2018 12:03:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1539370981; i=@perl.org;
+	bh=DtIeBKPcLKu1CWBmAvIhJHkKvgSO43HLqu7pGGVKs0A=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Hzdc4NckFTOoa57jkc2DzpkKANVf8GJCjIF/j3JKrvtxANt3RMdFOmcNGAd+k1yaG
+	 cCdQmcssZSGCwi57/iL9rPNRwykLe02QGNQVKOnQr8o+12UundD+YUPKHhtOhpblVZ
+	 tIsnjmtTc76WT0GjGFOSKvCpoPLLGbJTpchbp1ho=
+X-MSFBL: ONiNv5izsn3ayiyjqL8eXjLIu2FjGqiz8jjj68yBYQc=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGU1ZWZjMDViZWQ0YjVhNDQiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59021] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66200 r(Core:4.2.39.66)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A5/44-19437-5EFE0CB5; Fri, 12 Oct 2018 19:03:01 +0000
+Received: from [10.2.1.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gB2iC-00013B-Lu
+	for jobs@perl.org; Fri, 12 Oct 2018 19:03:00 +0000
+Date: Fri, 12 Oct 2018 19:03:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gB2iC-00013B-Lu@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.12.185416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_PAPERWORK 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl QA (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21456
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  9, 2018
+
+Job title: Perl QA
+
+Company name: Global Resource Management Inc.
+
+Location: Houston, TX
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are presently conducting a search for a contract Software QA Engineer
+who is responsible for building CICD / QA processes/procedures, for
+building test plans/test cases, for executing functional, regression, and
+performance tests and for leading other QA resources across distributed
+teams.
+
+Position Summary
+We are looking for a candidate with:
+7+ years of
+experience in Software test and Software Quality Assurance (QA)
+3+ years of
+experience in QA management, prioritization, allocation and planning
+3+
+years in an Agile SDLC
+3+ years CICD
+4+ years Perl
+Must have experience in
+QA management and leading teams
+Ability to build relationships and
+implement change
+Experience in working with distributed teams
+Excellent
+verbal and written communication skills.
+Experience with Manual, API, Data,
+Performance, Regression, Functional, and Automated testing.
+
+Essential Key
+skills:
+=20
+Strong working experience in Agile QA Processes and Projects
+Knowledge in Testing tools like JIRA, Selenium, and various scripting tools
+Team Liaison experience - interfacing with remote and overseas QA teams
+Automation Testing experience
+Knowledge of Performance testing tools
+Database Testing
+Duties & Accountabilities
+Own SQA and Test activities and
+deliverables for multiple scrum teams.
+Provide support to Agile teams for
+estimating, planning, executing, monitoring & controlling test activities
+Review and recommend improvements to documentation eg. Test plans, Test
+cases, Test strategy
+Responsible for handling and providing escalations as
+necessary during the Software Test Lifecycle
+Own the continuous improvement
+of quality processes including, Required Documentation, Testing Processes,
+and the overall quality of the Agile teams software
+Monitor, and enforce
+all processes and Organizational testing standards
+Track and prepare
+reports on testing activities including testing results, test case
+coverage, required resources, defects reports, release status, performance
+baselines, etc.
+Review various reports prepared by QA/Test engineers to
+ensure on time quality client deliverables
+Provide daily/monthly/quarterly
+QA/Test metrics
+Interact with all levels and functions within the
+organization
+Provide leadership for offshore QA resources, system
+infrastructure support, test case/plan support, interfacing to development
+team support.
+Business Competencies
+Work with the Development teams to
+ensure product test requirements are meeting the highest standards
+Work
+closely with development and product groups to ensure deadlines are met
+Execute manual system tests when needed, and identify those that can be
+automated for regression purposes
+Assist with the running and reporting of
+automated regression test suites as needed
+Ensure defects and identified
+customer incidents are prioritized and dealt with, and that any new
+versions of software are released in a controlled and timely manner
+Accurately report test progress to the Dev Leads, PO, Dev Team Manager, and
+other stakeholders.
+Build custom test tools
+Personal Competencies
+
+High
+standard of written work
+Strong analytical and mathematical skills
+Open
+minded with a positive attitude, flexible and willing to adapt to changing
+situations
+Focused on delivery
+Self-starter, self-initiated learner
+Must be
+an excellent communicator both written and verbally
+Strong interpersonal
+skills
+Must be able to work in a team environment
+
+Desired skills: 3+ years as a Team Lead
+
+Website for more information: http://www.grmi.net/
+
+Contact information at:
+http://jobs.perl.org/job/21456#contact

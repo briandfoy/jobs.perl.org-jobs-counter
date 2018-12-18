@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16258
+Return-Path: <msprvs1=177555RSYvw4p=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8526 invoked from network); 5 Aug 2018 20:53:04 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Aug 2018 20:53:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 87A9D11F7D2
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:53:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D297A11F7D0
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:52:59 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 52E0911F7CD
+	for <jobs@perl.org>; Sun,  5 Aug 2018 13:52:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1533502378; i=@perl.org;
+	bh=DcQtw2yh0zRixqJHYBosbIK9OCd9qoF0rFvPh7L4pss=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=dbEnSjoEepbdu/5gjIor6TmAogGHll8PHKS2hROvjVzzSXUYiEUFuPhWl8p4aPoZJ
+	 B1DOCwTL0T/rGCBBenCtG7rorYlbg/r120HhREWZi8oBug3/+k8VVIunnn+B9MoJoJ
+	 yjw7HnYr5IHQI/QMF5BnrFk9c7E4AlxwQyvpOqA4=
+X-MSFBL: PLHIjqH1RD3rY3I3sGy7RJuCnp3ihwiezYULRE2aA1M=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwYWE2MzY3NWJlMWNjYzQ1ZSIsInRlbmF
+	udF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:33862] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65390 r(Core:4.2.39.50)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4C/E5-52449-AA3676B5; Sun, 05 Aug 2018 20:52:58 +0000
+Received: from [10.2.4.103] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fmQ1K-0000NJ-36
+	for jobs@perl.org; Sun, 05 Aug 2018 20:52:58 +0000
+Date: Sun, 5 Aug 2018 20:52:57 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fmQ1K-0000NJ-36@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.5.204516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?U2VuaW9yIFdlYiBBcHBsaWNhdGlvbiBFbmdpbmVlciAob25zaXRl?=
+ =?UTF-8?B?KSwgWsO8cmljaCwgU3dpdHplcmxhbmQ=?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21366
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2018
+
+Job title: Senior Web Application Engineer
+
+Company name: 20 Minuten
+
+Location: Z=C3=BCrich, Switzerland
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+F=C3=BCr unseren Webauftritt und das Redaktions-CMS suchen wir eine/n
+Applikationsentwickler/in (Perl) mit Weiterentwicklung Richtung Java /
+Golang
+
+In dieser abwechslungsreichen Funktion bist du mitverantwortlich
+f=C3=BCr das CMS der 20 Minuten Redaktion und die API f=C3=BCr unseren Weba=
+uftritt,
+die WebApp und die nativen Apps. Zudem begleitest Du Deine eigenen Projekte
+von A bis Z und stehst dabei im regen Kontakt mit Lieferanten mit dem
+Product-Owner und den anderen Scrum-Teams.
+
+Du bist ein
+verantwortungsbewusster sowie ziel- und l=C3=B6sungsorientierter Teamplayer=
+, der
+gerne seine eigenen Ideen einbringt und aktiv auf Menschen zugeht. Eine
+teilweise hektische Arbeitsumgebung im Newsgesch=C3=A4ft bringt Dich nicht =
+aus
+der Ruhe.=20
+Du hast eine Informatikausbildung oder verf=C3=BCgst =C3=BCber
+entsprechende Berufserfahrung. Deine bisherigen Leistungen z=C3=A4hlen f=C3=
+=BCr uns
+mehr als=20
+mitgebrachte Papiere.=20
+
+Es erwartet Dich ein unkompliziertes,
+humorvolles Team und eine offene Unternehmenskultur. Ein moderner
+Arbeitsplatz mit Linux, Mac oder Windows, sowie ein B=C3=BCro im Herzen der
+Stadt Z=C3=BCrich runden das Angebot ab.=20
+
+Da sich der Technologiestack bei uns
+in Zukunft stark =C3=A4ndern wird, hast du die M=C3=B6glichkeit in 1-2 Jahr=
+en dich
+Richtung Java oder Go weiterzuentwickeln (wir haben beides im Einsatz, du
+kannst w=C3=A4hlen).
+
+Desired skills:
+#!/usr/bin/perl=20=20
+- use strict;=20
+- use warnings;
+- phpMyAdmin ist f=C3=BCr
+Anf=C3=A4nger, wir benutzen die Konsole.
+- idealerweise hast du bereits
+vertiefte Erfahrung mit Linux, mindestens aber l=C3=A4sst du dich nicht von=
+ der
+Shell nicht abschrecken.
+- Projektleitungserfahrung von Vorteil=20
+-
+Grundkenntnisse von HTML/CSS/JavaScript
+- erste Erfahrungen mit Java oder
+Go (oder starkes Interesse an einer der beiden Sprachen)
+
+Website for more information: http://www.20min.ch
+
+Contact information at:
+http://jobs.perl.org/job/21366#contact

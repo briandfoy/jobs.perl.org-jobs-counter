@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16267
+Return-Path: <msprvs1=17766WyJlH7p1=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30559 invoked from network); 16 Aug 2018 19:43:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Aug 2018 19:43:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CF51D120080
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:43:27 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8E1A5120DD2
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:43:25 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id AF0CA120080
+	for <jobs@perl.org>; Thu, 16 Aug 2018 12:43:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1534448601; i=@perl.org;
+	bh=RXHF3P7jWSsJ60SPHeJvP3cFjQ3G6SEQ/QPAcXldDU8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=ZZwksfC/Y+0kiU8G9S86O1dSXXGPSqJMLzcQCYSchgnJiGdcqVj+hIZyO+uTjGKAp
+	 wbwyqVVdurHHKmyOiyLOeX+Gd/k+2dB68koEbUnMFbiwcde54L3kZy/1GkXboLVWBb
+	 ED9D/fqsxU0pK8MQjFb5b/fnDasztufj2CSS/fGI=
+X-MSFBL: zaPx+a3aGfj0e59ooRxeyrNUsjIj4EWpFHc/S7sxo1U=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwZDlkMzc
+	1NWIwNjE5MzZjMiIsInN1YmFjY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:54346] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65443 r(Core:4.2.39.51)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 63/2C-06406-9D3D57B5; Thu, 16 Aug 2018 19:43:21 +0000
+Received: from [10.2.3.69] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fqOAy-0000XP-V8
+	for jobs@perl.org; Thu, 16 Aug 2018 19:43:21 +0000
+Date: Thu, 16 Aug 2018 19:43:20 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fqOAy-0000XP-V8@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.16.193617
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, ECARD_WORD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Software Engineer (telecommute), anywhere USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21388
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 12, 2018
+
+Job title: Software Engineer
+
+Company name: Vindicia
+
+Location: anywhere USA
+
+Pay rate: BOE
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Vindicia is a market-leading provider of software-as-a-service (SaaS)
+subscription management and payment solutions. Vindicia makes it easy,
+flexible and frictionless for digital enterprises to onboard customers and
+process payments for digital content, over-the-top (OTT) entertainment,
+online subscriptions and on-demand services. Utilizing cloud-based
+operations for greater business agility, Vindicia's ultra-fast time to
+market allows customers to easily experiment with various service offerings
+and pricing schemes to quickly introduce offers and attract new users. In
+addition, Vindicia's advanced retention capabilities reduce user churn and
+increase top-line revenue for online service providers.
+
+Vindicia 2018
+Award!
+https://www.amdocs.com/blog/amdocs-voices/vindicia-earns-card-not-present-j
+udges-choice-award-best-subscription-recurring
+
+Vindicia is seeking a
+highly motivated Sr Software Engineer who has significant experience
+designing, implementing, and diagnosing/debugging complex applications. You
+will be responsible for writing server-side code with occasional minor
+front-end responsibilities. You will also recommend and implement changes
+to the software that will enable us to optimize, scale and grow.
+
+Responsibilities include:
+=E2=80=A2  Write robust production-ready server-side code
+for web-based applications
+=E2=80=A2  Design and plan the implementation, including
+documenting and presenting that design
+=E2=80=A2  Coordinate with PMs and client
+services to validate and maintain project requirements
+=E2=80=A2  Develop and
+execute unit tests, interact with QA department to coordinate testing
+activities
+=E2=80=A2  Estimate and meet timelines for development releases
+=E2=80=A2  Lead
+small teams of engineers on larger projects as needed
+=E2=80=A2  Proactively
+participate in maintaining team standards and best practices
+-------------------------------------------------------------------
+
+Desired skills:
+=E2=80=A2 4+ years of experience developing in Object Oriented Perl=20
+=E2=80=A2 2+ years of
+experience with Oracle, SQL, and Linux/Unix
+=E2=80=A2 Solid knowledge of
+development methodologies and project life cycles
+=E2=80=A2 Excellent
+interpersonal, written and verbal  skills
+=E2=80=A2 Experience working remote
+=E2=80=A2
+Strong analytical skills
+
+Website for more information: http://www.vindicia.com
+
+Contact information at:
+http://jobs.perl.org/job/21388#contact

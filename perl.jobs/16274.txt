@@ -1,0 +1,153 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16274
+Return-Path: <msprvs1=177828T_Ei1f2=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22804 invoked from network); 1 Sep 2018 17:36:50 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 1 Sep 2018 17:36:50 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 4E68311F3EF
+	for <perlmail-jobs@onion.perl.org>; Sat,  1 Sep 2018 10:36:50 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9311D11F3CA
+	for <perlmail-jobs@onion.perl.org>; Sat,  1 Sep 2018 10:36:46 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 6CB1911F3F0
+	for <jobs@perl.org>; Sat,  1 Sep 2018 10:36:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1535823404; i=@perl.org;
+	bh=3v0yoJIj+2AIt/I87yrxbhHasqBxTJP/ajygl74v+xQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=bR5RIajMCR4+LkWZa66mueib76Nq/5g062/V+WA8JFGMH5ZjlVP6I3Xfuec6yZxwn
+	 iFYBxPy7TDY0R8kocIkDpFnJK9x405InSmBtHx+aYF9qkJZgg2BfztQ0VGqxLW2V65
+	 j7ytLwPmgX6BOOz6c26ibMcXQAg+gkiGkd65YQ1g=
+X-MSFBL: m9Hnht4HwiK0vMF7vDXqhAaOT6mIUuc944D31Nnf6ms=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDAyYmNlOGE1YjFjMTQwY2JiIiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58571] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65727 r(Core:4.2.39.55)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id C0/BB-05148-B2ECA8B5; Sat, 01 Sep 2018 17:36:43 +0000
+Received: from [10.2.3.15] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fw9pC-0000lV-M5
+	for jobs@perl.org; Sat, 01 Sep 2018 17:36:42 +0000
+Date: Sat, 1 Sep 2018 17:36:42 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fw9pC-0000lV-M5@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.9.1.172416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_PREDICATE 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Full Stack Developer (part onsite), Remote or London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21404
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  1, 2018
+
+Job title: Full Stack Developer
+
+Company name: NewsNow
+
+Location: Remote or London, UK
+
+Pay rate: =C2=A340-=C2=A355k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+NewsNow is a rare beast: a UK-based =E2=80=98dot com=E2=80=99 success story=
+; a publisher
+and technology company running the extremely successful news aggregation
+platform NewsNow.co.uk.=20
+Founded in 1997 to democratise and disrupt the
+market for news, NewsNow has built up a solid brand and huge user base. Our
+news product is driven by a unique hybrid of technology and editorial,
+unlike any other news outlet.
+We are now searching for a London-based or
+Remote Full Stack Developer to join our highly-experienced and
+multi-disciplinary product development and engineering team. In this role,
+you will be involved in enhancing the functionality of the website and
+improving our codebase and infrastructure through both client-side and
+server-side development.  Our priorities for 2018 and beyond include:
+
+The
+biggest product overhaul in our 20 year history.
+Launching a US version of
+the site, NewsNow.com.
+Continued evolution of our pioneering ad stack.
+
+As
+a Full Stack Developer, you will be expected to contribute authoritatively
+towards product development projects throughout the entire software stack:
+from database and infrastructure installation and configuration, through
+writing business logic and prototyping presentation.
+You will also be
+expected to review others=E2=80=99 code and play a role in administering our
+systems and keeping NewsNow running 24/7.
+
+At NewsNow, product development
+is a team sport. So you'll also be invited to collaborate with other
+members of our product development and engineering team in conceiving
+development efforts, researching and specifying planned product
+enhancements.
+
+Desired skills:
+The NewsNow website is powered by clean, well-crafted, object-oriented
+Perl. We=E2=80=99re looking for a passionate Perl developer with web experi=
+ence to
+join our agile and talented engineering team.
+
+As most of our stack is
+written in Perl, we are naturally looking for someone who is an OO Perl
+developer. However, the role may also suit a candidate with OO skills in
+another high-level language, as well as a willingness to learn.
+Additionally, you will have prowess in HTML5, CSS3 and JavaScript, as well
+as knowledge of MySQL/SQL.
+You=E2=80=99ll have a keen eye for detail, and excellent
+written and verbal communication skills.
+You=E2=80=99ll be able to demonstrate an
+understanding of the principles behind great software design, allowing you
+to write code that=E2=80=99s clean, fast and scalable.
+You=E2=80=99ll also have a track
+record of remote working or working with remote team members.
+
+We are
+looking for someone who is open to new technologies, but isn't a slave to
+them - you relish crafting elegant solutions to hard technical problems,
+whatever tool is best.
+
+Ideally you will be UK-based and have experience of
+working remotely, or with remote teams, and will be the kind of person who
+thrives in a small, open and collaborative team.=20
+
+Finally, if you're also
+passionate about any areas of news or sport, then this could really be the
+company for you.
+
+Website for more information: http://www.newsnow.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/21404#contact

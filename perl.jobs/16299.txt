@@ -1,0 +1,233 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16299
+Return-Path: <msprvs1=17839i3dDNO3P=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 838 invoked from network); 28 Oct 2018 18:08:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 28 Oct 2018 18:08:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 2285811EB56
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 Oct 2018 11:08:38 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 85A8E11ECCC
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 Oct 2018 11:08:34 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 67E0B11EB56
+	for <jobs@perl.org>; Sun, 28 Oct 2018 11:08:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1540750111; i=@perl.org;
+	bh=8SH9argKwPcB0SjJlZQ76m93FHOz3f9huV6hkqeHSYI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=QFb9tgQJgNsbN/a87tEBK+nsDFWBwbtAfqB0k2gPCWBdRViRlW+iv6Nk/q+q5sPf3
+	 xecPRxjM5DCiAsZ8nzzE7Q3pdRL7yUHp2Poduz3ZtT80pLiPtP+gEEZ4FctHzVeDr/
+	 Cnr9MAt+81nTX9zNrt2lssHproC9mMimmjr3xD6U=
+X-MSFBL: yXfBxt1eCpkF9wH3V7jAH05YhbKP/f88fjQDaT2nK1I=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDFmZmJkNTViMGZmNGMyNWMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:51317] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66403 r(Core:4.2.40.1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 2C/C5-62479-F1BF5DB5; Sun, 28 Oct 2018 18:08:31 +0000
+Received: from [10.2.1.128] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gGpUF-0000CT-Fa
+	for jobs@perl.org; Sun, 28 Oct 2018 18:08:31 +0000
+Date: Sun, 28 Oct 2018 18:08:31 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gGpUF-0000CT-Fa@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.28.180316
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ FRAUD_X3_LARGE_BODY -1, FRAUD_X3 1, REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_6000_6999 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FRAUD_JOB 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __INT_PROD_LOC 0, __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_6 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Developer, London or Europe
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21414
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 28, 2018
+
+Job title: Perl Developer
+
+Company name: Adzuna
+
+Location: London or Europe
+
+Pay rate: =C2=A325-60k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Perl Developer - remote Europe or London    =C2=A3neg + stock options
+
+About us:
+Adzuna is a job search engine that lists every job, everywhere. From launch
+in the UK in 2011, we now have more than 10 million visitors a month and
+are busy conquering the world from our office in West London. Right now,
+we're seeking an experienced Perl Developer to join our world class tech
+team in helping millions of people find better, more fulfilling jobs.
+
+The
+role:
+Our engineering and product teams are pivotal to Adzuna's future.
+It's an exciting time as we scale our existing product offering and also
+innovate with new tools and user experiences that 'surprise and delight'
+our audience, like ValueMyCV, which we're really proud of. Our
+infrastructure is built around industry-standard open-source tools and runs
+on distributed clusters, supporting 16 internationalised Adzuna websites,
+as well as the 'Find a job' portal that we run on behalf of the UK
+Government.
+
+Based in our great Fulham office, (or remotely) you will work
+with a smart team of back end, dev/ops, data science/machine learning and
+product specialists, overseeing all aspects of our operations, ranging from
+powering our international websites, aggregating classifieds from thousands
+of external sources, to crunching job market data to power our statistics
+and applying machine learning algorithms to enhance job seekers=E2=80=99
+experience.=20
+
+At Adzuna you will work independently in a fast-moving,
+low-structure environment where you will have the opportunity to help shape
+our technical direction and processes as we grow. An appreciation of the
+=E2=80=98DevOps=E2=80=99 movement is essential as we manage and monitor the=
+ systems
+ourselves. Vitally, you=E2=80=99ll value the importance of building structu=
+red code
+that is fast, scalable, reliable and robust.=20
+
+The projects you will work
+on will include new search features, relevancy and matching algorithms,
+APIs and =E2=80=98big data=E2=80=99 analysis, reporting tools and features =
+to enhance the
+job search experience on Adzuna. Our systems have been built to scale, and
+you will be able to demonstrate your experience in writing scalable code
+running in distributed environments.=20
+
+Our opportunity offers the chance to
+build something to be proud of, whilst becoming a part of one of the
+fastest growing businesses in Europe. We offer a supportive working
+environment, with an emphasis on team-working, mentoring and training. It's
+fun and fast moving. Join us!
+
+What we offer:
+=C2=A335k-=C2=A340k if remote UK
+=C2=A325-=C2=A340k if remote Europe
+=C2=A350-=C2=A360k if based in our London offices
+Stock
+options
+25 days holiday
+Cycle to work scheme
+Childcare vouchers
+A positive
+attitude towards flexible working and parental leave
+A values-based culture
+Company contributory pension scheme
+Huge learning opportunity from smart,
+experienced colleagues
+Table tennis table and a program of team social
+events
+Bright, airy office with roof terrace, in the heart of bustling
+Fulham Broadway
+
+
+More about Adzuna:
+
+Adzuna=E2=80=8B is a search engine for job
+ads used by over 10 million visitors per month that aims to list every job,
+everywhere.  We search thousands of websites so our users don't have to,
+bringing together millions of ads in one place. By providing smarter search
+options and powerful data about the job market, we give jobseekers the
+information they need to take control of their careers.
+
+Adzuna.co.uk=E2=80=8B was
+founded in 2011 by Andrew Hunter and Doug Monro, formerly of eBay, Gumtree,
+Qype and Zoopla and is backed by leading Venture Capital firms Passion
+Capital, LocalGlobe, Index Ventures and Smedvig Capital.
+
+We also supply
+real-time data to the Number 10 Dashboard and Office for National
+Statistics labour market indices. In 2018, Adzuna won the contract to run
+=E2=80=98Find a job=E2=80=8B=E2=80=99, one of the British government=E2=80=
+=99s most used online services.
+
+Adzuna=E2=80=99s mission is to be the best place to start looking for a job=
+.  We
+love using the awesome power of technology to help match people to better,
+more fulfilling jobs and keep Britain working.
+
+Desired skills:
+We don't like to put people in boxes, but you're likely to be able to
+demonstrate much of the below:
+
+Experience in partnering with other
+developers and data scientists to improve existing systems and develop new
+functionality and tools=E2=80=A8
+Able to analyse business and technical
+requirements and develop solutions, taking into account variable aspects,
+such as performance, scalability, ease of maintenance and cost.
+Proven
+ability to help refactor existing processes and workflows to improve
+efficiency
+Experienced in interested in participating in R&D of new
+technology trends and tools
+Passion for, or ambition to, assist and mentor
+other members of our development team
+
+
+Technical competency and tools
+
+4+
+years with high-volume/high-traffic applications/sites=20
+Excellent
+Object-Oriented Perl, preferably including Moose=20
+Strong SQL (ideally
+MySQL) and DBIx::Class=E2=80=A8
+Experience with unit and functional testing
+(Test::More etc.)=20
+Good experience with Unix/Linux=20
+Version control
+systems, ideally Git=E2=80=A8
+Solid understanding of application data flow and
+lifecycles=20
+Strong attention to detail=20
+Useful extra skills / experience:=20
+Solr, Lucene, ElasticSearch or other search engine=20
+Templating frameworks
+(ideally Template Toolkit)=20
+Classified ads / vertical search websites
+Varnish, nginx, PSGI/Plack, Apache httpd, FastCGI=20
+Spidering technology=20
+Search technology and search engine optimisation=E2=80=A8
+Cloud infrastructure and
+tools (AWS preferred)=E2=80=A8
+Chef (pref), Puppet or an equivalent=E2=80=A8
+Gearman or
+other distributed queueing/messaging frameworks=20
+Unicode and
+internationalisation=20
+Machine learning / neural nets=20
+Python
+
+Website for more information: http://www.adzuna.com
+
+Contact information at:
+http://jobs.perl.org/job/21414#contact

@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16255
+Return-Path: <msprvs1=177555RSYvw4p=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8584 invoked from network); 5 Aug 2018 20:53:18 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Aug 2018 20:53:18 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 50CC11219CB
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:53:18 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 418B567010
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:53:14 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 850BF11F7D2
+	for <jobs@perl.org>; Sun,  5 Aug 2018 13:53:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1533502386; i=@perl.org;
+	bh=xnDYgNKRpan0ORm/4Yn0VsmUfjR+SQ1WmmiItE9JZcE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=bdjEFwJ4bPGDot87YFvPm8BUzVs1dnWoalRkB0EO3yAr+wE62ryGZth/DaiydY7wh
+	 cIZu4AkMm/X5FIVNWEMx94WmM/usVmsgHmBH+y3pnKrAAHp+HB3qfXqb8qz3QegT2J
+	 OasTDmvZ/rWbUhY23uIAUdeAn7oHvPbX6ZDBcFe4=
+X-MSFBL: grElp+qj8ip6TqY/WLxJABrQKB9RNo+aQSgwi0rwh0I=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMGIyNjM2NzViZTFjY2IyNWYiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJjdXN0b21
+	lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:34392] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65390 r(Core:4.2.39.50)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 2B/F5-52449-2B3676B5; Sun, 05 Aug 2018 20:53:06 +0000
+Received: from [10.2.4.103] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fmQ1R-0000NR-2I
+	for jobs@perl.org; Sun, 05 Aug 2018 20:53:05 +0000
+Date: Sun, 5 Aug 2018 20:53:05 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fmQ1R-0000NR-2I@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.5.204516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Perl Programmer (telecommute), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2018
+
+Job title: Perl Programmer
+
+Company name: Goldstar Learning, Inc.
+
+Location: Chicago, IL
+
+Pay rate: Based On Experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Our rapidly growing Chicago based Education Software Company is looking for
+a Perl developer to join our group. We provide K-12 educators with web
+based programs that assist them in raising student achievement by providing
+real-time access to student achievement data used to shape their
+instruction.=20
+
+We are looking for someone with a talent for tracking down
+problems, finding timely and effective solutions, and navigating their way
+through a legacy code base. This person needs to be organized,
+self-motivated, an effective team player, and experienced in handling
+time-critical production application issues.
+
+Although working onsite is
+preferred, it is not a requirement as our priority is to have the most
+qualified talent join our team.  Off-site candidates must be available
+during normal business hours CST (UTC-6).
+
+Desired skills:
+The following skills are required:=20
+
+* Perl, SQL, CSS, HTML,
+JavaScript/jQuery=20
+* Full Stack Development both Front and Backend=20
+*
+Revision Tracking Systems (Git)=20
+* Catalyst, DBIx::Class=20
+* Customer
+Focused with strong solution-oriented approach=20
+
+Huge plus if you are a
+full stack developer with any of these added skills: Sys Admin, Ruby,
+Docker, AWS or PostgreSQL experience.
+
+The following education is required:
+
+=E2=80=A2 BS or comparable experience
+
+Contact information at:
+http://jobs.perl.org/job/19546#contact

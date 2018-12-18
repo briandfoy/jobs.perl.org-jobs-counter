@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16241
+Return-Path: <msprvs1=17735dqWGDCgi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17172 invoked from network); 16 Jul 2018 12:53:10 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Jul 2018 12:53:10 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B13A011FB3E
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:53:10 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id ADAF811FBC2
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:53:08 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id F394F11FB3E
+	for <jobs@perl.org>; Mon, 16 Jul 2018 05:53:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1531745586; i=@perl.org;
+	bh=bytvy4LtopDvZt8Jiy7lEUDIt5sb/uwyKzbvSph2eOE=;
+	h=Date:To:From:Subject:Reply-To;
+	b=jVbmqrNI8k9VUycxfEw9OWbHn6I9H+XjiKcFm1W8fwcwjwdoKChoI0QIe75ZMkfEr
+	 mpBumoqv89+2QEwC4sy3al51N/St/ure/KdCMXHnvd1emvRtl8dGrOVt44et+HVKhL
+	 WzmAqHSuQ6nx7z+Bt75PB6Kq26UbDKOD6q19dgPc=
+X-MSFBL: atBslmhUpu8xLsGnDDrVT4QHqwjuLvj7RqwPr/CxbSY=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMzI5NTRjNWI1NDJiM2Y2OCIsInIiOiJ
+	qb2JzQHBlcmwub3JnIiwidGVuYW50X2lkIjoic3BjIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:56073] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65114 r(Core:4.2.39.45)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id F3/86-11092-2359C4B5; Mon, 16 Jul 2018 12:53:06 +0000
+Received: from [10.2.1.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ff2zx-0000PC-US
+	for jobs@perl.org; Mon, 16 Jul 2018 12:53:06 +0000
+Date: Mon, 16 Jul 2018 12:53:05 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ff2zx-0000PC-US@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.16.124516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_ONLINE 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS ,
+ __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Software Engineer (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21358
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2018
+
+Job title: Perl Software Engineer
+
+Company name: Circonus, Inc.
+
+Location: United States
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Our Software Engineers focus on the design, development and overall
+lifecycle of our software products. You=E2=80=99ll join a team of high-perf=
+orming
+engineers who strive to improve Circonus=E2=80=99s monitoring and analytics
+platform.
+
+As a Software Engineer you=E2=80=99ll be expected to operate
+independently, though your day-to-day will often involved working working
+with a small team to create, support, and deploy production applications.
+
+In particular, we=E2=80=99re seeking someone with relevant experience to ta=
+ke over
+development and maintenance of our existing web application. Prior
+experience with such efforts is strongly preferred - please mention it
+directly within your cover letter.
+
+Responsibilities
+- Work in the office
+or remotely, or both (but not at the same time)
+- Maintain and document the
+existing Perl based Circonus web application
+- Develop and support back-end
+systems and support tools
+- Implement customer requests including API
+features and tool requests
+- Find and address software errors and bugs
+-
+Improve deployment, utility, observability, and operability in everything
+you do
+- Find and address bottlenecks and performance issues across the
+application stack
+- Unit, functional, and performance testing of produced
+deliverables
+- Work with Product team to ensure high quality deliverables
+-
+Participate in peer review during design, coding and testing
+
+Desired skills:
+Qualifications
+- 3-5 years experience building, testing, and deploying high
+quality, highly reliable, scalable application servers
+- Strong server-side
+development experience with Perl and working knowledge of mod_perl, this is
+mandatory, please do not apply if you don't have real world Perl experience
+- Strong knowledge and experience with a RDBMS (PostgreSQL preferred)
+-
+Understanding of Unix-based software development environments
+-
+Understanding of message queues
+- Passion for quality-oriented software
+development best practices including unit and functional testing,
+automation, continuous integration, and low-dependency architectures
+-
+Comfortable working with git and GitHub for version control, including
+opening/reviewing pull requests and distributed branching models
+-
+Experience working with project management software such as JIRA
+-
+Excellent analytical, problem solving, and debugging skills
+- Excellent
+written and oral communication skills
+
+Website for more information: https://www.circonus.com/
+
+Contact information at:
+http://jobs.perl.org/job/21358#contact

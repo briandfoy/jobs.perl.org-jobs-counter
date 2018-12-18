@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16283
+Return-Path: <msprvs1=17816lT6DNUeZ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10641 invoked from network); 5 Oct 2018 21:14:22 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Oct 2018 21:14:22 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8742D11DE58
+	for <perlmail-jobs@onion.perl.org>; Fri,  5 Oct 2018 14:14:22 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5D95711DFE3
+	for <perlmail-jobs@onion.perl.org>; Fri,  5 Oct 2018 14:14:20 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id CD78E11DE58
+	for <jobs@perl.org>; Fri,  5 Oct 2018 14:14:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1538774054; i=@perl.org;
+	bh=21obpzN+6gmDvwLTzBi23p7QATidgrDN+qmZJnZ/Nf8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=BcyiU6FconAGfnyFTd1uBnROEXrDPsMrCAj8h6eOmYbM91VHnNgRjvwGzmC9MnvyO
+	 5z5+oFpC/efN3dsF+Y7dSZQgkmxWGwsZB74r3N8OmN+G3rHJ9eEV5rmnezFiutc+Ll
+	 iRa/KssMzN6Fz8QWtx8+5UFUdztzVWfG249YcYKA=
+X-MSFBL: RpeP0cl8CMmStg5GsA8DlP2WTcuO86tGu2rG0R24n+c=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJtZXNzYWdlX2lkIjoiMDAwMDI
+	2ZDRiNzViMTRkMTM0MDMiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:61054] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 43/30-53524-624D7BB5; Fri, 05 Oct 2018 21:14:14 +0000
+Received: from [10.2.4.242] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1g8XQL-0000gd-N9
+	for jobs@perl.org; Fri, 05 Oct 2018 21:14:13 +0000
+Date: Fri, 5 Oct 2018 21:14:13 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1g8XQL-0000gd-N9@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.5.210616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Perl Programmer (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  5, 2018
+
+Job title: Perl Programmer
+
+Company name: Global Resource Management Inc.
+
+Location: Houston, TX
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+What You=E2=80=99ll Be Doing:
+
+=20
+
+Implementation of software components and modules
+based on specifications and designs provided by team leads and software
+designers
+Unit, integration, system testing of implemented software
+components
+Code review of other engineer=E2=80=99s work to maintain quality of code
+and best practices
+Participate in team agile process planning and review
+sessions
+Participate in team retrospectives of processes and procedures and
+suggest improvements where identified
+Support other team members when they
+need assistance in completing high priority work tasks
+Continuously growing
+and developing software engineering skills to be able to take on more
+complex problems going forward
+
+Desired skills:
+What You Bring to the Table:=20
+
+2-5 years of Software
+Engineering/Development experience with the Perl programming language
+2-5
+years of experience with SQL
+Exposure to and experience with additional
+software development languages such Python, Java, C, Scala, Go, Ruby
+desirable
+Have a good understanding of core software engineering
+principles.
+Exposure to and basic understanding of Unix
+environments/systems
+Exposure to and basic understanding of jQuery,
+Javascript, HTML, CSS
+Exposure to and basic understanding of Web
+application design
+Basic understanding of data structures
+Basic
+understanding of need to follow coding standards
+Basic understanding of
+code optimization principles
+Ability to stay on task and focused on
+delivering solutions as committed to
+
+Website for more information: http://www.grmi.net/
+
+Contact information at:
+http://jobs.perl.org/job/21446#contact

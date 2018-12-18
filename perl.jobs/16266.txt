@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16266
+Return-Path: <msprvs1=17766WyJlH7p1=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30608 invoked from network); 16 Aug 2018 19:44:09 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Aug 2018 19:44:09 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 07862120080
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:44:09 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8B82F120DD2
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:44:06 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 01466120080
+	for <jobs@perl.org>; Thu, 16 Aug 2018 12:44:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1534448645; i=@perl.org;
+	bh=aX9DMevdWMHaRl/7EKYF9ydgmhLgc75pni2S3OPHJgM=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=QcB0x4xbysq3Sq+YKdGuzMaMI7ndqhTJgaWJ61f4C/4hudbsDeR+y/dGw9RNY2TTN
+	 F7aJVTIj3fKBM5JD5UFJYK+BakKCEiYv7+GYTNoCAutpKLviszOt1mdX/isfP5HqSE
+	 BJK+wECKd9rI/+WVqnkQJC5DsX81Sb4IUYRKHSO0=
+X-MSFBL: cijiZ+2XeycXnHp7tLi8nl5wMDs7hWQT7rhdCPFLL/0=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMDVkNDc1NWIwNjE
+	5OGRjZSJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53571] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65443 r(Core:4.2.39.51)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id D8/EC-06406-504D57B5; Thu, 16 Aug 2018 19:44:05 +0000
+Received: from [10.2.5.64] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fqOBg-0000XX-JK
+	for jobs@perl.org; Thu, 16 Aug 2018 19:44:04 +0000
+Date: Thu, 16 Aug 2018 19:44:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fqOBg-0000XX-JK@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.16.193617
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1600_1699 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?V29yayB3aXRoIFBlcmwsIEdvIGFuZCBQeXRob24gZm9yIG9uZSBv?=
+ =?UTF-8?B?ZiBMb25kb27igJlzIHN0cm9uZ2VzdCBicmFuZHMgKG9uc2l0ZSksIExvbmRv?=
+ =?UTF-8?B?bg==?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21392
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 13, 2018
+
+Job title:
+Work with Perl, Go and Python for one of London=E2=80=99s strongest brands
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Some of us are so curious by nature that we can=E2=80=99t stop learning thi=
+ngs, you
+might have started with Perl and gotten really good at it but that wasn=E2=
+=80=99t
+enough, not when there=E2=80=99s fun new things emerging every day! And our=
+ client
+is looking for someone just like that, who is not afraid to jump into a Go
+code base or work some Python when needed.
+
+Desired skills:
+This position calls for a senior developer who loves teamwork and generally
+has the following skill set:
+
+    Good knowledge of Perl but not
+necessarily all the modern tools
+    Proficiency with Go programming
+language, its paradigms, constructs, and idioms
+    Being comfortable with
+Python - preferable with experience with frameworks such as django.
+    An
+understanding of databases  - in particular MySQL and NoSQL databases such
+as Google BigTable.
+    Basic knowledge of Linux systems administration.
+
+And it would be nice to have some knowledge of Javascript, PHP and Google
+Cloud Platform.
+
+Website for more information:
+https://perl.careers/jobs/work-with-perl-go-and-python-for-one-of-londons-s
+trongest-brands/
+
+Contact information at:
+http://jobs.perl.org/job/21392#contact

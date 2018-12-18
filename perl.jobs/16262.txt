@@ -1,0 +1,165 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16262
+Return-Path: <msprvs1=17761msQZPURa=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14149 invoked from network); 11 Aug 2018 22:38:35 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 11 Aug 2018 22:38:35 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3BBC611F22E
+	for <perlmail-jobs@onion.perl.org>; Sat, 11 Aug 2018 15:38:30 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5B37611F2FD
+	for <perlmail-jobs@onion.perl.org>; Sat, 11 Aug 2018 15:38:26 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 8FA9E11F22E
+	for <jobs@perl.org>; Sat, 11 Aug 2018 15:38:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1534027105; i=@perl.org;
+	bh=3zYW1dB3G2d1jfJufu71OGZDHc3sB9uVzxyV0sJS6Sw=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=OOQOPrHukTK6vdsjdxzQxHgZlMJadS7bj9BjGvsk+1fnnN9a9twpMxs7b9Pury11A
+	 +oGRD773eWQbG04yCic9UuIlv4upOeebdD14fK6GWxtW6I7r8Q1Vk6fkhHmOxUg5wN
+	 F34FaJ6LSkxmbW+XghnzvThRKntu11uHsxXWr6NQ=
+X-MSFBL: rOLQrmUdrzTOf0xrPk1RMKgTG1z1yMewKRdiKIVdAQQ=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDYwNjU2ZjViYWE0MThhMTUiLCJyIjoiam9ic0BwZXJsLm9yZyIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50082] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65443 r(Core:4.2.39.51)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id A8/51-16810-0656F6B5; Sat, 11 Aug 2018 22:38:25 +0000
+Received: from [10.2.5.64] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1focWe-0000Hj-93
+	for jobs@perl.org; Sat, 11 Aug 2018 22:38:24 +0000
+Date: Sat, 11 Aug 2018 22:38:24 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1focWe-0000Hj-93@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.11.223017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Software Engineer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2018
+
+Job title: Software Engineer
+
+Company name: MediaAlpha
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+MediaAlpha provides the technology infrastructure for the industry's first
+and only ecosystem of advertising exchanges for native search and
+metasearch media. MediaAlpha=E2=80=99s technology transparently connects bu=
+yers and
+sellers to create efficient, programmatic marketplaces for performance
+media targeting consumers at the point of purchase across leading brand,
+metasearch, and comparison sites. The Company=E2=80=99s technology platform=
+s power
+over 50 million high-value transactions annually, representing more than
+$400 million in annual media spend across the insurance, travel, personal
+finance, education and home service verticals.
+
+The MediaAlpha team is
+composed of talented and conscientious individuals who share a passion for
+doing great work and a pioneering spirit to identify new solutions that
+continually keep our company and our partners one step ahead. We have dual
+headquarters in Redmond, WA and Los Angeles, CA, with offices in Seminole,
+FL, Carson City, NV and London, UK.
+
+We are looking for a talented Software
+Engineer to join our technology team. As a Software Engineer at MediaAlpha,
+you will take part in all aspects of the software development lifecycle.
+This includes working with stakeholders in fixing and improving our
+MediaAlpha Exchange Product and testing new features and integrations. The
+ideal candidate will enjoy designing, implementing, and scaling systems
+that process tens of thousands of high-value transactions a day, while also
+producing elegant and readable code.
+
+Desired skills:
+Responsibilities
+
+Own the full software development lifecycle of
+implementing high-performance ad serving software.
+Integrate our products
+with our partners.
+Perl code development in a Linux environment, on Amazon
+EC2, leveraging also S3, CloudFront and Route 53.
+Work as a member of the
+team, jumping in to help out and resolve routine issues.
+Be part of a team
+that maintains and supports our live MediaAlpha Exchange product.
+
+
+Requirements
+
+3+ years experience in software development.
+Substantial Perl
+development experience in Unix/Linux operating environments.
+Experience
+using web APIs.
+Strong programming skills including software engineering
+methodologies and best practices.
+Ability to write elegant and readable
+code.
+Ability to maintain live production systems.
+A self-starter,
+comfortable with ambiguity and ability to problem solve while paying
+careful attention to detail.
+Strong programming skills including software
+engineering methodologies and best practices.
+Experience working with
+engineers and non-technical stakeholders.
+Be a champion of instilling
+excellence in coding and quality into the team and culture.
+Ability to
+articulate and communicate clearly, concisely, and thoughtfully.
+Organized
+and self-motivated.
+Amazon EC2 experience a plus.
+B.S. required, preferably
+in a technical discipline (e.g., computer science).
+
+
+Compensation
+
+Highly
+competitive salary and bonus program participation.
+Unlimited PTO.
+Professional training and education reimbursements.
+Generous employee perks
+(e.g., mobile phone program, gym membership, employee lunches).
+
+Website for more information: http://www.mediaalpha.com
+
+Contact information at:
+http://jobs.perl.org/job/21386#contact

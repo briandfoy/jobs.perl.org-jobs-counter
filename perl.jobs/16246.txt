@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16246
+Return-Path: <msprvs1=17735dqWGDCgi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17112 invoked from network); 16 Jul 2018 12:52:22 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Jul 2018 12:52:22 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5A21B11FBC2
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:52:22 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CABA811FBC9
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:52:19 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 0514A11FBF5
+	for <jobs@perl.org>; Mon, 16 Jul 2018 05:52:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1531745538; i=@perl.org;
+	bh=Ieiexy1xjOV0ZR3smvH9AsSDaUBt5Y34cdZnDtXATIQ=;
+	h=Date:To:From:Subject:Reply-To;
+	b=gwvLqBfOJdP7eNXlufly6Tsd1slXMGb6tOvQ5NE3kMY0Hg1PI6yI0g6psOlWvuYb9
+	 p9wFuWoNm4VJljJ5DUqjN0RIYK9wjckCJ0sNfQ+qr1Nyn7EBLA0bzctAn1DT0WQvT2
+	 z/sDtz4erd6xAa4m9kd+Bw1NTOxyY/2iliaLzVQI=
+X-MSFBL: SFPwRJrt+rkHOLfb8qHeCm7AlbbKuXTryJfCfYAzGsc=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwidGVuYW50X2lkIjoic3BjIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDAyOTU0YzViN2RjZDRmMDMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:59199] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65114 r(Core:4.2.39.45)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id F4/30-52605-2059C4B5; Mon, 16 Jul 2018 12:52:18 +0000
+Received: from [10.2.5.159] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ff2zB-0000P4-EF
+	for jobs@perl.org; Mon, 16 Jul 2018 12:52:17 +0000
+Date: Mon, 16 Jul 2018 12:52:17 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ff2zB-0000P4-EF@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.16.124516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0,
+ __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Junior Perl developer needed to help a charity and giving-focused
+ team in Kent, UK (onsite), Kent, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21354
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2018
+
+Job title:
+Junior Perl developer needed to help a charity and giving-focused team in
+Kent, UK
+
+Company name: Perl Careers
+
+Location: Kent, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you looking for a place to help you grow in your career as a developer?
+Would you like to make a positive impact in the world while at it? This
+might be a unique chance to get trained by awesome developers in a
+wonderful working environment while adding your contribution to the world
+being a better place!
+
+To be successful you=E2=80=99ll need:
+
+    To have a junior
+level skill set in Perl, PHP / Python or a similar language - you=E2=80=99l=
+l be
+trained in modern Perl programming if successful (Our client has obtained
+great results in the past from people with an OOP background). Preferably
+with at least some work experience.
+    Be ready to bring your A game, the
+client wants someone with good attention to detail and who will do their
+part with documentation and testing.
+    Good knowledge of modern MVC web
+frameworks an advantage
+    Strong MySQL knowledge would help you stand out
+    Your English must be fluent
+
+You=E2=80=99ll get cookie points if you know any
+Perl modern MVC frameworks (Mojolicious, Catalyst, Dancer) and testing
+(Test::Harness, Test::More, Test::Most).
+
+This is an onsite full time
+position so keep the location in mind.
+
+Desired skills:
+To have a junior level skill set in Perl, PHP / Python or a similar
+language - you=E2=80=99ll be trained in modern Perl programming if successf=
+ul (Our
+client has obtained great results in the past from people with an OOP
+background). Preferably with at least some work experience.
+    Be ready to
+bring your A game, the client wants someone with good attention to detail
+and who will do their part with documentation and testing.
+    Good
+knowledge of modern MVC web frameworks an advantage
+    Strong MySQL
+knowledge would help you stand out
+    Your English must be fluent
+
+You=E2=80=99ll
+get cookie points if you know any Perl modern MVC frameworks (Mojolicious,
+Catalyst, Dancer) and testing (Test::Harness, Test::More, Test::Most).
+
+Website for more information:
+https://perl.careers/jobs/junior-perl-developer-needed-to-help-a-charity-an
+d-giving-focused-team-in-kent-uk/
+
+Contact information at:
+http://jobs.perl.org/job/21354#contact

@@ -1,0 +1,153 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16245
+Return-Path: <msprvs1=17735dqWGDCgi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17189 invoked from network); 16 Jul 2018 12:53:28 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Jul 2018 12:53:28 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 4FF2411FBC2
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:53:28 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 22FDB11FBDF
+	for <perlmail-jobs@onion.perl.org>; Mon, 16 Jul 2018 05:53:26 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 973A811FBC2
+	for <jobs@perl.org>; Mon, 16 Jul 2018 05:53:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1531745603; i=@perl.org;
+	bh=EExhYq2ColVgwtbpO8iIo6MXlu1rxHiJezNxWiHlpTE=;
+	h=Date:To:From:Subject:Reply-To;
+	b=AaYTDSdSVoho0BCdzIeBmCFNfHMiZ3NhwCREzO83MbPaahVlJpzUmNlL5QHOu4KxK
+	 aALvbCh9UMYxc67IPb505BhZiZ/vMS2oK+kt3+hPO9LL82jm/mj/M8SXWldgzzdOm2
+	 q9CvHj5sfbvbNLBzj/IONzKhn7EojcpacGHPzvG0=
+X-MSFBL: dP5aPSOf4itIQSAJQpsU6m0rQTKbvfXnC/sJyjaVBUM=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJtZXNzYWdlX2lkIjoiMDAwMDQ
+	zOTU0YzViNTE3MTg0NmIiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52512] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65114 r(Core:4.2.39.45)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 48/B6-29009-3459C4B5; Mon, 16 Jul 2018 12:53:23 +0000
+Received: from [10.2.1.52] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1ff30E-0000PG-LH
+	for jobs@perl.org; Mon, 16 Jul 2018 12:53:22 +0000
+Date: Mon, 16 Jul 2018 12:53:22 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ff30E-0000PG-LH@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.7.16.124516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Sr. DBA Programming, Portland, Oregon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21356
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2018
+
+Job title: Sr. DBA Programming
+
+Company name: FlightGlobal
+
+Location: Portland, Oregon
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Job Summary
+
+We seek an experienced Senior DBA / Programmer with the
+skills, energy and business acumen to excel in the design, development and
+execution of ETL code and database schemas which power our data-driven
+internet applications for the commercial aviation industry.  You are a
+highly accountable self-starter, able to learn quickly, work with limited
+direction, and communicate effectively.  You will be working in a
+remote-teaming environment as a member of the Diio Database Administration
+team, and directly with internal developers.  You will use your proficiency
+in all aspects of database administration and design for writing clean,
+well-documented code which automates the loading and management of our
+mission critical databases.  Your contribution will be considered a success
+not only if your code performs according to spec, but also if the code is
+efficient and easy to extend and maintain. Diio's DBA programmers play an
+active role in projects from inception to delivery and are responsible for
+maintaining the over 30TB of raw data in over 1,000 tables within our
+databases.
+
+Experience and Education
+=E2=80=A25-7 years of DBA experience
+=E2=80=A25+ years
+programming experience
+=E2=80=A2BS Engineering/Computer Science or equivalent
+experience required
+=E2=80=A2Unix (Linux)
+
+Desired skills:
+Key Responsibilities
+
+=E2=80=A2Develop and support software to facilitate database
+administration
+=E2=80=A2Write and maintain ETL software to perform automated
+routine and ad-hoc loading of data into the database
+=E2=80=A2Resolve database
+performance issues through root cause investigation and analysis
+=E2=80=A2Collaborate with other database administrator programmers to ensure
+solutions chosen can be used across product squads, with system design that
+is flexible enough for multiple squad=E2=80=99s needs
+=E2=80=A2Engage with Technical
+Architects and Product Engineers, providing guidance and specifications for
+new schema and query design. Take responsibility for the implementation and
+impact of design decisions
+=E2=80=A2Research new technologies and make
+recommendations for upgrades or changes to back-office infrastructure
+=E2=80=A2Maintain stability and uptime for existing database infrastructure=
+ by
+monitoring database operations and performing periodic maintenance
+activities efficiently
+=E2=80=A2Support installation of new database infrastructure
+and equipment. Take ownership for monitoring its stability
+Technical Skills
+=E2=80=A2Experience with object-oriented programming and writing production=
+-quality
+code (Perl 5 experience preferred)
+=E2=80=A2Advanced knowledge of relational
+databases (design, infrastructure, maintenance, administration)
+=E2=80=A2Advanced
+SQL programming skills, preferably including server and query
+performance/tuning experience
+=E2=80=A2Strong problem-solving skills; able to
+perform root cause and impact analyses on database-related issues
+=E2=80=A2Familiarity with software change management tools (Git a plus) and=
+ process
+automation
+=E2=80=A2Comfortable working from the Unix command line
+=E2=80=A2Familiarity
+with Perl, Python, Percona/MySQL, PostgreSQL, Vertica a plus
+=E2=80=A2Familiarity
+with Business Intelligence tools and OLAP architectures a plus
+=E2=80=A2English
+fluency (spoken and written); able to discuss complex technical subjects
+with clarity and precision
+
+Website for more information: http://www.reedbusiness.com
+
+Contact information at:
+http://jobs.perl.org/job/21356#contact

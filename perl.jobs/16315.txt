@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16315
+Return-Path: <msprvs1=17869UfnxX6O4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24073 invoked from network); 27 Nov 2018 18:21:12 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 27 Nov 2018 18:21:12 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 92956124176
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:12 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0AC3711FCDA
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:21:09 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id AAEFC11FCC1
+	for <jobs@perl.org>; Tue, 27 Nov 2018 10:21:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1543342868; i=@perl.org;
+	bh=G5DFw9ZjrA7bcmkcs0BEjjHCVGb5r9lZkyP/XIR5nSQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=pUtFtGWai9foKiiYEJc8/TApsVnhtrC0MQXRLJRbR2lh84M5L5QrKZHnj9B1Z8kKR
+	 Mc7UbtvwpRlLrFiUTIPE1AxlzlEVKgJP6bVbj2b6YGM/1llYzSeqw4p4xJ/gFZrN5Q
+	 cuv+0//amToEMumWVkUypne8ai9+wZObJzr994Pw=
+X-MSFBL: u00VsOVpX53f/rLzzRgwa+nTvdXSSvKfVUiQn8fngJo=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDAwMTQ4YmZkNWJkMzN
+	iMGVjNSJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:51009] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66712 r(Core:4.2.40.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id E0/5C-15315-41B8DFB5; Tue, 27 Nov 2018 18:21:08 +0000
+Received: from [10.2.4.44] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gRhyt-0000F8-I1
+	for jobs@perl.org; Tue, 27 Nov 2018 18:21:07 +0000
+Date: Tue, 27 Nov 2018 18:21:07 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gRhyt-0000F8-I1@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.27.181217
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_PAYMENT 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_8 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Junior Perl Developer (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17861
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2018
+
+Job title: Junior Perl Developer
+
+Company name: Open Select Recruitment ( www.osrecruit.com )
+
+Internal ID: Perl Jnr
+
+Location: London, United Kingdom
+
+Pay rate: up to =C2=A335,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A global provider of financial news, data and decision assistance tools are
+seeking a web support developer. They work closely with global banking
+clients to acquire, activate and support new investment and trading
+clients. They are rapidly expanding and now provides premium tools and
+services for the largest global blue chip financial clients and key
+financial brands as well as some of the largest media outlets.
+
+The Web
+Support Developer provides the technical expertise, assistance, and project
+coordination necessary to modify and repair technical issues and resolve
+technical problems for their clients
+
+Desired skills:
+* Good Knowledge of perl
+* Perform fast and accurate customer support and
+technical issue resolution on Client sites (Functional and Design)
+*
+Recommend changes in software to improve user functionality and eliminate
+problems
+* Backend support related with Shell/CGI scripting and MySQL
+*
+Monitor available issues and prioritise them accordingly using internal
+case management system
+* Perform software installations and upgrades
+* Ease
+of dealing with customers and suppliers
+* High capacity of analysis
+*
+Commercial experience in Linux/Unix/Apache CGI environment
+
+* Desirable
+skills of java
+* Desirable previous experience in similar position
+
+Website for more information: http://www.osrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/17861#contact

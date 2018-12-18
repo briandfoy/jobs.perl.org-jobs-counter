@@ -1,0 +1,159 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16268
+Return-Path: <msprvs1=17766WyJlH7p1=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30628 invoked from network); 16 Aug 2018 19:44:33 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 16 Aug 2018 19:44:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0E5C1120E3D
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:44:33 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A6D07120042
+	for <perlmail-jobs@onion.perl.org>; Thu, 16 Aug 2018 12:44:30 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 0BC27120E2F
+	for <jobs@perl.org>; Thu, 16 Aug 2018 12:44:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1534448667; i=@perl.org;
+	bh=Y+dSWZ3iXbus/e4WkH5VeaDgIxbQn1s1DCwcPxXYz5A=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Espj/hMD3nIm7WGSRWldcfbqs6xzc+cMI/a47AZuZ3+bpVI4utinMeH7SOz5VqlUq
+	 kk0KMv2H4APFYFceXYaZ0jqkWa4uwr9OAZHXkZL/ow4PRRgUa35n5Fzs2CHPdVm+Ho
+	 b4jpKRsFlWDxZA8EPzM6sYr9ydMmy1jVLm1dC/4Y=
+X-MSFBL: vS8YnidwssRFiD656qyLwLdjtJYWfYSEbAkvWyckRWQ=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDFiZDQ3NTViNDIyMTkxNzAiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:53001] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65443 r(Core:4.2.39.51)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 19/07-08514-B14D57B5; Thu, 16 Aug 2018 19:44:27 +0000
+Received: from [10.2.3.69] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fqOC2-0000Xb-1Z
+	for jobs@perl.org; Thu, 16 Aug 2018 19:44:26 +0000
+Date: Thu, 16 Aug 2018 19:44:25 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fqOC2-0000Xb-1Z@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.16.193617
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0,
+ __zen.spamhaus.org_ERROR '
+Subject: Programmer (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21394
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2018
+
+Job title: Programmer
+
+Company name: Stellarware
+
+Location: United States
+
+Pay rate: 45,000 to 55,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Stellarware Corporation was founded in 1997 as a unique web design firm
+that focuses on improving business and government communications by
+employing the technological advantages of the Internet. Today, Stellarware
+is much more than just another web design firm. Stellarware has become a
+premier, web-based solutions company that serves government and private
+sector organizations by building web systems that modernize business
+processes and communications.
+
+We are currently seeking junior- to
+mid-level Perl programmers to join our development team! This is a
+full-time position, working during core company business hours (8:30am -
+5:00pm M-F)
+
+Must be located within the US
+Locations within the Eastern
+time zone are preferred, but Central Time is OK, too.
+
+General
+Requirements/Duties: Consult with stakeholders to identify requirements and
+ensure adequate input and feedback on business processes, closing the
+divide between business requirements and application development. Able to
+work in a fairly unstructured environment with a high degree of
+independence, while routinely hitting demanding deadlines, without
+requiring constant follow-up and prodding to secure closure. Able to
+re-order project priorities on short-notice and adapt to changing
+objectives. Exhibit strong technology, analytical, written and verbal
+communications, time management, problem solving and interpersonal skills.
+
+Desired skills:
+General Requirements/Duties:=20
+Consult with stakeholders to identify
+requirements and ensure adequate input and feedback on business processes,
+closing the divide between business requirements and application
+development.=20
+
+Able to work in a fairly unstructured environment with a
+high degree of independence, while routinely hitting demanding deadlines,
+without requiring constant follow-up and prodding to secure closure.=20
+Able
+to re-order project priorities on short-notice and adapt to changing
+objectives.=20
+Exhibit strong technology, analytical, written and verbal
+communications, time management, problem solving and interpersonal skills.
+
+Required Skills and Experience:=20
+
+Building web-based applications using
+Perl, MySQL, and Apache. In depth knowledge of HTML, JavaScript, and CSS.=20
+Familiarity with various JavaScript Frameworks like Dojo, jQuery, ExtJS,
+etc.=20
+Several years experience in =E2=80=9CLAMP=E2=80=9D web applications develop=
+ment.
+Several years experience in building and maintaining relational databases
+and/or business applications.=20
+Very comfortable working at a UNIX command
+line.
+
+Desired Skills: XML and related technologies (e.g. XML, DTD, XML
+Schema, XSLT, Xpath).=20
+Web services (e.g. SOAP, WSDL, XML-RPC).=20
+Expertise
+in relational database design and development.=20
+Working knowledge of Apache
+configuration.
+Familiarity with secure coding best practices.=20
+Development
+of technical specifications, functional requirements and general code
+documentation.=20
+Comfortable with Agile software development methodology.
+Familiar with Version Control Systems like Git, Subversion. Experience with
+OOP.=20
+Knowledge of UNIX and shell scripting.=20
+Knowledge of Oracle 8,9,10,
+and/or PostgreSQL.=20
+System administration skills.
+
+Contact information at:
+http://jobs.perl.org/job/21394#contact

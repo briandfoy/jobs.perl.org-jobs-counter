@@ -1,0 +1,148 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16292
+Return-Path: <msprvs1=17823RSrJeTzd=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19139 invoked from network); 12 Oct 2018 19:01:06 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 12 Oct 2018 19:01:06 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id BA6DA11F116
+	for <perlmail-jobs@onion.perl.org>; Fri, 12 Oct 2018 12:01:06 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4454911F221
+	for <perlmail-jobs@onion.perl.org>; Fri, 12 Oct 2018 12:01:04 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id C202A11F116
+	for <jobs@perl.org>; Fri, 12 Oct 2018 12:01:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1539370862; i=@perl.org;
+	bh=fWJnYQ0LTwrbA3n97DkVTNURwj0VXQr+NfS3z3BP3XQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=O8jV9S0QkOgoY//Z68ui7xD+V6PhX9CVkWLrJdZXQeP5vts0f5OndWei4Vyb0YLzs
+	 AVFb623SoDFuVlZTg+FGIKHxYTpcNZ6726dYHyQL3VLVmh9SgxgmAgnqI87B89qKE/
+	 Kut8DyS2J0T4y7tD68NIF6r3fxvmUsKqTjZD2/Qs=
+X-MSFBL: mA/jp/Diu/A2PMLWDl/84tBF4yNBubYut3vr8/o56tA=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDA2ZWVmYzA1YjI5NmZlNzgxIiwic3V
+	iYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63548] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66200 r(Core:4.2.39.66)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 7E/18-28457-E6FE0CB5; Fri, 12 Oct 2018 19:01:02 +0000
+Received: from [10.2.4.242] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gB2gI-00012r-2o
+	for jobs@perl.org; Fri, 12 Oct 2018 19:01:02 +0000
+Date: Fri, 12 Oct 2018 19:01:01 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gB2gI-00012r-2o@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.12.185116
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Perl Programmer focused on Front end Development (onsite), Houston,
+ TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21454
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2018
+
+Job title: Perl Programmer focused on Front end Development
+
+Company name: GRMI
+
+Location: Houston, TX
+
+Pay rate: DOE
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are presently conducting a search for a contract Software Engineer
+focused on Front End Web Application development to join one of our
+client=E2=80=99s in Houston, Texas.
+
+What You=E2=80=99ll Be Doing:
+
+=20
+
+Implementation of
+software components and modules based on specifications and designs
+provided by team leads and software designers
+Unit, integration, system
+testing of implemented software components
+Code review of other engineer=E2=80=99s
+work to maintain quality of code and best practices
+Participate in team
+agile process planning and review sessions
+Collaborate with members of the
+website team (including designers and back-end developers) to consistently
+improve functionality and user-friendliness of the web applications
+Optimize websites and applications to ensure fast loading speeds
+Participate in team retrospectives of processes and procedures and suggest
+improvements where identified
+Support other team members when they need
+assistance in completing high priority work tasks
+Continuously growing and
+developing software engineering skills to be able to take on more complex
+problems going forward
+=20
+
+What You Bring to the Table:=20
+
+Ability to develop
+software with High Level programming languages such as Perl, PHP, Python,
+or Java
+Excellent understanding of core software engineering principles.
+Exposure to and basic understanding of Unix environments/systems
+5 years or
+more of experience with developing with Javascript, HTML, CSS
+5 years or
+more of experience with AJAX-based JSON/XML web services.
+5 years or more
+of experience with developing using web application frameworks and
+libraries such as Angular, Bootstrap, Node, React, Jquery, and Dancer
+Experience using CSS preprocessors such as LESS, SASS and/or Compass.
+Comfortable developing with Git, coding standards, and branding guidelines.
+Confidently and quickly able to navigate around and work within an
+unfamiliar codebase.
+Able to troubleshoot and debug complex websites and
+applications (e.g. network requests, front-end performance, layout issues,
+browser bugs).
+Must be comfortable working with product designers. Should
+have experience converting design comps created in Invision, Photoshop or
+Sketch into functional websites.
+Excellent understanding of Web application
+design
+Intermediate to advanced SQL skills
+Understanding of data structures
+Understanding of need to follow coding standards
+Basic understanding of
+code optimization principles
+Ability to stay on task and focused on
+delivering solutions as committed to
+
+Website for more information: http://www.grmi.net/
+
+Contact information at:
+http://jobs.perl.org/job/21454#contact

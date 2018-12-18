@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16264
+Return-Path: <msprvs1=17761msQZPURa=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14071 invoked from network); 11 Aug 2018 22:38:10 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 11 Aug 2018 22:38:10 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0014A11F376
+	for <perlmail-jobs@onion.perl.org>; Sat, 11 Aug 2018 15:38:08 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 09BC611F269
+	for <perlmail-jobs@onion.perl.org>; Sat, 11 Aug 2018 15:38:05 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 91CC0120BEA
+	for <jobs@perl.org>; Sat, 11 Aug 2018 15:37:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1534027077; i=@perl.org;
+	bh=sU2Lci3ErnBwdc6gBQ0Xnll4QyiAEwSItPwtojhk298=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Hmxtk189pd4RuWMgvDWdU6GLHK6ZT/CDNQOiZrheT6Yf0P7LhUywao7sc02HnvEcD
+	 rlfM1gnzdJUBYcHvVUjbXR4GeEdJ/awT4xBWH9LGsGYK47j+rKP5UMGMf7r+RxnZ3N
+	 qSAMQG/kxHjdG6d3Syh/A0QlZIafPC0cqf+765jM=
+X-MSFBL: JWf+bZUKlvMaEQSZpW3++wuM7pyVOX1e5dMOanKBF1M=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwNDU2NTZ
+	mNWIxM2QzMmJiYiIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:63885] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65443 r(Core:4.2.39.51)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id B2/BB-54035-5456F6B5; Sat, 11 Aug 2018 22:37:57 +0000
+Received: from [10.2.5.64] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1focWC-0000HT-MU
+	for jobs@perl.org; Sat, 11 Aug 2018 22:37:56 +0000
+Date: Sat, 11 Aug 2018 22:37:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1focWC-0000HT-MU@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.11.223017
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, SUPERLONG_LINE 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?UG9seWdsb3QgcmVxdWlyZWQgRG93biBVbmRlciDigJMgU2VuaW9y?=
+ =?UTF-8?B?IERldmVsb3BlciByb2xlIGluIE1lbGJvdXJuZSwgQXVzdHJhbGlhIChvbnNp?=
+ =?UTF-8?B?dGUpLCBNZWxib3VybmUsIEF1c3RyYWxpYQ==?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2018
+
+Job title:
+Polyglot required Down Under =E2=80=93 Senior Developer role in Melbourne,
+Australia
+
+Company name: Perl Careers
+
+Location: Melbourne, Australia
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Location: Central Melbourne - Requires that you have a right to work in
+Australia as the client is not able to sponsor a visa
+
+G=E2=80=99day, Perl Mongers
+of Australia! Do you have a strong background in Perl, but a desire to
+learn and apply other languages? This client is looking for a polyglot
+developer, with a focus on Perl but potential to also use (and be
+cross-trained in) Scala, Ruby, Python and JavaScript. It is a small,
+flexible team and there may be the opportunity to undertake some DevOps
+work too if interested.
+
+This Melbourne-based company makes software for
+data collection and analysis, using modern Perl in a modern way. The right
+candidate will be familiar with Catalyst, and either have experience with
+Docker or be keen to learn how to use it. Employees are actively encouraged
+to make open source contributions.
+
+Desired skills:
+We don=E2=80=99t expect candidates to be expert in all of these but it prov=
+ides a
+good overview of the kind of environment they will be working in.
+
+Programming languages / technologies
+----------------------------------------------------
+Modern Perl
+=E2=80=A2 Dancer
+=E2=80=A2
+Catalyst
+=E2=80=A2 Moose / Moo
+=E2=80=A2 DBIx::Class
+
+Highly regarded also
+=E2=80=A2 Scala
+=E2=80=A2 Ruby
+=E2=80=A2
+Python / Moo
+=E2=80=A2 JavaScript for front end development
+=E2=80=A2 AngularJS (or
+similar)
+
+Development environment / operations
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+Git / GitHub
+Jenkins
+Docker
+Ansible
+Debian/Ubuntu
+AmazonAWS
+
+Data Stores
+----------------
+PostgreSQL
+Riak/Minio/Consul
+DynamoDB
+
+Website for more information:
+https://perl.careers/jobs/polyglot-required-down-under--senior-developer-ro
+le-in-melbourne-australia/
+
+Contact information at:
+http://jobs.perl.org/job/21380#contact

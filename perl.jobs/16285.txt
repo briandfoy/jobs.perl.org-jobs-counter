@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16285
+Return-Path: <msprvs1=178153raiYLFe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3171 invoked from network); 4 Oct 2018 19:12:29 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2018 19:12:29 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 55F5911F6DC
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:12:29 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 12A95123538
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:12:27 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id A45DE11F6DC
+	for <jobs@perl.org>; Thu,  4 Oct 2018 12:12:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1538680345; i=@perl.org;
+	bh=YFgtqUMTMwkZz4KoEF5rWJJuGendS8ZFJk46pQcyTEI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=e6/wgn744wOQ94X3TceKB/m+42dXviwgItIDgcqfy3H3cQOseETq9pIaVtydGpK1K
+	 LsP4x9o4Y2lYEIdkPxBrCZa61Rbch4XY+tzRh0pSTeide4KJ54ZQ0xv8xyoRxd2hVm
+	 W4d/yi4+Vysd7mLq8u3eM89PdTywzKE1qIth6hdU=
+X-MSFBL: OnBOY7EXezWajMALkxqO7bG/pJTS/aXhLMOZg//j1Xg=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwidGVuYW50X2lkIjoic3BjIiwic3ViYWNjb3VudF9pZCI6IjEiLCJ
+	yIjoiam9ic0BwZXJsLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwMTk2NmI2NWIxNGQ
+	xMzQzMSJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:58555] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 43/13-53524-91666BB5; Thu, 04 Oct 2018 19:12:25 +0000
+Received: from [10.2.1.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1g892v-0000cv-9Y
+	for jobs@perl.org; Thu, 04 Oct 2018 19:12:25 +0000
+Date: Thu, 4 Oct 2018 19:12:25 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1g892v-0000cv-9Y@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.4.190616
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_BADTHINGS 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0,
+ __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Software Engineer - Perl (part onsite), Hinxton, Cambridge,
+ UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21440
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2018
+
+Job title: Senior Software Engineer - Perl
+
+Company name: Congenica Limited
+
+Location: Hinxton, Cambridge, UK
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Congenica (www.congenica.com) is a world leading developer of genome-based
+discovery and diagnostic technologies, providing our Sapientia=E2=84=A2 cli=
+nical
+decision software platform to UK NHS Regional Genetics Services and
+clinical, research and commercial customers nationally and internationally.
+We are also a clinical interpretation partner for the UK100K Genomes
+Project working with Genomics England.
+
+Congenica=E2=80=99s vision is to be the
+international leader in data solutions for diagnosing and treating genetic
+disease.  Our ethos is to create the most patient benefit from the advances
+being made in human genetics, and ensuring the security and ethical use of
+patient data.
+
+
+Job Purpose
+
+To develop new features and enhancements to
+the legacy Perl components of the Sapientia product.
+Main Responsibilities
+
+Design, code and unit test new product features and enhancements.
+Fix bugs
+raised by customers and internal teams such as system test.
+Set a good
+standard of development procedures for other developers to follow.
+Review
+code written by more junior members of the team.
+Develop subject matter
+expertise in one or more areas of the system.
+
+Desired skills: Perl, Moose, Catalyst, Dancer
+
+Website for more information: https://www.congenica.com/
+
+Contact information at:
+http://jobs.perl.org/job/21440#contact

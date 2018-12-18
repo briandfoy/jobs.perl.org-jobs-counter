@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16311
+Return-Path: <msprvs1=17869UfnxX6O4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24192 invoked from network); 27 Nov 2018 18:22:50 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 27 Nov 2018 18:22:50 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E8FAB67016
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:22:48 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CFE92124181
+	for <perlmail-jobs@onion.perl.org>; Tue, 27 Nov 2018 10:22:42 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id ABA82124182
+	for <jobs@perl.org>; Tue, 27 Nov 2018 10:22:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1543342961; i=@perl.org;
+	bh=x5A40WAzN5+NbDMVg+tCtxIqc6NDfXarjrE+gOsaESY=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=I3mPMWP2b6xoBC0LqxoNChfBKmM9aGMPEv41/MfRHynCigEBO9ug2apJIe7eVwVkb
+	 tkcAUSjxYklXB1w3dVQhXGjLs4ARKd8mVfQI4267kpbQ96nGqVWXwFRya+ueADoCym
+	 mwaniJb6+4qtjpjNczcEkamU9Rt1wq2Ugof9MTMI=
+X-MSFBL: 7NsKFu0nhF1nlhb/BU+WyUmeHJAlpnnCcaHQpij+qG4=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwNzE4YmZkNWIzOWE1YTllZCIsInRlbmF
+	udF9pZCI6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:50530] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66712 r(Core:4.2.40.7)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 9A/DE-42297-17B8DFB5; Tue, 27 Nov 2018 18:22:41 +0000
+Received: from [10.2.4.44] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gRi0O-0000FO-Kv
+	for jobs@perl.org; Tue, 27 Nov 2018 18:22:40 +0000
+Date: Tue, 27 Nov 2018 18:22:40 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gRi0O-0000FO-Kv@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.11.27.181516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1800_1899 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0,
+ __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Love independent music? Hipster not a dirty word to you? Drive
+ forward independent music with Perl in London (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2018
+
+Job title:
+Love independent music? Hipster not a dirty word to you? Drive forward
+independent music with Perl in London
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job ref: OSC312
+Location: London, UK
+
+Sometimes it=E2=80=99s best to let the client
+speak for themselves:
+
+    Small team with a startup-ish feel, even though
+we=E2=80=99ve been around for an age. We=E2=80=99re not VC funded, we=E2=80=
+=99re in this for the
+long-haul - we want to make a difference. Strongly motivated to ensure that
+artists and labels are getting a fair deal. We all love music, occasionally
+the office will host a (fairly niche) gig downstairs.
+
+It=E2=80=99s a friendly
+team, offering free snacks in pretty offices, and sending people to
+technical conferences. The company has lots of customers and is working on
+interesting problems.
+
+The team is looking for a mid-level developer to
+join them in their London offices, full-time and on site.
+
+Desired skills:
+You=E2=80=99ll help build out a Modern Perl platform ahead of international
+expansion. The team uses Catalyst, TT, Moose with Plack and mod_perl, as
+well as the sensible testing tools you=E2=80=99d expect. The team has a
+multi-technology approach, also using Node for some services, Elastic
+Search, nginx, and Postgres. Deployment is managed using Ansible.
+
+Website for more information:
+https://perl.careers/jobs/love-independent-music-hipster-not-a-dirty-word-t
+o-you-drive-forward-independent-music-with-perl-in-london/
+
+Contact information at:
+http://jobs.perl.org/job/21328#contact

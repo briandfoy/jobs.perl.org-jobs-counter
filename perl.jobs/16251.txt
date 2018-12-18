@@ -1,0 +1,188 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16251
+Return-Path: <msprvs1=177555RSYvw4p=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8568 invoked from network); 5 Aug 2018 20:53:17 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 5 Aug 2018 20:53:17 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 434A51219C2
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:53:17 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8BDC466FF8
+	for <perlmail-jobs@onion.perl.org>; Sun,  5 Aug 2018 13:53:13 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 24DDE1219C9
+	for <jobs@perl.org>; Sun,  5 Aug 2018 13:53:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1533502383; i=@perl.org;
+	bh=p4LOQdZTqZu3G55sDjOqHXQsA3PKyExgdlqSTk79y7Q=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=B34cinFcOzgct5B9nQA/gDtgPui+EF92WW98ikwt9Ybd7T3vhwSC4XVOdcJtilL8n
+	 EkyzESnT0OK/FZoEk2B2MhO8od3P1DcEmIG2XoF5/2GNJUeBFVQQ7555nczRu/Oyry
+	 E+S8ACuwtqSzU2QOVx2u7PvaWkI5o68D1YzoqFhU=
+X-MSFBL: M9I76E46oPbMUukYif8vKX4sZ4mawo+zTucKgSziqUM=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwidGVuYW50X2lkIjoic3BjIiwibWVzc2FnZV9pZCI6IjAwMDBhZjY
+	zNjc1YmUxY2M2NzVmIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.106] ([207.171.7.106:56856] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.65390 r(Core:4.2.39.50)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 76/F5-52449-FA3676B5; Sun, 05 Aug 2018 20:53:03 +0000
+Received: from [10.2.3.171] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1fmQ1P-0000NN-77
+	for jobs@perl.org; Sun, 05 Aug 2018 20:53:03 +0000
+Date: Sun, 5 Aug 2018 20:53:02 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1fmQ1P-0000NN-77@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.5.204516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __C230066_P2 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Sr. UI Software Engineer (Perl/ LAMP) (telecommute), San Ramon, CA,
+ USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21370
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2018
+
+Job title: Sr. UI Software Engineer (Perl/ LAMP)
+
+Company name: PRA Health Sciences
+
+Location: San Ramon, CA, USA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Overview:
+We are looking for an experienced and talented UI designer to
+design and shape unique, user-centric products and experiences. The ideal
+candidate will have experience working in agile teams. You will be able to
+make deliberate design decisions and to translate any given user-experience
+journey into a smooth and intuitive interaction. Works individually and
+within teams to analyze needs, determine requirements, develop applications
+& UIs, and maintain or extend applications to support the information
+technology of business and operational users. Though user interface work
+will be a primary focus, the position will also require the ability to take
+on regular software engineering tasks.
+
+
+Responsibilities:
+Analyzes
+end-user needs and designs, tests, and develops interfaces & software to
+satisfy demand.
+Create, improve and use wireframes, prototypes, style
+guides, user flows, and effectively communicate your interaction ideas
+using any of these methods
+Analyzes and translates business requirements in
+functional and non-functional system requirements Develops, implements, and
+maintains systems that conform to company=E2=80=99s information technology
+principles, software development methodology, architecture and best
+practices
+Partner with infrastructure and architectural heads to ensure the
+application meets service level standards and roadmap requirements.
+Act as
+a liaison between software engineers and architecture.
+Design and develop
+software components to enable manageability, serviceability, deployment and
+purpose-built solution offerings
+Be proactive in software
+design/architecture, working closely with architects and software engineers
+to come up with the right solution to the problem
+Be an active participant
+and lead code reviews
+Keep up to date with the latest developments in the
+software field
+Act as a technical lead for one or more projects, providing
+oversight and guidance on technical issues and design issues and mentor
+junior team members.
+
+Qualifications:
+Bachelor=E2=80=99s degree or international
+equivalent OR equivalent work experience
+Expert knowledge of software
+development lifecycle methodologies (e.g. Waterfall, Iterative, Agile)
+Advanced understanding of importance of coding standards and programming
+style
+Expert knowledge of relational databases
+Expert knowledge of business
+and system process flow techniques
+Excellent communication skills (written
+and verbal)
+Excellent presentation skills and ability to communicate at
+multiple levels of the organization including senior executive level
+Expert
+Object-Oriented programming skills and knowledge of one or more OOP
+languages (Java and Perl are a plus)
+Expert ability to write software code
+(full stack development)
+Expert ability to designing graphical user
+interfaces using graphical design tools
+Experience in a modern JavaScript
+framework such as Angular, React, or Vue
+Experience setting up a frontend
+project from the ground up
+Experience with the bootstrap CSS framework
+A
+strong portfolio demonstrating UI design skills
+Hands-on experience
+creating wireframes, prototypes, storyboards, user flows, etc.
+Expert
+ability to translate business requirements into system functional and
+nonfunctional requirements
+Expert ability to design software solutions.
+To
+qualify, applicants must be legally authorized to work in the United
+States, and should not require, now or in the future, sponsorship for
+employment visa status.
+=20
+Preferred Qualifications:
+Experience with Perl
+Experience with the d3.js library in creating reusable custom graphs in a
+business intelligence or dashboard setting
+8 years of relevant experience
+
+
+PRA is an EEO/AA employer and is committed to providing opportunities to
+minorities, women, veterans and individuals with disabilities.
+
+Desired skills:
+Perl 5;
+Mod Perl;
+Adobe tools such as PhotoShop and Illustrator
+understanding of OOP
+UI, GUI, Interfaces, designing graphic artifacts and
+prototypes for web applications;
+JavaScript;=20
+ability to write code -full
+stack development;
+D3.js
+
+Website for more information: http://www.prahs.com
+
+Contact information at:
+http://jobs.perl.org/job/21370#contact

@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16289
+Return-Path: <msprvs1=178153raiYLFe=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27050 invoked from network); 4 Oct 2018 19:01:56 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 4 Oct 2018 19:01:56 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0E8121234F7
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:01:56 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 81E2A1234FE
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Oct 2018 12:01:53 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 8E2001234FA
+	for <jobs@perl.org>; Thu,  4 Oct 2018 12:01:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1538679708; i=@perl.org;
+	bh=ycCmgW5H8LDINf0ToJxIXUyZRAUGISoyg9g0+gTA3XI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=caoWCiN1doj355UmCNrvoYLQRo6WmTGUHG7wFDj9RXpKN7wNDa3IqixYqA6hQEO9U
+	 gHbhjX0UmTj/r7llSwxzVpXtpb52yl2oD74z5D9Tah5397Vwb7YZPg1UwgXCan9eZs
+	 hJeoF5tb2nPqs1tyGnJ/IvMAav9XYAPULiaa3iwk=
+X-MSFBL: ighZOGqp0xGZu33cBvenCRTHafoBtfXDnVwDeRFWFI4=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDljNjNiNjViYzg4MmIwZjIiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:64139] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 0B/2F-33480-C9366BB5; Thu, 04 Oct 2018 19:01:48 +0000
+Received: from [10.2.1.66] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1g88sd-0000cL-TZ
+	for jobs@perl.org; Thu, 04 Oct 2018 19:01:47 +0000
+Date: Thu, 4 Oct 2018 19:01:47 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1g88sd-0000cL-TZ@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.8.29.50016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior multilingual developer needed for a fast growing team in
+ London (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21426
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2018
+
+Job title:
+Senior multilingual developer needed for a fast growing team in London
+
+Company name: Perl Careers
+
+Location: London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Some people are true specialists, they have learnt every little detail
+behind one programming language and in their field they can=E2=80=99t be ma=
+tched.
+There is however a growing demand for the multilingual, for those who work
+hard to become senior but have a killer toolbox at their disposal.
+
+This is
+a chance to keep those tools sharp and shiny while working with a small fun
+team. A chance to work with a platform that is growing fast and gives you
+the chance to stay with the same team without always doing the same thing.
+
+Our client is looking for someone with the experience and skill to help
+their growing platform achieve even more successful goals.
+
+The ideal
+candidate is someone who=E2=80=99s been working with Perl, Go and Python fo=
+r a
+while. Someone who can take over projects, add new features to the existing
+platform and collaborate with the team to make an already triumphant
+product continue to grow.
+
+Desired skills:
+Necessary Knowledge
+
+Good knowledge of Perl but not necessarily all the
+modern tools=20
+
+Strong knowledge of Go programming language, paradigms,
+constructs, and idioms
+
+Knowledge of the Python programming language -
+experience with frameworks such as django.
+
+Good understanding of databases
+ - in particular MySQL and NoSQL databases such as Google BigTable.
+Experience at scale.
+
+Basic knowledge of Linux systems administration.
+
+Desirable Knowledge or interest in:
+
+Javascript
+Linux
+PHP
+Experience with
+Google Cloud Platform
+
+Website for more information:
+https://perl.careers/jobs/senior-multilingual-developer-needed-for-a-fast-g
+rowing-team-in-london/
+
+Contact information at:
+http://jobs.perl.org/job/21426#contact

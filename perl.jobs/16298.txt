@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16298
+Return-Path: <msprvs1=17839i3dDNO3P=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 778 invoked from network); 28 Oct 2018 18:08:24 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 28 Oct 2018 18:08:24 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id D113611ED42
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 Oct 2018 11:08:24 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RCVD_IN_DNSWL_BLOCKED,URIBL_BLOCKED autolearn=ham
+	version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 9ECA311EBD5
+	for <perlmail-jobs@onion.perl.org>; Sun, 28 Oct 2018 11:08:22 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 0605311EB56
+	for <jobs@perl.org>; Sun, 28 Oct 2018 11:08:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1540750092; i=@perl.org;
+	bh=I3zq4wF+f2rSmF4ogp/2xkWrjshWLuAniu0QmqhoRIo=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=MqXtKpcOdo5TNjN2PiWWZViAJ/PibHlptUuaK3AfOCUEBIsbLUwGltOMMs3n8uI2q
+	 j9RsRDIcYoHLYxLIXp0u5qwsTHoOLb6YW0/SG6yVx6sIBfLCH/nO376j37jX3VUku+
+	 y9K8CDsdHvvbyWekdCBliT8uFlqPIIl4TmQRUwXo=
+X-MSFBL: jXe6UpulllabLf7FrHIC/qWZHLKFkgzEvR2ZCA+fF8w=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwidGVuYW50X2lkIjoic3BjIiwibWV
+	zc2FnZV9pZCI6IjAwMDAwY2ZiZDU1YjU2MmJkNGQzIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:56662] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.2.40.66403 r(Core:4.2.40.1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 4D/3D-11094-C0BF5DB5; Sun, 28 Oct 2018 18:08:12 +0000
+Received: from [10.2.1.128] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1gGpTv-0000CH-Ty
+	for jobs@perl.org; Sun, 28 Oct 2018 18:08:11 +0000
+Date: Sun, 28 Oct 2018 18:08:11 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1gGpTv-0000CH-Ty@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2018.10.28.180316
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1600_1699 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Developer (SQL background) (onsite), New York City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21466
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 28, 2018
+
+Job title: Senior Perl Developer (SQL background)
+
+Company name: Brilliant Associates (Top 25 Global University)
+
+Location: New York City
+
+Pay rate: Competitive/Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Role and Responsibilities
+
+We=E2=80=99re looking for a senior Perl developer with a
+background in information/cyber security to help evolve an existing
+security architecture into a new one. The client is a top 25 global
+university system, touching hundreds of thousands (if not millions) of
+current students, faculty, staff, and alumni across the world.
+
+Looking for
+someone who can not only update and document the code, but suggest strategy
+as well. Must be a sharp self-starter with a verifiable history of success.
+The right person has highly advanced Perl skills, as well as SQL and
+ideally a background in security.
+
+This is a contract role, which should
+take 3-4 months, and given the security-focused nature, we=E2=80=99re looki=
+ng for
+someone who can join us on-site in downtown Manhattan. After the project,
+major opportunity to either help other, similar clients or potentially be
+hired directly by the organization.
+
+Salary: Competitive and negotiable for
+the right person
+
+Desired skills:
+Primary: Advanced Perl skills!
+
+SQL
+Javascript
+Background in security
+(ideally)
+
+Contact information at:
+http://jobs.perl.org/job/21466#contact
