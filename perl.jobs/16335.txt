@@ -1,0 +1,160 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16335
+Return-Path: <msprvs1=17969nJa28icb=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32491 invoked from network); 7 Mar 2019 10:38:53 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Mar 2019 10:38:53 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 721087C1A7
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:53 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D94AE7CF6B
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:51 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 2BAD67C1A7
+	for <jobs@perl.org>; Thu,  7 Mar 2019 02:38:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1551955130; i=@perl.org;
+	bh=5GtcC0N14d8GPM488lm8DIQqfzRnFtNavOxtIXME/78=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=BW+AdnV5Z/PAcTVUUepjijQzvLA9F8JNwXU2o5HYdbzo6KOTbZwAYOcGzbO4uqyOv
+	 KfK9y6hg2OjMgrFLa0F6rGe75ficNZUOKjcQVZPuxhLVZiVrLvSQvJX2Pvvle6EFKj
+	 YOv6+sJTlhu7nC1pEGztVeawZJoW/3B5qcavrH8s=
+X-MSFBL: 80wKgMkSrVLpL81PdyUYSDwj8T15cTQM7kEVp42e5bE=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwYmFmNDgwNWNhMTNmZTFkNSIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:52433] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.67484 r(Core:4.3.0.0-rc1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id 1E/5D-16289-AB4F08C5; Thu, 07 Mar 2019 10:38:50 +0000
+Received: from [10.2.5.233] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1h1qQM-0000OB-CM
+	for jobs@perl.org; Thu, 07 Mar 2019 10:38:50 +0000
+Date: Thu, 7 Mar 2019 10:38:50 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1h1qQM-0000OB-CM@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.3.7.103016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __PHISH_SPEAR_SUBJ_PREDICATE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0,
+ __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Full Stack Developer (onsite), Thorp Arch, West Yorkshire, England,
+ UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2019
+
+Job title: Full Stack Developer
+
+Company name: bet.me
+
+Location: Thorp Arch, West Yorkshire, England, UK
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for skilled full stack developers to get us across the
+finishing line and move forward into future releases of our betting
+exchange platform.=20
+
+The platform is built in Perl, Oracle, PL/SQL,
+Javascript, nodejs and a little C. We are looking for self-motivated Perl
+developers with knowledge of 1 or more of the languages we are using (and
+the willingness to learn more).=20
+
+We are using a great number of Perl
+technologies including;
+
+DBI
+
+DBD::Oracle
+
+DBD::SQLite
+
+AnyEvent
+
+ZMQ::FFI
+
+Log::Log4perl
+
+XML::Fast
+
+Cpanel::JSON::XS
+
+Memoize
+
+Algorithm::Combinatorics
+
+CHI
+
+MCE::Loop
+
+WWW::Curl
+
+IO::Socket::SSL
+
+Search::Elasticsearch
+
+You will be working with a small team of 4
+developers in our offices near Wetherby, UK and there are a wide variety of
+tasks we are working on.
+
+Desired skills:
+Required skills:=20
+
+o Excellent knowledge of Perl and at least one of;
+Oracle PL/SQL, Javascript, C.=20
+o Good knowledge of Unix/Linux.=20
+o Good
+working knowledge of Subversion or Git.=20
+o excellent problem-solving
+skills.=20
+o Must be a self-starter with a strong attention to detail.=20
+
+Useful skills:=20
+
+o knowledge of the gambling industry.=20
+o knowledge of
+gambling commission Remote Gambling License.=20
+o ISO 27001
+o Distributed
+messaging
+o Elastic Search
+o Pinto
+o Continuous Integration=20
+o Secure
+systems
+o working knowledge of payment providers.=20
+o an interest in sport
+and especially, football, horse racing, tennis or cricket
+
+Website for more information: http://www.bet.me
+
+Contact information at:
+http://jobs.perl.org/job/21378#contact

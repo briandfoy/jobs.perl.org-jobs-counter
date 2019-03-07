@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16332
+Return-Path: <msprvs1=17969nJa28icb=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32342 invoked from network); 7 Mar 2019 10:38:01 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Mar 2019 10:38:01 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 0412B7C1A7
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:01 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-1.3 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,URI_TRY_3LD autolearn=no version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 78D377CF6B
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:37:59 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 1C0F67C1A7
+	for <jobs@perl.org>; Thu,  7 Mar 2019 02:37:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1551955078; i=@perl.org;
+	bh=VsVofGzrZqVxH4XTW7Tz4Pti5ceJd5dm5xs3b+mBG+o=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=XF13lzwJk/XVYfvayrpIBHT87Q+HgTFybNFhWi2iRUSL60kjSAXM72Ym+PA6sGRDU
+	 0bMPO/zn4d5leHzyLXNkNiThz8pnxsL6IaySfdfDxpdBEZautSyRWNKop5aRNPQmOV
+	 Y4y6d/IKI5N96pNYXXIJomoVV2Jyu0C+umuPAedA=
+X-MSFBL: sI3OAH0plsvhnXm74S0ES7T9foofKo4Bz3M/gSAsaAk=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDg2ZjQ4MDVjNWFhNDRjY2IiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  c.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:65520] helo=mail-jobs)
+	by c.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.67484 r(Core:4.3.0.0-rc1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id C4/BC-42074-684F08C5; Thu, 07 Mar 2019 10:37:58 +0000
+Received: from [10.2.1.94] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1h1qPV-0000Nj-UM
+	for jobs@perl.org; Thu, 07 Mar 2019 10:37:57 +0000
+Date: Thu, 7 Mar 2019 10:37:57 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1h1qPV-0000Nj-UM@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.3.7.103016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS ,
+ __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Freelance Perl developers wanted for occasional contract work
+ (telecommute), UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21550
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2019
+
+Job title:
+Freelance Perl developers wanted for occasional contract work
+
+Company name: mySociety
+
+Location: UK
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We=E2=80=99re looking to build a pool of freelance web developers that we c=
+an call
+upon for short-term contract work as we build and deploy Software as a
+Service products based on our charitable tools. At the moment the need is
+in our Community team, working with clients in local government to provide
+them with street and environment reporting services via FixMyStreet Pro.
+
+You will be comfortable with client liaison, listening to their needs and
+helping to translate those into tickets and features. Your work will help
+us sustain our charitable work via commercial activity, and increase our
+reach in the UK.
+
+As a web developer working with our Community team you
+will help us to:
+
+Roll out the FixMyStreet Pro product to new clients,
+integrating it with their existing systems and workflows
+
+Further develop
+and extend our FixMyStreet Pro services
+
+https://mysociety.workable.com/jobs/919280 for more details about the job
+and about us.
+
+Desired skills:
+At least two years of proficient programming experience in Perl in a
+professional environment
+
+Experience in working with databases (such as
+PostgreSQL or MySQL)
+
+The ability to write clean, maintainable HTML, CSS,
+and JavaScript
+
+Experience with version control, preferably Git and GitHub
+
+A pragmatic approach to automated testing
+
+Experience of collaborating with
+others on web development projects; it would be a bonus if that was
+client-facing work
+
+Website for more information: https://mysociety.workable.com/jobs/919280
+
+Contact information at:
+http://jobs.perl.org/job/21550#contact

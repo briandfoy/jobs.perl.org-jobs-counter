@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16333
+Return-Path: <msprvs1=17969nJa28icb=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32475 invoked from network); 7 Mar 2019 10:38:50 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Mar 2019 10:38:50 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 7403E7CF29
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:50 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D33D77C1A7
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:48 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id B56A27CF6B
+	for <jobs@perl.org>; Thu,  7 Mar 2019 02:38:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1551955123; i=@perl.org;
+	bh=E+DM5V1MA+drQm6lLQA6O5fmctCT+7Y0SyryWVPECG8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=OW7aBd76S2vipQ6veCe5SOpkhH+T6qHbt+FcQyhVhQ9p0/q/Ou214LOJmaRgd06pc
+	 Blbj5DE8w1TKrZRcLX7UqbHDJwoo/oX30X+pQomR5zzYnU380PIHcc4qpCAv9G1LnT
+	 t6qdrPPDr6kbziVDI8WG8Bu38664iPbV+V8H2DOE=
+X-MSFBL: 7R6JIfH6dzCx+0bYs6dp490c67SgTrFsPJju/oVeh24=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMGIzZjQ4MDVjYTEzZjlmZDAiLCJjdXN0b21
+	lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  a.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:62122] helo=mail-jobs)
+	by a.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.67484 r(Core:4.3.0.0-rc1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id F9/0D-16289-3B4F08C5; Thu, 07 Mar 2019 10:38:43 +0000
+Received: from [10.2.1.94] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1h1qQC-0000O7-Hj
+	for jobs@perl.org; Thu, 07 Mar 2019 10:38:42 +0000
+Date: Thu, 7 Mar 2019 10:38:40 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1h1qQC-0000O7-Hj@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.3.7.103016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0,
+ __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: A love-fest of job satisfaction (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21556
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2019
+
+Job title: A love-fest of job satisfaction
+
+Company name: Perl Careers
+
+Location: London, United Kingdom
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+What if you had a job you loved, and that job helped other people find jobs
+they loved? If you=E2=80=99re an advocate of =E2=80=98sharing is caring=E2=
+=80=99, then jump on the
+merry-go-round of contentment where everybody=E2=80=99s satisfied.=20=20
+
+This client
+has built a search engine for people to find their ideal employers in the
+UK. So with them, you=E2=80=99ll be working on jobs within a job - think of=
+ it like
+Inception but for career dreams instead of nocturnal ones, very meta.
+
+The
+company has a great ethos that anyone with a heart made of organic matter
+is sure to appreciate. They value openness in an informal, diverse
+environment, and find office politics as tedious and banal as you do. If
+you=E2=80=99re an independent thinker who likes teamwork - you=E2=80=99ll l=
+ike here, and
+they throw a biannual shindig that proves they=E2=80=99re not a Monty Burns=
+-style
+employer.
+
+A stable company that=E2=80=99s financially sound and pays the salary
+that shows it, they=E2=80=99re after a skilled, modern Perl developer who t=
+hinks on
+their feet and loves making a real impact. It=E2=80=99s not the job to end =
+all
+jobs, it=E2=80=99s the job that begins all jobs. Get in on the action and s=
+pread
+the satisfaction.
+
+Desired skills:
+The ideal candidate has:
+
+Experience with DBIx::Class and either Postgres
+or MySQL
+Template Toolkit
+Experience with at least one of the modern web
+frameworks: Dancer, Mojolicious, Catalyst
+Exposure to Moose would be ideal
+Knows their way around HTML and Javascript
+
+Website for more information: https://job.perl.careers/0ii3bm
+
+Contact information at:
+http://jobs.perl.org/job/21556#contact

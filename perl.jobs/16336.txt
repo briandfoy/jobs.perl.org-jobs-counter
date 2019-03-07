@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16336
+Return-Path: <msprvs1=17969nJa28icb=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32443 invoked from network); 7 Mar 2019 10:38:38 -0000
+Received: from xx1.develooper.com (207.171.7.115)
+  by x6.develooper.com with SMTP; 7 Mar 2019 10:38:38 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id DF6DD7CF29
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:38 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 4D9677CF6E
+	for <perlmail-jobs@onion.perl.org>; Thu,  7 Mar 2019 02:38:37 -0800 (PST)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id DCDEC7CF6B
+	for <jobs@perl.org>; Thu,  7 Mar 2019 02:38:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1551955114; i=@perl.org;
+	bh=toeOHxjsc1jqDj0gIW5ooAUWizYCbdaLA9b5VYqbRjw=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=k/xXNJgz89wjeIVm9Wt2bsWcYVvotlLOiYzjuubPG7T1+ih9vzv13SXLmWx8MWfMP
+	 V7RTkyOzIs/TUl/MxlzJQai9e0efHfR/HShoO0bB6hty1ftP69NYzbao5UuGVyVJoI
+	 Y7Cie8MAxcdVRiNvz0OkUIOT9jGj3MVA1L5gmFzc=
+X-MSFBL: Far/JdQVbgjPpfI2OFi+owfYmp8oPdq8A6V3IFDk9eg=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMGFhZjQ4MDVjMzg4ZThkYzYiLCJzdWJhY2N
+	vdW50X2lkIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  b.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [207.171.7.1] ([207.171.7.1:55367] helo=mail-jobs)
+	by b.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.67484 r(Core:4.3.0.0-rc1)) with ESMTPSA (cipher=ECDHE-RSA-AES128-GCM-SHA256) 
+	id D8/6C-36408-AA4F08C5; Thu, 07 Mar 2019 10:38:34 +0000
+Received: from [10.2.5.233] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.84_2)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1h1qQ5-0000O3-PM
+	for jobs@perl.org; Thu, 07 Mar 2019 10:38:33 +0000
+Date: Thu, 7 Mar 2019 10:38:33 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1h1qQ5-0000O3-PM@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.3.7.103016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_NOT_1 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0,
+ __STOCK_PHRASE_6 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __zen.spamhaus.org_ERROR '
+Subject: Could you service an audience of 10 Million+? (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/21554
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2019
+
+Job title: Could you service an audience of 10 Million+?
+
+Company name: Perl Careers
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Sometimes when young companies reach a certain level of success,
+complacency sets in. The culture (subtly) shifts from entrepreneurial to
+bureaucratic.
+
+That=E2=80=99s not this client.
+
+Instead of toasting themselves,
+they keep rolling. A while back, they hit an impressive milestone=E2=80=9410
+million monthly visitors. These visitors are looking for their next career
+move. The company=E2=80=99s goal is to become the best place for job seeker=
+s to
+begin their search. That means continued growth=E2=80=94while having fun al=
+ong the
+way.
+
+Should you join the company, you=E2=80=99ll be charged with analyzing
+business and technical requirements. The solutions you propose will account
+for performance, scalability, maintenance, and cost. You=E2=80=99ll develop=
+ new
+tools and functionality. You=E2=80=99ll work with other developers, enginee=
+rs, and
+data scientists (all of whom are great people=E2=80=94really!).
+
+The salary is
+competitive. The perks are many (stock, pension, vouchers for childcare,
+etc.). They=E2=80=99ve got an active social program, but there=E2=80=99s ne=
+ver any pressure
+to participate. The office is in West London (Fulham Broadway), with
+satellite offices worldwide.
+
+Desired skills:
+They=E2=80=99re looking for a Perl Developer with first-rate Object-Oriente=
+d skills
+(Moose). Strong SQL (ideally MySQL) and DBIx::Class a must. Other
+experience? Unit and functional testing (Test::More etc.). Unix/Linux.
+Version control systems (Git is best).
+
+Website for more information: https://job.perl.careers/hacrvm
+
+Contact information at:
+http://jobs.perl.org/job/21554#contact
