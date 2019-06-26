@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16350
+Return-Path: <msprvs1=18079476ZKyc8=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9451 invoked from network); 25 Jun 2019 06:21:39 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 25 Jun 2019 06:21:39 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C83427CF52
+	for <perlmail-jobs@onion.perl.org>; Mon, 24 Jun 2019 23:21:39 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 650EF7C0F5
+	for <perlmail-jobs@onion.perl.org>; Mon, 24 Jun 2019 23:21:36 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id AFF3F7CF52
+	for <jobs@perl.org>; Mon, 24 Jun 2019 23:21:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1561443685; i=@perl.org;
+	bh=gz2A8IlPoDFCl3DRudADI0XMTbCIFtE5BliEwAJCVJI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=oIbU9dNxB/IqkRQP8LVbUJibvzuooOF7jTLhe+4e5HD9god+twb//GfcycH1rtCq/
+	 0jJaPjjjIHokk4MOAdLZ7wFl/TVnJtlenriiWOLR4pacK7oczT8HLA3hfEoEcAw5+A
+	 fTP21fVAhLIva6wSv+hkHd8irJ9PZb7xjGgNtnZo=
+X-MSFBL: WPHMvPMe1NSaCsFm5f+oMm2JL9NeQpm5sOLgyH19l2Y=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMDY1YmQxMTVkNDczNTI3OGYiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2N
+	vdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:55202] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68236 r(Core:4.3.0.24)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 72/F8-13639-56DB11D5; Tue, 25 Jun 2019 06:21:25 +0000
+Received: from [10.42.5.164] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hfepY-0000Iv-FF
+	for jobs@perl.org; Tue, 25 Jun 2019 06:21:24 +0000
+Date: Tue, 25 Jun 2019 06:21:24 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hfepY-0000Iv-FF@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.6.25.55416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_AGE 0, __FRAUD_CONTACT_NAME 0, __FRAUD_CONTACT_SEX 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FRAUD_SUBJ_A 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INVOICE_MULTILINGUAL 0,
+ __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Developer-Immediate Opening-Supporting FBI (onsite),
+ Quantico Marine Base
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21609
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 25, 2019
+
+Job title:
+Software Developer-Immediate Opening-Supporting FBI
+
+Company name: ALTA IT
+
+Location: Quantico Marine Base
+
+Pay rate: $120K-$130K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Software Developer
+ACTIVE TS Clearance Required
+Must be able to pass
+Federal Background Check & Drug Screen
+Quantico Marine Base, VA 22134
+Contract to Hire/Permanent Opportunity
+Supporting FBI
+
+Expert level
+scripter =E2=80=93creating scripts while analyzing large data files.=20
+
+We are
+currently seeking a Software Developer to support a client in Quantico, VA.
+
+
+Required Skills:=20
+=E2=80=A2	Bachelor's Degree in Software Engineering or
+related field
+=E2=80=A2	2 years of professional working experience with
+Software Development
+=E2=80=A2	Experience with UNIX or Linux Command Lines
+required
+=E2=80=A2	Experience with shell scripting (Awk, Bash, Tclsh). Python
+and Java a plus=20
+=E2=80=A2	Experience with past Perl scripting and/or
+knowledge would be helpful
+
+Functional Responsibility:=20
+=E2=80=A2	The
+Software Developer shall be responsible for analyzing large data files and
+creating scripts to process those files on Linux based computer system.
+=E2=80=A2=20=20
+    He/she shall also test, debug and refine computer software to produce
+the required product.
+=E2=80=A2	In this position, he/she may also be required
+to prepare both program-level and user-level documentation.
+
+
+ALTA IT
+Services, LLC. is an equal opportunity/affirmative action employer and
+considers qualified applicants for employment without regard to race,
+gender, age, color, religion, disability, veteran status, sexual
+orientation, or any other factor.
+
+Website for more information: https://www.altaits.com/
+
+Contact information at:
+http://jobs.perl.org/job/21609#contact
