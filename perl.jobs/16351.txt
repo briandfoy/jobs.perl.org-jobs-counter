@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16351
+Return-Path: <msprvs1=18086bIItRzqG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23695 invoked from network); 2 Jul 2019 04:23:15 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Jul 2019 04:23:15 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3B38E7C1B6
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:15 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 335BF7CF56
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:14 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 8EE407C1B6
+	for <jobs@perl.org>; Mon,  1 Jul 2019 21:23:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1562041390; i=@perl.org;
+	bh=ORd/HLn+Mm+adzzGJURaqE5fOuDsD5zOcidWj7GhplE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=gedDfOHeTqiGUmSuz4axbNtOX62uCUGDwzAYOQk3HdUe8Jp2xROk4moSXJoY/TKDj
+	 rq3KLQElQy3DGuY1xEFd1jgeHPc4P0SspS+8NihRE+R4iZnkOywgerqH0enh9chqAQ
+	 EIKkogUbsHvz89CBjQa+lu55hh5yKBHkRwffhI44=
+X-MSFBL: qzmmQhZKCm9Am2q0E3rhC6aAKWZrHc+NHFFX2L7SvV8=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMmRkYzFhNWRmNDR
+	mNmIxNCJ9
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:33596] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68275 r(Core:4.3.0.25)) with ESMTPSA (cipher=AES-256-GCM) 
+	id B6/41-20468-D2CDA1D5; Tue, 02 Jul 2019 04:23:09 +0000
+Received: from [10.42.5.164] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hiAJx-0000U1-2q
+	for jobs@perl.org; Tue, 02 Jul 2019 04:23:09 +0000
+Date: Tue, 2 Jul 2019 04:23:08 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hiAJx-0000U1-2q@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.7.2.41218
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_1099 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0,
+ __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Strawberry Perl Consultant (telecommute), US
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21615
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  2, 2019
+
+Job title: Strawberry Perl Consultant
+
+Company name: Technicon
+
+Location: US
+
+Pay rate: TBD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hi, We are transitioning from ActiveState Perl to Strawberry Perl. We are
+looking for a Strawberry Perl expert to help with whatever issues spring
+up. For instance, we expect to need help in building the CPAN modules that
+we have come to rely on. Today we have a custom environment based on the
+ActiveState PPM. We would like to replicate this environment with
+Strawberry Perl.
+
+Desired skills:
+Significant experience building applications with Strawberry Perl
+
+Website for more information: https://www.technicon.com
+
+Contact information at:
+http://jobs.perl.org/job/21615#contact

@@ -1,0 +1,184 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16352
+Return-Path: <msprvs1=18086bIItRzqG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23659 invoked from network); 2 Jul 2019 04:23:07 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Jul 2019 04:23:07 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id C1D607C1B6
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:06 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 77A317CF54
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:03 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 287467C1B6
+	for <jobs@perl.org>; Mon,  1 Jul 2019 21:22:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1562041371; i=@perl.org;
+	bh=DTleFSGEZbp6OjPlJj+tQjSdVnREnWdXlM27DA7HqN8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=ILUlHBkTtsnIh0cE7jKuiEMjSjSP+VKo7T72PPgYHuCiLyNEFIsmYSVg3js/AtUD1
+	 FX9h3JkxS+AGDKSZx39rJu8QEPlCD3/fRu1AaRr/2of4bzhxehE+RU85ePyC8P8LcY
+	 l4TSlndpAiqqnH7mgFzbFn8jq6pelozopVedkHmA=
+X-MSFBL: cP63pW3Aq0EZ05uzN0dwwFwwBv9anKxPgjQfYVtfflk=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDAwMWJkYzFhNWQ1ZDM
+	3N2M5OSJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:33822] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68275 r(Core:4.3.0.25)) with ESMTPSA (cipher=AES-256-GCM) 
+	id C7/99-14173-B1CDA1D5; Tue, 02 Jul 2019 04:22:51 +0000
+Received: from [10.42.4.15] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hiAJe-0000Ty-7n
+	for jobs@perl.org; Tue, 02 Jul 2019 04:22:50 +0000
+Date: Tue, 2 Jul 2019 04:22:50 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hiAJe-0000Ty-7n@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.7.2.41218
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, CHILD_EX_X3 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_MEDIA_2_BODY 0, __CP_MEDIA_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_NEGATE 0,
+ __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer, using modern Perl 5 and experiment with Perl 6
+ (onsite), Rugby, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21613
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  2, 2019
+
+Job title:
+Perl Developer, using modern Perl 5 and experiment with Perl 6
+
+Company name: OpusVL
+
+Location: Rugby, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join our Perl development team in Rugby to develop and maintain customer
+projects. We use modern Perl 5 and experimenting with Perl 6.
+
+At OpusVL we
+develop open source ERP applications for businesses who aspire to lead
+their industries, but find that their software needs are not met by "off
+the shelf" tools or applications. Working collaboratively with them, we
+design a solution that fits. We then take ownership of project delivery
+through development, testing, deployment and support.
+
+Our customers value
+a professional approach to software development, and trust us to make
+technology decisions on their behalf.
+
+We are now looking for a Perl
+developer to join our development team in Rugby.
+
+We'd expect you to
+understand object oriented programming and design, be comfortable with test
+driven development, and have experience of developing with a "Modern Perl"
+stack.
+
+You will be working on a mixture of new projects and maintenance of
+existing code. As part of the role, you will also take ownership and lead
+the development of Flexibase, our open source application framework used in
+all of our Perl projects.
+
+We operate test-driven development, code to
+proper specifications, and keep up to date with technology. Developers are
+the most important part of our business - without a great technical
+delivery team, we would not be able to handle the complex and varied
+challenges; with the right people we know that if it is possible, we can
+make it happen.
+
+Desired skills:
+=E2=80=A2 Experienced in modern Perl development techniques, including;
+    =E2=80=A2
+Object system (e.g. Moose)
+    =E2=80=A2 ORM (e.g. DBIx::Class)
+    =E2=80=A2 Web framework
+(e.g Catalyst, Dancer2, Mojolicious)
+    =E2=80=A2 Test::More (or other Perl
+testing modules)
+=E2=80=A2 Ability to maintain platform used for multiple products
+across multiple domains and sectors
+=E2=80=A2 Structured and organised
+=E2=80=A2 Ability to
+write technical and user documentation
+=E2=80=A2 Technical communications through
+multiple channels (in person, phone, instant messaging, issue trackers)
+=E2=80=A2
+Team working with other developers
+=E2=80=A2 Eager to learn new skills and
+technologies
+=E2=80=A2 Able to create secure and maintainable code
+=E2=80=A2 Managing
+source control
+=E2=80=A2 Test driven development
+
+Beneficial skills
+
+=E2=80=A2 Ability to
+own the Flexibase vision and roadmap
+=E2=80=A2 Deployment using Docker
+=E2=80=A2
+Dist::Zilla
+=E2=80=A2 PostgreSQL
+=E2=80=A2 Experience with continuous integration tools
+=E2=80=A2
+Perl 6
+
+It would be ideal if you could give us some examples of software
+you've developed, such as any open source contributions, videos or on-line
+documentation you've made, or your GitHub profile; as part of a team, it's
+very important that your code and documentation is easy for others to read
+and extend.
+
+Working at OpusVL
+
+At OpusVL we strive to provide a relaxed,
+highly supportive working environment.
+
+We understand that to be creative
+and provide high quality code, our developers need to build a comfortable
+environment that suits them individually and the company supports this as
+much as possible. All developers get dual-head workstations (running Mint,
+Ubuntu and other Linux flavours) as standard, with a budget for peripherals
+of your choice.
+
+We'll support your training and development, and give you
+paid time to attend conferences and other events relevant to your role.
+
+The OpusVL office is in a convenient central UK location right in the heart
+of Rugby, about two minutes walk from the shops, cafes and coffee shops.
+There's no dress code for technical people and working conditions are
+flexible.
+
+So if you want to make a difference, and support Open Source
+while working on interesting projects then we'd love to hear from you!
+
+Website for more information: https://opusvl.com
+
+Contact information at:
+http://jobs.perl.org/job/21613#contact

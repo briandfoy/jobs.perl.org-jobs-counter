@@ -1,0 +1,142 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16353
+Return-Path: <msprvs1=18086bIItRzqG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23717 invoked from network); 2 Jul 2019 04:23:26 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Jul 2019 04:23:26 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 28A637CF52
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:26 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 583CE7CF54
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:23:24 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id CF26E7CF52
+	for <jobs@perl.org>; Mon,  1 Jul 2019 21:23:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1562041403; i=@perl.org;
+	bh=Z0IcuM4KV8lHN7bTCN7g1wTGBOrMwmiky9DMND8Ni8o=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=d848mvrMSfrJ3ujP0lnfHUUKlSr/1mEINDngFCS4FMC58sPfV+mGWvAcRuHDDFWhx
+	 dbntVClVpJrseODqIzGgYaT218kCQJtigtnYYwoq7Hjl4dMmfzLXnryS1GRyNb6G0K
+	 OGfmtjuFY1NkH2CFR582lw65j2FTrkUT3ofNL6sA=
+X-MSFBL: 1ckA0RUdEHsudqt7nBhoX+s1EoEfLUMQaIESqruZPTA=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDNhZGMxYTVkZjQ0ZmNkMjgiLCJjdXN0b21
+	lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:38354] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68275 r(Core:4.3.0.25)) with ESMTPSA (cipher=AES-256-GCM) 
+	id DC/82-20468-A3CDA1D5; Tue, 02 Jul 2019 04:23:23 +0000
+Received: from [10.42.4.15] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hiAKA-0000U4-7q
+	for jobs@perl.org; Tue, 02 Jul 2019 04:23:22 +0000
+Date: Tue, 2 Jul 2019 04:23:22 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hiAKA-0000U4-7q@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.7.2.41218
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_NOT_1 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Programmer (telecommute), San Francisco, CA, United
+ States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/18232
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  2, 2019
+
+Job title: Senior Perl Programmer
+
+Company name: WebCDR
+
+Location: San Francisco, CA, United States
+
+Pay rate: $50/hr long-term
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+This is a 100% telecommuting position.=20
+
+You will be developing hosted
+software for the telecom industry using Perl, Linux, Apache, PostgreSQL,
+and Javascript. You will be part of a devops team responsible for
+developing new features and managing systems.
+
+Excellent spoken and written
+English. This position requires occasional customer interaction for
+requirements gathering and application support.
+Proven ability to document
+what you do.
+Highly responsive and productive in a work-from-home setting.
+Ability to accept direction and instruction from management.
+Ability to
+track and communicate status of your projects to management on a recurring
+basis.
+Ability to help clients via telephone and email.
+
+Personal
+
+Highly
+intelligent, innovative problem-solver.
+Detail oriented with strong
+follow-through.
+Ability to learn new concepts quickly.
+Happy working solo
+or in a team.
+
+Medical, dental, vision, paid vacation for FTE's should we
+opt to make you an offer of full-time employment at some future date.
+We
+perform a criminal background check on candidates after the second
+interview per our corporate security policy. No phone calls or visits
+without prior invitation.
+
+Absolutely no agents or third party inquiries.=20
+Really.
+
+Desired skills:
+Strong software development skills: requirements, architecture, design,
+implementation, and maintenance.
+5+ years Perl programming experience.
+Database skills (PostgreSQL and Oracle a plus).
+Web application development
+skills.
+Professional
+
+In-depth understanding of the Perl HTML::Mason
+module.
+High-availability systems setup.
+Telecom/SIP/VoIP knowledge.
+Nagios
+configuration.
+
+Website for more information: http://www.webcdr.com
+
+Contact information at:
+http://jobs.perl.org/job/18232#contact

@@ -1,0 +1,181 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16354
+Return-Path: <msprvs1=18086bIItRzqG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23754 invoked from network); 2 Jul 2019 04:24:02 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Jul 2019 04:24:02 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id EEED57C1B6
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:24:01 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B939A7CF52
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jul 2019 21:24:00 -0700 (PDT)
+Received: from mta737b.sparkpostmail.com (mta737b.sparkpostmail.com [34.209.80.29])
+	by xx1.develooper.com (Postfix) with ESMTP id 154257C1B6
+	for <jobs@perl.org>; Mon,  1 Jul 2019 21:24:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1562041439; i=@perl.org;
+	bh=UC8K2DHrB/Apj7rbfBCVpKWY4kybDpCVHUlTUKkFwTE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=pvdiyAIfO/fpezoDcEbxeYX/bhw+HMPD2XeLnhOVaqCx5GtGpWbU0fQ0CicKOFpwc
+	 DOYuE6GVWKRaEJT6N+bP30CXEsp+5QEnCdxL9H6YGO2MKWTCobj4T8Ttuxa83aJ558
+	 sutoLFL+0qarElpwt541Mz83d/7l0kglKyHc5xu8=
+X-MSFBL: uOGO7d1u5OiJhWWskJ7+VmZoBItyWvIHdABzaVs0U90=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDVmZGMxYTVkNWQzN2VjZTIiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:41142] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68275 r(Core:4.3.0.25)) with ESMTPSA (cipher=AES-256-GCM) 
+	id CE/2E-14173-F5CDA1D5; Tue, 02 Jul 2019 04:23:59 +0000
+Received: from [10.42.4.15] (helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hiAKk-0000UA-Bh
+	for jobs@perl.org; Tue, 02 Jul 2019 04:23:58 +0000
+Date: Tue, 2 Jul 2019 04:23:58 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hiAKk-0000UA-Bh@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.7.2.41218
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, ECARD_WORD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_ENDS_IN_HTML 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_MALFORMED_2 0,
+ __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Malta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21374
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  1, 2019
+
+Job title: Perl Developer
+
+Company name: Binary.com
+
+Location: Malta
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Binary.com is seeking a driven, proactive, and highly-experienced Perl
+Developer. You will write robust, high-quality, and production-ready code
+that powers our websites and applications. Your work will directly
+influence the core architecture that drives our high-traffic binary options
+trading website.
+
+Our company
+Binary Europe Ltd holds a gaming license in
+Malta that operates via the award-winning platform, Binary.com.
+
+Launched
+in 2000, Binary.com is one of the oldest and most respected names in the
+industry. The Binary.com platform allows you to trade synthetic indices,
+currencies, indices, and commodities.
+
+Our culture
+Binary.com is a vibrant
+and progressive company that blends the entrepreneurial spirit of a startup
+with the profitability and stability of a long-running business.
+
+Our
+company is built on a culture that fosters teamwork, individuality, and
+creativity. We care deeply about cultural and gender diversity. We go to
+great lengths to foster a supportive, caring environment within a flat
+organisational structure.
+
+We value staff with a sense of fun and
+adventure, who are optimistic, and customer focused. Above all, you must
+agree with our strong emphasis on business integrity.
+
+Your role
+Binary.com=E2=80=99s IT team is responsible for the design, development, and
+operation of our high-traffic networks. As our Perl Developer, you will be
+taking on the challenge of writing robust, high-quality, and
+production-ready code. Your work will greatly contribute to the
+architecture that drives our high-traffic binary options trading website.
+
+You will:
+=E2=97=8F Develop and maintain world-class web applications.
+=E2=97=8F Build,
+maintain, and optimise the technology that powers our servers,
+applications, and databases.
+=E2=97=8F Work closely with other teams to come up
+with effective architecture to support the deployment of new products and
+features.
+=E2=97=8F Troubleshoot and debug problems in existing applications, and
+find new ways to improve their speed, functionality, and scalability.
+=E2=97=8F
+Participate in all aspects of the product lifecycle.
+
+Remuneration and
+benefits
+This position includes a market-based salary, annual performance
+bonus, and health benefits.
+You will receive travel and Internet
+allowances, and enjoy a casual dress code and flexi hours.
+
+For expatriates
+We will also assist you with your work permit or EU Blue Card, and
+relocation for your family.
+
+Location
+This role is based at our
+headquarters in Birkirkara.
+
+Desired skills:
+We are looking for someone who loves to:
+=E2=97=8F Test and fix things, especially
+when it involves working with data.
+=E2=97=8F Optimise web applications and
+infrastructure for maximum speed and scalability.
+=E2=97=8F Do great work, and
+inspires people around them to do the same.
+=E2=97=8F Work with highly talented
+people in an exciting, multinational environment.
+=E2=97=8F Get things done in a
+no-nonsense manner.
+=E2=97=8F Work without bureaucracy and hierarchy.
+=E2=97=8F Have the
+latest tools and technologies at their disposal.
+=E2=97=8F Learn and improve, day
+in and day out.
+
+To   excel   in   this	 role,	 you   must   have:
+=E2=97=8F Deep
+Perl expertise.
+=E2=97=8F Expertise in Linux system administration.
+=E2=97=8F Experience
+with relational database design, and/ or open-source RDBMS systems such as
+MySQL and PostgreSQL.
+=E2=97=8F Familiarity with Perl DBI, Moose, PSGI/Plack,
+NGINX, JavaScript, Redis, and Git.
+=E2=97=8F Ability to produce high-quality,
+self-documenting code by using test-driven development (TDD) techniques.
+=E2=97=8F
+Event-driven programming in Perl.
+=E2=97=8F Passion for Linux, and other
+open-source platforms.
+
+Website for more information: https://binary.com/en/careers.html
+
+Contact information at:
+http://jobs.perl.org/job/21374#contact
