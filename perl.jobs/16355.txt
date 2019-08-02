@@ -1,0 +1,167 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16355
+Return-Path: <msprvs1=181156Ec40CT0=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13289 invoked from network); 31 Jul 2019 10:23:21 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 31 Jul 2019 10:23:21 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1E8CA7CF52
+	for <perlmail-jobs@onion.perl.org>; Wed, 31 Jul 2019 03:23:21 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 464157CF53
+	for <perlmail-jobs@onion.perl.org>; Wed, 31 Jul 2019 03:23:19 -0700 (PDT)
+X-Greylist: delayed 1206 seconds by postgrey-1.34 at xx1.develooper.com; Wed, 31 Jul 2019 03:23:10 PDT
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id DD3807CF52
+	for <jobs@perl.org>; Wed, 31 Jul 2019 03:23:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1564567380; i=@perl.org;
+	bh=shAaLb06zCwvlxPZz9fWFWvJCgNxl8GoBTYuneP8QgQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=FI1k9tqZx6xXsWJSRHeLsQt8Zi5trsNfYTf0hiNW96SljcRWH/vjE0RH8wFyBhCdJ
+	 k3SoLkDj1lvvLJYf5WZEZqVg9bi6sI92FAesKtkm5Z3JYh08TIuQzaFjTCcxI2/rC4
+	 7FPGD1OL6ogWGu0HzHV8KwDmKEAQyyA24m5J4zD8=
+X-MSFBL: Xg5snc2KoNIE9jX4SYAuK6ZbigOiPGXysWzNxTB6ZN0=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sIm1lc3NhZ2VfaWQiOiIwMDAwNTQ2NzQxNWRlNTBlNTIzMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.167] ([147.75.199.167:40712] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68398 r(Core:4.3.0.27)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 25/13-03813-457614D5; Wed, 31 Jul 2019 10:03:00 +0000
+Received: from 10-42-4-15.jobso.jobso.svc.cluster.local ([10.42.4.15] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1hslRj-0001FK-Nb
+	for jobs@perl.org; Wed, 31 Jul 2019 10:02:59 +0000
+Date: Wed, 31 Jul 2019 10:02:59 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1hslRj-0001FK-Nb@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.7.31.100316
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_MARRIED 0, __FRAUD_CONTACT_NAME 0, __FRAUD_CONTACT_SEX 0, __FRAUD_JOB 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Sr. Perl Developer (part onsite), Anaheim, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21637
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2019
+
+Job title: Sr. Perl Developer
+
+Company name: Brandify
+
+Location: Anaheim, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Who is Brandify?
+Brandify is an industry-leading provider of location-based
+digital marketing solutions that provides brands with a better
+understanding of their connection to their customers. Brandify does this by
+capturing incredibly powerful data as well as providing strategy and
+customized services to help brands maximize their online presence and drive
+customers to their locations. Established in 1997, Brandify (formerly known
+as Where2GetIt) powers more than 500 brands and serves more than 4.5
+million brick and mortar locations, globally reaching millions of consumers
+daily. Brandify's mission is to leverage location technology to transform
+the way businesses connect to consumers while offering unrivaled personal
+service.
+YOU
+Brandify's vision is to continue creating a team of
+innovators, strategists and leaders across technology and digital marketing
+whose aim is for the betterment of others and themselves.
+We are exploring
+all of Southern California to find a Sr Perl Software Engineer for our
+Anaheim, CA headquarters.
+Duties
+Will develop and update web content code
+Will write, design, and implement code using OO Perl and other technologies
+using a predefined me-line
+Will confer with management and cross-functional
+teams in the development process from start to finish
+Will develop and
+execute unit test for product components
+Will write code that it is valid,
+properly structured, meets industry standards and is compatible with
+browsers, devices, or operating systems
+
+
+Compensation
+In addition to
+competitive compensation Brandify offers full benefits, a comfortable
+casual working environment, vacation, 4 day holiday weekends, 401k and many
+more additional benefits. We are committed to the excellence of our team
+and will continue to foster growth by treating our employees well!
+EEO
+Statement
+It is the policy of Brandify to provide equal employment
+opportunity (EEO) to all persons regardless of age, color, national origin,
+citizenship status, physical or mental disability, race, religion, creed,
+gender, sex, sexual orientation, gender identity and/or expression, genetic
+information, marital status, status with regard to public assistance,
+veteran status, or any other characteristic protected by federal, state or
+local law. In addition, Brandify will provide reasonable accommodations for
+qualified individuals with disabilities. Brandify=E2=80=99s programs are de=
+signed
+to comply with all applicable federal, state and local laws, directives and
+regulations and cover all human resource actions including employment,
+compensation, benefits, training, education, promotions and
+social/recreational programs. Brandify's CEO and senior leadership team
+have the responsibility to monitor progress, reinforce policies and hold
+the organization accountable to meet its objectives.
+
+Desired skills:
+Requirements
+Must have 8 years=E2=80=99 Perl 5 development and MySQL experience
+Must have 8 years=E2=80=99 experience working with Object Oriented Programm=
+ing and
+Service Oriented Architecture
+Must have 5 years=E2=80=99 experience with HTML, CSS,
+and Javascript
+Must have a Bachelor's degree in Computer Science or related
+field and/or equivalent work experience
+
+Strongly Desired
+Should be
+methodical in documenting and testing your own code
+Should be comfortable
+working independently and as a member of a cross functional team
+Should
+have excellent verbal and written communication skills
+Should have a high
+degree of honesty and integrity
+Should be deadline oriented and
+multi-tasking ability in a fast-paced environment
+You must be at least 21
+years old or older
+You must be comfortable with adult content
+Should be a
+team-player, positive attitude and flexible
+
+Website for more information: https://www.brandify.com/about/careers
+
+Contact information at:
+http://jobs.perl.org/job/21637#contact
