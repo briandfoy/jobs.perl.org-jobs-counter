@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16368
+Return-Path: <msprvs1=18178s-alOUap=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7973 invoked from network); 2 Oct 2019 08:20:21 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Oct 2019 08:20:21 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 45B84C600C
+	for <perlmail-jobs@onion.perl.org>; Wed,  2 Oct 2019 01:20:21 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 79CD6C2159
+	for <perlmail-jobs@onion.perl.org>; Wed,  2 Oct 2019 01:20:19 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 73B63C2157
+	for <jobs@perl.org>; Wed,  2 Oct 2019 01:20:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1570004416; i=@perl.org;
+	bh=2D/+aL/qunYRy3VaEr8ueZ/o3HCocTvNAm2mJZFoUN0=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=YhhdlSYq2A8qOCYOmjiQbUOaOTga5f3nLD0UZ0e0ObpnYilWbQf2g0bHw+kvFIonr
+	 Bsx8z8PJGieuAAkljn1GQFeYK06rVyFifj3vWJ5j4wZDJRa8TQxydCW30bmn5TPbDg
+	 MJEcHRNMFKgk/u9tRHXhFNP+vH7FTuWRMbmr8gcE=
+X-MSFBL: 2AkfLUw0dE/cfmnU1MYlAEuRDVEWf70uw7O7GA4J0u4=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDAwYzA1ZDk0NWRlOTBmYmNlMCIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:50540] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68718 r(Core:4.3.0.38)) with ESMTPSA (cipher=AES-256-GCM) 
+	id CB/0E-04073-0CD549D5; Wed, 02 Oct 2019 08:20:16 +0000
+Received: from 10-42-4-64.jobso.jobso.svc.cluster.local ([10.42.4.64] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1iFZrr-0001Ff-89
+	for jobs@perl.org; Wed, 02 Oct 2019 08:20:15 +0000
+Date: Wed, 2 Oct 2019 08:20:15 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1iFZrr-0001Ff-89@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.10.2.81216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1300_1399 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: System administration and Perl scripting (onsite), Singapore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21660
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  1, 2019
+
+Job title: System administration and Perl scripting
+
+Company name: Triple A & AMEEX|mobile
+
+Location: Singapore
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You'll be in charge of a platform used to route SMS (Short Messages).
+Mostly written in Perl (90%) with a few proprietary softwares and some GO
+software.
+
+The scope of the position is as wide as possible, including
+development, system administration, customer support, account management
+and duty work on all the systems of the company.=20
+
+This is not a position
+for the faint of heart, you'll be very autonomous and the impact of your
+work on the company will just be as big as you want.=20
+
+The company is
+conducting as well some major project on Cryptocurrencies and blockchain,
+there are as well open position.
+
+Desired skills:
+Perl of course, that's our history language.=20
+
+Linux as well, that's our
+history OS.
+
+AWS, SMPP, SS7, Internet, system administration.
+
+Website for more information: http://www.ameex-mobile.com
+
+Contact information at:
+http://jobs.perl.org/job/21660#contact
