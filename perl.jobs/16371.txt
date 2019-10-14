@@ -1,0 +1,181 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16371
+Return-Path: <msprvs1=181881fIWo9Ob=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30229 invoked from network); 12 Oct 2019 21:10:02 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 12 Oct 2019 21:10:02 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E5C15C2157
+	for <perlmail-jobs@onion.perl.org>; Sat, 12 Oct 2019 14:10:01 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 24BC1C2159
+	for <perlmail-jobs@onion.perl.org>; Sat, 12 Oct 2019 14:09:56 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id A5E7DC2157
+	for <jobs@perl.org>; Sat, 12 Oct 2019 14:09:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1570914581; i=@perl.org;
+	bh=NRf1YzISv//abFiHAo5MBNkckJn6QPIWeEV8MjTJV1k=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=EjhnxlNqlOKUqJXPEOCESp0oADGbCHpWZ2nvmp3P8PfroZiKv85lWwOrZEAmdiwcz
+	 Rfc3ad/SeiVyb4Q2oOdqe2JbBzSJBQrRAM8B/+wubDhBhxEgXJ7fPRP1V2YfLwE3AG
+	 vmYIsNZxrUFF0uCeWxnn2GPsZ2U7HKOogtxyX1SU=
+X-MSFBL: CEzJIeKaAQJs0Aim8tJ03NoKavjqv0KTXh5CUrqWp+w=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	tZXNzYWdlX2lkIjoiMDAwMDE1NDFhMjVkN2M0M2VhNzciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:54664] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68731 r(Core:4.3.0.39)) with ESMTPSA (cipher=AES-256-GCM) 
+	id AE/77-17276-51142AD5; Sat, 12 Oct 2019 21:09:41 +0000
+Received: from 10-42-4-64.jobso.jobso.svc.cluster.local ([10.42.4.64] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.89)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1iJOdw-0001Wl-QH
+	for jobs@perl.org; Sat, 12 Oct 2019 21:09:40 +0000
+Date: Sat, 12 Oct 2019 21:09:40 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1iJOdw-0001Wl-QH@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.10.12.205717
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_REASONS 0, __PHISH_SPEAR_REASONS1 0,
+ __PHISH_SPEAR_SUBJ_TEAM 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Technical Support Analyst (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21668
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2019
+
+Job title: Technical Support Analyst
+
+Company name: cPanel
+
+Location: Houston, TX
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel prides itself in offering data centers and administrators around the
+world with top rated support, solutions to unique problems, and ongoing
+support when utilizing cPanel & WHM for Linux. cPanel is looking for
+technical analysts that will provide great customer support, solutions, and
+results to data centers and web hosting providers around the world.
+cPanel'sTechnical Analysts are part of an elite group that have graduated
+from standard "help desk" support to a challenging career focused on
+supporting a single product.
+
+This is what the job entails:
+
+Technical
+Performance: Practices the highest levels of competency, effective
+analysis, and documentation; uses technical knowledge to diagnose problems
+with systems when they occur while interacting with customers
+Maintains
+successful customer relationships by maintaining a feedback score of 9.20
+or greater
+Maintains a high level of productivity
+Files effective cases
+Contributes to Company and Department Documentation efforts
+Adheres to the
+policies and procedures of the company
+Maintains a core daily schedule to
+ensure the efficient operations
+Exemplifies the cPanelCoreValues of
+Integrity, Respect, Collaboration, and Follow-Through
+
+Desired skills:
+Eligibility Requirements:
+
+High School diploma or equivalent
+One to two
+years of Linux/*nix/BSD system troubleshooting or a related certification
+(RHCE)
+One year of web hosting industry experience or other related work
+preferred
+
+These are the skills we need for this position:
+
+Language skills
+- must be completely fluent in English and Spanish (speak, read, and write)
+Oral Communication - able to speak clearly and effectively in positive or
+negative situations to	customers and employees
+Written Communication -
+able to communicate effectively in all written work, utilizing proper
+grammar, spelling, and punctuation
+Time Management - able to use time
+effectively in an unsupervised fashion, pursuing other activities when
+regular duties have reduced volume; able to complete projects in a timely
+manner
+Planning/Organizing skills - able to prioritize work activities, use
+time efficiently and work through large projects in a self-motivated manner
+Adaptability - able to adapt to changes in the work environment, manage
+competing demands and able to deal with frequent change, delays or
+unexpected events
+Computer knowledge - computer proficiency, which includes
+knowledge of word processing and spreadsheet software; strong knowledge of
+electronic communication systems; able to navigate internet competently
+Problem-solving skills - able to identify and resolve problems in a timely
+manner, gather and analyze information skillfully; able to apply
+independent judgment on a regular basis in making decisions
+Interpersonal
+skills - able to interact with co-workers and customers in a courteous,
+professional and effective manner
+Math ability - able to perform basic math
+operations; able to apply concepts such as fractions, percentages, and
+rations and apply them to work-related situations
+Technical Requirements:
+advanced technical skills which include:
+Mastery of web server related
+technologies such as Apache, Nginx, MySQL, PostgreSQL, PHP, Exim, Dovecot
+and other MTAs, SpamAssassin- configuration and troubleshooting of Bind,
+DNS, PureFTPD, ProFTPD, Tomcat, Mailman, and SSL
+Solid understanding of
+CentOS/RHELand their package management tools (Yum & RPM), shell commands,
+bash scripting, and basic Linux security concepts
+Bonus Technical Skills:
+additional consideration given to those who have knowledge in:
+Ability to
+compile software such as the Linux Kernel, Apache, and other packages from
+source code
+Ability to configure and build RPM=E2=80=99s
+Mastery of web server
+related technologies such as Nginx, Litespeed, Varnish - configuration and
+troubleshooting of PowerDNSand CloudLinux
+Patch
+Mastery of cPanelsoftware,
+configuration, and implementation
+Travel - Occasional local and/or
+overnight travel, some by air, specific to training courses or company
+conferences, may be required
+Special consideration will be given to
+candidates with the following skills:
+Configuration and troubleshooting of:
+cPanel
+WHM
+Customer service experience
+WebHosting experience
+
+Website for more information:
+https://job.listings.cpanel.net/x/detail/a2ldog9gkzuf
+
+Contact information at:
+http://jobs.perl.org/job/21668#contact
