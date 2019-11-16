@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16380
+Return-Path: <msprvs1=18218SwY07pp4=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16282 invoked from network); 11 Nov 2019 09:06:03 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 11 Nov 2019 09:06:03 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 1739EC2164
+	for <perlmail-jobs@onion.perl.org>; Mon, 11 Nov 2019 01:06:03 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 477B6C2165
+	for <perlmail-jobs@onion.perl.org>; Mon, 11 Nov 2019 01:06:01 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 9CB26C2164
+	for <jobs@perl.org>; Mon, 11 Nov 2019 01:05:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1573463150; i=@perl.org;
+	bh=tP7gZf9hpLZyJk2+zOst6JRkC2reMDIOPoMxjkzJpYk=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=GVo8LFgshYh4CYCifUEmkPld23mioRuZfpjZ5uyA04LtvEAVbuH4EUgn0k0iXzCAW
+	 EejeOMvnswjTbvipk0+sujFY4NKmCr4/rLXJ/DuDzm1aWG4hGH8YUBZXNqrOF7VHXO
+	 4YABs4r8G2iii7G+eHpjAh8Nvk8AWyhm4UAr/610=
+X-MSFBL: N20sAlsVoPWbgwRbYOpTkLNuIppxOYKnfA5cxhSHcNQ=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwMDA2ZTI0Yzk1ZDhmMGQ3Y2I2IiwidGV
+	uYW50X2lkIjoic3BjIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.67.241] ([147.75.67.241:21677] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68920 r(Core:4.3.0.43)) with ESMTPSA (cipher=AES-256-GCM) 
+	id C7/6B-03471-E6429CD5; Mon, 11 Nov 2019 09:05:50 +0000
+Received: from 10-42-5-180.jobso.jobso.svc.cluster.local ([10.42.5.180] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1iU5dt-0000El-Gv
+	for jobs@perl.org; Mon, 11 Nov 2019 09:05:49 +0000
+Date: Mon, 11 Nov 2019 09:05:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1iU5dt-0000El-Gv@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.11.85416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_ONLINE 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0,
+ __SEO_WEBSITE 0, __STOCK_PHRASE_16 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Developer (m/f) (part onsite), Cochin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21677
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2019
+
+Job title: Senior Perl Developer (m/f)
+
+Company name: EQS WEB Technologies PVT LTD
+
+Location: Cochin
+
+Pay rate: As per Industry standard
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Company Profile=20
+=20
+The EQS Group, headquartered in Munich, offer solutions
+such as Corporate Websites, Apps, Online Annual Reports or other Website
+Tools for efficient financial communication. Customers and users of our
+services are comprehensive global player such e.g. BMW Group, Allianz,
+Fresenius Medical Care, Gazprom or Daimler. Many DAX 30 companies and many
+medium-sized companies appreciate our Experience for their premium online
+corporate communications. The Kochi based EQS Web Technologies Pvt. Ltd. is
+a subsidiary of EQS Group AG and one of the three development locations of
+the Group.
+
+=20
+Your job:=20
+=20
+With our team you will be working on the
+realization of innovative and comprehensive online projects. Your tasks
+will mainly consist of the implementation and further development of our
+Perl based web platform. In close cooperation with our team in Munich
+(Germany), you will be developing onlinebased solutions that will live up
+to our high quality standards for our customers.
+
+Desired skills:
+The ideal candidate:
+=20
+=E2=80=A2 Deep knowledge and experience in using Perl for
+web development.=20=20
+=E2=80=A2 Experience in working with regular expressions and
+complex data structures in Perl.=20
+=E2=80=A2 Know how of processing XML in Perl.=20
+=E2=80=A2
+Strong background in SQL.=20=20
+=E2=80=A2 Working experience with My-SQL servers.=20
+=E2=80=A2
+Knowledge of HTML/HTML5/CSS3 and good experience with Javascript and Jquery
+=20
+=E2=80=A2 Favorably have experience with SOAP services.=20
+=E2=80=A2 Favorably experience
+with windows server operating system and the IIS (internet information
+server).=20
+=E2=80=A2 Fluent in English.=20
+
+Your personality is characterized by=20
+
+=E2=80=A2
+Outstanding commitment and sense of responsibility=20
+=E2=80=A2 Excellent capacity
+for team work=09=20=20=20=20=20=20
+=E2=80=A2 Good communication skills.=20
+=E2=80=A2 A target and
+customer oriented way of working.=20
+=E2=80=A2 Minimum 5 years of experience.
+
+Website for more information: https://www.eqs.com
+
+Contact information at:
+http://jobs.perl.org/job/21677#contact
