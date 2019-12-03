@@ -1,0 +1,152 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16383
+Return-Path: <msprvs1=1823615j6WOBG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8629 invoked from network); 29 Nov 2019 09:10:33 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 29 Nov 2019 09:10:33 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 5BDB3C64DD
+	for <perlmail-jobs@onion.perl.org>; Fri, 29 Nov 2019 01:10:33 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 124FACF28C
+	for <perlmail-jobs@onion.perl.org>; Fri, 29 Nov 2019 01:10:32 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 9495CC64DD
+	for <jobs@perl.org>; Fri, 29 Nov 2019 01:10:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1575018630; i=@perl.org;
+	bh=L5eBL7uZO7s0qzyG0UJ6HlMyTcdB9Z8M6Jzvwkz1gk0=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=WFrYY6+fE3zzHoTtjhYswsRS/LrY9j9mfEMu1n39qO0DWoW953wRO3ugbywh5vrTH
+	 7lRnXLYIkQ2BBmP3/H6B2y68O8Y0u4ykXwodtgu+tKCAVeLjwtFTj07C0BjEWkjYyN
+	 WZVQS15JQBl28bt4Moe7nFjFr7ee/d7yyyTa1UQs=
+X-MSFBL: QVaUxBjvCqWWSYOtz84Lxbrc95X84kD4w2cGm8oqTtw=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwibWVzc2FnZV9pZCI6IjAwMDA4NmU
+	wZTA1ZDE0MTNkYTQxIiwidGVuYW50X2lkIjoic3BjIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:22099] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68976 r(Core:4.3.0.44)) with ESMTPSA (cipher=AES-256-GCM) 
+	id AD/14-04884-680E0ED5; Fri, 29 Nov 2019 09:10:30 +0000
+Received: from 10-42-5-180.jobso.jobso.svc.cluster.local ([10.42.5.180] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1iacIH-0000VX-Sk
+	for jobs@perl.org; Fri, 29 Nov 2019 09:10:29 +0000
+Date: Fri, 29 Nov 2019 09:10:29 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1iacIH-0000VX-Sk@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl developer (embedded Linux) (onsite), St Austell, Cornwall
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21683
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2019
+
+Job title: Perl developer (embedded Linux)
+
+Company name: BEST.energy
+
+Location: St Austell, Cornwall
+
+Pay rate: 30-50,000 GBP
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A number of roles are required and salary and responsibilities will be
+determined based on experience between =C2=A330k - =C2=A350k
+BEST Energy
+(https://best.energy ) is a global leader in the energy monitoring and
+management sector. Our products are used in over 75 countries.
+
+Want to
+revolutionise the energy management sector and build industry-leading
+technology? Our flagship product, the Eniscope, is already used in
+thousands of electrical installations. It is used to monitor the energy
+consumption in retail and industrial applications and pours gigabytes of
+data into our cloud platform.=20
+
+We need to make Eniscope connect to even
+more meter types (modbus, m-bus), run even faster & more stable, send data
+even more reliably to our cloud. We also need to integrate in it the new
+line of IoT products we have developed from scratch, =E2=80=9CEniscope Air=
+=E2=80=9D, a set
+of devices that use LoRa radio to send environmental parameters and receive
+commands to/from the Eniscope.
+
+We are looking for a multi-skilled Perl
+software engineer with some knowledge (or a keen interest in learning)=20
+about energy meters, multi-sensor inputs and control. We=E2=80=99re open to=
+ both
+contract and permanent candidates.
+
+We would also consider contractors;
+please specify if you prefer this and your desired rate.
+
+Desired skills:
+Should be fully competent Perl programmer with few good years of
+experience. Python/PHP/C nice to have but all code is written in Perl right
+now. An understanding of how hardware works (e.g. serial comms) it is also
+required, because this really is not a web developer job.
+
+A solid working
+knowledge of Linux operating systems, including: working from terminal
+(command line), vi, filesystem and system resources, processes,
+inter-communication methods. Nice to have: optimization, performance
+analysis, efficiency and memory usage.
+
+As a software engineer, you'll work
+in a constantly evolving environment. The role will cover writing new code,
+setting up new systems (hardware and software), debugging existing code,
+creating scripts that help in testing systems and to investigate issues.=20
+
+Tasks will vary, but will typically involve:
+- learning how the current
+system works
+- writing and testing code, refining and rewriting it as
+necessary
+- writing operational documentation
+- participating in technical
+discussions and creating technical specifications accordingly
+- working
+closely with other staff, such as project managers, other developers,
+systems analysts and sales and marketing professionals
+investigating new
+technologies
+- continually updating technical knowledge and skills by
+attending in-house and external courses, reading manuals and accessing new
+applications.
+- providing (remote) support.
+
+Good interpersonal skills that
+will fit in this friendly and relaxed Cornish workplace.
+
+Website for more information: https://best.energy
+
+Contact information at:
+http://jobs.perl.org/job/21683#contact

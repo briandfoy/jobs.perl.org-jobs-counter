@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16384
+Return-Path: <msprvs1=1823615j6WOBG=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8608 invoked from network); 29 Nov 2019 09:10:11 -0000
+Received: from unknown (HELO xx1.develooper.com) (147.75.38.233)
+  by x6.develooper.com with SMTP; 29 Nov 2019 09:10:11 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8D887C64DE
+	for <perlmail-jobs@onion.perl.org>; Fri, 29 Nov 2019 01:10:11 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 3D567CF28D
+	for <perlmail-jobs@onion.perl.org>; Fri, 29 Nov 2019 01:10:08 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id CB8397D5BC
+	for <jobs@perl.org>; Fri, 29 Nov 2019 01:10:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1575018606; i=@perl.org;
+	bh=ACqz+MmIg0epVcGGlRLDlqmbIx57CpclTOyjJD41QaE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=EHFcn6RtZ8epYQNrOjNIxPKfT7vYA6vzuPF2+D/5hVYzP73MfDzaAfgxl3T629Nvb
+	 5iYLTzrmW/px6mioxOCI+S44CkJQsiGiwEoN9WYuPP9g8mhnBwWJUd/4wGNSW3MIi6
+	 bxNm8koeaJHd5eWkfg3ZO+/ToiFgLASszZ/ISpks=
+X-MSFBL: PYIaoXU0xJ9wcOyVYv8y9ln4r/QKXocoE0QQymtvvMk=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJtZXNzYWdlX2lkIjoiMDAwMDZ
+	kZTBlMDVkNWExNGU1OGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:59880] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.0.68976 r(Core:4.3.0.44)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 5E/C8-05210-D60E0ED5; Fri, 29 Nov 2019 09:10:05 +0000
+Received: from 10-42-7-15.jobso.jobso.svc.cluster.local ([10.42.7.15] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1iacHt-0000VU-2X
+	for jobs@perl.org; Fri, 29 Nov 2019 09:10:05 +0000
+Date: Fri, 29 Nov 2019 09:10:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1iacHt-0000VU-2X@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0,
+ __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: See the Hipster in his Natural Perl Environment (onsite),
+ Shoreditch, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21682
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2019
+
+Job title: See the Hipster in his Natural Perl Environment
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Shoreditch, London, UK
+
+Pay rate: Competitive salary based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Where can you find the best curry in London?
+
+Time was you had to go to the
+store and buy a record/cassette tape/CD if you wanted to hear that great
+new song. Then Napster came along, and it was a music free-for-all.
+Copyright who? The advent of the internet changed the way we listen to
+music forever, which is fine for major artists like T-Swift, but what about
+the indie guys and gals who need a way to protect what=E2=80=99s theirs?
+
+That=E2=80=99s
+where our client comes in. They provide a platform for musicians and
+industry professionals to manage their work and while making sure they get
+paid for it. If you support independent music, or if you=E2=80=99re just a =
+fan of
+artists getting compensated enough to drop the =E2=80=9Cstarving=E2=80=9D p=
+art from their
+title, then this might be the job for you.
+
+Our client is in the market for
+a full-time, mid-level developer who can make sweet, sweet music with
+Catalyst, TT, Moose with Plack, and mod_perl. If you get down with Elastic
+Search and party with Postgres, you=E2=80=99ll fit right in at this uber-co=
+ol
+company with start-up vibes and long-term staying power.
+
+Located in the
+hipster haven of Shoreditch, the office is nothing like your
+beige-walls-and-fluorescent-lights cubicle warren. Graffiti art outside
+lets you know you=E2=80=99re in the right place; soaring rafters and cool w=
+indows
+inside remind you that you=E2=80=99re worlds away from ordinary. Oh, and di=
+d we
+mention that Shoreditch has the best curry in London?
+
+If this sounds like
+your jam, send us an email now, before this role goes the way of Napster
+and disappears forever!
+
+Desired skills: Strong Modern Perl
+
+Website for more information: https://job.perl.careers/6yej
+
+Contact information at:
+http://jobs.perl.org/job/21682#contact
