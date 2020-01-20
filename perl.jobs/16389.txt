@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16389
+Return-Path: <msprvs1=18283TzS2fxeQ=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10804 invoked from network); 15 Jan 2020 09:45:27 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 15 Jan 2020 09:45:27 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 08FD07C198
+	for <perlmail-jobs@onion.perl.org>; Wed, 15 Jan 2020 01:45:27 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5D6CB7C1B6
+	for <perlmail-jobs@onion.perl.org>; Wed, 15 Jan 2020 01:45:23 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id E67447C1B3
+	for <jobs@perl.org>; Wed, 15 Jan 2020 01:45:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1579081517; i=@perl.org;
+	bh=SYvu2HiVXcmQeiHnBPo8jyW/kLjuEFIuvbxGh2zvNc8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=U9jN25KrAbhh/92BcN4XMY3/HvMIJZxrZU0Fq4QLIQCIsLbK0QVbvAsQw8v9UoqAZ
+	 v/zDSmlb4pYDzgYuGkQI9NcM2CKYxM1POFvceaTijJfJb1t1cq2fplFKD/9Dv+rT/u
+	 rQUaRyzUzaTJ+z3MPso5QP4wUSCnexSMj7eQRUTo=
+X-MSFBL: bGkkvS5P1ImD8qC4oKAyCdkzl/P/+ARynCfUkQurVVk=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAwMmRkZjF
+	lNWU0NmI4MTFjYiIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:46786] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.69416 r(Core:4.3.1.4)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 11/BC-47174-D2FDE1E5; Wed, 15 Jan 2020 09:45:17 +0000
+Received: from 10-42-7-15.jobso.jobso.svc.cluster.local ([10.42.7.15] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1irfEi-0001hG-9I
+	for jobs@perl.org; Wed, 15 Jan 2020 09:45:16 +0000
+Date: Wed, 15 Jan 2020 09:45:16 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1irfEi-0001hG-9I@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Engineer/Developer - CERES Clouds (NASA) (onsite), Hampton,
+ VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21688
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 14, 2020
+
+Job title: Software Engineer/Developer - CERES Clouds (NASA)
+
+Company name: Science Systems and Applications, Inc. (SSAI)
+
+Location: Hampton, VA
+
+Pay rate: $65,000+
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SSAI is seeking a Software Engineer to support the Climate Science Branch
+of the NASA Langley Research Center (LaRC). The candidate will support
+software development on the Clouds team for the Clouds and Earth=E2=80=99s =
+Radiant
+Energy System (CERES) Project. The candidate will participate in the
+redesign, implementation and maintenance of the processing software and
+support tools for the project. The candidate will ensure usage of
+state-of-the-art software development approaches to improve the current
+operational systems and tools.
+
+Desired skills:
+Requirements:
+MS degree in Computer Science or BS Degree with at least 3
+years of experience, or an equivalent combination of education and
+experience
+Experience using scripting languages, such as Perl or Python
+Experience using C, or C++ for object-oriented programming
+Experience
+developing software in a Unix/Linux environment
+Experience with batch data
+processing in Cloud or Cluster computing environments
+Experience with
+version control systems
+Knowledge of proper code documentation practices
+
+Website for more information:
+http://www.ssaihq.com/employment/careers/careers.aspx
+
+Contact information at:
+http://jobs.perl.org/job/21688#contact
