@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16396
+Return-Path: <msprvs1=18356p4c1oWJN=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25550 invoked from network); 28 Mar 2020 12:39:49 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 28 Mar 2020 12:39:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id CAEC17C1C3
+	for <perlmail-jobs@onion.perl.org>; Sat, 28 Mar 2020 05:39:49 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id BDC3F7CF3F
+	for <perlmail-jobs@onion.perl.org>; Sat, 28 Mar 2020 05:39:47 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 2A7557C1C3
+	for <jobs@perl.org>; Sat, 28 Mar 2020 05:39:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1585399183; i=@perl.org;
+	bh=rmTvtgr6nxxtSl0RQtpBvUYR0t2vbZBGcYcllyZM3qU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=pdb/tBEL97+ddw84noYM+9cwzcIQFfMouWMWIY6AFI6f3eWDKnLcALFlg93D+Ushx
+	 x+5SnNtqEAhhhirSCIqHUuNUwfuySCw9eKHtn5Txzduxl1jyVGE7d7rl6Ejy1JgmUC
+	 zKhAbsPH3O91Axk4LUiaPiBn7xIsTrpOGNe5+SW8=
+X-MSFBL: zipwXhdHxeGTGfm80NRWjqbyZ7M5qDqrKiLV6JJ9WKw=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInRlbmFudF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiIwMDAwOGY0NTdmNWU4YTQ
+	3NTdkMCJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.72.150] ([147.75.72.150:3486] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83091 r(Core:4.3.1.18)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 75/0D-18314-F854F7E5; Sat, 28 Mar 2020 12:39:43 +0000
+Received: from 10-42-7-159.jobso.jobso.svc.cluster.local ([10.42.7.159] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jIAkZ-0000sj-2o
+	for jobs@perl.org; Sat, 28 Mar 2020 12:39:43 +0000
+Date: Sat, 28 Mar 2020 12:39:43 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jIAkZ-0000sj-2o@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB_HOURS 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_6 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer / Sustainer (part onsite), St. Albans, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2020
+
+Job title: Perl Developer / Sustainer
+
+Company name: Masters Traditional Games
+
+Location: St. Albans, UK
+
+Pay rate: =C2=A335K
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+For the last 20 years, I have created in Perl a website shop, product and
+inventory management system, order processing and stock ordering system
+plus.  But I am not a developer - I am the owner of a company that now has
+4 employees and turns over =C2=A31.5million pa. I need someone to start as a
+Perl sidekick who will grow to take over much of the Perl work that I do.=20
+
+Initial Project =E2=80=93 Set up a Straightforward Perl Development Environ=
+ment
+Thereafter - sustain and fix bugs, some urgent, in the existing system.
+Gradually migrate the existing system to better ways of doing things. And
+write some new features as they become required. Some sysadmin work may
+also need doing.=20=20
+
+You will need to live with some pretty peculiar coding
+that I've left behind me over the years. It's vital that you are able to
+understand other people's code and are able to make fixes without complete
+rewrites (most of the time).
+
+All manner of stuff comes up - you may need
+to be involved with product feeds into Amazon, fixing email relays
+identifying a memory leak or lifting a skittles table into position at any
+point!
+
+I am willing to be flexible to get the right person. Part-time,
+flexible hours, remote working, contract or permanent as desired. But
+visits to the office will be necessary - probably every day to begin with
+and then we'll have to see what works.
+
+Desired skills:
+* Perl or maybe not if you are already a coder and have a willingness to
+learn Perl.
+* MySQL or an understanding of relational databases.
+* Caution
+* We are a Windows shop with hints of Linux.
+
+Also useful:=20
+Apache
+HTML,
+CSS
+Windows and/or Linux admin
+Sysadmin skills - e.g. LAN/WANs, VMs, DNS,
+Samba,=20
+A liking for traditional games - board games or physical games
+
+Website for more information: https://www.mastersofgames.com
+
+Contact information at:
+http://jobs.perl.org/job/21706#contact

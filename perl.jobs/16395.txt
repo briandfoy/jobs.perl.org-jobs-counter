@@ -1,0 +1,158 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16395
+Return-Path: <msprvs1=18354s02d2Kc0=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20046 invoked from network); 26 Mar 2020 09:11:19 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Mar 2020 09:11:19 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 086947C1C7
+	for <perlmail-jobs@onion.perl.org>; Thu, 26 Mar 2020 02:11:19 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B70B27CF3E
+	for <perlmail-jobs@onion.perl.org>; Thu, 26 Mar 2020 02:11:16 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 454C77C1C7
+	for <jobs@perl.org>; Thu, 26 Mar 2020 02:11:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1585213874; i=@perl.org;
+	bh=upBsBJ41WLp7Gx25onQSMpp2q9XW8MoDzXpxXuZTjU4=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=EYMoAMYjAdHFQxKYN5DOW7R1Ik1wD1OsjwjuIzYRqttT5IY8RODdpE53E8fC4Ch2+
+	 ZqapAaK65Lvy0nQB3Vt2cwLBf1BfPH/Sv+2mdOq0fPwENvVacZUO4/YgMIgMkLZ4fV
+	 Ygu2zl+EGB/8QdUFgJaKWng5g2rjHIDvKjkbAK90=
+X-MSFBL: 6yH+AU3WM59nayVA3sl5tK4/oqXWwQ7lBe4/G2bUxco=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJtZXNzYWdlX2lkIjoiMDAwMGI
+	yNzE3YzVlMDEzYmEwZWMiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.72.150] ([147.75.72.150:59102] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83091 r(Core:4.3.1.18)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 0A/CE-15105-2B17C7E5; Thu, 26 Mar 2020 09:11:14 +0000
+Received: from 10-42-4-237.jobso.jobso.svc.cluster.local ([10.42.4.237] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jHOXh-0000pJ-Pa
+	for jobs@perl.org; Thu, 26 Mar 2020 09:11:13 +0000
+Date: Thu, 26 Mar 2020 09:11:13 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jHOXh-0000pJ-Pa@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer - ROLAP (onsite), Brno, Czech Republic
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21705
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2020
+
+Job title: Perl Developer - ROLAP
+
+Company name: GoodData
+
+Location: Brno, Czech Republic
+
+Pay rate: 50-85.000 CZK brutto/month
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+GoodData is the embedded analytic leader. Help us develop the top analytic
+software.
+
+We are expanding our team dedicated to the back-end of our
+unique analytical platform, designed for creating analytical data products
+for our customers. We are seeking an experienced professional who not only
+is familiar with Perl development but who is also able to contribute to
+architecture and the design of distributed software using agile
+methodologies.
+
+Your responsibilities would be:
+
+    Design, implement, and
+maintain ROLAP services and components which are the core of the GoodData
+platform (Perl code)
+
+    Be able to contribute also to other parts of the
+platform, learn new technologies and environments
+
+    Participate in the
+ongoing evolution of fast growing cloud SaaS platform
+
+    Work in an agile
+environment, with the cooperation and active communication within an
+autonomous team
+
+    Be involved in all stages of development lifecycle
+(architecture, coding, QA, delivery, ...)
+
+Desired skills:
+Required skills:
+
+    Strong knowledge of Perl
+
+    At least 2 years of
+experience with software development
+
+    Ability to work effectively in a
+Linux environment
+
+    A self-learner capable of independent work
+
+=20=20=20
+Active English (spoken and written)
+
+
+
+Advantages:
+
+    Strong knowledge of
+at least additional dynamic language (Ruby, Python)
+
+    Knowledge of SQL,
+experience with PostgreSQL and MySQL
+
+    Experience with other programming
+languages (Kotlin, Java, TypeScript)
+
+    An overview of agile
+methodologies=20
+
+    Contribution to or maintainance of an open source
+project
+
+    Experience with building and operating large distributed
+systems
+
+    Experience with Kubernetes, Docker
+
+    Experience with Puppet
+
+    DevOps attitude
+
+Website for more information: https://www.gooddata.com/company/careers-list
+
+Contact information at:
+http://jobs.perl.org/job/21705#contact
