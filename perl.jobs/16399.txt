@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16399
+Return-Path: <msprvs1=18392yAt0ou96=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15442 invoked from network); 3 May 2020 15:36:36 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 3 May 2020 15:36:36 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E91487C0F3
+	for <perlmail-jobs@onion.perl.org>; Sun,  3 May 2020 08:36:35 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D83287CF41
+	for <perlmail-jobs@onion.perl.org>; Sun,  3 May 2020 08:36:33 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 4EB007C0F3
+	for <jobs@perl.org>; Sun,  3 May 2020 08:36:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1588520189; i=@perl.org;
+	bh=OnU4zZb+7pWe/tTYm23pPW4RRC5A+a7PNeseWQjYkn4=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=AlraqPfrcfp+yHy0jLlZeqzN7wIuM6gGeFTwTDungvY+850BbyupZqVbJos30liBf
+	 GWIOU2EsRo4KbqCIxTabJGAwGvi+YV6t6JsroVGadMsFuxAAFUiyBFiIYKCI4GUFXg
+	 b2y4z+2I6FWFhG+BZ4PXSwy0ZOb7P8dwoP9mZ2+U=
+X-MSFBL: SxQBwxTezr27SzTMZ78A56C7TKQ3VJB8WIH1ris34rE=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCI
+	sIm1lc3NhZ2VfaWQiOiIwMDQ2ZmRlNGFlNWU1OTRiNDM2ZSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:54889] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83296 r(Core:4.3.1.25)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 34/E6-19289-DF4EEAE5; Sun, 03 May 2020 15:36:29 +0000
+Received: from 10-42-5-89.jobso.jobso.svc.cluster.local ([10.42.5.89] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jVGfM-0000IJ-CD
+	for jobs@perl.org; Sun, 03 May 2020 15:36:28 +0000
+Date: Sun, 3 May 2020 15:36:28 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jVGfM-0000IJ-CD@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, TECH_TLD 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1700_1799 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, CS_SUSP_TLD_BODY 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_PREDICATE 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_NEGATE 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Full Stack Perl Developer (telecommute), New Delhi
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21711
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2020
+
+Job title: Full Stack Perl Developer
+
+Company name: Redgrape Technologies Private Limited
+
+Location: New Delhi
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Yes Perl!, We are looking for passionate and experienced Perl Developers=20
+to work on new Projects related to ERP. Mojolicious is used as the
+web
+application framework supplemented with various CPAN and inhouse modules.
+
+Coding Traits:=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+(*) Candidate should be able to recognize
+re-uable patterns in existing=20
+    code and factor out the same in reusable
+libraries.
+(*) Code should have a balance between succinctness and
+readability.
+(*) Candidate should have an inclination to write optimized
+code in terms of=20
+    performance and structure.
+
+Desired skills:
+Perl: DBI,DBIx, Mojolicious or Catalyst or Dancer,XML/RPC, OOPs concepts=20
+=20
+   (Moose/non-Moose), IPC=20
+DB: Postgresql/MySQL
+
+Messaging: Kakfa /
+RabbitMQ
+
+Others: Memcached / Redis / ElasticSearch
+
+Experience in linux is
+a must. Understanding of OS concepts like processes, permissions,=20
+filesystems, Networking, DNS etc is required. Experience with git is also a
+must , we use=20
+git/gerrit work flow.
+
+Frontend Skills:
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+(*)
+Basic Understanding of HTML/CSS
+(*) Advanced javascript and libraries like
+jQuery/ReactJS/Vue etc.
+
+Website for more information: https://www.redgrape.tech/
+
+Contact information at:
+http://jobs.perl.org/job/21711#contact
