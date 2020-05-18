@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16401
+Return-Path: <msprvs1=18405g0fdiVfR=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21777 invoked from network); 16 May 2020 09:01:02 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 16 May 2020 09:01:02 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 284397C1C3
+	for <perlmail-jobs@onion.perl.org>; Sat, 16 May 2020 02:01:02 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 03DB57CF44
+	for <perlmail-jobs@onion.perl.org>; Sat, 16 May 2020 02:01:00 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 7AB1E7C1C3
+	for <jobs@perl.org>; Sat, 16 May 2020 02:00:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1589619655; i=@perl.org;
+	bh=f2bfzDWgXPpeoD3jSir5qfBrvZSYdvaC5d8IXmnX8eM=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=JuVvT1fDM4BFdpJrwkc4iExFjoi/twH8bPm7EqtT/xF0W+D3aK4BztKmKQe0ueqmm
+	 RX8Ekjz2JfvPOJZZJskdyfobcdSnH7XXKc/6osnUePTTRQ7oMmrvaU+d9E6o7VlgIU
+	 qdr8WCJ/1Ah6pal/rWSXt3uvzdFP4DO0eLmBJCIo=
+X-MSFBL: Vj6BoZRUsw//w9mZwZxxft/PLNET6gaNz+P+2xbWxSs=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiIwMDQ2YzdhYmJmNWU1Njd
+	lNGMxZCJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.72.150] ([147.75.72.150:9077] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83362 r(Core:4.3.1.27)) with ESMTPSA (cipher=AES-256-GCM) 
+	id C4/D1-32342-7CBAFBE5; Sat, 16 May 2020 09:00:55 +0000
+Received: from 10-42-5-72.jobso.jobso.svc.cluster.local ([10.42.5.72] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jZsgg-0000If-IN
+	for jobs@perl.org; Sat, 16 May 2020 09:00:54 +0000
+Date: Sat, 16 May 2020 09:00:54 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jZsgg-0000If-IN@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1400_1499 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_EURO 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0,
+ __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Mid Perl Developer (part onsite), Tallinn, Estonia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21713
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2020
+
+Job title: Mid Perl Developer
+
+Company name: MotherLink
+
+Location: Tallinn, Estonia
+
+Pay rate: 10 Euro/hour
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: some
+
+Description:
+Write clean code
+Contribute in all phases of the development lifecycle
+Follow industry best practices
+Develop and test new features
+Diagnosing
+problems.
+Developing new features.
+Performing analysis to implement high
+level designs to projects.
+Writing technical specifications.
+
+Desired skills:
+Minimum 2-3 years of software development experience in Perl
+
+Being able to
+work with a team.
+Having problem-solving skills.
+Being able to do different
+tasks at the same time.
+Having excellent written and verbal communication
+skills.
+Being able to work under pressure.
+Having knowledge of databases.
+
+Demonstrable knowledge of web technologies including HTML, CSS, jQuery
+Required DB: MYSQL
+Experience in common third-party APIs (Google, facebook,
+etc ...)
+Passion for best design and coding practices and a desire to
+develop new bold ideas
+
+Website for more information: https://motherlink.io/
+
+Contact information at:
+http://jobs.perl.org/job/21713#contact
