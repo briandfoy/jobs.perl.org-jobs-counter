@@ -1,0 +1,171 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16403
+Return-Path: <msprvs1=18415kOhIgIhE=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26871 invoked from network); 26 May 2020 08:10:11 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 May 2020 08:10:11 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 98D907C1A5
+	for <perlmail-jobs@onion.perl.org>; Tue, 26 May 2020 01:10:11 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C099E7CF3D
+	for <perlmail-jobs@onion.perl.org>; Tue, 26 May 2020 01:10:07 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 40DC87CF29
+	for <jobs@perl.org>; Tue, 26 May 2020 01:10:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1590480600; i=@perl.org;
+	bh=zpBwF94Gxu4HeefzqEx8yeE9HCnNlICA5H0HTmiPKMA=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=YVN0Aztr1nP4NWA68s8aQncZ5HQbVuuzzBzUrzQDLUg2YcrjrgtAr8ZhY4iDV4cHs
+	 zkH9urmdAv5vTpWY2eUJaHq0BtTknzR/jqP23/+E94xCs+ArRRok8dGMonyeTuiTwR
+	 WF5VmlHzd6hlHiALpEDtgmOGUV2X5sUIa2pdu4zk=
+X-MSFBL: Rm3XWdVW6/UZSFZTbWEeEIEVeyO3cmupVU34Yyt/IF4=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjAwNDZkOGNlY2M1ZTIyNWVhOWY1IiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.72.150] ([147.75.72.150:48087] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83393 r(Core:4.3.1.28)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 9A/5F-24098-8DECCCE5; Tue, 26 May 2020 08:10:00 +0000
+Received: from 10-42-4-226.jobso.jobso.svc.cluster.local ([10.42.4.226] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jdUeu-0000YO-6X
+	for jobs@perl.org; Tue, 26 May 2020 08:10:00 +0000
+Date: Tue, 26 May 2020 08:10:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jdUeu-0000YO-6X@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0,
+ __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Perl Developer (onsite), Cyberjaya, Selangor, Malaysia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21714
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2020
+
+Job title: Senior Perl Developer
+
+Company name: Deriv.com
+
+Location: Cyberjaya, Selangor, Malaysia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our team=20
+We are the Back-end team, the team responsible for designing,
+developing, testing, and debugging the company's server-side apps and
+databases. In collaboration with the QA team, we investigate and resolve
+technical issues. We empower the Front-end team by providing the components
+and features that they need. We aspire to delight our customers with a
+flawless digital experience.=20
+=20
+About us=20
+Founded in 1999, Deriv.com
+(formerly Binary.com) is a pioneer in online trading. We enable our
+customers to trade on the world=E2=80=99s financial markets. Focused on
+customer-centric solutions, we aspire to be the world=E2=80=99s leading onl=
+ine
+trading service provider.=20
+=20
+A career at Deriv.com offers you the
+opportunity to make an impact in a fast-growing organisation that=E2=80=99s=
+ at the
+cutting edge of online trading technology.=20
+=20
+Your role=20
+As a Senior Perl
+Developer at Deriv.com, you will write robust, high-quality, and
+production-ready code that empowers our websites and applications. Your
+work will directly influence the core architecture that drives our
+high-traffic binary options trading website.=20=20
+=20
+What you=E2=80=99ll do=20
+-Develop
+and maintain world-class web applications.=20
+-Build, maintain, and optimise
+the technology that powers our servers, applications, and databases.=20
+-Work
+closely with other teams to come up with effective architecture to support
+the deployment of new products and features.=20
+-Troubleshoot and debug
+problems in existing applications, and find new ways to improve their
+speed, functionality, and scalability.=20
+-Participate in all aspects of the
+product lifecycle.
+
+Desired skills:
+What you have=20
+-Deep Perl expertise=20
+-Expertise in Linux system
+administration=20
+-Experience with relational database design, and/or
+open-source RDBMS systems such as MySQL and PostgreSQL=20
+-Familiarity with
+Perl DBI, Moose, PSGI/Plack, nginx, JavaScript, Redis, and Git=20
+-Ability to
+produce high-quality, self-documenting code by using test-driven
+development (TDD) techniques=20
+-Event-driven programming in Perl=20
+-Passion
+for Linux, and other open-source platforms=20
+-Excellent spoken and written
+English communication skills=20
+=20
+What we=E2=80=99ll give you=20
+-Growth-inducing
+challenges=20
+-Productive work atmosphere=20
+-Cooperation, support, and
+empowerment=20
+-Career progression opportunities=20
+-Market-based salary=20
+-Annual performance bonus=20
+-Health benefits=20
+-Casual dress code=20
+-Travel
+and internet allowances
+
+Location=20
+Cyberjaya, Malaysia=20
+=20
+About location=20
+Cyberjaya is a well-planned township with no shortage of residences,
+restaurants, retail outlets and recreational facilities. Blending urban
+development with nature, Cyberjaya is rich with lush greenery, lakes and
+parks, making it ideal for work and play. The Maju Expressway (MEX)
+conveniently connects Cyberjaya to Kuala Lumpur city and the rest of the
+Klang Valley, while the Dedicated Transport Services (DTS) provides
+reliable transportation for those commuting to and from Cyberjaya. Thirty
+minutes away from KL city centre, our Cyberjaya office is where you can
+experience the ultimate work-life balance.
+
+Website for more information: https://deriv.com/
+
+Contact information at:
+http://jobs.perl.org/job/21714#contact
