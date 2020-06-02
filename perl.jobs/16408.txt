@@ -1,0 +1,147 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16408
+Return-Path: <msprvs1=184215-pw_0tP=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3784 invoked from network); 1 Jun 2020 08:21:32 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 1 Jun 2020 08:21:32 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 91CAB7C1A7
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jun 2020 01:21:32 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2A5BB7CEEC
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Jun 2020 01:21:31 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 8C9907C1A7
+	for <jobs@perl.org>; Mon,  1 Jun 2020 01:21:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1590999685; i=@perl.org;
+	bh=U7NevIzKMD3inYZYigse4mw5Fafs8icCsX/Wz4znHDE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=TJ385KWw6cREs+dF9DyxyoaLYLtKBuiUBebzU965ZdW3gD+LLVsG7CrCu7VT2u8vB
+	 T14sVsBsBrjS0nqW655jDG25vvvei8adruWn2PD1b8WE4Jj517DwIuNVNGD90VQsNE
+	 BPAh4nxd4UPssf7VJ0ElTeAgCP3qAW/C3LVZzQbo=
+X-MSFBL: uodwuydYw89IEltbv7gM1i9st0PVJ50IzeartwH3uwc=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwidGVuYW50X2lkIjoic3BjIiwibWVzc2FnZV9pZCI6IjAwNDc4NWJ
+	hZDQ1ZTE1NzlkNjcxIiwiciI6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.72.150] ([147.75.72.150:2133] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83407 r(Core:4.3.1.29)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 6D/17-30997-58AB4DE5; Mon, 01 Jun 2020 08:21:25 +0000
+Received: from 10-42-7-122.jobso.jobso.svc.cluster.local ([10.42.7.122] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jffhF-0000hq-6A
+	for jobs@perl.org; Mon, 01 Jun 2020 08:21:25 +0000
+Date: Mon, 1 Jun 2020 08:21:25 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jffhF-0000hq-6A@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0,
+ __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Why let Silicon Valley have all the Fun? Perl Developer job in
+ Cyberjaya / Kuala Lumpur (onsite), Kuala Lumpur, Federal Territory of Kuala
+ Lumpur, Malaysia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21717
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2020
+
+Job title:
+Why let Silicon Valley have all the Fun? Perl Developer job in Cyberjaya /
+Kuala Lumpur
+
+Company name: Perl Jobs by Perl Careers
+
+Location:
+Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If only there were a place like Silicon Valley, but warmer . . .
+
+Sure,
+Silicon Valley is great. They=E2=80=99ve got some of the world=E2=80=99s la=
+rgest tech
+companies and some pretty nice offices, but do you know what else they
+have? Mist. Fog. Chilly weather that seeps into your clothes and makes you
+wish for warm, sunny days that don=E2=80=99t leave you shivering. If you wi=
+sh you
+could find a tech hub without the risk of hypothermia, then why not
+consider the Silicon Valley of Malaysia, where the temperature is always
+balmy? Pack your bags=E2=80=94you=E2=80=99re on your way to Cyberjaya!
+
+Located a short
+drive from Kuala Lumpur, Cyberjaya is the best of Silicon Valley. This
+science park is home to numerous large corporations, and is outfitted with
+the sort of amenities that make programmers and developers starry-eyed. No
+sad, dingy offices here: Cyberjaya has The Cyberjaya Lake Gardens (a
+400-acre nature park), many bars and restaurants serving incredible fusion
+cuisine, basketball and tennis courts, swimming pool, golf driving range,
+and even a go-kart circuit! Does that sound like the average workplace to
+you?
+
+Our client is a financial company whose growth over the last twenty
+years has been nothing short of impressive. They started with the idea that
+online trading should be available to all, and from there, they=E2=80=99ve =
+built a
+company with multiple locations worldwide. If you want to be part of a
+business that is thriving, this may be the perfect opportunity for you.
+
+The Cyberjaya office is looking for Perl developers with a strong exposure
+to Modern Perl =E2=80=93 you=E2=80=99ll be comfortable with Plack/PSGI, Moo=
+se, and writing
+tests.
+
+Cyberjaya is a town unto itself=E2=80=94they=E2=80=99ve even got their own
+post-secondary institution, the Multimedia University=E2=80=94and there=E2=
+=80=99s plenty to
+do there. However, you may not have time to see it all, because on weekends
+you=E2=80=99ll certainly want to take advantage of the travel possibilities=
+. Air
+Asia=E2=80=99s home airport is only a short distance from Cyberjaya, so you=
+=E2=80=99ll have
+plenty of fun, exciting travel destinations at your doorstep. Why settle
+for takeout Thai at home when you could fly to Bangkok for dinner out on
+Friday night?
+
+Ready to trade your 9-to-5 for an exciting new role in the
+Silicon Valley of Malaysia? Then tune up your go-kart, grab the kids, and
+start your application!
+
+Desired skills:
+Looking for Perl developers with a strong background in Modern Perl =E2=80=
+=93 you
+should be comfortable with Moose and PSGI/Plack, and a solid grounding in
+using Perl=E2=80=99s testing tools.
+
+Website for more information: https://job.perl.careers/hlvb
+
+Contact information at:
+http://jobs.perl.org/job/21717#contact
