@@ -1,0 +1,155 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16410
+Return-Path: <msprvs1=18424KqH31ea6=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2262 invoked from network); 4 Jun 2020 08:07:08 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 4 Jun 2020 08:07:08 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id BBD2E7C1C0
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Jun 2020 01:07:08 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 11A9A7CEEC
+	for <perlmail-jobs@onion.perl.org>; Thu,  4 Jun 2020 01:07:05 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 6ADA47C1C0
+	for <jobs@perl.org>; Thu,  4 Jun 2020 01:07:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1591258018; i=@perl.org;
+	bh=GBmGCsL59Kv9qxHEkIKNTpiLWenoutisS6NYGC1wPic=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=c9eF3SCMxddmDj+OUAmHtUDkg17omAguehCOkbWgPtkmWGPF7Ngy0hNhOM+D6sIHB
+	 PHK2bGnD9l0J8kuoCg7/J1XDnVOnr1TYc+ppYKvwqhgqt491N8dHprGFcyktj7JnCs
+	 GKtHkj/DL2vxOmYnug1zeQhzXIMj0BuUShFwTepc=
+X-MSFBL: 5sjR01RCPXnsgKEw7KsOdjzfRZuHGJc4WB4KZypVi2A=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDA0NzlkYWJkODVlMTM3MWQ1NmIiLCJzdWJhY2N
+	vdW50X2lkIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:6010] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83435 r(Core:4.3.1.30)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 5D/B6-28947-D9BA8DE5; Thu, 04 Jun 2020 08:06:53 +0000
+Received: from 10-42-4-88.jobso.jobso.svc.cluster.local ([10.42.4.88] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jgktp-000072-0a
+	for jobs@perl.org; Thu, 04 Jun 2020 08:06:53 +0000
+Date: Thu, 4 Jun 2020 08:06:52 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jgktp-000072-0a@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, ECARD_WORD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __SANE_MSGID 0, __SEO_WEBSITE 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (onsite), Birmingham AL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21721
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2020
+
+Job title: Perl Developer
+
+Company name: Pangeatwo
+
+Location: Birmingham AL
+
+Pay rate: 90,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer (Relocation Package Available)
+$80 =E2=80=93 95,000
+Birmingham, AL
+=20
+PangeaTwo=E2=80=99s goal is to ensure that each recruitment opportunity yie=
+lds
+rewarding dividends for both candidates and clients.  To survive in the
+employment world, we suggest you disengage your internal compass and allow
+us to lead you to unexplored opportunities in your career.  Allowing our
+professional recruiters to be engaged in your career transition might
+actually be more beneficial and satisfying to you.  PangeaTwo specializes
+in executive and support positions focused in Accounting, Administrative
+Support and Information Technology searches across the Southeast.  Allow
+our recruiters the opportunity to speak with you about our current
+opportunities.
+=20
+Our client in Birmingham, AL is searching for a candidate
+with Perl Development experience to join their team. If you are interested
+in a fantastic opportunity with a growing organization, please apply today!
+=20
+Duties:
+Responsible for developing, enhancing, and maintaining both
+business unit and client applications=20
+Analyze and solve
+programming/technical problems
+Work with end users and business owners to
+solve technical issues and create enhancements
+Provide development and
+ongoing software support and issue resolution
+Build standards-driven,
+scalable, secure and dynamic portal for the information delivery
+applications
+Some administration duties around Office 365 and SharePoint
+=20
+Education:
+Bachelor=E2=80=99s Degree in Information Systems=20
+Work experience in
+lieu of degree will be considered
+=20
+=20
+This position requires a US
+Citizenship or Green Card as the client is not able to provide sponsorship.
+=20
+At our clients=E2=80=99 request, only individuals with required experience =
+will
+be considered.
+=20
+Please note - if you have recently submitted your resume
+to a PangeaTwo posting, your qualifications will be considered for other
+open opportunities.
+=20
+Your resume will never be submitted to a client
+without your prior knowledge and consent to do so.
+
+Desired skills:
+Skills:
+4+ years of web development (full stack preferred)
+Experience with
+Perl, Python, PHP and/or Ruby
+JavaScript, HTML and CSS
+Full Life Cycle
+Development/SDLC
+Detail Oriented
+Solution Finder
+Excellent Communication
+skills:  written and verbal
+
+Website for more information:
+https://www.pangeatwo.com/job-opportunities/?rpid=3D297595&postid=3Dqf54w_p=
+eYXg
+&webapp=3D1
+
+Contact information at:
+http://jobs.perl.org/job/21721#contact
