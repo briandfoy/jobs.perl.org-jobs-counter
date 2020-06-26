@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16413
+Return-Path: <msprvs1=18446TM3iPtY7=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31878 invoked from network); 26 Jun 2020 05:03:49 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2020 05:03:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 3227A7CEEC
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:49 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E10BE7CEED
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:47 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 7605B7C0DD
+	for <jobs@perl.org>; Thu, 25 Jun 2020 22:03:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1593147823; i=@perl.org;
+	bh=JjYljcCsLZPJ57gIiXSte+hvRu5W/QSoy7mzFEceR/4=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Y1/id74g2AAu6Kry2j6BPivHSQ/gR464y3lSazy1n+P2waul2YjJ74T1BUyRZsC7K
+	 OeDYGhf1N8sx7tFJaQp7ph1BEZwMieoIOSelyEyUO4/IMAIhW/lnBPaXf8o/P0gtgL
+	 W4XiS1wvq6Iizh3RHjjW20PsU95QQtPUXIHDFsJM=
+X-MSFBL: frVsNvyXJ4F3pwQJLB+RlHrFUv/TeFaxTBNphmFn7yE=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDQ2YWY4MWY1NWVmZDN
+	kOWE3OCJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:38946] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83574 r(Core:4.3.1.34)) with ESMTPSA (cipher=AES-256-GCM) 
+	id A9/87-15869-FA185FE5; Fri, 26 Jun 2020 05:03:43 +0000
+Received: from 10-42-5-240.jobso.jobso.svc.cluster.local ([10.42.5.240] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jogWc-0000fI-2R
+	for jobs@perl.org; Fri, 26 Jun 2020 05:03:42 +0000
+Date: Fri, 26 Jun 2020 05:03:41 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jogWc-0000fI-2R@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1900_1999 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Why working as a Perl developer in Vienna is going to change your
+ life (onsite), Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2020
+
+Job title:
+Why working as a Perl developer in Vienna is going to change your life
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Vienna, Austria
+
+Pay rate: Competitive salary based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+2020=E2=80=99s been a difficult year, worldwide. It=E2=80=99s time to rewar=
+d yourself for
+getting through it by relocating to the world=E2=80=99s most liveable city =
+for the
+second year running. Cheap rent, charming architecture, an incredible cafe
+culture, and a city that embraces its seasons =E2=80=93 from swimming in th=
+e Old
+Danube at the height of summer, to beautiful Christmas markets, via the
+Wiesn October beer festival.
+
+For many of our developers, 2020=E2=80=99s also been
+an exceptionally uncertain year. Lay-offs, furloughs, comapnies
+implementing strict cost-cutting measures. Wouldn=E2=80=99t it be nice to w=
+ork for
+a company that=E2=80=99s actually been _growing_ during lockdown? Our clien=
+t=E2=80=99s in a
+buouyant position, and they=E2=80=99re looking for someone like you to come=
+ and
+join them.
+
+Add to all this a daily free lunch, a very talented Perl team,
+a flexible approach to time management, and an intensely competent table
+football team, and you=E2=80=99ve got a compelling package. Let=E2=80=99s c=
+hange your life
+with a job in Vienna.
+
+Desired skills:
+Client are willing to consider all candidates with strong Perl, but they
+make heavy use of PostgreSQL, Elasticsearch, and Dancer, any of which would
+be useful to have experience with.
+
+Website for more information: https://job.perl.careers/qpom
+
+Contact information at:
+http://jobs.perl.org/job/21722#contact

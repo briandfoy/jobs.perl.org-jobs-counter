@@ -1,0 +1,200 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16420
+Return-Path: <msprvs1=18446TM3iPtY7=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32000 invoked from network); 26 Jun 2020 05:04:46 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2020 05:04:46 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 794337C0DD
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:04:46 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 1414E7CEEC
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:04:44 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 843D07C0DD
+	for <jobs@perl.org>; Thu, 25 Jun 2020 22:04:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1593147882; i=@perl.org;
+	bh=qxHLujjp9IyXn1F+ExoD3s32R2/jwCzYKSrXJJ3zIKE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=XLnRNx1MYUpvE7ShG17T57oicNVQioc1hd5MP2CbHsFRspj/iRgqZux78L2OmnZWM
+	 0N2kaNTvuC4J3b+x7jjqTOOPDnwrr3HTiU0fPL52SiBScKk1rxxyhDEcj76Fnnfzbt
+	 JmnhfwLVQfipflBjOB6zLOS2LiQxLDpNg1nOZAyg=
+X-MSFBL: aLjPc0hNVagJfx7sjz8i1HM4hhsGzbDmhN1XaitiUic=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDQ3ZWE4MWY1NWViZTdiYzJlMyIsInN1YmF
+	jY291bnRfaWQiOiIxIiwidGVuYW50X2lkIjoic3BjIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:18460] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83574 r(Core:4.3.1.34)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 2C/3E-31678-AE185FE5; Fri, 26 Jun 2020 05:04:42 +0000
+Received: from 10-42-5-240.jobso.jobso.svc.cluster.local ([10.42.5.240] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jogXX-0000fU-Su
+	for jobs@perl.org; Fri, 26 Jun 2020 05:04:39 +0000
+Date: Fri, 26 Jun 2020 05:04:39 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jogXX-0000fU-Su@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Engineer Perl (onsite), Tanah Merah, Brisbane, Australia,
+ Earth
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21726
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2020
+
+Job title: Software Engineer Perl
+
+Company name: AKIPS Pty Ltd
+
+Location: Tanah Merah, Brisbane, Australia, Earth
+
+Pay rate: $AUD 85k to $120k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About AKIPS
+
+AKIPS develops modern large scale network performance
+monitoring software solutions that are deployed by medium to large
+enterprises around the globe.
+
+AKIPS is a self funded, highly profitable,
+growth stage, Brisbane based software company.
+
+We are the winners of
+multiple "The Premier of Queensland" Export Awards for Innovation and
+Digital Technologies over the past three years.
+
+Our customers include
+large name-brand and elite international organisations such as
+universities, health care providers, banks, government, space exploration,
+airlines, hotel chains, and other leading enterprises.
+
+AKIPS is located on
+the M1 at Tanah Merah (directly opposite the Logan Hyperdome) in a modern
+office building.
+
+We are a friendly, dynamic and inclusive team. We aim
+high to innovate on a daily basis while having fun.
+
+Position
+
+AKIPS is
+looking for multiple experienced Perl and/or C developers to enhance our
+network performance monitoring software.
+
+Tasks include full product and
+feature life cycle
+- Research
+- Prototyping
+- Design
+- Development
+-
+Performance tuning
+- Bug fixing
+
+Developers typically work in pairs on
+multiple pieces of functionality in both primary & secondary roles, with
+mentoring from a team leader, CTO and CEO.
+
+These are full-time positions
+located at our Tanah Merah office.=20=20
+
+Skills and Experience
+- Writing
+well-organised and sustainable code
+- Design, develop and debugging of
+efficient and high performance Perl and/or C applications
+  UNIX (FreeBSD,
+Linux, Solaris, etc).
+- Exposure to Web technologies
+- A desire to learn,
+innovate and keep abreast of latest technologies
+- Excellent communication
+skills and a willingness to collaborate
+- Close attention to detail
+- A
+friendly and outgoing personality
+
+Our Technical Environment
+- FreeBSD and
+Mac workstations with 27" 4K monitors
+- C, Perl, Shell, Make, Javascript,
+HTML, CSS, Bootstrap, jQuery
+- Clang/LLVM/GCC, gprof, pprof, dmalloc,
+valgrind, backtrace
+- PerlCritic, PerlTidy, Web Inspector, tcpdump,
+Wireshark
+- Git, Subversion, Vim
+- IP/TCP/UDP, IPv4/v6, SNMP/MIBs, Ping,
+Netflow, syslog, SSH
+- Sockets, pipes, web APIs, encryption, compression
+-
+Ethernet, switching, routing, firewalls, VPN
+- 32 core/64 thread
+production/test/devel servers running as bare metal and FreeBSD Bhyve VMs
+
+Workplace Environment
+- Spacious modern office layout
+- Free on-site
+parking
+- Personal 1800x900 desks, drawers and whiteboards
+- Coffee, tea
+and biscuits supplied
+- Cakes for birthdays and other special occasions
+-
+Fish'n'chip Friday lunches
+- Push-up challenges
+
+Please include a cover
+letter and CV.
+
+Desired skills:
+Skills and Experience
+- Writing well-organised and sustainable code
+-
+Design, develop and debugging of efficient and high performance Perl and/or
+C applications
+  UNIX (FreeBSD, Linux, Solaris, etc).
+- Exposure to Web
+technologies
+- A desire to learn, innovate and keep abreast of latest
+technologies
+- Excellent communication skills and a willingness to
+collaborate
+- Close attention to detail
+- A friendly and outgoing
+personality
+
+Website for more information: https://www.akips.com
+
+Contact information at:
+http://jobs.perl.org/job/21726#contact

@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16417
+Return-Path: <msprvs1=18446TM3iPtY7=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31910 invoked from network); 26 Jun 2020 05:03:53 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2020 05:03:53 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 353927C0DD
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:53 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id D2E517CEEC
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:51 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id 6714F7C0DD
+	for <jobs@perl.org>; Thu, 25 Jun 2020 22:03:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1593147830; i=@perl.org;
+	bh=4k0rCxYzjzi8Yi+2v8YRa4dTEXvpP5evv8baoPLWlug=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=ZDEcp6bRu5RTbByuIJQ7k3TgYxXTcKnXDYwxWFOxkMDkuAX1MoRyc94iEGf0aeQ49
+	 r9AP9zhEDSqjQK4/r1wznG3B8j4L81N/pGHCX0ImTnHUTDlLF4rrYIq3txhHJuMkO7
+	 8dEFxx0RDSA2R9hmu3MzBxciyx0q051ra3CIJKV8=
+X-MSFBL: gScze03Rik/Nw0kRyXm+iDvwAyf1eazkpJfmQI0bhu4=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDQ4YjY4MWY1NWViNjZ
+	kNDg4YyJ9
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:32504] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83574 r(Core:4.3.1.34)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 84/C8-28086-6B185FE5; Fri, 26 Jun 2020 05:03:50 +0000
+Received: from 10-42-5-240.jobso.jobso.svc.cluster.local ([10.42.5.240] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jogWj-0000fO-Sf
+	for jobs@perl.org; Fri, 26 Jun 2020 05:03:49 +0000
+Date: Fri, 26 Jun 2020 05:03:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jogWj-0000fO-Sf@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_JOB 0, __FRAUD_LOC 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __PHISH_PHRASE1_B 0, __PHISH_SPEAR_STORAGE_LIMIT2 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?U2hvcHBpbmcsIFNrYXRpbmcsIGFuZCBTd2ltbWluZyDigJMgSXMg?=
+ =?UTF-8?B?VGhpcyBFdmVuIFdvcms/IFBlcmwgZGV2ZWxvcGVyIGluIER1YmFpIChvbnNp?=
+ =?UTF-8?B?dGUpLCBEdWJhaQ==?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21724
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2020
+
+Job title:
+Shopping, Skating, and Swimming =E2=80=93 Is This Even Work? Perl developer=
+ in
+Dubai
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Dubai
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Upgrade Your 9-to-5
+
+You can work anywhere in the world, so why not work
+somewhere world-class? Where better to spend your days (and nights) than a
+rapidly growing city known for having the planet=E2=80=99s only 7-star hote=
+l, the
+tallest building in the world, and a shopping mall to put all other malls
+to shame. Did we mention it=E2=80=99s beautiful all the time? Sun, sand, st=
+unning
+blue water and you, patting yourself on the back for having the good sense
+to jump on this new career opportunity!
+
+Our client is a financial company
+whose growth over the last twenty years has been nothing short of
+impressive. They started with the idea that online trading should be
+available to all, and from there, they=E2=80=99ve built a company with mult=
+iple
+locations worldwide. If you want to be part of a business that is thriving,
+this may be the perfect opportunity for you.
+
+Home to some of the world=E2=80=99s
+largest gold and spice markets, the souks of Dubai are not to be missed.
+Continue your shopping spree at opulent Dubai Mall, which has an
+ice-skating rink, a cinema complex, and so many food options that you=E2=80=
+=99ll
+have to make dozens of visits to try them all. Continue through the Dubai
+Mall to the entrance of Burj Khalifa, the world=E2=80=99s tallest building,=
+ and
+take an elevator to their vertigo-inducing 124th floor Observation Deck.
+
+Dubai is synonymous with the best of the best, the peak of luxury=E2=80=94a=
+nd don=E2=80=99t
+you deserve a little flash in your life? If you want to upgrade your
+9-to-5, email us today and get ready for your next adventure!
+
+Desired skills:
+Looking for Perl developers with a strong background in Modern Perl =E2=80=
+=93 you
+should be comfortable with Moose and PSGI/Plack, and a solid grounding in
+using Perl=E2=80=99s testing tools.
+
+Website for more information: https://job.perl.careers/ed7d
+
+Contact information at:
+http://jobs.perl.org/job/21724#contact

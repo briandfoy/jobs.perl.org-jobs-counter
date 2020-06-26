@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16416
+Return-Path: <msprvs1=18446TM3iPtY7=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31894 invoked from network); 26 Jun 2020 05:03:49 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2020 05:03:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B08237CEED
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:49 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 3EAB77C0DD
+	for <perlmail-jobs@onion.perl.org>; Thu, 25 Jun 2020 22:03:48 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	by xx1.develooper.com (Postfix) with ESMTP id C454C7CEEC
+	for <jobs@perl.org>; Thu, 25 Jun 2020 22:03:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1593147826; i=@perl.org;
+	bh=wVOu/SMrtdfSUr+HLUQS+fLPfLxOSMYRTK+wy1k2Qrc=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=iZBy05iQKz0Q7/oHsjyYlngGcu0QcLc7RQpk3LIyHMce4xJEsAHgSApTqQ99Gh3ZG
+	 Ww0HDsdAw+HFiEgKO5gFJp3HIoRAK6xPezDY4Lc6ZlmiRYEySIohiYBpqetPt3lVRX
+	 Ry5ZGBKUNRZ4eOqcEJwJ0nbooajn5zsUo1SiXNVM=
+X-MSFBL: SWPOwYFz9//Enb+Yi4bHdw8iEE3T/0fuQna/dob+bKU=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDQ2YjI4MWY1NWVmZDN
+	kMTU3YSJ9
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:11577] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83574 r(Core:4.3.1.34)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 51/A7-15869-2B185FE5; Fri, 26 Jun 2020 05:03:46 +0000
+Received: from 10-42-4-88.jobso.jobso.svc.cluster.local ([10.42.4.88] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1jogWf-0000fL-M7
+	for jobs@perl.org; Fri, 26 Jun 2020 05:03:45 +0000
+Date: Fri, 26 Jun 2020 05:03:45 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1jogWf-0000fL-M7@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, ECARD_WORD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Goodbye, Winter Blues. Hello, 300 Days of Perl Sunshine! Perl
+ developer job in Malta (onsite), Malta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21723
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2020
+
+Job title:
+Goodbye, Winter Blues. Hello, 300 Days of Perl Sunshine! Perl developer job
+in Malta
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Malta
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Good things come in small packages . . .
+
+Imagine a place known for its
+stunning Mediterranean coastline, famous for its festivals, and so
+welcoming that locals are often called =E2=80=9Csome of the nicest people i=
+n the
+world.=E2=80=9D Now imagine that you can trade your current home base for o=
+ne
+that=E2=80=99s chock-a-block with history, incredible cuisine, and postcard=
+-worthy
+views around every corner. Too good to be true? Only if you don=E2=80=99t r=
+ead on!
+
+At only 316 square kilometers, Malta is one of Europe=E2=80=99s most petite
+countries. Looks like the adage is true=E2=80=94good things do come in small
+packages! Malta is famous for its festas, local festivals held throughout
+the summer to honour each village=E2=80=99s patron saint with fireworks, fo=
+od
+stands, and parties. This pint-sized paradise has some of the oldest
+architecture in the world, incredible hikes that take you along their
+gorgeous coastline, and a vibrant cultural scene. And here=E2=80=99s the be=
+st part:
+our client is looking for a few good Perl Developers to join their team in
+Malta!
+
+Our client is a financial company whose growth over the last twenty
+years has been nothing short of impressive. They started with the idea that
+online trading should be available to all, and from there, they=E2=80=99ve =
+built a
+company with multiple locations worldwide. If you want to be part of a
+business that is thriving, this may be the perfect opportunity for you.
+
+The toughest part about moving to Malta will be deciding which of your
+winter clothes to get rid of first, because temperatures never drop below
+zero. English is an official language, and all government documents are
+offered in English, so the transition to life in Malta will be as easy as
+slipping on a pair of sandals. Healthcare in your new home is unbelievably
+affordable, though with all the hiking and swimming you=E2=80=99ll be doing=
+, we=E2=80=99re
+sure you=E2=80=99re going to be fit as a fiddle.
+
+Desired skills:
+Looking for Perl developers with a strong background in Modern Perl =E2=80=
+=93 you
+should be comfortable with Moose and PSGI/Plack, and a solid grounding in
+using Perl=E2=80=99s testing tools.
+
+Website for more information: https://job.perl.careers/hofn
+
+Contact information at:
+http://jobs.perl.org/job/21723#contact
