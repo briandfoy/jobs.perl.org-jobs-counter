@@ -1,0 +1,136 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16422
+Return-Path: <msprvs1=18483lKGSdSxm=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27770 invoked from network); 2 Aug 2020 05:02:41 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Aug 2020 05:02:41 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 186117CEEC
+	for <perlmail-jobs@onion.perl.org>; Sat,  1 Aug 2020 22:02:41 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 2A7647CEED
+	for <perlmail-jobs@onion.perl.org>; Sat,  1 Aug 2020 22:02:39 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 745337C1C0
+	for <jobs@perl.org>; Sat,  1 Aug 2020 22:02:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1596344555; i=@perl.org;
+	bh=s7p48EZKN8kHx3V1q9t9pgo41xKVLeY+A3OfcRChnDw=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=OZbrTB0pj2HOyzsZfZ8ZPGer3n2EDNmVnE/uy1s2qpwUnmbqavscXafoebWoHMEdD
+	 k3DjLpYbC+SX3InN1bAmeqorRA4qyw8bXAiezkYLYJMkn51moF6juUbQmBIW22RXya
+	 N9vRsroXAuEU6A1eDTcnAbdtXtyC+qO3fLfSk3eI=
+X-MSFBL: Zn5yca88Q9OLg3JIecugvgmC3hHDt8ZPRDzF459VoRY=|eyJtZXNzYWdlX2lkIjo
+	iMDA0N2VhNDgyNjVmYjgyZTg0MjAiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.199.153] ([147.75.199.153:58697] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.83796 r(Core:4.3.1.39)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 48/02-11960-AE8462F5; Sun, 02 Aug 2020 05:02:34 +0000
+Received: from 10-42-5-240.jobso.jobso.svc.cluster.local ([10.42.5.240] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1k268o-0001bV-A4
+	for jobs@perl.org; Sun, 02 Aug 2020 05:02:34 +0000
+Date: Sun, 2 Aug 2020 05:02:34 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1k268o-0001bV-A4@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, UTF8_SUBJ_OBFU 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0,
+ __PHISH_SPEAR_SUBJ_PREDICATE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_8 0, __SUBJ_ALPHA_END 0, __SUBJ_ALPHA_END2 0, __SUBJ_HIGHBIT 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __UTF8_SUBJ 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: =?UTF-8?B?V2UgYXJlbuKAmXQgTWFsLXRlYXNpbmfigJR0aGlzIGlzIHRoZSBQ?=
+ =?UTF-8?B?ZXJsIGpvYiB5b3XigJl2ZSBiZWVuIHdhaXRpbmcgZm9yISAob25zaXRlKSwg?=
+ =?UTF-8?B?TWFsdGE=?=
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21731
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 13, 2020
+
+Job title:
+We aren=E2=80=99t Mal-teasing=E2=80=94this is the Perl job you=E2=80=99ve b=
+een waiting for!
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Malta
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+All aboard for outdoor adventure!
+
+If you take this job, some might call
+you a thrill-seeker. Adventure junkie, others might say. Us? We=E2=80=99ll =
+just
+call you smart, because who wouldn=E2=80=99t want to work in one of the wor=
+ld=E2=80=99s
+most beautiful places? A diving hotspot with over 50 dive sites, ample
+hiking, scenic cycling routes, and more kayaking opportunities than you can
+shake a paddle at, gorgeous Malta has it all! And lucky for you, we have an
+international client looking to hire for their Malta office, so if an
+outdoor adventurer=E2=80=99s playground sounds like the right place for you=
+, read
+on.
+
+The client is a financial company whose meteoric growth over the last
+twenty years means that they=E2=80=99re a solid investment for anyone looki=
+ng to
+make a change in location for their career. They started with the idea that
+online trading should be available to all, and from there, they=E2=80=99ve =
+built a
+company with multiple locations worldwide. If you want to be part of a
+business that is thriving, this may be the perfect opportunity for you.
+
+Moving to a new country can be a daunting proposition, but the transition
+to Maltese life is simple: English is an official language, all government
+documents are offered in English, and healthcare is incredibly affordable.
+The Maltese people are widely thought of as some of the friendliest folks
+on the planet, so you=E2=80=99ll have no trouble meeting new pals while pad=
+dling or
+chums while cycling. The only difficult thing about your new life in Malta
+will be deciding which outdoor activity to try first!
+
+Sun, smiles, scuba .
+. . if you haven=E2=80=99t emailed already to jump on this opportunity, the=
+n what
+are you waiting for? Malta and her out-of-this-world outdoor pursuits are
+waiting for you!
+
+Desired skills:
+Looking for Perl developers with a strong background in Modern Perl =E2=80=
+=93 you
+should be comfortable with Moose and PSGI/Plack, and a solid grounding in
+using Perl=E2=80=99s testing tools.
+
+Website for more information: https://job.perl.careers/h4pb
+
+Contact information at:
+http://jobs.perl.org/job/21731#contact
