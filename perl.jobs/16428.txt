@@ -1,0 +1,157 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16428
+Return-Path: <msprvs1=18536cthPUt0s=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16668 invoked from network); 24 Sep 2020 08:02:04 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 24 Sep 2020 08:02:04 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 159DF7C198
+	for <perlmail-jobs@onion.perl.org>; Thu, 24 Sep 2020 01:02:04 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,LOTS_OF_MONEY autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7F8207CF39
+	for <perlmail-jobs@onion.perl.org>; Thu, 24 Sep 2020 01:01:58 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id CBBB97C198
+	for <jobs@perl.org>; Thu, 24 Sep 2020 01:01:57 -0700 (PDT)
+X-MSFBL: zpjZe974Pgv71wokqBi3GYT2AbeQC69fN2xMCSsyxUA=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	yIjoiam9ic0BwZXJsLm9yZyIsIm1lc3NhZ2VfaWQiOiIwMDQ4NzQ1MjZjNWZjZTM
+	wNTU3ZSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1600934516; i=@perl.org;
+	bh=Sb30FV3SfOmak7X8nS9hnljUs+SaMO0O7MXkOi6e/ls=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=g43fgbnFBK21DC8ZQi+KeqgSH7ShI+1NWZwSOMGGRHiAtDbBmViPnLRXskTTHJc8R
+	 hE0TG0B9IOld9aOj1pFVVF+nSQh3k2H/62svPVRsHm8uhS8MwRFr7rntTr0HHSAu3s
+	 KmvNfWWvtXztOzstdBMQE+Y/PmWYIqMY/lj2rMZU=
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:1947] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84130 r(Core:4.3.1.47)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 55/E7-12494-4725C6F5; Thu, 24 Sep 2020 08:01:56 +0000
+Received: from 10-42-5-61.jobso.jobso.svc.cluster.local ([10.42.5.61] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1kLMCS-00014l-1E
+	for jobs@perl.org; Thu, 24 Sep 2020 08:01:56 +0000
+Date: Thu, 24 Sep 2020 08:01:55 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1kLMCS-00014l-1E@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2019.11.28.70017
+X-PMX-Perl: Suspicious Attachment
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, CHILD_EX_X3 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_MEDIA_BODY 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0,
+ __HIGHBITS 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: The Future is Now! London Based Perl Telecommute Role (telecommute),
+ London, UK OR Telecommute from Europe
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21741
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 24, 2020
+
+Job title:
+The Future is Now! London Based Perl Telecommute Role
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK OR Telecommute from Europe
+
+Pay rate: =C2=A350,000=E2=80=93=C2=A355,000 GBP /year
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+To boldly go where no one has gone before
+
+Some kids grew up playing video
+games. Others spent their time taking apart the family DVD player to see
+how it worked and incurring the wrath of their parents. If you were one of
+those curious little tykes with a yen to know how things work then set your
+phasers to stun, because we have the role for you!
+
+Our client is a leading
+online tech publication with more than 40 millions readers worldwide. Their
+articles cover electronics, hardware, software, AI, cloud services,
+culture, and=E2=80=94you guessed it=E2=80=94outer space. They=E2=80=99re in=
+ the know about planets,
+photon torpedoes, and what the Borg are up to right now.
+
+Operating out of
+a London office that offers the opportunity to work remotely, this is a
+small, self-motivated team. Critical to your success is the ability to work
+independently. No expendable red shirts here; everyone is important to the
+team and has to pull their weight on the expedition=E2=80=94er, project. Yo=
+ur role
+is a combination of SysAdmin-meets-DevOps. You=E2=80=99ll be working with t=
+heir
+Debian-based Linux systems, their Perl, Bash, and Linux tooling. Key to
+your mission will be improving the automation of their deployment systems
+to enable tech and ad-ops teams to go live at lightspeed.
+
+Other facets of
+your role will include tweaking server build scripts, documentation and
+application of backup and restore procedures, monitoring servers and their
+logs, keeping systems current, and making sure the warp core doesn=E2=80=99=
+t melt
+down. They=E2=80=99re looking for a creative crew member who enjoys writing=
+ their
+own tools using Perl, Bash, HTML, CSS, and JS.
+
+The shuttle=E2=80=99s leaving soon,
+so if you want to beam aboard, now=E2=80=99s the time to send us your CV an=
+d tell
+us why you should be the next crew member on the USS Fantastic Job!
+
+Desired skills:
+Required:
+
+    Very strong Linux sysadmin skills, esp Debian
+    Not at all
+afraid of Perl
+
+Helpful:
+
+    MySQL/MariaDB (N-tier replication) and
+PostgreSQL.
+    Single-node and multi-node Redis.
+    Containerisation &
+virtualisation.
+    Debian package management.
+    Testing & automation
+(CI/CD/Git hooks) and monitoring (e.g. Grafana, Munin).
+    Email servers
+and their configuration (e.g. SPF, Exim).
+    Working knowledge of DNS,
+HTTP, TLS, web security.
+
+Telecommuting Details:
+
+Open to residents of
+United Kingdom, Switzerland, and the European Economic Area
+
+Website for more information: https://job.perl.careers/bgf5
+
+Contact information at:
+http://jobs.perl.org/job/21741#contact
