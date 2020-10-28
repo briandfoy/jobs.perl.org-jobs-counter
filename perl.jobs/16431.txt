@@ -1,0 +1,196 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16431
+Return-Path: <msprvs1=18564LYMkw9lY=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22137 invoked from network); 22 Oct 2020 09:49:49 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 22 Oct 2020 09:49:49 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id E71DE7C19D
+	for <perlmail-jobs@onion.perl.org>; Thu, 22 Oct 2020 02:49:48 -0700 (PDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5C8C47CF7A
+	for <perlmail-jobs@onion.perl.org>; Thu, 22 Oct 2020 02:49:47 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BD5707CF79
+	for <jobs@perl.org>; Thu, 22 Oct 2020 02:49:46 -0700 (PDT)
+X-MSFBL: 6M/K6FjsJMFTk7W5B1AkC8IOU+PalrqX9WmgBZQA2LY=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDQ2YmE1NTkxNWZjMTM
+	xOTFjMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1603360186; i=@perl.org;
+	bh=0iRFy8Cb6dr/5tFiXNmjlckIBvBu/mtWBFoUUlNoj1w=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=oYGJEoEmQn4LrEvFGqEA5Vy9uC62V0opmHD7O6nyFCHxljYfr35l7YrSou8NoUISo
+	 SwAWvROmoNhoR12+BK/tQQ4E9Aasy5mPb/vG/WT+PeAS7Nd8hYFmUFO0Oyp1UiMdR4
+	 9Jzexunn8Bx5i57OMzWkB1Q/M5AlkvNEXboD9pjA=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:44183] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84330 r(Core:4.3.1.52)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 19/1C-12737-AB5519F5; Thu, 22 Oct 2020 09:49:46 +0000
+Received: from 10-42-3-14.jobso.jobso.svc.cluster.local ([10.42.3.14] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1kVXE9-0001n7-Dk
+	for jobs@perl.org; Thu, 22 Oct 2020 09:49:45 +0000
+Date: Thu, 22 Oct 2020 09:49:45 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1kVXE9-0001n7-Dk@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.10.22.94218
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_4000_4999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __WE_WORK_4U 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Engineer with Online Fraud Detection Experience -
+ telecommute opportunity (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21739
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 29, 2020
+
+Job title:
+Software Engineer with Online Fraud Detection Experience - telecommute
+opportunity
+
+Company name: MaxMind, Inc.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind  (www.maxmind.com) is looking for a talented and highly motivated
+person to help us improve our minFraud risk score. minFraud is used to
+screen over 2 billion online transactions a year, the majority of those
+being e-commerce.
+
+We are hiring anywhere in Canada and in the following US
+states: AK, CA, CO, FL, IN, LA, MA, MI, MN, MT, NY (excluding New York City
+and Yonkers), NC, NH, NV, OR, PA, SD, TX, VA, UT, WA, WV, WY.
+
+The Position
+Overview
+
+Our risk scoring is based on heuristics and machine learning.
+Your role would be to improve the heuristics as well as feature engineering
+for machine learning.
+
+Potential improvements are back-tested against fraud
+and not-fraud reports from customers. Our fraud analyst team helps analyze
+the results and suggests improvements. This work is meaningful since even a
+small improvement can help customers reduce fraud significantly given our
+scale.
+
+
+Our Development Practices
+
+Currently most of our risk score code
+is written in Perl and runs on Linux. We plan to move this code to Go over
+the next few years. We maintain fast development cycles and identify small,
+incremental improvements that add up over time. All work goes through
+internal code review on GitHub Enterprise.
+
+We use open source software as
+much as possible, and we release code back to the community when we can do
+so.
+
+
+Why work at MaxMind?
+In a recent survey, employees listed feeling
+respected, trusted, and valued and having autonomy as things they most
+liked. They also liked having good colleagues.
+
+MaxMind has a social
+mission. We are passionate about helping our customers avoid fraud, and 70%
+of profits after taxes are donated to charity.
+
+MaxMind=E2=80=99s compensation
+strives to reward getting stuff done, quality of work, and working well
+with others.
+
+
+More about working at MaxMind
+MaxMind is a casual, friendly,
+results-focused company of about 40 employees, about half of whom are in
+technical positions. We maintain a set of core, overlapping hours, but
+we=E2=80=99re flexible with specific start and end times and are understand=
+ing
+about appointments and life events.
+
+Compensation includes a competitive
+salary and participation in a company performance-based bonus plan. All
+employees get a $2k professional development budget and five days for
+professional development annually.
+
+In addition to medical, dental, and
+vision coverage, we offer several other benefits in the US, including a
+401k with employer contribution and FSA. Please inquire about benefits in
+Canada.
+
+Our development team is largely comprised of telecommuters, so
+communication centers around group chat, agile planning tools, and Google
+Meet. Full-time telecommuting is permitted.
+
+Diversity and Inclusion
+We're
+committed to diversity and inclusion and are mindful of incorporating them
+into all aspects of our company. New ideas and perspectives come from
+diverse ways of seeing and thinking. MaxMind is sensitive to all
+individuals and viewpoints and believes everyone=E2=80=99s contributions and
+opinions are valuable assets to our team. We value bringing individuals and
+different perspectives together within and across every department.
+
+We
+encourage and sincerely welcome applications from candidates of color,
+women, queer candidates, candidates with family caregiving
+responsibilities, transgender candidates, and from other communities not
+well represented in the tech world.
+
+If you have suggestions on how we may
+better promote or express our commitment to diversity and inclusion, we
+would love to hear from you. Please send your suggestions to
+hr@maxmind.com.
+
+Desired skills:
+Minimum Qualifications:
+
+- Experience creating and testing heuristics for
+fraud detection using
+  online data like IP addresses and emails.
+-
+Programming experience, at least intermediate level (a programming
+=20
+exercise will be given to all applicants)
+- Interested in learning Perl and
+Go
+
+Desired
+- SQL experience
+- Experience with git, Linux/Unix and command
+line tools
+
+Website for more information:
+https://www.maxmind.com/en/company/working-at-maxmind
+
+Contact information at:
+http://jobs.perl.org/job/21739#contact
