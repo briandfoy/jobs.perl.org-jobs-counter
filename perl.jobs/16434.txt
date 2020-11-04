@@ -1,0 +1,136 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16434
+Return-Path: <msprvs1=18575PSEpG6zv=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29102 invoked from network); 2 Nov 2020 21:01:01 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Nov 2020 21:01:01 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id B20857C1B9
+	for <perlmail-jobs@onion.perl.org>; Mon,  2 Nov 2020 13:01:01 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 95ACD7C1BA
+	for <perlmail-jobs@onion.perl.org>; Mon,  2 Nov 2020 13:00:59 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 113CB7C0F3
+	for <jobs@perl.org>; Mon,  2 Nov 2020 13:00:58 -0800 (PST)
+X-MSFBL: NszNhqGk+b/PBpjU2uVhZYT//sdUHP+gCB7guKHX6Kg=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDQ2ODg3M2EwNWY4ZDEwNDJlYiIsInRlbmF
+	udF9pZCI6InNwYyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1604350856; i=@perl.org;
+	bh=9bUkmS/Odt66xGJIAEC6OtgoF0LK6/6L8G2wkFvrdKg=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=TOO0IlKrLwD+zam7KVOBnnWSirXEgnRZNdHYEVtGZB6VwaQV1qtK/TG82v4l8TIMp
+	 HBtyw93xMmOVYDa8Ac0Tl3mIu0jE4txkor37Q6HV3GUFy3bo4n5KoCS1E0GCY38ZFQ
+	 f+Gm/B+X09wDn1esI/nDxI7W5BVGyviHOALuAzAc=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:3218] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84414 r(Core:4.3.1.54)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 24/BE-04237-88370AF5; Mon, 02 Nov 2020 21:00:56 +0000
+Received: from 10-42-3-14.jobso.jobso.svc.cluster.local ([10.42.3.14] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1kZgwh-000256-Ud
+	for jobs@perl.org; Mon, 02 Nov 2020 21:00:55 +0000
+Date: Mon, 2 Nov 2020 21:00:55 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1kZgwh-000256-Ud@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.11.2.205417
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Better than Chocolate Chip Cookies! Europe Based Remote Perl role
+ (telecommute), London, UK OR Telecommute from Europe
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21750
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2020
+
+Job title:
+Better than Chocolate Chip Cookies! Europe Based Remote Perl role
+
+Company name: Perl Jobs by Perl Careers
+
+Location: London, UK OR Telecommute from Europe
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A Recipe for Success
+
+In a world gone topsy-turvy, we have to appreciate
+the simple pleasures. Chocolate chip cookies fresh out of the oven, for
+instance. Or, for that matter, semi-stale cookies out of the bag. Turns out
+we=E2=80=99re less picky about our biscuit choices, but one thing is for su=
+re: a
+good recipe is the difference between a ho-hum snack and a
+melt-in-your-mouth chocolate extravaganza. We can=E2=80=99t share the famil=
+y cookie
+recipe (Mum would kill us) but we CAN share our latest client=E2=80=99s rec=
+ipe for
+success.
+
+As an online tech publication with over 40 million readers around
+the world, they know a thing or two about keeping it fresh. Always on the
+cutting edge, their writers discourse on software, hardware, space, cloud
+services, culture, and electronics. Basically, they=E2=80=99re experts on a=
+ll the
+cool stuff you want to know about, so why not join them? They might even
+throw in a few complimentary snacks.
+
+While the client operates out of a
+London office, you also have the option to work remotely. Just think: in
+between managing their software projects from beginning to end, you could
+have your own tray of treats baking in the oven. A midday snack sounds like
+a great way to stay on task, which will be important because this small
+team only has room for self-starters who work solo as well as they work in
+a group.
+
+So, besides baking up a storm, what will you be doing? Working as
+a Perl developer, you=E2=80=99ll be responsible for consultation, design,
+development, testing, and deployment. While the snacks cool, you=E2=80=99ll
+primarily use back-end Perl code on Debian servers with a smattering of
+HTML, CSS, and JavaScript thrown in for flavour.
+
+Got your mouth watering?
+If so, shoot us an email and let us know; there might just be a biscuit in
+it for you.
+
+Desired skills:
+Strong Perl is a must
+    DBIx::Class experience
+    Basic front-end skills
+/ not scared of small amounts of JavaScript, HTML
+    Very comfortable on
+Linux, ideally Debian
+
+Website for more information: https://job.perl.careers/yfe
+
+Contact information at:
+http://jobs.perl.org/job/21750#contact

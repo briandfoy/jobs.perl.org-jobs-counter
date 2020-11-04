@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16435
+Return-Path: <msprvs1=18575PSEpG6zv=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29225 invoked from network); 2 Nov 2020 21:03:11 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Nov 2020 21:03:11 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8C3C07C1B9
+	for <perlmail-jobs@onion.perl.org>; Mon,  2 Nov 2020 13:03:11 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 475097C1BA
+	for <perlmail-jobs@onion.perl.org>; Mon,  2 Nov 2020 13:03:10 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BC84E7C1B9
+	for <jobs@perl.org>; Mon,  2 Nov 2020 13:03:09 -0800 (PST)
+X-MSFBL: tSs4+8I5NjRiHKlDYy3gkzoEPj6h77Ea/sEnQgBqFXE=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDQ3MDg3NGEwNWZmY2J
+	mY2QyZCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1604350985; i=@perl.org;
+	bh=RAH1H/nEt5k/HSy/tr/KBuDocPG+HWpZzh8uJDI8IyU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=E5u2rOQVOXkUr0ZxFxsQNEzaF3q4lrPWgWt9xmzI8IuU70TlJJ+sAJgZy72shVcxp
+	 B9/fi8BXxBFyOPXo56eyAAg31iLFr2SKC0Tv+pBLrL2H1S70NfS8U7lCImWDXyZHgR
+	 JWI2hzfXaW95wLYmnml4Atss0LNfBRwXzZxwEP84=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:32564] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84414 r(Core:4.3.1.54)) with ESMTPSA (cipher=AES-256-GCM) 
+	id DC/D2-49148-80470AF5; Mon, 02 Nov 2020 21:03:04 +0000
+Received: from 10-42-5-61.jobso.jobso.svc.cluster.local ([10.42.5.61] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1kZgym-00025C-BR
+	for jobs@perl.org; Mon, 02 Nov 2020 21:03:04 +0000
+Date: Mon, 2 Nov 2020 21:03:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1kZgym-00025C-BR@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.11.2.205417
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: If it was Good Enough for Mozart - Perl role in Vienna (onsite),
+ Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21752
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2020
+
+Job title:
+If it was Good Enough for Mozart - Perl role in Vienna
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Vienna, Austria
+
+Pay rate: Competitive salary based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Where can you find hundreds of cafes, wiener schnitzel, and entertainment
+ranging from the uber-posh Opera Ball to the fabulously flamboyant LGBT
+Life Ball? Why, in the same city that is the birthplace of Mozart and
+consistently ranks as the best place in the world to live: say hello to
+vivacious Vienna!
+
+If your hometown isn=E2=80=99t nestled between gorgeous
+vineyards and jaw-dropping palaces, maybe it=E2=80=99s time to see what our=
+ client
+has to offer. As one of the largest product and price comparison platforms
+in German-speaking countries, they know all about finding the best products
+at a price that would make Mozart shout, =E2=80=9CWunderbar!=E2=80=9D They =
+want to find a
+Perl programmer who thrives on delivering quality content, well-executed
+user information that=E2=80=99s easy to understand, and is as committed to
+transparency and excellence as they are.
+
+All work and no play would have
+made even Mozart a dull boy; fortunately, there are tons of fun things to
+do when you clock out. Their cultural scene is legendary, with many
+concerts, exhibitions, and productions throughout the year. Whether you=E2=
+=80=99re
+after a day of museums or a tour through one of Vienna=E2=80=99s ultra-lavi=
+sh
+palaces, there=E2=80=99s plenty to see and do.
+
+No doubt a weekend of strolling
+through history will leave you with a mighty appetite during the work week.
+Not to worry=E2=80=94your new employer has thought of that. Team members are
+provided with delicious and nutritious lunch options every day, all
+completely on the house. Think of it: the extra time you would have spent
+packing a sack lunch is now prime sleep-in time.
+
+So, if you=E2=80=99re interested,
+send us an email and say _auf Wiedersehen _to your current job!
+
+Desired skills:
+Client is willing to consider all candidates with strong Perl, but they
+make heavy use of PostgreSQL, Elasticsearch, and Dancer, any of which would
+be useful to have experience with.
+
+Website for more information: https://job.perl.careers/e6j
+
+Contact information at:
+http://jobs.perl.org/job/21752#contact
