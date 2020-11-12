@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16438
+Return-Path: <msprvs1=18580yHjsSa6w=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29066 invoked from network); 7 Nov 2020 06:20:45 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 7 Nov 2020 06:20:45 -0000
+Received: from localhost (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 8D1E27C18B
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Nov 2020 22:20:45 -0800 (PST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mx3.develooper.com
+X-Spam-Status: No, score=-2.0 required=6.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU autolearn=ham version=3.3.1
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 559747C103
+	for <perlmail-jobs@onion.perl.org>; Fri,  6 Nov 2020 22:20:44 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id A84C77C191
+	for <jobs@perl.org>; Fri,  6 Nov 2020 22:20:15 -0800 (PST)
+X-MSFBL: CtCM+S46VqBRs1VCCG++y9nrme6+6OItxx9T+BQ1Zv4=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiIwMDQ3OWUzY2E2NWZjNDc
+	zNmIyNiJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1604730015; i=@perl.org;
+	bh=s5KiII2K/3AQQKFDn8izmXUV2bTlyMWtoySSNk6rcHk=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=dgOkm6uusBXzdOzpKRWZbLsPSEGsOp1XMolhyI3IwjxzkR2W5oM2tpQqPwVaaFHsL
+	 2d5CmZYKF/uS9Z/2yGoRrnk0YaB0J3cvuLXm4cYWmBw6sMoAjMlA8gh5avV2UeIivy
+	 hTmhQneJEFoq/Jbjhc2izNHudQSyBZYnTvmhd0X0=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.197.191] ([147.75.197.191:59306] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84447 r(Core:4.3.1.55)) with ESMTPSA (cipher=AES-256-GCM) 
+	id B6/62-29636-E9C36AF5; Sat, 07 Nov 2020 06:20:15 +0000
+Received: from 10-42-3-14.jobso.jobso.svc.cluster.local ([10.42.3.14] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1kbHaA-0002CC-EM
+	for jobs@perl.org; Sat, 07 Nov 2020 06:20:14 +0000
+Date: Sat, 7 Nov 2020 06:20:14 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1kbHaA-0002CC-EM@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.9.27.210318
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1300_1399 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Appcelerator Titanium + Perl (telecommute), San Diego, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21753
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  7, 2020
+
+Job title: Appcelerator Titanium + Perl
+
+Company name: GreenRope
+
+Location: San Diego, CA
+
+Pay rate: USD - commensurate with experience
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+GreenRope has a position for a perl programmer with Appcelerator/Titanium
+experience to help support, extend, and bugfix our mobile app.
+
+You'll work
+in Appcelerator alloy and webview code to build the UI, and in the perl
+backend/api. You'll also need to have experience with itunesconnect and
+developer.android.com to manage test and production releases. We're also
+trying to automate releasing with fastlane - there will be a nice chunk of
+time spent in there.
+
+Its possible (likely, even) that the app will be
+migrated to Vue or similar with an OpenAPI backend and we'd lean heavily on
+your expertise there.
+
+Desired skills:
+Required:
+Appcelerator/Titanium
+Perl
+Fastlane
+
+Desired:
+MySQL
+OpenAPI
+DevOps
+CentOS
+
+Website for more information: https://www.greenrope.com/
+
+Contact information at:
+http://jobs.perl.org/job/21753#contact
