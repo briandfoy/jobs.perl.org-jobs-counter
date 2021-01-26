@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16439
+Return-Path: <msprvs1=18656bcS9P7K9=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30849 invoked from network); 22 Jan 2021 16:34:09 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 22 Jan 2021 16:34:09 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A93197C19D
+	for <perlmail-jobs@onion.perl.org>; Fri, 22 Jan 2021 08:34:09 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id B04677C19C
+	for <jobs@perl.org>; Fri, 22 Jan 2021 08:34:03 -0800 (PST)
+X-MSFBL: atTfghAE6YaGRzbtBSqlIlVRp7onkonLE2JwWls2EAM=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJyIjoiam9ic0BwZXJsLm9yZyIsInN1YmFjY291bnRfaWQiOiIxIiwibWV
+	zc2FnZV9pZCI6IjYwMDg3YWZlMGE2MDcxMmM2MWFhIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1611333242; i=@perl.org;
+	bh=KmF/kdxEJ3zfx7hJ1i1GwEGUCxPdvPDCWJNAGMKQq3c=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=kevmWKEenHCohxGtAuCMSLx7807zof1FXqQ4lyBTx9vp8ot/95WVWhP7B/dz0AEv9
+	 XmFxVjxn00A0RGaGNJaIYdYLDrxE2RXIHhsPa/erDIwduPGSvE9vjH04lZfxiwtL7H
+	 349dbeXEAyKzO29nC4w8PloGcPVKA0oV81FJ9wW4=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:56280] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84756 r(Core:4.3.1.63)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 16/AA-33027-A7EFA006; Fri, 22 Jan 2021 16:34:02 +0000
+Received: from 10-42-7-235.jobso.jobso.svc.cluster.local ([10.42.7.235] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1l2zNo-0000yC-No
+	for jobs@perl.org; Fri, 22 Jan 2021 16:34:00 +0000
+Date: Fri, 22 Jan 2021 16:34:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1l2zNo-0000yC-No@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.1.22.162718
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_INTRO 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_GREETING 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Guten Tag, Senior Perl Developers! Perl role in South Germany
+ (onsite), Saarland OR Telecommute, ideally from Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21765
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 18, 2021
+
+Job title:
+Guten Tag, Senior Perl Developers! Perl role in South Germany
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Saarland OR Telecommute, ideally from Germany
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Bricks-and-mortar shopping was going the way of the dodo before the
+pandemic started, but boy, did COVID accelerate it. If you=E2=80=99re a Sen=
+ior Perl
+Developer searching for an extinction-proof role, you=E2=80=99ve come to th=
+e right
+place.
+
+With more than 4 million domains spanning nearly every country
+around the globe, our client manages over 100,000 retail and corporate
+clients and 2,300 resellers. That=E2=80=99s a whole lot of carts and bags b=
+rimming
+with goodies, which translates into enviable job security and money in your
+pocket.
+
+You=E2=80=99ll design and develop software solutions, optimize the backend
+system, help expand the TLD offer, test software, and engage in good old
+fashioned problem-solving for technical issues identified by clients and
+partners.
+
+Bricks-and-mortar malls may be pass=C3=A9 but having a real-time
+office to come to when the pandemic ends is a major perk. While work for
+this client is currently 100% remote, their main office is in St. Ingbert,
+Germany with a satellite office in Munich. With a friendly, sociable crew,
+a rooftop deck, and all the table soccer and air hockey you can handle,
+you=E2=80=99ll make fast friends with your new team (once you=E2=80=99re al=
+lowed within two
+metres of each other).
+
+Think you=E2=80=99d like to join this team of table-sport
+superstars? Here=E2=80=99s who they say is their dream match: experienced i=
+n the
+implementation of existing APIs and protocols, you=E2=80=99ve got Perl or P=
+HP
+skills, an independent and flexible attitude, and strong written and spoken
+English. Bonus points for fluency in other languages, and as you might
+imagine, knowledge of German will win you high-fives all around.
+
+Ready to
+join the online shopping revolution? Shoot us an email and let us know why
+you=E2=80=99re perfect for this role, and we=E2=80=99ll say danke schoen.
+
+Desired skills:
+The ideal candidate should be confident using Modern Perl, in particular
+happy with DBIx::Class and Moose/Moo. Experience with any of mod_perl,
+Net::Server, Ubuntu, MySQL, Elastic Search, and memcached would be
+advantageous.
+
+Website for more information: https://job.perl.careers/ymv
+
+Contact information at:
+http://jobs.perl.org/job/21765#contact
+

@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16442
+Return-Path: <msprvs1=18656bcS9P7K9=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31031 invoked from network); 22 Jan 2021 16:36:30 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 22 Jan 2021 16:36:30 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 148F27C197
+	for <perlmail-jobs@onion.perl.org>; Fri, 22 Jan 2021 08:36:30 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id E38C67C1BB
+	for <jobs@perl.org>; Fri, 22 Jan 2021 08:36:23 -0800 (PST)
+X-MSFBL: 9PoPkEXsznw0k6oX3SNnA0vbweERdrF3PNRDtlQ+02E=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	yIjoiam9ic0BwZXJsLm9yZyIsIm1lc3NhZ2VfaWQiOiI2MDA5MDZmZjBhNjBiNWM
+	xOTNkNiJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1611333382; i=@perl.org;
+	bh=UMWQ/BzLWSSV0YijxqIY7HGcRgeqpL1eg6GravhLJhE=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=PzOjwCD1rdY6cKmobS8qGp+t0mGTqvt8l5PAJNm/di2GeNJgmZ+soLnBY5XRmIrwL
+	 1k3oy1PULRwctxqwXvih9JYQWNz17NnUXNitdwMNZmaOXvy3QUwifP37MTNw6vSSwP
+	 InyETGD1i7LnA3t0IJuHRMOmZZN5BJgL5Nkc0WF0=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:17965] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.84756 r(Core:4.3.1.63)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 39/6D-06520-60FFA006; Fri, 22 Jan 2021 16:36:22 +0000
+Received: from 10-42-8-171.jobso.jobso.svc.cluster.local ([10.42.8.171] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1l2zQ2-0000yI-Sc
+	for jobs@perl.org; Fri, 22 Jan 2021 16:36:18 +0000
+Date: Fri, 22 Jan 2021 16:36:17 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1l2zQ2-0000yI-Sc@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.12.17.230317
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_COMMON 0, __FRAUD_CONTACT_NAME 0, __FRAUD_LOC 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_LOC 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Big Dividends, Bigger Opportunity! Perl role with multiple location
+ options (onsite), Dubai
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21767
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 18, 2021
+
+Job title:
+Big Dividends, Bigger Opportunity! Perl role with multiple location options
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Dubai
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Let your Passport out to Play
+
+Leisure travel might be on hiatus, but if
+wanderlust has you eager to be somewhere else, why not consider working in
+a new country? Perl developers, pack your bags: your next big adventure
+awaits.
+
+Online trading is big. Big dividends, big excitement, and big
+barriers for most people. Enter our client, an international financial
+company who believe online trading should be open and accessible to all.
+With a brand that enjoys global recognition and the kind of growth that
+stokes envy in their competitors, they=E2=80=99re looking to add a few good=
+ Perl
+developers to their expansive team.
+
+Our client is looking for Perl
+developers who are comfortable with Moose and PSGI/Plack, and have a solid
+grounding in using Perl=E2=80=99s testing tools.
+
+With offices in sensational
+destinations like culture-rich Malta, innovative Cyberjaya, and glitzy
+Dubai, you can put your skills to work for a company with a global reach
+and a host of excellent perks. This organization believes in its people;
+all team members have a voice, and they pride themselves on challenging and
+supporting each other. Client focus is the core of this company=E2=80=99s e=
+thos, so
+if you approach technical problems with curiosity, determination, and
+drive, you=E2=80=99ll fit right in with this international team.
+
+Intrigued? Of
+course you are. Your passport has been itching for a new stamp; why deprive
+it of the chance? Drop us a line and let us know why you=E2=80=99re the rig=
+ht fit
+for this exciting international organization!
+
+Desired skills:
+Looking for Perl developers with a strong background in Modern Perl =E2=80=
+=93 you
+should be comfortable with Moose and PSGI/Plack, and a solid grounding in
+using Perl=E2=80=99s testing tools.
+
+Website for more information: https://job.perl.careers/n73
+
+Contact information at:
+http://jobs.perl.org/job/21767#contact
+
