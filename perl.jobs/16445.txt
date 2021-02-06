@@ -1,0 +1,147 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16445
+Return-Path: <msprvs1=186712cSgkSMd=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28075 invoked from network); 6 Feb 2021 03:38:11 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 6 Feb 2021 03:38:11 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C8BB27C1A3
+	for <perlmail-jobs@onion.perl.org>; Fri,  5 Feb 2021 19:38:11 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BFDA67C19B
+	for <jobs@perl.org>; Fri,  5 Feb 2021 19:38:10 -0800 (PST)
+X-MSFBL: ScYaAPnPIMcqz2lQZCJXdmSkBFCeMRzP4RWySFX+BWQ=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiI2MDFjMjAwZjFlNjA4OWQ0M2E1NyIsInRlbmF
+	udF9pZCI6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1612582688; i=@perl.org;
+	bh=6jr/cnUrFEivZsmmvSat9TWrDuMYj21JYxJd4U/V/i8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=h99oUt8AwNY4boKWByyyyTRGFx9NepUHX61Q0sb59q/y3bB1tjLHGX47U6O7ZoBBK
+	 vUWe+d9fdjNEOkMHACq0jTIopBOzTugHGkqC13cAf6y9T6J0h2jh17ScOoYxRn9YFM
+	 dT8R3AT4ipIh1CMIbvFT8B1/D0qLd4Tu9G74lyvk=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:62517] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85117 r(Core:4.3.1.66)) with ESMTPSA (cipher=AES-256-GCM) 
+	id A3/75-47903-02F0E106; Sat, 06 Feb 2021 03:38:08 +0000
+Received: from 10-42-7-235.jobso.jobso.svc.cluster.local ([10.42.7.235] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1l8EQA-0001Ky-6K
+	for jobs@perl.org; Sat, 06 Feb 2021 03:38:06 +0000
+Date: Sat, 6 Feb 2021 03:38:05 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1l8EQA-0001Ky-6K@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.12.17.230317
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INFO_TLD 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_POUND 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_QUALITY 0,
+ __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __WE_WORK_4U 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Remote Perl Developer (telecommute), Remote / Poland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21771
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2021
+
+Job title: Remote Perl Developer
+
+Company name: Sidnet Solutions
+
+Location: Remote / Poland
+
+Pay rate: =C2=A3 3500 =E2=80=93 4600
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Join our remote team and get involved in a long-term project for our
+UK=E2=80=91based client, leading global e=E2=80=91commerce company, with wh=
+om we have been
+working since 2014.
+
+We're a software development company based in Poland -
+technological partner for THG, Medicover Senior, TVN Foundation, Multikino,
+Kujawski and many more.
+
+200+ projects completed for clients from Poland,
+UK and US
+25+ team members, including 6 team leaders
+17 years in business
+
+Duties:
+- Backend development of a large web application built in Dancer
+framework and Moose
+- Implementing new features and making changes in an
+existing, well-documented RESTful API
+- Maintaining a high level of code
+quality by writing comprehensive tests and performing code review
+-
+Regularly communicating with the project team and product owners
+
+Benefits:
+- Salary: GBP 3500 =E2=80=93 4600 / PLN 15 000 =E2=80=93 20 000 + VAT (B2B)=
+ or an
+equivalent for a different form of employment/contract. Depending on skill
+level and experience.
+- Remote work and flexible working hours except for
+occasional (and non-mandatory) team meetups.
+- Desk space in the office.
+Would you rather work in an office? No problem, come to our office in
+Warsaw, Poland.
+- Helpful team. Despite the fact that we work almost 100%
+remotely, we constantly stay in touch with one another. We help each other
+using chat, share our knowledge, conduct code review. We limit the number
+of procedures and e-mails sent to the necessary minimum.
+- Competence
+development. In the field of backend and frontend development, project
+management, Agile (Scrum, Kanban) methods, automation.
+- B2B contract,
+contract of employment or another form of employment.
+
+Desired skills:
+Must-haves:
+- Very good knowledge of Perl with a minimum of 3 years of
+experience with commercial or open-source projects
+- Good knowledge of one
+of the popular Perl web frameworks (Dancer, Mojolicious, Catalyst)
+-
+Experience in building web applications
+- Experience with relational
+databases and SQL
+- Fluent English in speaking and writing (e-mail, chat)
+-
+Strong communication and self-organization skills
+
+Nice-to-haves:
+-
+Knowledge of object-oriented programming and Perl OOP libraries (Moose,
+Moo)
+- Knowledge of the design principles of RESTful APIs
+- Experience with
+testing (unit tests, Test-Driven Development)
+
+Website for more information: https://sidnet.info/
+
+Contact information at:
+http://jobs.perl.org/job/21771#contact
+

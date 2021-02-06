@@ -1,0 +1,161 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16444
+Return-Path: <msprvs1=18667wE890U2m=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30290 invoked from network); 2 Feb 2021 18:20:24 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 2 Feb 2021 18:20:24 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7E60B7C1A2
+	for <perlmail-jobs@onion.perl.org>; Tue,  2 Feb 2021 10:20:24 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id ECA067C18D
+	for <jobs@perl.org>; Tue,  2 Feb 2021 10:20:23 -0800 (PST)
+X-MSFBL: UGiub6oECwmffLLmg6iyHle51pIsa3UgcZathPpx1ko=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiI2MDExZTc5NzE5NjBjY2Y
+	2NDRmNCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1612290023; i=@perl.org;
+	bh=8/KV14Bz0in782q7IV415E+ae30a7y/SWo6+pYa4mG4=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=jAzQHuAOXyva2rmobVbhRZ1azGUErunA5UCx8YyLDgeVsw7ZtRUC803A1flPXhSb9
+	 kVdqdlD64TdCdXFBV7vmHMmKkbe3KOwpxMdGRbTSdKbNDQR4mz0TdM/uymAkdlv4wZ
+	 CStnhNldV8s7mUuLFJz8/YS+3SHQszdB4CuxPMDE=
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:43614] helo=mail-jobs)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85074 r(Core:4.3.1.64)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 44/4F-28788-7E799106; Tue, 02 Feb 2021 18:20:23 +0000
+Received: from 10-42-7-235.jobso.jobso.svc.cluster.local ([10.42.7.235] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1l70Hi-0001Fg-Vt
+	for jobs@perl.org; Tue, 02 Feb 2021 18:20:19 +0000
+Date: Tue, 2 Feb 2021 18:20:18 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1l70Hi-0001Fg-Vt@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.2.2.181216
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_HAS_HYPHEN_USC 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Software Engineer (part onsite), Farmington Hills, MI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21770
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2021
+
+Job title: Perl Software Engineer
+
+Company name: Cengage Learning
+
+Location: Farmington Hills, MI
+
+Pay rate: $105000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Gale is a Cengage company that partners with librarians and educators
+around the world to connect learners to essential content through
+user-friendly technology that enhances experiences and improves learning
+outcomes.=20
+
+As a Software Engineer on the Gale Content Conversion
+Management team, you=E2=80=99ll join a highly collaborative team that helps=
+ to
+bring over 100 Gale print and digital products to life, delivering the
+content that students and researchers rely on. In this role you=E2=80=99ll =
+provide
+programming analysis, development and support for processes associated with
+product generation, data acquisition, migration, and various other content
+transformations. You=E2=80=99ll also have the opportunity to grow and apply=
+ your
+knowledge as the team and company transform to meet the ever-changing needs
+of research and educational technology.
+
+Responsibilities :
+* Participate
+in the design, architecture, and implementation of product requirements.
+*
+Write high-quality software.
+* Follow department guidelines for version
+control of source code.
+* Develop and execute tests for all the code you
+write.
+* Build wrapper scripts that allow programs to run automatically or
+are easily executed by the end user. Provide user-friendly directions,
+script prompts, error messages and reports as needed.
+* Perform root cause
+analysis and technology evaluation.
+* Investigate and solve performance
+problems, finding ways to scale processes while containing costs.
+*
+Interface with end user to determine programming requirements and provide
+status updates, explanations and instructions.
+* Demonstrate ability to
+optimally communicate and encourage cross-functional participation in
+discussions, meetings and communications.
+* Help break down and estimate
+tasks and meet agreed-upon timelines.
+* Demonstrate a continuous
+improvement approach regarding processes and work standards.
+* Foster
+cooperation and support, and encourage teamwork.
+
+Desired skills:
+Skills you'll need here:
+* Perl experience with the ability to utilize
+XML-aware modules and XPath.
+* Experience with Unix commands and shell
+scripting.
+* Python experience is also strongly preferred.
+* Experience
+with at least one or more of the following: XQuery, XSLT, Schematron and
+other XML-related tools.
+* Experience with common development tools and
+familiarity with source code control software such as SVN/Git.
+* Excellent
+verbal and written English communication skills.
+* Creative problem-solving
+skills and ability to effectively communicate and translate feedback, needs
+and solutions.
+* Must have a strong teamwork orientation.
+* Should also be
+sensitive to cultural differences in interactions with others and in the
+way work gets done.
+* A good work ethic and a strong sense of ownership of
+the end result.
+
+Education and Experience
+* 2+ years professional Perl
+software development experience, or Bachelor=E2=80=99s degree in Computer S=
+cience
+or a related field with demonstrable Perl/Python work, or an equivalent
+combination of education and recent, relevant work experience.
+
+Website for more information:
+https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/
+US-Farmington-Hills-Michigan/Sr-Software-Engineer-Developer_R0002455
+
+Contact information at:
+http://jobs.perl.org/job/21770#contact
+
