@@ -1,0 +1,143 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16447
+Return-Path: <msprvs1=18681fsxcRtzi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12497 invoked from network); 16 Feb 2021 12:10:33 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 16 Feb 2021 12:10:33 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id A10AE7C197
+	for <perlmail-jobs@onion.perl.org>; Tue, 16 Feb 2021 04:10:33 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id D0F717C195
+	for <jobs@perl.org>; Tue, 16 Feb 2021 04:10:32 -0800 (PST)
+X-MSFBL: Quvh1LeJgHoEy3Emq/eOR4m5ITjbEQgZBSBmOdDtusY=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ
+	tZXNzYWdlX2lkIjoiNjAyMTMzYjYyYjYwN2QxNDRkNmEiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1613477431; i=@perl.org;
+	bh=wbF6AsErzkSh+nK/yAjR8go7LXf2nJ+4z0B0yfWGo1U=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=c5KwUoYsvkbUYsLimk/T1rM9FBDhjYEnLTaol5Jp+viBfrjWHLma6AUvCoi53xzpT
+	 78rwrCVl5NhyFao/AtixkmoNsgegbA474qe5hDIYv7bEW4ktm/VkXPhB/2cYrua8EQ
+	 SIlM5LraOxnLowVMqv3N4KpfHU2Mp44iiD3wux0g=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:56135] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85153 r(Core:4.3.1.67)) with ESMTPSA (cipher=AES-256-GCM) 
+	id D4/A6-11154-336BB206; Tue, 16 Feb 2021 12:10:27 +0000
+Received: from 10-42-8-171.jobso.jobso.svc.cluster.local ([10.42.8.171] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1lBzBQ-0001bC-Sw
+	for jobs@perl.org; Tue, 16 Feb 2021 12:10:24 +0000
+Date: Tue, 16 Feb 2021 12:10:24 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lBzBQ-0001bC-Sw@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.2.16.120020
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_EURO 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_LOC 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0,
+ __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl developer (telecommute), Estepona, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21773
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 15, 2021
+
+Job title: Perl developer
+
+Company name: MultiSafepay
+
+Location: Estepona, Spain
+
+Pay rate: euro
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+At this moment we work remote, so it is possible to apply when you live in
+another EU country. After Covid (when it magically disappears) it is a
+possibility to join our team in Spain and enjoy working in our office at
+the beach, enjoying the good weather, good food and drinks. When you life
+outside of Spain we offer a freelance construction to start with but we are
+looking for a long term engagement with a contract.
+
+MultiSafepay is a
+collecting payment service provider which means we take care of the
+agreements, technical details and payment collection required for each
+payment method.
+
+At the very start of the Dutch e-commerce revolution in
+1999, MultiSafepay was one of the pioneers in the industry serving the
+first online web shops in the Netherlands. With just a handful of
+developers, we started with the development of our MultiSafepay payment
+technology. Simplicity, transparency, and service were, and still are, at
+the heart of everything we do. Nowadays we are with over 120 employees,
+with offices in The Netherlands, Spain and Germany.
+
+The team =E2=80=93Development
+The Development team in Spain is a multicultural & cross-functional group
+of engineers who collectively are responsible for producing, defining, and
+driving the core technology and architecture of our world-class payment
+services used by thousands of merchants across Europe.
+
+For our
+international office in Estepona (M=C3=A1laga), Spain we are currently look=
+ing
+to expand our Development team with a senior Perl developer
+
+Our colleague
+Ross Thomas, department manager:
+=E2=80=9CYou will work as part of an agile team to
+help conceive, design, implement, and refine software that has meaningful
+impact on our payment solutions, tools and platforms that reach customers
+worldwide. We develop new systems, implement improvements on existing
+systems, and integrate with third party payment gateways & services. There
+will be opportunities for leadership as well as learning, working with a
+diverse team and partners from around the world.
+
+Desired skills:
+Main Responsibilities
+
+- Experience with Perl (or experience with other
+scripting languages, e.g. Python,
+Ruby and a desire to learn Perl)
+- 2+
+years of experience with SQL (PostgreSQL)
+- 1+ year experience with
+managing highly available product systems
+- Back-end applications
+programming
+- Payment gateways API implementation nice to have
+- Data
+parsing and processing
+- Base knowledge of Linux/Unix
+- Experience with
+version control systems (Git)
+- Experience with automated testing (unit,
+functional etc.)
+
+Website for more information: http://www.multisafepay.com/
+
+Contact information at:
+http://jobs.perl.org/job/21773#contact
+
