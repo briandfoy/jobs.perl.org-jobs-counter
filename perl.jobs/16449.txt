@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16449
+Return-Path: <msprvs1=18694oWmOXOLi=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13327 invoked from network); 1 Mar 2021 14:12:03 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 1 Mar 2021 14:12:03 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id DFACE7C1A4
+	for <perlmail-jobs@onion.perl.org>; Mon,  1 Mar 2021 06:12:02 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 0A1437C19F
+	for <jobs@perl.org>; Mon,  1 Mar 2021 06:11:54 -0800 (PST)
+X-MSFBL: pbJgxxS/CAqREunyMEXFyYDvVaZUCyV7GsiEiv6htsI=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiNjAzNzI1ZjYzYzYwZGJiNDg4YTEiLCJyIjoiam9
+	ic0BwZXJsLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1614607909; i=@perl.org;
+	bh=8dQ/cZk49df+cwrGpr3TxkFqpT44vUmSEwDL8aK+hnU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=MsyNPeVW5LwBzwcGVLvIoKIsh0WUzR4IKJVhmq253L7Gd0saHea1QQ7IJ7N/CDlby
+	 B0nXrJ4IvYJ5klyX6c60pbxrA99dpRhiOczG6XWKuq4vxn3zOqHl3vawg0q9r+sZbA
+	 RF//izgfHIQj2mRAfQ1VFgFhhTy2buUUKVo/piAI=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:51232] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85335 r(Core:4.3.1.70)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 88/1A-19833-526FC306; Mon, 01 Mar 2021 14:11:49 +0000
+Received: from 10-42-7-235.jobso.jobso.svc.cluster.local ([10.42.7.235] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1lGjH1-0001vn-MV
+	for jobs@perl.org; Mon, 01 Mar 2021 14:11:47 +0000
+Date: Mon, 1 Mar 2021 14:11:47 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lGjH1-0001vn-MV@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.3.1.140017
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __SANE_MSGID 0,
+ __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Engineer (telecommute), Remote  / United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21777
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 26, 2021
+
+Job title: Software Engineer
+
+Company name: Leostream Corporation
+
+Location: Remote  / United States
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Do you love Perl as much as we do? Thank goodness, because we=E2=80=99re hi=
+ring!
+Come join Leostream Corporation and put your Perl to use building the
+industry=E2=80=99s most widely deployed vendor-neutral Remote Access Platfo=
+rm. What
+in the world is a =E2=80=9CRemote Access Platform=E2=80=9D you ask? Well, l=
+et me tell you!
+
+Leostream helps enterprises in industries such Media & Entertainment, Oil &
+Gas, and Higher Education ensure that their staff and students can stay
+productive and access their needed =E2=80=9Cdata center=E2=80=9D resources =
+no matter where
+their users may roam. That =E2=80=9Cdata center=E2=80=9D can be workstation=
+s under peoples'
+desks, virtual machines hosted on platforms such as VMware, or cloud-hosted
+resource in AWS, Azure, Google Cloud Platform, and even OpenStack. If you
+want to exercise your Perl skills while learning about the latest and
+greatest in cloud and data center technologies, Leostream is the place for
+you.=20
+
+Leostream is based in Waltham, MA but if you are a productive
+work-from-home type, you may work from anywhere in the United States. Given
+the nature of some of our customers, U.S. citizens only, please. This is a
+three-month contract with the potential to convert to a full-time salaried
+employee.
+
+Desired skills:
+Must-haves:
+- Very good knowledge of Perl with a minimum of 3 years of
+experience in commercial or open-source projects
+- Experience developing
+web applications (Apache/CGI/mod_perl)
+- Experience working with
+PostgreSQL, MS SQL Server, and Azure/AWS/Google Cloud databases from Perl
+-
+Experience working with Git
+- Strong communication and self-organization
+skills
+
+Nice-to-haves:
+- Experience with AWS/Azure cloud services
+-
+Experience with OpenStack
+- Experience with complicated network routing,
+forwarding, and firewall management
+- Experience with vulnerability testing
+and resolution
+
+Website for more information: https://www.leostream.com
+
+Contact information at:
+http://jobs.perl.org/job/21777#contact
+
