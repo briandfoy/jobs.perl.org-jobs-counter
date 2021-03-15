@@ -1,0 +1,180 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16451
+Return-Path: <msprvs1=18706ztXp5oHg=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 772 invoked from network); 13 Mar 2021 12:53:20 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 13 Mar 2021 12:53:20 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 81FCC7C1A4
+	for <perlmail-jobs@onion.perl.org>; Sat, 13 Mar 2021 04:53:20 -0800 (PST)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com [147.253.218.84])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id F24287C19E
+	for <jobs@perl.org>; Sat, 13 Mar 2021 04:53:19 -0800 (PST)
+X-MSFBL: uGvLFBYtDeAgvlUNjw6hrCDtHOGnWLqOijBG3uW3Quw=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	tZXNzYWdlX2lkIjoiNjA0N2JkYjU0YzYwOWQ3ZTA2ZWMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1615639997; i=@perl.org;
+	bh=LsB5GS2/vY4ZKGfuTYlE6M1rtB4ya5kP+wGU1Z5rcjI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=TmemLSMkDV0PsPVAx+5t58B0DQWdF3yGCiyHBV18OFfM8dpJ6rBtW677YNxmaUJbR
+	 kqHwm7mrvR90UIVU05WE7oZpiV8z42+cB9I5UuNZmWs5dYQRX8IW+6/mD6ACjpo51T
+	 HnDoxAEAz6aNpsLbvexaXoxKHrcrixD7wYZvGu28=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:48228] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85403 r(Core:4.3.1.72)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 60/CE-17037-DB5BC406; Sat, 13 Mar 2021 12:53:17 +0000
+Received: from 10-42-8-171.jobso.jobso.svc.cluster.local ([10.42.8.171] helo=localhost.localdomain)
+	by mail-jobs with esmtp (Exim 4.92)
+	(envelope-from <bounce@sp-bounce.perl.org>)
+	id 1lL3lb-0002Eg-Vw
+	for jobs@perl.org; Sat, 13 Mar 2021 12:53:15 +0000
+Date: Sat, 13 Mar 2021 12:53:14 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lL3lb-0002Eg-Vw@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.3.13.124217
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RCVD_LOCALHOST_LOCALDOMAIN 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __PHISH_SPEAR_SUBJ_PREDICATE 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Foundation Software Developer (part onsite), Manchester City Centre,
+ UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21782
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2021
+
+Job title: Foundation Software Developer
+
+Company name: SpareRoom
+
+Location: Manchester City Centre, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+SpareRoom was launched in 2004. Since then we've helped over 10 million
+people in the UK and US find homes to share and great people to share them
+with. We believe living with the right people beats living alone, so our
+mission is a simple one - to create happier flatshares.
+
+We're a modern
+family business, 100% owned by the founder and directors. That means we're
+able to put our users at the heart of everything we do and we love working
+with humble people who bring a positive energy and like to get stuff done.
+
+We are looking for a developer to join us to increase the delivery capacity
+of our core team. Our core platform is written mostly in Perl (with small
+projects in Node.js and C#) and supports both an API for apps (iOS and
+Android) and a web front end.
+
+What you can expect to do as a Core
+Developer at SpareRoom:
+- To work with modern Perl for our main web
+application and use other technologies, languages and tools like MySQL,
+Gearman, Memcached, Sphinx, Golang, Node.js, C#, GitHub and Jenkins.
+- Help
+develop new features, make improvements and fix bugs in a secure,
+well-tested, and performant way.
+- Develop and extend RESTful APIs.
+- To
+help maintain current mailshots and extend our in-house email tools to
+allow for self service email sending for our marketing team.
+- Use MySQL to
+gather data and create custom, reusable reports for internal use.
+
+How we
+like to work:
+- Simple, easy to read code
+- Small iterative releases
+-
+Continuous testing environment
+- Test Driven Development
+- Collaboration
+over isolation
+- Short lived, self-organised, project teams
+- Pair coding
+in order to share & improve skills and code quality
+
+You should apply if
+you:
+- Have experience developing large scale object-oriented software
+projects.
+- Have an interest in working across all areas of the system
+including performance and security.
+- Have experience with Relational
+Databases (e.g. MySQL) and common web technologies.
+- Have an interest in
+working with Perl (experience would be considered a significant plus but
+not a requirement as training will be provided).
+- Enjoy collaborating with
+others to solve complex domain problems.
+- Enjoy finding quick solutions to
+customer issues.
+
+What it's like to work at SpareRoom:
+- Competitive
+salary.
+-Flexible, fun and challenging work environment where innovative
+ideas are encouraged
+- Central Manchester location in modern spacious
+offices, with free fruit, a posh coffee machine and a housekeeper to keep
+you refreshed
+- Active social life outside of work with various regular
+events supported by the company
+- Choice of development equipment and
+opportunity to influence team culture and approach
+
+Excellent benefits
+including:
+- Cycle to Work scheme
+- Season travel loans
+- Matched pension
+contributions
+- Gym membership contributions
+- Optional private healthcare
+- Rental deposit loan scheme
+-Basic holiday allowance starting at 23 days,
+as well as Bank and Public Holidays. Plus, you=E2=80=99ll earn more the lon=
+ger you
+stay with us.
+- And, of course, a free SpareRoom upgrade when you need it
+
+Desired skills:
+Perl
+MySQL
+Gearman
+Memcached
+Sphinx
+Golang
+Node.js
+C#
+GitHub
+Jenkins
+RESTful APIs
+
+Website for more information: http://www.spareroom.co.uk/jobs
+
+Contact information at:
+http://jobs.perl.org/job/21782#contact
+
