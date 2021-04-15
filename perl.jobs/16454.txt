@@ -1,0 +1,149 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16454
+Return-Path: <msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 805 invoked from network); 12 Apr 2021 09:31:56 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 12 Apr 2021 09:31:56 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 00AE07C1C4
+	for <perlmail-jobs@onion.perl.org>; Mon, 12 Apr 2021 02:31:56 -0700 (PDT)
+Received: from postfix-inbound-1.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 880B97C19F
+	for <jobs@perl.org>; Mon, 12 Apr 2021 02:31:47 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.15.203 (trex/6.1.1);
+	Mon, 12 Apr 2021 09:31:44 +0000
+X-Message-ID: kQsD1nib2UX1CzKuPQsAHPk0
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-669dddbc9c-nncv4: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: WGilSuv8K5wOdLPV/0BNYqgIW8j96qv6eNlY3bJLexM=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsInRlbmFudF9pZCI6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3V
+	zdG9tZXJfaWQiOiIxNzUzMCIsIm1lc3NhZ2VfaWQiOiI2MDZmN2IxMzc0NjAxZWY
+	wZjc2MSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1618219899; i=@perl.org;
+	bh=m5oq7J1SXLWxRLfKWsslOjC1cy1zyfxYEl5hxIQgfho=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=M3+jUGpHTPFwGOO4oDKsb7R9hChA5aQMsrPlyAnXZMpEyQDDgDUzOYpUmOOuAJ6Ug
+	 fDQZ8GD8bVjtXnm3Z9jAHudvLYvqD3y2YDv11xow8jSQS7AdBJgENX0Xc93bmczZ0+
+	 3KFGIJFFA+tLLWdlA0bUg8exbZTFYPuUBvweTjoU=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:30322] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85494 r(Core:4.3.1.75)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 7F/16-42881-B7314706; Mon, 12 Apr 2021 09:31:39 +0000
+Date: Mon, 12 Apr 2021 09:31:37 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lVsuw-00030Y-32@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.12.17.230317
+Subject: Perl developer (part onsite), Houston, TX, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21793
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 10, 2021
+
+Job title: Perl developer
+
+Company name: BookTrolls, LLC
+
+Location: Houston, TX, USA
+
+Pay rate: USD $110000/yr
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+BookTrolls is looking to hire top-notch developers to help fuel our rapid
+expansion. This will not just be a software integration/automation
+position. We write enterprise-class TCP/IP servers and large, performant
+back-end applications. We write software for a wide range of business
+applications for internal users; and both our culture and our development
+model are pretty informal. Hours are flexible. Our software team is small,
+fast, flexible, and growing; and we offer a greater degree of creative
+control and project ownership than you'll find at "big" software companies.
+Plus, you can ride the forklift. This position is ideal for an ambitious,
+energetic self-starter with a mastery of Perl.
+
+We offer a 401(k) with 100%
+match of up to 4% of salary, with immediate vesting, plus medical and
+dental. Visa sponsorship available. Partial telecommute is available after
+your first 6 months and increases with seniority and performance. We offer
+relocation assistance to Houston. Starting salary is $110K for the
+mid-level position.
+
+Responsibilities
+
+- Work with warehouse managers to
+gather requirements, design, implement, and enhance the software that runs
+every department
+- Heavy client/server programming, from simple web scripts
+to massively multi-threaded custom TCP/IP servers
+- Data warehousing,
+revenue analysis, and reporting
+- Develop secure web services to interface
+with our partner businesses
+- Use (and optionally contribute to) CPAN
+
+About Our Company
+
+We are one of the largest independent booksellers on the
+Amazon and eBay marketplaces, among other online marketplaces.
+Headquartered in Houston, we sell purely online and ship from four
+warehouses around the world. We started in a garage in 2006 and have since
+expanded to 150 employees globally. Our main competitive advantage is our
+in-house software, which runs every aspect of our business and possesses
+capabilities unseen in our industry. Most of our competitors run their
+companies off shrink-wrapped 3rd-party vendor software -- and it shows. We
+are not a software company, but software is at the core of what we do.
+
+Please note that our main website (booktrolls.com) does not reflect the
+primary business model that this position will support.
+
+Desired skills:
+- Thoroughly fluent in Perl; preferably writing more than just "glue"
+scripts
+- Fluent in object-oriented design
+- Fluent in regular expressions
+- Basic Linux command line skills (file manipulation, editors, grep, etc)
+-
+Multi-threading experience, including deadlocks, race conditions, etc
+-
+Familiarity with BerkeleyDB, HTML, JavaScript, client/server programming,
+and system-level Linux skills
+- Excellent code documentation skills
+- There
+is no minimum requirement of work experience or education. We care about
+(and will heavily test) your skill, not your pedigree
+
+Contact information at:
+http://jobs.perl.org/job/21793#contact
+

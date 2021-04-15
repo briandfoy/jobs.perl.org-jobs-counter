@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16453
+Return-Path: <msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 767 invoked from network); 12 Apr 2021 09:31:13 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 12 Apr 2021 09:31:13 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 38C8E7C1C6
+	for <perlmail-jobs@onion.perl.org>; Mon, 12 Apr 2021 02:31:13 -0700 (PDT)
+Received: from postfix-inbound-7.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id CE9407C19F
+	for <jobs@perl.org>; Mon, 12 Apr 2021 02:31:12 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.5.112 (trex/6.1.1);
+	Mon, 12 Apr 2021 09:31:10 +0000
+X-Message-ID: 4eA3ljsZuoLZdpc9u06NWIyd
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-7b66686fb4-9mj87: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18736_Pxt6Fwc=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: /LNlaZUaG06PIAzsN9FWJDECOkuGEhlYdiI9bsTaljw=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjYwNmY1YjEzNzQ2MDJmYmY2ZjQ1IiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1618219867; i=@perl.org;
+	bh=gU57NCrUqmv+t2SFx0SOBlLDrGBT1IUFaNjO8bCXFBw=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=dU2CxIhw2JO5erP09iWJe4mLD6xwqRo1RlBJZJ3XS3Gx6gPY0FmF9lRT+2atCH/Mw
+	 ydoEEQyZoJIe8UWAFWoGhb/iPvXT6Nw/To2zKEPQn6AtazVvPe1yu3xHvVe/3DDRhs
+	 ce/khb4h7dv7iLBVb9m0uLNkmaqo1wCIY9IOcgxw=
+Authentication-Results:  af.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:13725] helo=mail-jobs)
+	by af.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.1.85494 r(Core:4.3.1.75)) with ESMTPSA (cipher=AES-256-GCM) 
+	id F6/54-14328-B5314706; Mon, 12 Apr 2021 09:31:07 +0000
+Date: Mon, 12 Apr 2021 09:31:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lVsuP-00030V-9S@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2020.12.17.230317
+Subject: Perl Developer (backend) (telecommute), Campinas, SP, Brazil
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21792
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  9, 2021
+
+Job title: Perl Developer (backend)
+
+Company name: Venturus
+
+Location: Campinas, SP, Brazil
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are looking for a Perl Developer to join our back-end team.
+
+Option to
+act on-site (Campinas/SP/BRA), mixed or full home office =E2=80=93 now just=
+ from
+home due Covid age (Brazil based position).
+
+Desired skills:
+Perl (intermediate/advanced);
+Relational database;
+Rest Apis;
+Git;
+
+Vagrant
+(differential);
+
+English (intermediate or advanced).
+
+Website for more information:
+https://jobs.kenoby.com/venturus/job/desenvolvedora-perl-sr/5f99e2bf3ab2bb6
+d4a9eb998
+
+Contact information at:
+http://jobs.perl.org/job/21792#contact
+
