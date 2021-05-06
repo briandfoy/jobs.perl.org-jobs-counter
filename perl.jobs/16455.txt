@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16455
+Return-Path: <msprvs1=18754o2iTiUn8=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9949 invoked from network); 30 Apr 2021 08:05:33 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 30 Apr 2021 08:05:33 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id CEA8E7C19F
+	for <perlmail-jobs@onion.perl.org>; Fri, 30 Apr 2021 01:05:33 -0700 (PDT)
+Received: from postfix-inbound-9.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 3E6987C18B
+	for <jobs@perl.org>; Fri, 30 Apr 2021 01:05:33 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.15.46 (trex/6.2.1);
+	Fri, 30 Apr 2021 08:05:29 +0000
+X-Message-ID: PZbNGoWIoYvA5M5o6fRAXjuv
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18754o2iTiUn8=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-2scq4: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18754o2iTiUn8=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: zv9eOnuJoV9Ao8oaRnVes4eYsmBlMZvKHiwgXVVtRwo=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiI2MDgxNDZiYThiNjA5ZjI
+	2NjE5ZCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1619769926; i=@perl.org;
+	bh=VEnGAFdW9liNtnklv2Mza8KzvnNRAXtTKk4wUjktAEI=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=Lq6pQ3m0cI3LkEoT0ES+XY52Gc25imwvy5eJkyS62VcX6glr8RBj+ZMsQlkhX5zOc
+	 ifiqDZIXeSUqo/T23KaZ29gJAIsfDYKl7H1PfN1T61abCPoZF2BBljqmayK+mNm1yk
+	 C7ZFE85P7xEogxDkVaDaV27ZKgImzvYjRtiojtls=
+Authentication-Results:  ab.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.201] ([147.75.38.201:63838] helo=mail-jobs)
+	by ab.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17925 r(msys-ecelerity:tags/4.3.2.1)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 16/D9-36552-64ABB806; Fri, 30 Apr 2021 08:05:26 +0000
+Date: Fri, 30 Apr 2021 08:05:26 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lcO9O-0000Bm-81@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.4.30.75715
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, SPF_SOFTFAIL 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_MAILCHANNELS 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0,
+ __HTTPS_URI 0, __INT_PROD_QUALITY 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Developer - PERL (part onsite), Houston, TX (Remote)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21797
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 29, 2021
+
+Job title: Software Developer - PERL
+
+Company name: cPanel
+
+Location: Houston, TX (Remote)
+
+Pay rate: 75 to 100K USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+This position will assist in the maintenance, development and
+implementation of existing software systems and/or applications for market
+sale. Participates in the full development life cycle and consults with
+senior peers on non-complex projects.
+
+Essential Functions:
+
+Creates code
+specification proposals and prototypes for review by team and stakeholders
+Develops well designed, testable, and efficient new code and modifies
+existing code based on stakeholder requirements for cPanel products and
+systems
+Documents code in detail for future reference
+Participates in the
+use of established development standards and continuously contributes
+positively to improve the quality of development standards based on data
+driven decisions
+Implements test plans and tests based on current cPanel
+standards and aides in improving the testing standards
+Analyzes code to
+find causes of errors and refactors existing code to optimize performance
+Collaborates with teams to resolve issues and deliver products of high
+quality
+Participates in project demos, presentations and meetings
+Adheres
+to the policies and procedures of the company
+Exemplifies the Core Values
+of Integrity, Respect, Collaboration and Follow-through
+
+Additional Duties:
+
+Receives instruction and feedback from other developers
+Seeks out and
+collects local, as well as third party sourced data, to make business
+appropriate, data driven decisions
+Advises and mentors other developers in
+design and implementation processes pertinent to cPanel
+Operates in both
+Kanban and Agile/Scrum teams interchangeably without a negative impact to
+productivity
+Consistently maintains a full workload without direct
+oversight
+Other tasks and duties as deemed necessary
+
+Desired skills:
+Technical skills -
+
+Programming language expertise in Perl/PHP/Python; Git;
+bug tracking, troubleshooting; Linux command line usage
+Expertise in two or
+more of the following: Unit testing; database access; Web Servers (apache,
+LiteSpeed, nginx); SQL Servers (MariaDB, MySQL, PostgreSQL, etc), Mail
+Servers (Exim, Sendmail, etc) DNS Servers (BIND), and Linux Filesystems
+(ext3/4, xfs)
+Able to perform effective code reviews
+Experience with
+multiple programming languages
+Ability to operate in both Kanban and
+Agile/Scrum teams interchangeably without a negative impact to productivity
+
+Education/Experience - Bachelors degree in relevant field or equivalent
+experience
+
+Five years of Linux / BSD / *nix system troubleshooting or a
+related certification (RHCE)
+Five years of Perl development experience
+Travel -  Occasional local and/or overnight travel may be required, some by
+interstate air
+
+Website for more information:
+https://job.listings.cpanel.net/x/detail/a2ldog971qoq
+
+Contact information at:
+http://jobs.perl.org/job/21797#contact
+
