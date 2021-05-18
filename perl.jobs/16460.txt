@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16460
+Return-Path: <msprvs1=18768nNGeldwm=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8352 invoked from network); 14 May 2021 08:07:26 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 14 May 2021 08:07:26 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 0D0147C1C2
+	for <perlmail-jobs@onion.perl.org>; Fri, 14 May 2021 01:07:26 -0700 (PDT)
+Received: from postfix-inbound-4.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 601887C1C1
+	for <jobs@perl.org>; Fri, 14 May 2021 01:07:17 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.14.56 (trex/6.2.1);
+	Fri, 14 May 2021 08:07:16 +0000
+X-Message-ID: WvHtPWc78dV0CVw2CvIed3lA
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18768nNGeldwm=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-66c547cf55-nrl7h: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18768nNGeldwm=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: eFLxch8lCEFxct18fRJLMNvV8bZ3BH8y0MY/CDw1YTk=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJ
+	zdWJhY2NvdW50X2lkIjoiMSIsIm1lc3NhZ2VfaWQiOiI2MDljYWYyZjllNjBhMTl
+	jZjI1ZiJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1620979631; i=@perl.org;
+	bh=JHrOWUuw6cXbbg1pRMyFI//mW/v5x4C4ffaCEYEyM60=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=fiF3rszlUeCkgXmR7YfFO+pACll4xJEl1us6P3a7WzRB4URjRAXmpk/7Z1H2SzZwI
+	 Nc14hp76GIoWdurR0TjyRUNeOFnJmBoM0s3+GapbFp4FyBaJ7NuI/xh/TQTyPtLt/U
+	 uZFYvqwckprm6AkYae/XNkKzoYRIjVSKybXq/cfw=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:18761] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17931 r(msys-ecelerity:tags/4.3.2.4)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 2F/F5-50240-FAF2E906; Fri, 14 May 2021 08:07:11 +0000
+Date: Fri, 14 May 2021 08:07:10 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lhSql-0000Bf-0E@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.5.14.75415
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior PERL Developer (part onsite), Anywhere in India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21801
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 14, 2021
+
+Job title: Senior PERL Developer
+
+Company name: TCS
+
+Location: Anywhere in India
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+=E2=80=A2 Excellent communication skills =E2=80=93 you communicate complexi=
+ty verbally and
+in writing in a way that everyone can understand.
+=E2=80=A2 Drive, strong
+organisational skills, and the ability to work independently as well as in
+a team.
+=E2=80=A2 Design, develop, deploy, test and maintain highly scalable
+solution in OO Perl.
+=E2=80=A2 Working through a backlog of revisions, new features
+and bug fixes on our eComm Platform
+=E2=80=A2 Assisting with technical
+documentation of Solution Design
+=E2=80=A2 Estimating effort of features and
+functions
+=E2=80=A2 Ability to understand and write JavaScript
+=E2=80=A2 Ability to
+understand and write JSON/XML
+=E2=80=A2 Ability to understand and write HTML/CSS
+=E2=80=A2
+Providing Software Upgrades. This may include Patching and Hot Fix
+deployment including fault finding, testing and rollbacks.
+=E2=80=A2 Undertaking
+peer quality reviews of complex program code
+=E2=80=A2 Solid Experience developing
+and writing code in Perl, especially Object oriented Perl. Project based,
+OO Perl development will be extremely handy.
+=E2=80=A2 A strong knowledge of
+operating platforms such as Unix, Linux, AIX.
+=E2=80=A2 Knowing your way around
+database design with an analytical, fault finding & problem-solving mindset
+is ideal as is the ability to write your own queries within a Oracle DB.
+=E2=80=A2
+Self-motivation and autonomy. We're a small and growing team, so we need
+people to jump right in and add value as early as possible.
+=E2=80=A2 Familiarity
+with software development and engineering processes and an understanding of
+custom developed solutions via Open Source Stack.
+=E2=80=A2 Experience working with
+Git, JIRA, Confluence, Docker.
+=E2=80=A2 Experience working with Docker
+=E2=80=A2
+Experience with frontend technologies (JavaScript, jQuery, modern JS
+frameworks)
+=E2=80=A2 Experience in developing web applications in general and
+understanding Web functional Terminologies
+=E2=80=A2 Proficiency with Perl objects
+and object-oriented concepts would be extremely handy and will deliver
+success for this role.
+
+Desired skills: Object Oriented PERL Developer
+
+Contact information at:
+http://jobs.perl.org/job/21801#contact
+
