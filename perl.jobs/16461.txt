@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16461
+Return-Path: <msprvs1=18773GTPHeFv9=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13236 invoked from network); 19 May 2021 16:00:48 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 19 May 2021 16:00:48 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 372FE7CF3B
+	for <perlmail-jobs@onion.perl.org>; Wed, 19 May 2021 09:00:48 -0700 (PDT)
+Received: from postfix-inbound-2.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 125287CF29
+	for <jobs@perl.org>; Wed, 19 May 2021 09:00:46 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.15.60 (trex/6.2.1);
+	Wed, 19 May 2021 16:00:45 +0000
+X-Message-ID: onc6VfFdXolLTVoStqyckReN
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18773GTPHeFv9=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-rr4tk: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18773GTPHeFv9=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: c68xDrBs161L4vt49ImkduVKcntrPMWOmf6lBq6J45I=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiNjBhNTI1MzZhNTYwMTkzMTlhOTIiLCJjdXN0b21
+	lcl9pZCI6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1621440037; i=@perl.org;
+	bh=lcAvEYaWZeDnnKiU6S3X7xsQz311Jbg5mY2ryA3PNGg=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=BXKte3wDcvHiv0McfINfp88uidhTAoMV23vik8PgfA5/WvEFWIhb6vgFYsXmHh800
+	 hWvF1N1fVBh38vkpTfDzua8PG4+TKrmOp3bWrE3IpEuI6wzMMbnx2/+u1utkDXaYTR
+	 AOG8fyMo0uw1KzYseF/Db+g9W8A4DmnEf5SzStQQ=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:2989] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17932 r(msys-ecelerity:tags/4.3.2.5)) with ESMTPSA (cipher=AES-256-GCM) 
+	id A9/29-43634-52635A06; Wed, 19 May 2021 16:00:37 +0000
+Date: Wed, 19 May 2021 16:00:37 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1ljOcf-0000KS-3c@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.5.19.154815
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Object Oriented PERL Developer, "Sydney NSW, Australia"
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21804
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 19, 2021
+
+Job title: Object Oriented PERL Developer
+
+Location: "Sydney NSW, Australia"
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Technical Skills:
+
+Following skills are required
+
+=C2=B7 Object Oriented Perl
+
+=C2=B7
+DevOps/Agile tool - Git, JIRA
+
+=C2=B7 Prototype JS
+
+=C2=B7 Template toolkit
+
+=C2=B7 HTML,
+CSS
+
+Must-Have/Mandatory:
+=C2=B7 Strong knowledge in Object Oriented Perl=20
+=C2=B7
+Experience in CI/CD environment=20
+=C2=B7 Knowledge in onshore-offshore working
+model=20
+=C2=B7 Good communication
+
+Contact information at:
+http://jobs.perl.org/job/21804#contact
+
