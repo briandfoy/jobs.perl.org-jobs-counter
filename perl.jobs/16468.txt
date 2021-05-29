@@ -1,0 +1,166 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16468
+Return-Path: <msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14028 invoked from network); 28 May 2021 08:05:33 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 28 May 2021 08:05:33 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 533BE7C1A4
+	for <perlmail-jobs@onion.perl.org>; Fri, 28 May 2021 01:05:33 -0700 (PDT)
+Received: from postfix-inbound-8.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 544027C198
+	for <jobs@perl.org>; Fri, 28 May 2021 01:05:29 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.6.97 (trex/6.2.1);
+	Fri, 28 May 2021 08:05:28 +0000
+X-Message-ID: MDvlx5BwaUC4X5udYjJPeQve
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-66c547cf55-tmzzs: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: aCBzfZnaQ/zKg5qsrEHCgPft2aRrCLv3fzie1yYN86I=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiIxNzUzMCI
+	sIm1lc3NhZ2VfaWQiOiI2MGFlNDZhNGIwNjA4M2Y2YTViZCIsInRlbmFudF9pZCI
+	6InNwYyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1622189126; i=@perl.org;
+	bh=PJaOOwtGagPcE26+FK4o+eSD776ybjUJIzgr+1whL74=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=neny1URExjSfh8hDqgrSvnhXl5SM1szXQ9YCnfk4ahpJXjVG/Au6cJw4asJy3WUFo
+	 cmzb52FfhHRq0AUikPRt1GhB1XrEbfZJ/Jz37fcyYDRFh8huoT94WzWNugZrPiM5Vw
+	 0mENtSKFaVgMia1VkflCn8kipV/krRLe+Pm5/rUk=
+Authentication-Results:  af.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:53774] helo=mail-jobs)
+	by af.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17933 r(msys-ecelerity:tags/4.3.2.6)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 5A/DB-10025-644A0B06; Fri, 28 May 2021 08:05:26 +0000
+Date: Fri, 28 May 2021 08:05:25 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lmXUj-0000Yq-Ja@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.5.28.75114
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_DENOMINATION 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_HAS_HYPHEN_USC 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer (part onsite), Dublin, CA; Austin, TX; Minneapolis,
+ MN; Bensalem, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21812
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2021
+
+Job title: Perl Developer
+
+Company name: Epicor Software Corporation
+
+Location:
+Dublin, CA; Austin, TX; Minneapolis, MN; Bensalem, PA
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Principal Perl Developer
+
+About Us:
+
+Epicor Software is a global technology
+leader dedicated to helping businesses drive growth for more than 45 years.
+Our modern, industry-specific software helps customers boost efficiency and
+productivity by simplifying and automating everyday processes. We have a
+stellar team of nearly 4,000 worldwide employees who are passionate about
+building exceptional products and solutions through teamwork, constant
+innovation, and integrity. We strive to hire and reward star players who
+inspire one another and drive results for the business and our customers.
+
+About the Role:
+
+The Product Developer, Principal provides expertise in the
+development of new and existing products, services and processes. The
+Product Developer, Principal understands customer needs and translates them
+into technical solutions. Also provides leadership to members of the
+Product Development teams.
+
+What You=E2=80=99ll Do:
+
+=E2=80=A2	Develop and maintain
+enterprise applications using Perl, Python, and SQL Server
+=E2=80=A2	Plans,
+designs, develops, and tests software systems or applications.
+=E2=80=A2=20=20=20=20=20=20
+Works closely with other teams to ensure change and release requirements
+are met.
+=E2=80=A2	Works with Product QA for review and fix of test errors.
+=E2=80=A2
+      Designs and delivers formal or informal training, mentorship, and
+supports other developers.
+=E2=80=A2	Provides leadership and coaching to the
+team.
+=E2=80=A2	Recommends and implements best practices.
+=E2=80=A2	Keeps up
+with external trends to incorporate into products and processes.
+=E2=80=A2=20=20=20=20=20=20
+Proactively optimizes processes (automation, continuous integration, etc).
+=E2=80=A2	Promotes and holds others accountable to Epicor best practices and
+interests at all times.
+=E2=80=A2	Acts an evangelist for Epicor at inside and
+outside events.
+
+What You Need to Succeed:
+
+=E2=80=A2	10+ years progressive
+experience and demonstrated success/knowledge with Perl
+=E2=80=A2	Experience
+with Python, SQL Server databases and SaaS applications
+=E2=80=A2	4+ years of
+specialized/industry experience
+=E2=80=A2	Bachelor=E2=80=99s degree
+
+Additional
+Skills That Could Set You Apart:
+
+=E2=80=A2	Experience with testing
+methodology.
+=E2=80=A2	Ability to propose and implement new ideas.
+=E2=80=A2=20=20=20=20=20=20
+Ability to lead a team to meet deadlines (technical and time management)
+=E2=80=A2=20
+     Customer service skills.
+=E2=80=A2	Excellent written oral and
+communication skills.
+=E2=80=A2	Ability to lead and mentor others.
+=E2=80=A2=20=20=20=20=20=20
+Analytical thinking and creative problem-solving skills.
+=E2=80=A2	Thought
+leader and change agent.
+
+Website for more information:
+https://jobs.epicor.com/job/dublin/principal-product-developer-perl/432/562
+3082880
+
+Contact information at:
+http://jobs.perl.org/job/21812#contact
+

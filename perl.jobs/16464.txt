@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16464
+Return-Path: <msprvs1=18779-kz_LRlp=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5660 invoked from network); 25 May 2021 15:35:42 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 25 May 2021 15:35:42 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 601CB7C1A4
+	for <perlmail-jobs@onion.perl.org>; Tue, 25 May 2021 08:35:42 -0700 (PDT)
+Received: from postfix-inbound-3.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 24C917C19E
+	for <jobs@perl.org>; Tue, 25 May 2021 08:35:40 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.26.206 (trex/6.2.1);
+	Tue, 25 May 2021 15:35:38 +0000
+X-Message-ID: PCERtGvQq0tGa8dzVHEW2c9z
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18779-kz_LRlp=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-w4vgb: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18779-kz_LRlp=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: PB++qLWAgdJKzrrlXd7g0VscQCKuKOx5a5+Si8bLgE4=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwibWVzc2FnZV9pZCI6IjYwYTY0NTE5YWQ2MDgzYjQ5Njk1IiwidGV
+	uYW50X2lkIjoic3BjIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJ
+	sLm9yZyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1621956933; i=@perl.org;
+	bh=urxHeaMlT6X0dUYID1KrBuqRJYAtgkg2f++TXR5vNks=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=KJwg03NvGNYyIfKL8xm7Po7IxjgTBG3HMKQZ6UtdG9TIjXX4nSZAPqZgGGL7mjBzR
+	 rZUfCqifHj4CffHi1CcKq3P9JMdKJpmq4Zpn4VwjcIlwqJDqBNH2nmX9hCDIyNAQu9
+	 QZZ0Jrnr4aA5bLbalMV7roTTh2cUb9btpwj9xrjo=
+Authentication-Results:  ah.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:50238] helo=mail-jobs)
+	by ah.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17932 r(msys-ecelerity:tags/4.3.2.5)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 69/59-47470-5491DA06; Tue, 25 May 2021 15:35:33 +0000
+Date: Tue, 25 May 2021 15:35:32 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1llZ5g-0000U9-Jv@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.5.25.151815
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_800_899 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer for On-Going Maintenance (telecommute), Los Angeles,
+ CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21807
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2021
+
+Job title: Perl Developer for On-Going Maintenance
+
+Company name: SendZEN LLC
+
+Location: Los Angeles, CA, United States
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Our software product, sendzen.com, is coded in Perl and REACT. We are
+seeking a Perl developer to assist with bug fixes and some functionality as
+it arises. Ideally, we are seeking a Perl developer or team that has
+flexibility to assist on various projects as they arise.
+
+Desired skills:
+Perl
+REACT
+
+Website for more information: https://sendzen.com/
+
+Contact information at:
+http://jobs.perl.org/job/21807#contact
+

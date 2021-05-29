@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16465
+Return-Path: <msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14003 invoked from network); 28 May 2021 08:05:17 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 28 May 2021 08:05:17 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 848D17C19E
+	for <perlmail-jobs@onion.perl.org>; Fri, 28 May 2021 01:05:17 -0700 (PDT)
+Received: from postfix-inbound-8.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 3EE987C1A6
+	for <jobs@perl.org>; Fri, 28 May 2021 01:05:05 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.5.152 (trex/6.2.1);
+	Fri, 28 May 2021 08:05:00 +0000
+X-Message-ID: 9IWvHhfjqbi7iWof5r5uemfV
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-lrbhb: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18782q7ouH-Kn=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: d68mXA/1PnTY/pohsARxeDPqA3EuF05jKcOtmZLfTqc=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiI2MGIwMjlhNGIwNjA5NmRjNWIwOCIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1622189097; i=@perl.org;
+	bh=xpdP9Jnz/IAAMmhFDyI4gnlvPpM+mnXT/n55Hhf2X5M=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=JMLneOyGv++sQVG3gtUXog6V96uqhPosEI1NmhIm83ouv66LNIjCkW85NEGKIqN/n
+	 QZsJ7nF/b4x8HFkTBxWikVZDZJ64X12IaOiJE1LzAxojI+ggXdTaU4Ppu5pAKW1UBy
+	 EPMykoOETGg06mZWpXTI5U0Mz49aOI6oRYd/vIs0=
+Authentication-Results:  ab.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:8056] helo=mail-jobs)
+	by ab.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17933 r(msys-ecelerity:tags/4.3.2.6)) with ESMTPSA (cipher=AES-256-GCM) 
+	id B5/80-14152-924A0B06; Fri, 28 May 2021 08:04:57 +0000
+Date: Fri, 28 May 2021 08:04:56 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lmXUG-0000Yn-NI@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.5.28.74516
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BODY_SIZE_900_999 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, NO_URI_HTTPS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0,
+ __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_NEGATE 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl Developer 100% REMOTE (telecommute), dallas,TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21811
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2021
+
+Job title: Perl Developer 100% REMOTE
+
+Company name: Kr3 Infosys
+
+Location: dallas,TX
+
+Pay rate: Open
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Perl Developer
+
+Long Term
+
+Remote Role
+
+Any Visa, GC, Citizen, H1B, OPT
+EAD, h4 EAD
+
+Client Tech M
+
+Rate- open=20
+
+Experience : 15+ (U3, U4)
+
+Mandatory Skills:
+
+Hands-on experience in Shell scripting and Perl
+scripting
+
+Extensive in HP UX, Apache Server
+
+Strong technical background
+(Windows, UNIX, databases, network, web applications).
+
+Strong
+understanding of Oracle 10G
+
+Desired skills:
+Shell scripting and Perl scripting
+Windows, UNIX, databases, network, web
+applications).
+
+Contact information at:
+http://jobs.perl.org/job/21811#contact
+
