@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16470
+Return-Path: <msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3429 invoked from network); 3 Jun 2021 08:50:40 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 3 Jun 2021 08:50:40 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8E5327CF46
+	for <perlmail-jobs@onion.perl.org>; Thu,  3 Jun 2021 01:50:40 -0700 (PDT)
+Received: from postfix-inbound-5.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id A10987CF41
+	for <jobs@perl.org>; Thu,  3 Jun 2021 01:50:39 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.26.216 (trex/6.2.1);
+	Thu, 03 Jun 2021 08:50:37 +0000
+X-Message-ID: kh1NrZqVypxPbs8M6IgjQVPT
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-lh5c2: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: DLDTfM5Kzcw0pZWeXiTqTCDxeQflaY+EWmCzqfR+K0I=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsIm1lc3NhZ2VfaWQiOiI2MGI3ZGI5N2I4NjAxZjEzZjc2MSIsImN1c3R
+	vbWVyX2lkIjoiMTc1MzAiLCJ0ZW5hbnRfaWQiOiJzcGMiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1622710235; i=@perl.org;
+	bh=8kRLBkj+/laIWFbPCh5QKxuwJgnf+TbDBDiFwWTbKeQ=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=V4v5EeVtfZL0CNRBSB42MxDlhGvSdUqilrVXMrdjrSbutBLAeeWAyEmolC2KHWB17
+	 hjkTQXEBPeXkum58YJhAm0KRp6hRVjdJIF0oJbc3w2DmbrQq/vE69AeBE8PnygmidA
+	 eapK00TsB5fyYE87Hrh25Q3uKJyH9mLOzMX11x9I=
+Authentication-Results:  ad.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:20976] helo=mail-jobs)
+	by ad.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17933 r(msys-ecelerity:tags/4.3.2.6)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 7F/16-23615-BD798B06; Thu, 03 Jun 2021 08:50:35 +0000
+Date: Thu, 3 Jun 2021 08:50:35 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1loj3j-0000iQ-3R@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.3.83916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0,
+ __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: A Gem of a Perl role. Remote within UK & EU (telecommute), Remote
+ within the UK or EU
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21814
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2021
+
+Job title: A Gem of a Perl role. Remote within UK & EU
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Remote within the UK or EU
+
+Pay rate: Depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Forget the carrot or the stick =E2=80=94 you=E2=80=99re the sort of full-st=
+ack Perl
+developer who does a spectacular job because you want to, not because
+someone offers you a treat or a correction. The opportunity to wear
+multiple hats gets your blood pumping, and if you have a passion for online
+tech publications, this is the role for you.
+
+With over 40 million readers
+around the globe, our client goes deep on cloud services, artificial
+intelligence, software, hardware, electronics, culture, and space. You=E2=
+=80=99ve
+heard that big news is coming down the pipeline about UFOs: who do you
+think will know what=E2=80=99s out there first? Sounds like a great time to=
+ join a
+team that knows the intergalactic chatter.
+
+This role is 100% remote and
+it=E2=80=99s open to residents of the United Kingdom, Switzerland, and the =
+European
+Economic Area. If your communication skills in English are out of this
+world, you=E2=80=99re in! Also, who even wants to get dressed for the office
+anymore, right?
+
+Well, there might be a few other key skills required.
+You=E2=80=99ll need experience writing great Perl, along with valid HTML,
+Javascript, and CSS. Toss in experience with SQL and ORMs like DBIx::Class
+and add your excellent Linux experience (Debian lovers come this way) and
+you=E2=80=99ve got the skill set this role requires. Your day-to-day routin=
+e will
+include managing the full life-cycle of software projects of all sizes. New
+projects, refactoring of legacy code, bug fixing =E2=80=94 like we said, yo=
+u=E2=80=99ll
+wear multiple hats, so if you thrive on change, this is the place for you.
+
+If you enjoy developing your own tools with a little ingenuity and chewing
+gum, this is your time to shine. Ready to apply? Send us your CV today and
+let us know why you=E2=80=99re right for this role!
+
+Desired skills:
+Strong Perl is a must
+    DBIx::Class experience
+    Basic front-end skills
+/ not scared of small amounts of JavaScript, HTML
+    Very comfortable on
+Linux, ideally Debian
+
+Website for more information: https://job.perl.careers/4pv
+
+Contact information at:
+http://jobs.perl.org/job/21814#contact
+

@@ -1,0 +1,156 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16473
+Return-Path: <msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3464 invoked from network); 3 Jun 2021 08:51:02 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 3 Jun 2021 08:51:02 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 8CA2B7CF6B
+	for <perlmail-jobs@onion.perl.org>; Thu,  3 Jun 2021 01:51:02 -0700 (PDT)
+Received: from postfix-inbound-5.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 951807CF41
+	for <jobs@perl.org>; Thu,  3 Jun 2021 01:51:01 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.104.167.45 (trex/6.2.1);
+	Thu, 03 Jun 2021 08:50:58 +0000
+X-Message-ID: Ga3ayPY3doC77ljIpZjzOTkm
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-864896dc4-2zqfb: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18788NNdHWXFM=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: npb7xve1utqlGE726boWIBhd8gaysAxm6GtBEoe2It0=|eyJzdWJhY2NvdW50X2l
+	kIjoiMSIsIm1lc3NhZ2VfaWQiOiI2MGFlZWU5N2I4NjA4ODgwNTEzNiIsInRlbmF
+	udF9pZCI6InNwYyIsInIiOiJqb2JzQHBlcmwub3JnIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1622710255; i=@perl.org;
+	bh=x89OacpgEYdpwaw47Lnbaqe2HoHVJ2LKZWSw83VjHp8=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=d2IT/P/gKSH/SRV/qtVADtdQ1TRnvFr2qcZfA4yLTiLTeuOzOKMYLOxO6NgMt0CkB
+	 XRjjSvzZ1xhI3nPgJNyn+U7VoUZhkdr6xs+JY6sXZlQgUez2Gz0rDqr7e0b7fnk9lm
+	 9fg/DrimHyjiIQOjXQsS5m6TK6jotybGDeCcdVyE=
+Authentication-Results:  ah.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:50984] helo=mail-jobs)
+	by ah.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17933 r(msys-ecelerity:tags/4.3.2.6)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 15/63-21310-EE798B06; Thu, 03 Jun 2021 08:50:55 +0000
+Date: Thu, 3 Jun 2021 08:50:54 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1loj42-0000iT-AL@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.3.83916
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BITCOIN_ADDRESS_OBFU 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0,
+ __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Perl/Web Developer (telecommute), Layton, UT, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21815
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2021
+
+Job title: Senior Perl/Web Developer
+
+Company name: Peak Payment Solutions
+
+Location: Layton, UT, United States
+
+Pay rate: DOE USD depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Peak Payment Solutions in Layton, UT is hiring a full-time senior level
+Perl/web developer with 3+ years professional experience. Pay is
+competitive and depends on experience and proven ability. This may be a
+work-from-home position.
+
+Work performed includes both new product
+development and existing product maintenance. Long-term employment desired.
+
+No 3rd parties or staffing agencies. No entry-level applicants. To apply,
+email your resume to job3728@peakpayment.com.
+
+Responsibilities
+
+* Perform
+maintenance on existing products
+* Add features to existing products to
+meet client needs
+* Provide innovative solutions
+* Testing
+* Product
+optimization
+
+Required Personal Attributes
+
+* Integrity & honesty are
+mandatory
+* Detail-oriented, organized
+* "Get-it-done" personality
+*
+Willing to learn new and emerging technologies
+* Work independently under a
+minimal amount of structure, in addition to collaborative work with other
+team members including product owners and other developers
+* Excellent
+written and verbal communication in English, native proficiency
+
+Desired skills:
+Required Technical Skills (3+ years professional experience and able to
+demonstrate)
+
+* Perl 5.20+ (alternatively PHP 7)
+* Highly skilled with a
+major relational database such as MySQL, Oracle, Postgres, Microsoft SQL
+Server
+* Must understand modern browser technologies including HTML, CSS,
+and JavaScript
+* Well-versed with Git
+
+Additional Nice Skills
+
+*
+Java/Spring
+* React
+* Bachelor's degree in Computer Science or related
+field
+* API creation and integration
+* Front-end UI design & development
+*
+App development for iOS & Android, including Flutter
+* Amazon AWS
+* C++
+*
+Debian Sys Admin + Puppet
+
+Website for more information: https://peakpayment.com
+
+Contact information at:
+http://jobs.perl.org/job/21815#contact
+
