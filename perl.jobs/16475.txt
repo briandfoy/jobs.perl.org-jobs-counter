@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16475
+Return-Path: <msprvs1=18795A97zy5BU=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25917 invoked from network); 10 Jun 2021 15:38:34 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 10 Jun 2021 15:38:34 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id C62007C18A
+	for <perlmail-jobs@onion.perl.org>; Thu, 10 Jun 2021 08:38:34 -0700 (PDT)
+Received: from postfix-inbound-2.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 9D0F47C1C1
+	for <jobs@perl.org>; Thu, 10 Jun 2021 08:38:33 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.22.165 (trex/6.3.1);
+	Thu, 10 Jun 2021 15:38:29 +0000
+X-Message-ID: jUdOJwkTQHBuYqtOGQjlnJJL
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18795A97zy5BU=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-84c548c5b-hncrp: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18795A97zy5BU=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: fT3ZNQUgOabQaeKuWOyo7E83KBcIjJJOJ+mbyfKYR3c=|eyJtZXNzYWdlX2lkIjo
+	iNjBiOWYzMzFjMjYwMDQ0OTBjYzEiLCJyIjoiam9ic0BwZXJsLm9yZyIsInRlbmF
+	udF9pZCI6InNwYyIsInN1YmFjY291bnRfaWQiOiIxIiwiY3VzdG9tZXJfaWQiOiI
+	xNzUzMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1623339507; i=@perl.org;
+	bh=IF21SuOvthg0L8u9b0yFJ8SyYpCOxX5tJpftvb9E9oc=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=fFXaMR1ZAQzSns+9l//oRHcvudLoJys7djPgAkxFkTAJQZuvEJ8bJhpz0p2LETozg
+	 1OEU4Y3lGXzey33gQxSE4rWmM2fTjlJyXbCUDQNiMr33ZkNkgVuIcZNqlf5Od1eU0f
+	 pnbPXikq7qMb/z2OqQ9SPbpJdqLb4FCZbDvC3SVA=
+Authentication-Results:  ag.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:44613] helo=mail-jobs)
+	by ag.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17934 r(msys-ecelerity:tags/4.3.2.7)) with ESMTPSA (cipher=AES-256-GCM) 
+	id C0/1C-19361-3F132C06; Thu, 10 Jun 2021 15:38:27 +0000
+Date: Thu, 10 Jun 2021 15:38:26 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lrMlG-0000u5-JT@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.10.153016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_MEDIA_2_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_DENOMINATION 0, __FRAUD_MONEY_VALUE 0,
+ __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __INT_PROD_QUALITY 0, __INVOICE_MULTILINGUAL 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __OEM_PRICE 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_ENDS_IN_SLASH 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Perl developer (REMOTE - U.S.) (telecommute), Portland, Oregon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21817
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  7, 2021
+
+Job title: Perl developer (REMOTE - U.S.)
+
+Company name: Tech Talent Link
+
+Location: Portland, Oregon
+
+Pay rate: $100,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Position: Perl Developer
+Location: 100% REMOTE
+Pre-employment: Drug &
+background check
+Salary: $90-$100k=20
+
+Overview:
+Our financial services
+client will be hiring a full time 100% REMOTE Perl developer.
+
+*US
+candidates only*
+
+Job Purpose:=20
+Accomplishes software requirements, by
+developing, testing, deploying and maintaining applications, processes, and
+databases. 50% new development/50% support.
+
+Job Duties:
+=E2=80=A2Design, develop,
+and maintain applications using Perl modules /code that meets requirements,
+is high quality, and performs efficiently and effectively.=20
+=E2=80=A2Develops and
+maintains applications and databases by evaluating client needs; analyzing
+requirements; developing software systems.
+=E2=80=A2Incorporate standards and best
+practices, including performance, security, scalability, and
+maintainability.
+=E2=80=A2Contributes to team effort by accomplishing projects on
+time and with minimal defects.
+=E2=80=A2Protects operations by keeping information
+confidential and adhering to all company information security policies.=20
+=E2=80=A2Ensures that task ticket system is kept up to date with current st=
+atus and
+notes are kept up to date.
+=E2=80=A2Define and propose solutions for meeting
+requirements.
+=E2=80=A2Contributing to improvements in the software development
+lifecycle (SDLC) utilizing practices such as test-driven development (TDD),
+static code analysis, code reviews, continuous integration, continuous
+delivery, and automated security scanning.
+
+Qualifications:=20
+=E2=80=A23 years of
+experience developing and maintaining Perl applications.=20
+=E2=80=A2Must have Perl,
+Restful APIs and SQL.
+
+Desired skills:
+Ideally, Loans, Leasing, Banking, Insurance, Finance or Accounting.=20=20
+Experience with loan servicing or other financial systems is preferred.
+
+Website for more information: https://www.techtalentlink.com/
+
+Contact information at:
+http://jobs.perl.org/job/21817#contact
+
