@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16478
+Return-Path: <msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11726 invoked from network); 26 Jun 2021 17:07:02 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2021 17:07:02 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id E8CD77C1BF
+	for <perlmail-jobs@onion.perl.org>; Sat, 26 Jun 2021 10:07:01 -0700 (PDT)
+Received: from postfix-inbound-0.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id 61BC17C18B
+	for <jobs@perl.org>; Sat, 26 Jun 2021 10:07:01 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.98.36.54 (trex/6.3.3);
+	Sat, 26 Jun 2021 17:06:59 +0000
+X-Message-ID: GfeYpK2lfGcqMWBqLluEzFoq
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org;
+ dkim=temperror header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-84c548c5b-lqdc4: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: JCoaaaLGpne4GkRd7SI5oOQO80lZuFtzRQXxxcy4Fno=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI6ImpvYnNAcGVybC5vcmciLCJ
+	tZXNzYWdlX2lkIjoiNjBkNGFiNWVkNzYwYmY1ZWIxNzIiLCJzdWJhY2NvdW50X2l
+	kIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1624727212; i=@perl.org;
+	bh=DfmeTrdzEzXFXfNPuYK0m+P/b2xFxUbgU14yS4sn+LU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=fv8dfB73ollFgPMPOi9VPwdSGhG9ovRsKb7XBm4Ui4cGX3W3k039B7sUbIJEZOQcE
+	 rcfnR/zSwuaDQMTHQ2VwXB2B1vSgwbApO9xAitCOaqMpGkym694pun6Wj1RlEMI78z
+	 FGIbfJXWk2HAVZfjtaunqmjze+HX7dHh4PV4yj9o=
+Authentication-Results:  ag.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:46297] helo=mail-jobs)
+	by ag.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17937 r(msys-ecelerity:tags/4.3.2.10)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 1B/27-38818-BAE57D06; Sat, 26 Jun 2021 17:06:52 +0000
+Date: Sat, 26 Jun 2021 17:06:51 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lxBlb-0001Vg-4F@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.26.170016
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_2000_2999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BITCOIN_ADDRESS_OBFU 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0,
+ __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Software Development Engineer in Test ( Perl) (part onsite),
+ Hyderabad, India, REMOTE
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21823
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 22, 2021
+
+Job title: Software Development Engineer in Test ( Perl)
+
+Company name: mroads LLC
+
+Location: Hyderabad, India, REMOTE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Software Development Engineer Test (SDET II)
+
+Proven track record writing
+complex SQL Queries, Cursors, Stored Procedures, functions, packages,
+tables, views, triggers and data connectivity and data integration of
+backend databases.Passionate about testing and especially automated testing
+and can talk about the successes they have achieved through automation.
+This individual will be a pivotal member of an Agile Scrum team working
+closely with product owners, front end developers and backend developers to
+drive a successful testing strategy. This individual should be passionate
+about testing and delivering quality via test automation.
+
+Desired skills:
+Qualification:
+
+Bachelor=E2=80=99s / Master=E2=80=99s degree in Computer Science, Computer
+Engineering, related Engineering field and minimum of 3-5 years of
+experience with test automation tools and development in a product
+engineering organization
+3+ years of technical experience with emphasis in
+PERL, mod Perl, Object oriented PERL, PERL regex UNIX shell scripting.
+3+
+years of experience in CSS and Java script scripting. 3+ years of
+experience in developing against Apache Web server, Hand-on experience in
+core Java and J2EE, XML, XSLT, XPATH
+3+ years transact SQL/stored procedure
+development experience.
+Strong in Unix/Linux, Linux/BSD command line
+skills, understanding of Unix/Linux environment/Kernel calls
+2-5 years of
+experience in Micro services, Web services experience using SOAP and REST
+based service & XML, JSON. Experience with CI/CD tools such as Jenkins and
+GIT and other relevant tools
+=C2=B7	2-3 years of experience in creating
+frameworks that utilize and interact with Devops tools such as Couchbase,
+JIRA, Stash, Bamboo, Confluence, Ready API - Soap UI Pro, Ready API =E2=80=
+=93
+ServiceV, Git, Jenkins
+
+=C2=B7	Experience working with SSH client on the
+Linux Operating System.
+
+=C2=B7	Experience in developing middleware
+components for software in C/C++ using STL, multi-threading, data
+structures, IPC (TCP/IP socket programming), SNMP and design patterns.
+
+=C2=B7=20=20
+    Experience in object oriented programming using C/C++ on various
+flavors of Linux (Ubuntu, SUSE), QNX, VxWorks and WinCE.
+
+=C2=B7=20=20=20=20=20=20
+Contribute and build tools, Ksh, Csh, Perl scripts for the application and
+writing the Make files to compile the programs as per DXC technology
+internal project standards.
+
+Website for more information: https://www.mroads.com
+
+Contact information at:
+http://jobs.perl.org/job/21823#contact
+

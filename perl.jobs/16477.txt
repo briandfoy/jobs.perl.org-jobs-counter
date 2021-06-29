@@ -1,0 +1,149 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16477
+Return-Path: <msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11615 invoked from network); 26 Jun 2021 17:06:12 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 26 Jun 2021 17:06:12 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 5E6A87C1C2
+	for <perlmail-jobs@onion.perl.org>; Sat, 26 Jun 2021 10:06:12 -0700 (PDT)
+Received: from postfix-inbound-0.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id D26D67C18B
+	for <jobs@perl.org>; Sat, 26 Jun 2021 10:06:09 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.3.65 (trex/6.3.3);
+	Sat, 26 Jun 2021 17:06:07 +0000
+X-Message-ID: tmz1Vp0Ggtvd9RpWxUDxsdlT
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-5f65b9b777-m7r28: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18811IaOtJTB5=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: xC+71/S6hUieDLtud6Y08WP3sREyDdVUmIUw0Hd6eFc=|eyJjdXN0b21lcl9pZCI
+	6IjE3NTMwIiwic3ViYWNjb3VudF9pZCI6IjEiLCJyIjoiam9ic0BwZXJsLm9yZyI
+	sInRlbmFudF9pZCI6InNwYyIsIm1lc3NhZ2VfaWQiOiI2MGQ0N2Q1ZWQ3NjA4ODE
+	3NmY2MyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1624727165; i=@perl.org;
+	bh=cHNzT+Oz9JVUTpRNuNhCgGoAqQvKwCh3pb7/QcqjmWU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=dnQebiUctWjp3pIj3ApKe4mDVuH+367xzRKphN7A5g97OytczP2RMskfrmFlV5J3+
+	 MsjIkXtkJuuRTHcXelWkB/CuINyQBhCSGjXdMSz489dWJp/dCQsckkJ8BcifzhBfSJ
+	 WGsMKSCtfu+2nFiXIxrXK3TUhiJrl+fQ3MDwR0yg=
+Authentication-Results:  aa.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:43337] helo=mail-jobs)
+	by aa.mta1vsmtp.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17937 r(msys-ecelerity:tags/4.3.2.10)) with ESMTPSA (cipher=AES-256-GCM) 
+	id F6/36-56249-D7E57D06; Sat, 26 Jun 2021 17:06:05 +0000
+Date: Sat, 26 Jun 2021 17:06:03 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lxBkp-0001Va-Qp@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.26.165416
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FROM_DOMAIN_IN_RCPT 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HIGHBITS 0, __HTTPS_URI 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0,
+ __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: What would your computer say about you? Perl, Python, NLP role in
+ Amsterdam (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21821
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 22, 2021
+
+Job title:
+What would your computer say about you? Perl, Python, NLP role in Amsterdam
+
+Company name: Perl Jobs by Perl Careers
+
+Location: Amsterdam, Netherlands
+
+Pay rate: Competitive salary based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Talk NLP to me
+
+In 1954, a computer-translated more than 60 Russian phrases
+into English. Jaws dropped, eyes popped, and Natural Language Processing
+was born.
+
+Our client is the worldwide leader in machine intelligence for
+matching people with jobs, which is to say that when it comes to hiring,
+they know what they=E2=80=99re doing. Applicants, bring your =E2=80=9CA=E2=
+=80=9D game: they=E2=80=99re
+looking for a Natural Language Processing (NLP) Engineer who is passionate
+about Machine Intelligence and can evaluate NLP systems as easy as odin,
+dva, tri (or one, two, three, for non-Russian speakers).
+
+Working with
+their crack team of data scientists and machine learning engineers, you=E2=
+=80=99ll
+drive quality improvements, measurement standards, and error analysis
+processes for their in-house NLP framework. The goal is human-level
+parsing, and you=E2=80=99ll be sure they smash that goal through quality
+improvement projects, data mining, and tinkering with heuristics to keep
+the company at the forefront of their industry.
+
+Perl pros, this role is
+for you, but only if you=E2=80=99re flexible. Don=E2=80=99t worry, no one=
+=E2=80=99s going to ask
+you to do the splits, but they do want a Perl developer with text
+processing experience who is willing to grow into Python. While 70% of the
+current stack is Perl, that will decrease as they transition to Python, and
+you=E2=80=99ll have a role that shift.
+
+So, you=E2=80=99ve got the Perl chops, you=E2=80=99re down
+with Python, and NLP is your jam. If you=E2=80=99ve got experience with (or=
+ keen
+interest in) NLP systems and a bachelor or master=E2=80=99s degree in Compu=
+ter
+Science, Artificial Intelligence, or Computational Linguistics, you=E2=80=
+=99re
+looking mighty fine and you=E2=80=99re likely wondering, what can they offe=
+r me?
+Glad you asked. How about free lunches, snacks, and bevies, Friday demos
+with a cold one, and a stellar location that is walking distance from the
+metro? Add on their annual week-long hackathon and the uber-cool team
+representing over 30 nationalities, and the question is, why don=E2=80=99t =
+you work
+here yet?
+
+To get in, send us your CV before this role says do svidaniya.
+
+Desired skills:
+Strong Modern Perl
+    Python
+    Experience with, or keen interest in,
+Natural Language Processing
+
+Website for more information: https://job.perl.careers/mn6
+
+Contact information at:
+http://jobs.perl.org/job/21821#contact
+
