@@ -1,0 +1,166 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16481
+Return-Path: <msprvs1=18815puIpJZXE=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14036 invoked from network); 30 Jun 2021 15:41:36 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 30 Jun 2021 15:41:36 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id B479F7C1BF
+	for <perlmail-jobs@onion.perl.org>; Wed, 30 Jun 2021 08:41:36 -0700 (PDT)
+Received: from postfix-inbound-9.inbound.mailchannels.net (inbound-egress-6.mailchannels.net [199.10.31.238])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id BE6F87C198
+	for <jobs@perl.org>; Wed, 30 Jun 2021 08:41:23 -0700 (PDT)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.96.15.78 (trex/6.3.3);
+	Wed, 30 Jun 2021 15:41:20 +0000
+X-Message-ID: LkzF03SczPqe1tjdYVhhJsib
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18815puIpJZXE=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-5f65b9b777-8g6vx: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18815puIpJZXE=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: 2YRjb1DdfglTWTWCw/26N1ED5yedf56fUWusKh+E7AY=|eyJtZXNzYWdlX2lkIjo
+	iNjBkYTlhOTBkYzYwNjdjZjk4ODIiLCJjdXN0b21lcl9pZCI6IjE3NTMwIiwiciI
+	6ImpvYnNAcGVybC5vcmciLCJzdWJhY2NvdW50X2lkIjoiMSIsInRlbmFudF9pZCI
+	6InNwYyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1625067675; i=@perl.org;
+	bh=tD35MhwFsJhYTGE61CAnPyDs1sUczUavw71d/yGSBfw=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=QgBECfHpPjvPU0hlTfU49qGTTCVBAO4ypbQLj9jvvdvH6YD42QyiCrU3F1LryHqo8
+	 YUxnWH4EF39QYFZs/TLXiBaBhtcjq0T/m8s0kPl+uhoaGitQnF7tQK2sLONxSz6I0R
+	 ZNU8y1VAkJcyTZi4SvMuesrKVl93VODTgZ6KDkE8=
+Authentication-Results:  af.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:47008] helo=mail-jobs)
+	by af.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17937 r(msys-ecelerity:tags/4.3.2.10)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 89/28-00890-A909CD06; Wed, 30 Jun 2021 15:41:14 +0000
+Date: Wed, 30 Jun 2021 15:41:13 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1lycKw-0001bq-0e@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.6.30.152716
+X-PMX-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ CO_TLD 0.1, REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODY_SIZE_3000_3999 0, BODY_SIZE_5000_LESS 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_MONEY 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FRAUD_MONEY_CURRENCY 0, __FRAUD_MONEY_CURRENCY_DOLLAR 0, __FRAUD_MONEY_VALUE 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0,
+ __HAS_REPLYTO 0, __HTTPS_URI 0, __LINES_OF_YELLING 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __STOCK_PHRASE_7 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NS , __URI_WITHOUT_PATH 0, __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Software Engineer - Remote Opportunity (US-many
+ states/Canada) (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21825
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2021
+
+Job title:
+Senior Software Engineer - Remote Opportunity (US-many states/Canada)
+
+Company name: MaxMind, Inc.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a talented, experienced, and
+highly motivated Senior Software Engineer to help us develop and improve
+our products. We help protect thousands of companies worldwide from fraud,
+screening over a billion online transactions each year, and we provide IP
+intelligence data to thousands more. This work requires us to take on
+exciting challenges and we want you to help!
+
+Note: We welcome candidates
+to apply from the following states CA, CO, FL, LA, MN, NV, NY (excluding
+New York City and Yonkers), NC, OR, PA, TX, WA, and anywhere in Canada.
+
+MaxMind does not currently sponsor US employment visas. For Canadian
+candidates, you must be eligible/authorized to work in Canada.
+=20
+
+THE
+POSITION
+
+As a Senior Software Engineer, your job will be to carry out
+development projects both big and small. You may work on adding features to
+existing products, refactoring legacy code, fixing bugs in our open source
+APIs, or developing entirely new services. We're looking for an experienced
+software developer who can make good technical design decisions, write
+tests and documentation, and communicate well with non-developers.
+
+Our
+salary range for our Senior Engineering roles begins at $135k USD or $165k
+CAD (in Canada), with the specific offer depending upon skills and
+experience. See more about benefits and compensation below.
+
+
+OUR
+DEVELOPMENT PRACTICES=20
+
+Our backend code is largely written in Perl and Go
+using PostgreSQL and Linux. We maintain high standards for our development
+practices. New backend code is expected to be written in Go, include
+automated tests run by TeamCity, and go through internal code review on
+GitHub Enterprise. The existing Perl code is being slowly rewritten in Go.
+
+We use free software as much as possible, and we release code back to the
+community when we can do so. We're always improving the way we do
+development, and we expect you to participate in that process.
+
+Desired skills:
+About You
+
+Minimum Qualifications:
+- Experience with static and dynamic
+programming languages. The position will primarily involve programming in
+Go and Perl, but we are happy to hear from people with experience in other
+languages. A programming exercise will be given to all applicants.
+-
+Familiarity with web service development.
+- Experience developing for
+deployment on a Linux or similar platform.
+- Experience writing tests and
+documentation.
+- Experience doing code reviews.
+- Excellent written and
+spoken communication skills.
+- The ability to work with a geographically
+dispersed team.
+
+Highly desired:
+- Polyglots or an interest in picking up
+new languages. Though most of our code is Perl and Go, we maintain open
+source libraries in several different languages.
+- Open source
+contributions. Tell us about them!
+- An interest in performance and
+security.
+- Experience working with Google Cloud Platform (or another cloud
+provider). Our systems run on GCP.
+
+Website for more information:
+https://jobs.lever.co/maxmind/0e8b71be-53cf-4372-976f-ce508025724b
+
+Contact information at:
+http://jobs.perl.org/job/21825#contact
+
