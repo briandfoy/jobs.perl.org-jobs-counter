@@ -1,0 +1,200 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:16494
+Return-Path: <msprvs1=18858DGSZtd3P=bounces-17530-1@sp-bounce.perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15229 invoked from network); 12 Aug 2021 08:03:13 -0000
+Received: from xx1.develooper.com (147.75.38.233)
+  by x6.develooper.com with SMTP; 12 Aug 2021 08:03:13 -0000
+Received: from xx1.develooper.com (xx1.develooper.com [127.0.0.1])
+	by localhost (Postfix) with SMTP id 30ABD7C19F
+	for <perlmail-jobs@onion.perl.org>; Thu, 12 Aug 2021 01:03:13 -0700 (PDT)
+Received: from postfix-inbound-2.inbound.mailchannels.net (inbound-egress-5.mailchannels.net [199.10.31.237])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by xx1.develooper.com (Postfix) with ESMTPS id D37527CF3B
+	for <jobs@perl.org>; Thu, 12 Aug 2021 01:03:05 -0700 (PDT)
+Received: from inbound-trex-5 (unknown [127.0.0.6])
+	by postfix-inbound-2.inbound.mailchannels.net (Postfix) with ESMTP id 475D28023A
+	for <jobs@perl.org>; Thu, 12 Aug 2021 08:03:04 +0000 (UTC)
+Received: from mta-218-84.sparkpostmail.com (mta-218-84.sparkpostmail.com
+ [147.253.218.84])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256)
+	by 100.116.78.235 (trex/6.3.3);
+	Thu, 12 Aug 2021 08:03:04 +0000
+X-Message-ID: ioFadBfsyDyyT6w6zDAzkTrc
+Authentication-Results: inbound.mailchannels.net;
+ spf=pass
+ smtp.mailfrom=msprvs1=18858DGSZtd3P=bounces-17530-1@sp-bounce.perl.org;
+ dkim=pass header.d=perl.org;
+ dmarc=pass (policy=none; pct=100; status=pass)
+Received-SPF: pass (inbound-dmarc-75b69b7d7b-kfnmq: domain of
+ sp-bounce.perl.org designates 147.253.218.84 as permitted sender)
+ client-ip=147.253.218.84;
+ envelope-from=msprvs1=18858DGSZtd3P=bounces-17530-1@sp-bounce.perl.org;
+ helo=mta-218-84.sparkpostmail.com;
+X-MSFBL: PL4Yln1LCtTj1yKdOO4CY5KOH1yYzpUNjTpFNN8btPA=|eyJyIjoiam9ic0BwZXJ
+	sLm9yZyIsImN1c3RvbWVyX2lkIjoiMTc1MzAiLCJzdWJhY2NvdW50X2lkIjoiMSI
+	sIm1lc3NhZ2VfaWQiOiI2MTExYjNkNTE0NjE2OTRlODRkMyIsInRlbmFudF9pZCI
+	6InNwYyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=perl.org;
+	s=scph0517; t=1628755380; i=@perl.org;
+	bh=tmI/DUA+/DKQIbjbmPfevwAkiZE4bXa76zRBKha70qU=;
+	h=Date:Content-Type:To:From:Subject:Message-Id;
+	b=EJn/uwFIfFVTlZ3y9xqzWUvWqvPpJczqTSdl8qrtgnYQBQo9I9uK0tXuoxUyhgTCy
+	 PffHPc8mIxAaHKrdSj4VsUiLnSE9NQ10irdrGcrWC3KTj+3AZdFJSlvUlFegq2O/KD
+	 QbFtDsqXr1PBixleg16QVziT73sOqGd/7aa1KBCk=
+Authentication-Results:  ai.mta1vlct.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+Received: from [147.75.38.195] ([147.75.38.195:40545] helo=mail-jobs)
+	by ai.mta1vlct.cc.prd.sparkpost (envelope-from <bounce@sp-bounce.perl.org>)
+	(ecelerity 4.3.2.17946 r(msys-ecelerity:tags/4.3.2.19)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 48/3D-47792-3B5D4116; Thu, 12 Aug 2021 08:02:59 +0000
+Date: Thu, 12 Aug 2021 08:02:58 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Message-ID: <E1mE5g2-0000E3-Ow@mail-jobs>
+X-PMX-Version: 5.6.1.2065439, Antispam-Engine: 2.7.2.376379, Antispam-Data: 2021.8.12.75415
+X-PMX-Spam: Gauge=IIIIIIII, Probability=8%, Report='
+ REPLYTO_FROM_DIFF_ADDY 0.1, HTML_00_01 0.05, HTML_00_10 0.05, AUTH_RES_PASS 0, BODY_SIZE_5000_5999 0, BODY_SIZE_7000_LESS 0, BULK_EMAIL_SENDER 0, DKIM_ALIGNS 0, DKIM_SIGNATURE 0, FROM_RCPT_DOMAIN_NOT_IN_RCVD 0, FROM_SAME_AS_TO_DOMAIN 0, INVALID_MSGID_NO_FQDN 0, LEGITIMATE_SIGNS 0, RDNS_BULK_EMAIL 0, SPF_PASS 0, URI_WITH_PATH_ONLY 0, __ANY_URI 0, __AUTH_RES_DKIM_PASS 0, __AUTH_RES_DMARC_PASS 0, __AUTH_RES_PASS 0, __BODY_NO_MAILTO 0, __CANPHARM_UNSUB_LINK 0, __COURIER_PHRASE 0, __CP_URI_IN_BODY 0, __CT 0, __CTE 0, __CT_TEXT_PLAIN 0, __DC_PHRASE 0, __DKIM_ALIGNS_1 0, __DKIM_ALIGNS_2 0, __DQ_NEG_HEUR 0, __DQ_NEG_IP 0, __FRAUD_CONTACT_NAME 0, __FRAUD_HIREME 0, __FRAUD_MONEY_BIG_COIN 0, __FRAUD_MONEY_BIG_COIN_DIG 0, __FROM_DOMAIN_IN_RCPT 0, __FROM_NAME_NOT_IN_BODY 0, __FUR_RDNS_SPARKPOST 0, __HAS_FROM 0, __HAS_MSGID 0, __HAS_REPLYTO 0, __HEADER_ORDER_FROM 0, __HTTPS_URI 0,
+ __INT_PROD_ONLINE 0, __MIME_TEXT_ONLY 0, __MIME_TEXT_P 0, __MIME_TEXT_P1 0, __MIME_VERSION 0, __MSGID_DOMAIN_NOT_IN_HDRS 0, __MULTIPLE_URI_TEXT 0, __NO_HTML_TAG_RAW 0, __RCPT_DOMAIN_IN_FROM 0, __RCPT_HOST_IN_FROM 0, __RCPT_HOST_IN_FROM_NAME 0, __RCVD_PASS 0, __SANE_MSGID 0, __STOCK_PHRASE_24 0, __SUBJ_ALPHA_END 0, __TO_DOMAIN_IN_FROM 0, __TO_HOST_IN_FROM 0, __TO_HOST_IN_FROM_NAME 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_HAS_HYPHEN_USC 0, __URI_IN_BODY 0, __URI_MAILTO 0, __URI_NOT_IMG 0, __URI_NO_WWW 0, __URI_NS , __URI_WITH_PATH 0, __blackholes.mail-abuse.org_ERROR , __zen.spamhaus.org_ERROR '
+Subject: Senior Platform Developer, Internet, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org ("Perl Jobs")
+
+Online URL for this job: http://jobs.perl.org/job/21847
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  9, 2021
+
+Job title: Senior Platform Developer
+
+Company name: ReCollect
+
+Location: Internet, Canada
+
+Pay rate: 90-130k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We'd like you to join our development team and help us build delightful
+civic technologies for hundreds of cities across North America.  Our
+products have huge impact on the communities we all live in, to help them
+achieve their goals around waste and recycling.
+
+As a senior developer on
+our team, you'll help our production team build and maintain our web
+products, RESTful APIs, and backend systems. You'll use some of the latest
+technologies, you'll work in a thoughtful agile software development
+process, and you'll see your work directly impact (and delight!) millions
+of people around the world.
+
+You'll have great peers to work with - folks
+who will understand the challenges we face and will help you grow and get
+where we need to be. Our development team is diverse, geographically
+distributed, and has many, many years of telecommuting experience working
+on highly productive global teams. While our current global situation has
+forced most companies into remote work, ReCollect has been remote-first
+from our start in 2012 and deeply understands the challenges for
+distributed teams.
+
+You will work on our Perl codebase which powers our
+API.  We have 25k+ automated tests, 30 minute CI cycle and a supportive
+team.
+
+Desired skills:
+You understand how web applications work, how web APIs work, and how to
+build software with a team. You're not shy to dive into code and learn how
+it works.
+
+You'll be a polyglot - someone comfortable in several languages
+- who is comfortable building browser code or updating our asset build
+systems. You won't be scared off by the need to explore a large codebase to
+fix bugs and learn how things work.  Our systems are implemented primarily
+in Javascript, Perl and C#.
+
+Ideally, you'll have experience working on an
+entirely distributed team. You'll understand how to keep yourself
+productive, happy, and healthy while working from your home office or
+co-working space. When we get together a couple of times a year for
+all-hands face-to-face, you'll value the time with your awesome peers!
+
+You'll have a lot to share and teach, and also a desire to learn and grow.
+We are all about learning and getting smarter as we build ReCollect! By the
+end of your (hopefully long) career at ReCollect, you will be happy,
+healthy, and have lots of new lessons and learnings to share.
+
+You must be
+prepared for hard work with our team, as we continue to explore new markets
+and customer segments. You will need to be comfortable with ambiguity and
+making decisions to keep our future options as open as possible. You should
+also be prepared to occasionally carry the weight for others and take on
+tasks outside of your typical responsibilities when needed.
+
+We will
+support you with:
+
+A stable and friendly development process and team.
+(blame-free retrospectives, little-a agile, kanban, shape-up)
+A clear
+vision of where we want and need to get to.
+(Stable strategic priorities,
+no giant swings in priorities)
+A delightful coding environment and set of
+tools, supported by helpful teammates.
+Documentation and pairing on how
+existing systems work.
+(Confluence, Google Docs, code comments. Not perfect
+but always improving)
+A growing test automation system.
+(Unit & integration
+testing, Cypress.io, healthy CI system)
+Excellent communication & dev
+tools.
+(Slack, Github, Pivotal Tracker, Join.me, Hangouts, Jenkins, tmux,
+Cypress, ...)
+Peers with many years of development experience.
+You will
+have experience with these technologies:
+
+Several programming languages
+(Some of Javascript, Perl, Python, Ruby)
+Experience with SPA + Rest API
+architectures
+Experience with AWS - traditional and serverless
+Linux
+commands (CLI)
+Automated Testing & CI
+And will have:
+
+Strong written
+communication skills
+Competent command-line skills
+Interest in civic
+technology and making delightful software for real humans
+Our customers are
+mostly local government organizations, and you'll get to interact with them
+and help provide the legendary customer service that we have become known
+for. We're super proud to be supporting these organizations by creating
+software solutions in line with our values, as we all build a better world
+for the future.
+
+Most importantly, we want you to be engaged and pushing to
+do some of the best work of your life with us. We also want you to care
+about a greener planet, happy citizens, and more efficient governments.
+
+Website for more information:
+https://routeware-inc.breezy.hr/p/a26480024e7e-senior-platform-developer
+
+Contact information at:
+http://jobs.perl.org/job/21847#contact
+
